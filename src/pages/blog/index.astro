@@ -1,12 +1,8 @@
 ---
-import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
-import BaseHead from '../../components/BaseHead.astro';
-import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
-import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import Layout from '../../layouts/Layout.astro';
+import BlogCard from '../../components/BlogCard.astro';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -14,5 +10,29 @@ const posts = (await getCollection('blog')).sort(
 ---
 
 <Layout title={`${SITE_TITLE} | Blog`} description={SITE_DESCRIPTION}>
-  <h1>Blog</h1>
+	<div class="py-12 px-4">
+		<div class="max-w-6xl mx-auto">
+			<h1 class="text-4xl font-bold mb-2 bg-linear-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+				Stories
+			</h1>
+			<p class="text-gray-600 mb-12">
+				Explore fan fiction from across the multiverse
+			</p>
+
+			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+				{posts.map((post) => (
+					<BlogCard 
+						blog={post.data}
+						slug={post.id}
+					/>
+				))}
+			</div>
+
+			{posts.length === 0 && (
+				<div class="text-center py-12">
+					<p class="text-gray-500 text-lg">No stories yet. Check back soon!</p>
+				</div>
+			)}
+		</div>
+	</div>
 </Layout>
