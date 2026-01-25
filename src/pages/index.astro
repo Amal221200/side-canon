@@ -1,12 +1,80 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import Layout from '../layouts/Layout.astro';
-import "../styles/global.css";
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <h1>Home</h1>
+  <div class="py-12 px-4">
+    <div class="text-center mb-16">
+      <h1 class="text-5xl font-bold mb-6 bg-linear-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+        Welcome to Side Canon
+      </h1>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+        Where beloved stories take unexpected turns and familiar characters embark on new adventures
+      </p>
+    </div>
+
+    <div class="max-w-4xl mx-auto space-y-12">
+      <section class="bg-white rounded-lg shadow-md p-8">
+        <h2 class="text-3xl font-semibold mb-4 text-gray-800">What is Side Canon?</h2>
+        <p class="text-lg text-gray-700 leading-relaxed mb-4">
+          Side Canon is a creative space where imagination meets fandom. Here, you'll discover 
+          carefully crafted fan fiction stories that explore alternative narratives, character 
+          developments, and "what if" scenarios from your favorite franchises.
+        </p>
+        <p class="text-lg text-gray-700 leading-relaxed">
+          Written by <span class="font-semibold text-purple-600">SideCannon</span>, each story 
+          is a labor of love that respects the source material while daring to venture into 
+          uncharted territory.
+        </p>
+      </section>
+
+      <section class="bg-gradient-to-br from-purple-50 to-blue-50 rounded-lg p-8">
+        <h2 class="text-3xl font-semibold mb-6 text-gray-800">Explore Different Worlds</h2>
+        <div class="grid md:grid-cols-2 gap-6">
+          <div class="bg-white rounded-lg p-6 shadow-sm">
+            <h3 class="text-xl font-semibold mb-3 text-purple-600">📚 Diverse Franchises</h3>
+            <p class="text-gray-700">
+              From sci-fi epics to fantasy realms, discover stories spanning multiple universes 
+              and genres.
+            </p>
+          </div>
+          <div class="bg-white rounded-lg p-6 shadow-sm">
+            <h3 class="text-xl font-semibold mb-3 text-blue-600">✨ Original Takes</h3>
+            <p class="text-gray-700">
+              Experience fresh perspectives on familiar characters and explore storylines that 
+              could have been.
+            </p>
+          </div>
+          <div class="bg-white rounded-lg p-6 shadow-sm">
+            <h3 class="text-xl font-semibold mb-3 text-indigo-600">🎭 Character-Driven</h3>
+            <p class="text-gray-700">
+              Deep dives into character motivations, relationships, and growth that honor the 
+              originals.
+            </p>
+          </div>
+          <div class="bg-white rounded-lg p-6 shadow-sm">
+            <h3 class="text-xl font-semibold mb-3 text-violet-600">🌟 Quality Stories</h3>
+            <p class="text-gray-700">
+              Each piece is thoughtfully written with attention to plot, pacing, and the heart 
+              of what makes these worlds special.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="text-center">
+        <h2 class="text-3xl font-semibold mb-4 text-gray-800">Ready to Explore?</h2>
+        <p class="text-lg text-gray-700 mb-6">
+          Browse the collection and find your next favorite story
+        </p>
+        <a 
+          href="/blog" 
+          class="inline-block bg-gradient-to-r from-purple-600 to-blue-600 text-white font-semibold px-8 py-3 rounded-lg hover:from-purple-700 hover:to-blue-700 transition-all shadow-md hover:shadow-lg"
+        >
+          View All Stories
+        </a>
+      </section>
+    </div>
+  </div>
 </Layout>
