@@ -33,11 +33,11 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<article class="py-8 px-4">
 		<div class="max-w-4xl mx-auto">
 			<!-- Hero Image -->
-			<div class="mb-8 rounded-xl w-max max-w-sm overflow-hidden mx-auto shadow-lg">
+			<div class="mb-8 rounded-xl max-w-sm overflow-hidden mx-auto shadow-lg">
 				<Image 
 					width={1200} 
 					height={600} 
-					src={heroImage} 
+					src={heroImage}
 					alt={title}
 					class="w-full"
 				/>
