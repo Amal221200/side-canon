@@ -5,10 +5,6 @@ pubDate: 'Jan 25 2026'
 heroImage: '../../assets/justice-league-legacy-of-hope.png'
 ---
 
-# Justice League: Legacy of Hope
-
----
-
 ## CHAPTER 1: PRESENT
 
 **October 25, 2026**

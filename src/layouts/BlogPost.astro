@@ -1,86 +1,80 @@
 ---
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
+import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
-import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<html lang="en">
-	<head>
-		<BaseHead title={title} description={description} />
-		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
-			.hero-image {
-				width: 100%;
-			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
-			}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
-			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
-			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
-			}
-			.last-updated-on {
-				font-style: italic;
-			}
-		</style>
-	</head>
+<Layout title={title} description={description}>
+	<article class="py-8 px-4">
+		<div class="max-w-4xl mx-auto">
+			<!-- Hero Image -->
+			<div class="mb-8 rounded-xl w-max max-w-sm overflow-hidden mx-auto shadow-lg">
+				<Image 
+					width={1200} 
+					height={600} 
+					src={heroImage} 
+					alt={title}
+					class="w-full"
+				/>
+			</div>
 
-	<body>
-		<Header />
-		<main>
-			<article>
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+			<!-- Article Header -->
+			<header class="mb-12 text-center">
+				<h1 class="text-4xl md:text-5xl font-bold mb-4 bg-linear-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+					{title}
+				</h1>
+				
+				<div class="flex items-center justify-center gap-4 text-gray-600">
+					<time class="text-sm">
+						<FormattedDate date={pubDate} />
+					</time>
+					{updatedDate && (
+						<>
+							<span class="text-gray-400">•</span>
+							<time class="text-sm italic">
+								Updated <FormattedDate date={updatedDate} />
+							</time>
+						</>
+					)}
 				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-						<h1>{title}</h1>
-						<hr />
-					</div>
-					<slot />
-				</div>
-			</article>
-		</main>
-		<Footer />
-	</body>
-</html>
+
+				<div class="mt-6 w-24 h-1 bg-linear-to-r from-purple-600 to-blue-600 mx-auto rounded-full"></div>
+			</header>
+
+			<!-- Article Content -->
+			<div class="
+				prose prose-lg max-w-none
+				text-gray-800 leading-relaxed
+				prose-headings:text-gray-900 prose-headings:font-semibold
+				prose-h1:text-4xl prose-h1:font-bold prose-h1:mt-12 prose-h1:mb-6
+				prose-h2:text-3xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:border-b-2 prose-h2:border-purple-100 prose-h2:pb-2
+				prose-h3:text-2xl prose-h3:mt-8 prose-h3:mb-3
+				prose-h4:text-xl prose-h4:mt-6 prose-h4:mb-2
+				prose-h5:text-lg prose-h5:mt-4 prose-h5:mb-2
+				prose-p:mb-6 prose-p:text-lg prose-p:leading-relaxed
+				prose-a:text-purple-600 prose-a:underline prose-a:decoration-purple-300 hover:prose-a:text-purple-700 hover:prose-a:decoration-purple-500 prose-a:transition-colors
+				prose-strong:font-semibold prose-strong:text-gray-900
+				prose-em:italic
+				prose-ul:mb-6 prose-ul:ml-6 prose-ul:space-y-2 prose-ul:list-disc
+				prose-ol:mb-6 prose-ol:ml-6 prose-ol:space-y-2 prose-ol:list-decimal
+				prose-li:text-lg prose-li:leading-relaxed
+				prose-blockquote:border-l-4 prose-blockquote:border-purple-500 prose-blockquote:pl-6 prose-blockquote:py-2 prose-blockquote:my-6 prose-blockquote:italic prose-blockquote:text-gray-700 prose-blockquote:bg-purple-50 prose-blockquote:rounded-r-lg
+				prose-code:bg-gray-100 prose-code:text-purple-600 prose-code:px-2 prose-code:py-1 prose-code:rounded prose-code:text-sm prose-code:font-mono
+				prose-pre:bg-gray-900 prose-pre:text-gray-100 prose-pre:p-6 prose-pre:rounded-lg prose-pre:overflow-x-auto prose-pre:my-6
+				prose-pre:prose-code:bg-transparent prose-pre:prose-code:text-gray-100 prose-pre:prose-code:p-0
+				prose-hr:my-12 prose-hr:border-t-2 prose-hr:border-gray-200
+				prose-img:rounded-lg prose-img:shadow-md prose-img:my-8
+				prose-table:w-full prose-table:my-6 prose-table:border-collapse
+				prose-th:bg-purple-50 prose-th:text-left prose-th:p-3 prose-th:font-semibold prose-th:text-gray-900 prose-th:border prose-th:border-gray-200
+				prose-td:p-3 prose-td:border prose-td:border-gray-200
+			">
+				<slot />
+			</div>
+		</div>
+	</article>
+</Layout>
