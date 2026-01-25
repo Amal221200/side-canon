@@ -1,11 +1,21 @@
 ---
+import { Image } from 'astro:assets';
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2>
+			<a href="/">
+				<Image
+					src="/side-canon-logo-themed-transparent.png"
+					alt="Side Canon Logo"
+					width={150}
+					height={75}
+				/>
+			</a>
+		</h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/stories">Stories</HeaderLink>
