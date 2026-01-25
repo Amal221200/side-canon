@@ -10,6 +10,26 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 <Layout title={title} description={description}>
+	<!-- Sticky Back Button -->
+	<div class="sticky top-0 z-50 bg-white/80 backdrop-blur-sm border-b border-gray-100 py-4 px-4">
+		<div class="max-w-4xl mx-auto">
+			<a 
+				href="/blog"
+				class="inline-flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors group"
+			>
+				<svg 
+					class="w-5 h-5 group-hover:-translate-x-1 transition-transform" 
+					fill="none" 
+					stroke="currentColor" 
+					viewBox="0 0 24 24"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+				</svg>
+				<span class="font-medium">Back to Stories</span>
+			</a>
+		</div>
+	</div>
+
 	<article class="py-8 px-4">
 		<div class="max-w-4xl mx-auto">
 			<!-- Hero Image -->
