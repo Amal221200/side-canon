@@ -67,6 +67,8 @@ Later, when Miles finally lay in bed, the city hummed outside his window - cars,
 
 Somewhere in that space between dreams and silence, the world seemed to wait for him.
 
+---
+
 ## CHAPTER 2: THE BREAKING POINT
 
 Two days later, the outreach center hummed with its usual rhythm. Doctors shuffled between patients, nurses whispered encouragement, and the low thrum of medical machines blended into a strangely comforting background. Miles was at his station, restocking supplies, when Flint Marko sat down nearby, turning a small silver locket over in his massive hands.
@@ -188,6 +190,8 @@ And Peter had carried it alone.
 The glass reflected Miles' stunned face as the world around him shifted forever.
 
 (Camera lingers on the suit.)
+
+---
 
 ## CHAPTER 3: SHADOWS OF THE PAST
 
@@ -341,6 +345,8 @@ He looked at Miles - the boy still processing the weight of it all.
 
 "Together."
 
+---
+
 ## CHAPTER 4
 
 The night sky above Manhattan was restless. Storm clouds swirled in silence, reflecting the pulse of Oscorp Tower's cold steel frame. At its base, the Rhino prowled like a titan on guard, his heavy footsteps shaking the pavement as if daring anyone to approach.
@@ -439,7 +445,7 @@ Spider-Man stood before him, baton steady, mask unreadable.
 
 Two warriors. One storm.
 
-THE END
+---
 
 ## CHAPTER 5
 
@@ -590,3 +596,5 @@ He puts on the mask, then he leapt, soaring into the skyline, the city lights bl
 A new Spider-Man was in action.
 
 THE END.
+
+---

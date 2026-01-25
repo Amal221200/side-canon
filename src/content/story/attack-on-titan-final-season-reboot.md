@@ -35,6 +35,8 @@ Until it reached one final inheritor.
 
 Eren Yeager.
 
+---
+
 ## CHAPTER 1: MARLEY
 
 ### Four years after the Battle of Shiganshina
@@ -343,7 +345,7 @@ A faint smile.
 
 The plan unfolds-not as a military strategy, but as a **carefully crafted narrative**.
 
-Paradis will be attacked-but not hastily. Not blindly. Marley has waited because it had to. It needed time to adapt, to rearm, to ensure that when the Founding Titan finally revealed itself… Marley would not be helpless.
+Paradis will be attacked-but not hastily. Not blindly. Marley has waited because it had to. It needed time to adapt, to re-arm, to ensure that when the Founding Titan finally revealed itself… Marley would not be helpless.
 
 The world must see Marley bleed.
 
@@ -381,11 +383,11 @@ No one asks if he is ready.
 
 No one ever does.
 
-### **Paradis Island (after 6 months)**
+### **Paradis Island (after 8 months)**
 
 The airships cross the ocean under cover of thick clouds, engines humming low and steady; a constant vibration felt through metal floors and tightened harnesses. The ships are also coming filled with tanks and soldiers, led by Zeke.
 
-Inside the airship, warriors stand ready, secured in their gear, hands resting near triggers and blades out of habit rather than need. Below them, the sea stretches endlessly dark, indifferent, swallowing the distance between continents as if it had never existed at all.
+Inside the airship, warriors stand ready, secured in their gear, hands resting near triggers and swords out of habit rather than need. Below them, the sea stretches endlessly dark, indifferent, swallowing the distance between continents as if it had never existed at all.
 
 Reiner stares through the open hatch, watching the clouds thin.
 
@@ -470,6 +472,8 @@ For the first time since the meeting in Marley's war room, Reiner understands so
 They aren't attacking an unprepared enemy.
 
 They are walking into a trap.
+
+---
 
 ## CHAPTER 2: EVOLUTION OF PARADISE PART 1
 
@@ -638,6 +642,8 @@ Historia meets his gaze without hesitation.
 For the first time in a long while-
 
 Eren doesn't feel scared.
+
+---
 
 ## CHAPTER 3: EVOLUTION OF PARADISE PART 2
 
@@ -927,6 +933,8 @@ The air grows heavy.
 Reiner's thoughts shake.
 
 _"Eren… what have you done?"_
+
+---
 
 ## CHAPTER 4: EVOLUTION OF PARADISE PART 3
 
@@ -1515,6 +1523,8 @@ There is peace.
 ### Transitions to present
 
 Eren and his team are looking towards the Marleyan Airships, and it is followed by a Tybur Family's airship. Eren is waiting for Reiner to show up, as he is waiting for his final dual.
+
+---
 
 ## CHAPTER 5: WAR
 
@@ -2520,6 +2530,8 @@ _I was wrong,_ he realizes.
 
 _About everything._
 
+---
+
 ## CHAPTER 6: END OF THE GENERATIONAL SORROW
 
 Eren takes one step toward Armin-and collapses.
@@ -3188,7 +3200,7 @@ The world does not become perfect.
 
 But it becomes **possible**.
 
-### **Four Years Later**
+### **Three Years and Two Months Later**
 
 The world grows quieter.
 
@@ -3893,3 +3905,5 @@ Only emptiness, like everything ceased from existence.
 
 - Levi watches the island from a distance. Not as its strongest soldier-but as someone no longer needed to be, also imagining if Erwin could see the result of his gambling.
 - They did not build paradise. They built a place where no one was abandoned again.
+
+---

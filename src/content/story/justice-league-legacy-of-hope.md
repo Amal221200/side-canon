@@ -63,6 +63,8 @@ Superman did not reply.
 
 And in the quiet that followed, Bruce felt the faintest shadow pass over the peace they had all fought so hard to protect.
 
+---
+
 ## CHAPTER 2: THE EVENT
 
 The evening air in Gotham carried a crisp bite, autumn leaves tumbling down the old city streets as if even the season wished to pay tribute. Floodlights washed the grand façade of City Hall in gold and white; the building draped in banners stitched with the symbol of Metropolis-a reminder of a city that no longer stood.
@@ -383,6 +385,8 @@ Fair justice. A safer tomorrow. A world worthy of those who did not live long en
 
 The hall falls into hushed silence. The camera slowly pans across the League-older, quieter, no longer gods among men but human beings carrying scars. For a moment, all of them steal a glance at Bruce. He does not return it. His eyes remain forward, fixed on something only he can see.
 
+---
+
 ## CHAPTER 3: REGRET
 
 The night was quiet on the edge of Metropolis, where the city's ruins met the Gotham highway. Rising above the silence stood the memorial grounds. At its center, a towering statue of Superman reached toward the stars, his cape cast in bronze and caught in a sculpted wind, as though he were still guarding the world from above. Spotlights from below lit the figure, his shadow stretching across rows of stone markers engraved with the names of thousands who had perished that day.
@@ -510,6 +514,8 @@ He raises a gauntleted hand. The chamber falls silent.
 Darkseid: "Now… they will learn despair."
 
 The camera pulls back, revealing the endless fleet moving relentlessly toward Earth, blotting out the stars as the drums of war begin to beat.
+
+---
 
 ## CHAPTER 4: EPIC BATTLE
 
@@ -883,6 +889,8 @@ The mothership erupts, consumed in a fireball of golden light. Every parademon w
 
 When the flames fade, Superman hovers alone in the smoke, Darkseid's body lifeless but breathing, broken beyond repair. Behind him, the League and Titans stare in awe-not at a god, but at the man they thought they had lost forever.
 
+---
+
 ## CHAPTER 5: EPILOGUE
 
 The sky burned with the remnants of war. Fragments of Apokoliptian ships rained like dying embers, dissolving into ash before they touched the ground. Superman descended through the haze, Darkseid's broken body trailing in his grasp, before dropping it lifeless at the battlefield's edge.
@@ -1130,3 +1138,5 @@ Martha: "Carry it well."
 CAMERA CLOSES on the suit, gleaming in morning light-the legacy now passed on.
 
 **THE END**
+
+---
