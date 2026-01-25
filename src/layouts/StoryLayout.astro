@@ -9,7 +9,7 @@ type Props = CollectionEntry<'story'>['data'];
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} image={heroImage}>
 	<!-- Sticky Back Button -->
 	<div class="sticky top-0 z-50 bg-white/80 backdrop-blur-sm border-b border-gray-100 py-4 px-4">
 		<div class="max-w-4xl mx-auto">
