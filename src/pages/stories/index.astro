@@ -19,7 +19,7 @@ const posts = (await getCollection('story')).sort(
 				Explore fan fiction from across the multiverse
 			</p>
 
-			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:max-w-none md:max-w-2xl max-w-xs mx-auto">
 				{posts.map((post) => (
 					<StoryCard
 						story={post.data}

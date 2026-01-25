@@ -1,6 +1,6 @@
 ---
 title: 'Spider-Man 4'
-description: 'Lorem ipsum dolor sit amet'
+description: "This is the final chapter of Sam Riami's Spider-Man saga which takes way ahead of the events of Spider-Man 3. A more older, but more resourceful Spider-Man is about to fight his final battle to save the city and everything he built."
 pubDate: 'Jan 25 2026'
 heroImage: '../../assets/spider-man-4.webp'
 ---
