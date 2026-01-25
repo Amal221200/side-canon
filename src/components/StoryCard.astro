@@ -4,16 +4,16 @@ import FormattedDate from './FormattedDate.astro';
 import type { InferEntrySchema } from 'astro:content';
 
 interface Props {
-  blog: InferEntrySchema<'blog'>;
+  story: InferEntrySchema<'story'>;
   slug: string;
 }
 
-const { blog: { title, description, pubDate, heroImage }, slug } = Astro.props;
+const { story: { title, description, pubDate, heroImage }, slug } = Astro.props;
 ---
 
 <article class="group h-full">
 	<a
-		href={`/blog/${slug}/`}
+		href={`/stories/${slug}/`}
 		class="flex flex-col h-full bg-white rounded-lg shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden border border-gray-100 hover:border-purple-200"
 	>
     <div class="overflow-hidden">

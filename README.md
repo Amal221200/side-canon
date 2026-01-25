@@ -1,44 +1,55 @@
-# Astro Starter Kit: Blog
+# Side Canon
 
-```sh
-npm create astro@latest -- --template blog
-```
+A modern fan fiction platform built with Astro, showcasing creative stories from across the multiverse.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## ✨ Features
 
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
+- ✅ Clean, minimalistic design with purple/blue theme
+- ✅ Responsive grid layout for story cards
+- ✅ Markdown & MDX support for rich content
+- ✅ Tailwind CSS v4 with typography plugin
 - ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
 - ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- ✅ Sitemap generation
+- ✅ Fast performance with Astro's static site generation
+- ✅ Sticky navigation for better UX
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
 ```text
-├── public/
+├── public/              # Static assets (images, fonts, etc.)
 ├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── assets/         # Image assets
+│   ├── components/     # Reusable Astro components
+│   │   ├── Header.astro
+│   │   ├── Footer.astro
+│   │   ├── StoryCard.astro
+│   │   └── ...
+│   ├── content/
+│   │   └── story/      # Fan fiction stories (Markdown/MDX)
+│   ├── layouts/
+│   │   ├── Layout.astro
+│   │   └── StoryLayout.astro
+│   ├── pages/
+│   │   ├── index.astro
+│   │   └── stories/    # Story listing and dynamic routes
+│   └── styles/
+│       └── global.css  # Global styles with Tailwind
 ├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+└── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 📖 Content Management
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Stories are stored as Markdown/MDX files in `src/content/story/`. Each story includes frontmatter with:
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+- `title`: Story title
+- `description`: Brief summary
+- `pubDate`: Publication date
+- `heroImage`: Cover image
+- `updatedDate` (optional): Last update date
 
-Any static assets, like images, can be placed in the `public/` directory.
+Use `getCollection('story')` to retrieve and display stories throughout the site.
 
 ## 🧞 Commands
 

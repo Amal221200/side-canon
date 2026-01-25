@@ -2,14 +2,14 @@
 import { getCollection } from 'astro:content';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import Layout from '../../layouts/Layout.astro';
-import BlogCard from '../../components/BlogCard.astro';
+import StoryCard from '../../components/StoryCard.astro';
 
-const posts = (await getCollection('blog')).sort(
+const posts = (await getCollection('story')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
-<Layout title={`${SITE_TITLE} | Blog`} description={SITE_DESCRIPTION}>
+<Layout title={`${SITE_TITLE} | Stories`} description={SITE_DESCRIPTION}>
 	<div class="py-12 px-4">
 		<div class="max-w-6xl mx-auto">
 			<h1 class="text-4xl font-bold mb-2 bg-linear-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
@@ -21,8 +21,8 @@ const posts = (await getCollection('blog')).sort(
 
 			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 				{posts.map((post) => (
-					<BlogCard 
-						blog={post.data}
+					<StoryCard
+						story={post.data}
 						slug={post.id}
 					/>
 				))}
