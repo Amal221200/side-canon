@@ -4,18 +4,18 @@ import StoryLayout from '@/layouts/StoryLayout.astro';
 import { PageType } from '@/types';
 
 export async function getStaticPaths() {
-	const stories = await getCollection('story');
+	const stories = await getCollection('nmu');
 	return stories.filter((story) => story.data.published).map((story) => ({
 		params: { slug: story.id },
 		props: story,
 	}));
 }
-type Props = CollectionEntry<'story'>;
+type Props = CollectionEntry<'nmu'>;
 
 const story = Astro.props;
 const { Content } = await render(story);
 ---
 
-<StoryLayout story={story.data} type={PageType.STORIES}>
+<StoryLayout story={story.data} type={PageType.NMU}>
 	<Content />
 </StoryLayout>

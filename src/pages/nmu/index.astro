@@ -3,14 +3,14 @@ import { getCollection } from 'astro:content';
 import IndexPageContainer from '@/components/IndexPageContainer.astro';
 import { PageType } from '@/types';
 
-const stories = (await getCollection('story')).filter((story) => story.data.published).sort(
+const stories = (await getCollection('nmu')).filter((story) => story.data.published).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
 <IndexPageContainer
 	stories={stories}
-	title="Stories"
+	title="NMU"
 	description="Explore fan fiction from across the multiverse"
-	type={PageType.STORIES}
+ 	type={PageType.NMU}
 />

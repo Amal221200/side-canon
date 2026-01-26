@@ -2,7 +2,8 @@
 title: 'Justice League: Legacy of Hope'
 description: 'Ten years after the Tragedy that changed everything and world lost Superman, the Justice League has stepped back from their impossible war. As Bruce, Diana, Barry, and their allies embrace ordinary lives, a fragile peace settles over the world, but how long can it last?'
 pubDate: 'Jan 25 2026'
-heroImage: '../../assets/justice-league-legacy-of-hope.png'
+heroImage: '@/assets/stories/justice-league-legacy-of-hope.png'
+published: true
 ---
 
 ## CHAPTER 1: PRESENT

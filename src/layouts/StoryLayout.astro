@@ -2,19 +2,27 @@
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
-import FormattedDate from '../components/FormattedDate.astro';
+import FormattedDate from '@/components/FormattedDate.astro';
+import { PageType } from '@/types';
 
-type Props = CollectionEntry<'story'>['data'];
+type Props = {
+	story: CollectionEntry<'story'>['data'] | CollectionEntry<'nmu'>['data'];
+	type: PageType;
+};
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { story: { title, description, pubDate, updatedDate, heroImage }, type } = Astro.props;
 ---
 
-<Layout title={title} description={description} image={heroImage}>
+<Layout
+	title={title}
+	description={description}
+	image={heroImage}
+>
 	<!-- Sticky Back Button -->
 	<div class="sticky top-0 z-50 bg-white/80 backdrop-blur-sm border-b border-gray-100 py-4 px-4">
 		<div class="max-w-4xl mx-auto">
 			<a 
-				href="/stories"
+				href={`/${type}`}
 				class="inline-flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors group"
 			>
 				<svg 
@@ -25,7 +33,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				>
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
 				</svg>
-				<span class="font-medium">Back to Stories</span>
+				<span class="font-medium">Back to {type === PageType.STORIES ? 'Stories' : 'NMU'}</span>
 			</a>
 		</div>
 	</div>

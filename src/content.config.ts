@@ -13,7 +13,21 @@ const story = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: image(),
+			published: z.boolean(),
 		}),
 });
 
-export const collections = { story };
+const nmu = defineCollection({
+	loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/nmu' }),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string(),
+			description: z.string(),
+			pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+			heroImage: image(),
+			published: z.boolean(),
+		}),
+});
+
+export const collections = { story, nmu };

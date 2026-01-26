@@ -2,18 +2,20 @@
 import { Image } from 'astro:assets';
 import FormattedDate from './FormattedDate.astro';
 import type { InferEntrySchema } from 'astro:content';
+import type { PageType } from '@/types';
 
 interface Props {
-  story: InferEntrySchema<'story'>;
+  story: InferEntrySchema<'story'> | InferEntrySchema<'nmu'>;
   slug: string;
+  type: PageType;
 }
 
-const { story: { title, description, pubDate, heroImage }, slug } = Astro.props;
+const { story: { title, description, pubDate, heroImage }, slug, type } = Astro.props;
 ---
 
 <article class="group h-full">
 	<a
-		href={`/stories/${slug}/`}
+		href={`/${type}/${slug}/`}
 		class="flex flex-col h-full bg-white rounded-lg shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden border border-gray-100 hover:border-purple-200"
 	>
     <div class="overflow-hidden">

@@ -2,7 +2,8 @@
 title: "Attack on Titan Final Season Reboot"
 description: "A reimagined Attack on Titan final season where Eren and Paradis seize agency in the face of Marley's geopolitical war, choosing their own path forward."
 pubDate: 'Jan 26 2026'
-heroImage: '../../assets/attack-on-titan-final-season-reboot.png'
+heroImage: '@/assets/stories/attack-on-titan-final-season-reboot.png'
+published: true
 ---
 
 ## PRELUDE
