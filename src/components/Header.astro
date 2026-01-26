@@ -4,7 +4,7 @@ import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
-	<nav>
+	<nav class="flex items-center xs:justify-between xs:flex-row flex-col justify-center">
 		<h2>
 			<a href="/">
 				<Image
@@ -16,7 +16,7 @@ import HeaderLink from './HeaderLink.astro';
 				/>
 			</a>
 		</h2>
-		<div class="internal-links">
+		<div>
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/stories">Stories</HeaderLink>
 			<HeaderLink href="/nmu">NMU</HeaderLink>
@@ -38,12 +38,5 @@ import HeaderLink from './HeaderLink.astro';
 	h2 a,
 	h2 a.active {
 		text-decoration: none;
-	}
-	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		max-width: 1024px;
-		margin: 0 auto;
 	}
 </style>
