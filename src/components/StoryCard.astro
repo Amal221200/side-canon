@@ -23,6 +23,7 @@ const { story: { title, description, pubDate, heroImage }, slug } = Astro.props;
         src={heroImage} 
         alt={title}
         class="w-full h-48 object-cover object-top group-hover:scale-105 transition-transform duration-300"
+				loading="eager"
       />
     </div>
 		<div class="p-3">

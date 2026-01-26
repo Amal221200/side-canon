@@ -13,7 +13,7 @@ The **Attack Titan** was one of them, loyal to the king, and fought alongside ot
 
 It also made him adaptive to different situations in ways other Titan shifters couldn't.
 
-But something changed during the Great Titan War; it was discovered that this Titan alone could operate beyond the system that bound all others. Commands issued through the Founding Titan faltered when they reached it. Not because the Attack Titan was immune-but because it did not yield. The will of the Founder found no place to take hold.
+But something changed during the Great Titan War; it was discovered that this Titan alone could operate beyond the system that bound all others. Commands issued through the Founding Titan faltered when they reached it. Not because the Attack Titan was immune, but because it did not yield. The will of the Founder found no place to take hold.
 
 Why this occurred was never understood.
 
@@ -25,7 +25,7 @@ It was unreliable.
 
 And so, it was cast aside.
 
-Yet after the war, the Attack Titan endured-passed down quietly, always appearing at moments of collapse, always in the hands of those who questioned the world they were born into. It did not change history by force. It resisted it by existing.
+Yet after the war, the Attack Titan endured, passed down quietly, always appearing at moments of collapse, always in the hands of those who questioned the world they were born into. It did not change history by force. It resisted it by existing.
 
 That resistance accumulated.
 
@@ -47,7 +47,7 @@ The air smells of coal smoke and oil, of metal warmed by bodies pressed too clos
 
 Victory is expected.
 
-The war against the Middle East Allied Forces is over-and victory, Marley is told, always comes home.
+The war against the Middle East Allied Forces is over, and victory, Marley is told, always comes home.
 
 A whistle shrieks.
 
@@ -63,7 +63,7 @@ They are welcomed as heroes all the same.
 
 Among them stands the Warrior Unit.
 
-Reiner Braun steps onto the platform first, his boots hitting stone with a dull thud. He is flanked by Zeke Yeager, Porco Galliard, and Pieck Finger-figures already familiar to Marley, already half-mythologized. Behind them come the next generation: Colt Grice, posture stiff with pride as the chosen successor to the Beast Titan, and Falco Grice and Gabi Braun, selected as candidates for the Armored Titan.
+Reiner Braun steps onto the platform first, his boots hitting stone with a dull thud. He is flanked by Zeke Yeager, Porco Galliard (Jaw Titan), and Pieck Finger (Cart Titan); figures already familiar to Marley, already half-mythologized. Behind them come the next generation: Colt Grice, posture stiff with pride as the chosen successor to the Beast Titan, and Falco Grice and Gabi Braun, selected as candidates for the Armored Titan.
 
 Cameras flash.
 
@@ -73,7 +73,7 @@ Another calls him _Marley's shield_.
 
 He does not respond.
 
-Zeke's reunion is brief. His grandparents push through the crowd with quiet urgency; their faces drawn and cautious even in relief. There is no cheering, no waving-just a short embrace and quick steps away from the platform.
+Zeke's reunion is brief. His grandparents push through the crowd with quiet urgency; their faces drawn and cautious even in relief. There is no cheering, no waving, just a short embrace and quick steps away from the platform.
 
 They disappear into the city without a ceremony.
 
@@ -81,7 +81,7 @@ Reiner watches them go.
 
 Then the noise fades back in.
 
-His gaze drifts-not to the flags or the applause, but to a group gathered near the edge of the platform. Civilians. Marleyans. Laughing.
+His gaze drifts, not to the flags or the applause, but to a group gathered near the edge of the platform. Civilians. Marleyans. Laughing.
 
 They point at a cluster of Eldian soldiers further down the line, men who survived the war without being transformed. Men spared, not honored.
 
@@ -105,13 +105,13 @@ His mother's voice cuts through the crowd.
 
 He turns, looking at his mother.
 
-Mother, "Let's go home."
+Mother: "Let's go home."
 
 She stands a few steps away, hands clasped tightly in front of her, eyes shining with pride and something more fragile beneath it. Gabi stands beside her, close enough that her shoulder brushes his arm.
 
 Reiner forces himself to move.
 
-He steps away from the platform, away from the cheers, away from the soldiers still disembarking, and follows them into the flow of the city. Behind him, the station continues to celebrate-unaware, and uninterested, in the cost of the victory it claims.
+He steps away from the platform, away from the cheers, away from the soldiers still disembarking, and follows them into the flow of the city. Behind him, the station continues to celebrate, unaware, and uninterested, in the cost of the victory it claims.
 
 ### Reiner's Home
 
@@ -127,19 +127,19 @@ Orderly.
 
 Unforgiving.
 
-His room is sparse-neatly made bed, a single wooden chair; a folded uniform placed carefully at the foot of the mattress. On the wall hangs a faded poster celebrating the Warrior Unit: heroic silhouettes of Titans towering over kneeling enemies, Marleyan soldiers standing proudly behind them.
+His room is sparse, neatly made bed, a single wooden chair; a folded uniform placed carefully at the foot of the mattress. On the wall hangs a faded poster celebrating the Warrior Unit: heroic silhouettes of Titans towering over kneeling enemies, Marleyan soldiers standing proudly behind them.
 
 Reiner turns his head away from it.
 
 When he closes his eyes, the ceiling becomes a stone.
 
-Walls rise around him-three of them.
+Walls rise around him, three of them.
 
 He hears the scream again.
 
 "Reiner!"
 
-The ground shakes. The sky burns red. He feels the weight of armor settle over his body, heavy and useless, crushing instead of protecting. Faces blur together-fear, trust, betrayal-all screaming his name.
+The ground shakes. The sky burns red. He feels the weight of armor settle over his body, heavy and useless, crushing instead of protecting. Faces blur together, fear, trust, betrayal, all screaming his name.
 
 A soldier.
 
@@ -157,7 +157,7 @@ Standing in line as a child, shoulders tense, listening to instructors speak of 
 
 Porco's laughter when he failed. The sharp words. The smirks.
 
-His father's face-distant, disappointed. A Marleyan man who wanted nothing to do with an Eldian son, even one chosen as a Warrior.
+His father's face, distant, disappointed. A Marleyan man who wanted nothing to do with an Eldian son, even one chosen as a Warrior.
 
 Then Marcel.
 
@@ -175,7 +175,7 @@ A scream cut short.
 
 Shiganshina.
 
-Breaking the wall in a rage he did not fully understand, convincing himself that monsters lived behind it-only to find children, families, people just like him.
+Breaking the wall in a rage he did not fully understand, convincing himself that monsters lived behind it, only to find children, families, people just like him.
 
 Sharing meals. Laughing. Training.
 
@@ -201,7 +201,7 @@ Outside the window, the city moves on. Children in school uniforms hurry down th
 
 Normal.
 
-His mother speaks-about rations, about neighbors, about how proud she is. Her voice trembles just slightly when she says it.
+His mother speaks about rations, about neighbors, about how proud she is. Her voice trembles just slightly when she says it.
 
 Reiner nods. Smiles when expected.
 
@@ -227,7 +227,7 @@ Marley didn't celebrate for long.
 
 Victory is a luxury reserved for civilians.
 
-Inside the military district, the streets are quieter-cleaner. Uniformed guards stand at measured intervals; rifles polished, expressions neutral. Every building bears the same architecture: stone facades, iron gates, banners of red and gold reminding all who pass of Marley's dominance and sacrifice.
+Inside the military district, the streets are quieter, cleaner. Uniformed guards stand at measured intervals; rifles polished, expressions neutral. Every building bears the same architecture: stone facades, iron gates, banners of red and gold reminding all who pass of Marley's dominance and sacrifice.
 
 Reiner walks these halls with the others, boots echoing against marble floors he knows he does not belong to.
 
@@ -235,17 +235,17 @@ This is not a place for Eldians.
 
 It never has been.
 
-They are escorted into a secure chamber deep within the military complex-a room designed less for comfort than authority. The ceiling is high, supported by stone columns carved with reliefs of Marley's "great victories." Titans loom in the artwork, crushing enemies beneath their feet, while Marleyan soldiers stand untouched behind them.
+They are escorted into a secure chamber deep within the military complex, a room designed less for comfort than authority. The ceiling is high, supported by stone columns carved with reliefs of Marley's "great victories." Titans loom in the artwork, crushing enemies beneath their feet, while Marleyan soldiers stand untouched behind them.
 
 Heroes in the background.
 
 Weapons in the foreground.
 
-Commander Magath stands near the central table; hands clasped behind his back. His expression is unreadable-not proud, not angry. Only tired.
+Commander Magath stands near the central table; hands clasped behind his back. His expression is unreadable, not proud, not angry. Only tired.
 
-Across from him sit high-ranking officers-men who have never set foot on a battlefield, yet have decided the fate of nations with ink and maps.
+Across from him sit high-ranking officers, men who have never set foot on a battlefield, yet have decided the fate of nations with ink and maps.
 
-And at the head of the chamber-
+And at the head of the chamber,
 
 Willy Tybur.
 
@@ -255,7 +255,7 @@ The Tybur family does not command Marley by law.
 
 They command it by myth.
 
-For generations, the Tyburs have stood apart-Eldians elevated above other Eldians, custodians of the War Hammer Titan, keepers of the story that Marley tells the world.
+For generations, the Tyburs have stood apart, Eldians elevated above other Eldians, custodians of the War Hammer Titan, keepers of the story that Marley tells the world.
 
 The story where Marley is the victim.
 
@@ -269,19 +269,19 @@ He feels small.
 
 Magath begins the briefing.
 
-"The Middle East Allied Forces adapted faster than projected," he says. "Their anti-Titan artillery neutralized two Pure Titan divisions within minutes. Their weapons pierced armor we once believed impenetrable. Airship coordination destabilized transformation zones. Our superiority was challenged-and, in several engagements, surpassed."
+"The Middle East Allied Forces adapted faster than projected," he says. "Their Anti-Titan artillery neutralized two Pure Titan divisions within minutes. Their weapons pierced armor we once believed impenetrable. Airship coordination destabilized transformation zones. Our superiority was challenged, and in several engagements, surpassed."
 
 He pauses.
 
 "Which brings us to the real outcome of this war."
 
-Maps are unfurled. Not just battlefields-but **research facilities, weapons foundries, captured laboratories**.
+Maps are unfurled. Not just battlefields, but **research facilities, weapons foundries, captured laboratories**.
 
 "The campaign's primary objective was never territorial," Magath continues. "It was technological."
 
 The officers lean forward.
 
-"The Middle East had surpassed us in anti-Titan warfare. If Marley intended to face the Founding Titan-or the Rumbling-we could not do so with faith in Titans alone."
+"The Middle East had surpassed us in Anti-Titan warfare. If Marley intended to face the Founding Titan, or the Rumbling, we could not do so with faith in Titans alone."
 
 The implication settles heavily.
 
@@ -299,7 +299,7 @@ Calculation.
 
 No one denies it.
 
-Titans were never sacred to Marley. They were weapons. And weapons that can be countered must either evolve-or be supported by something stronger.
+Titans were never sacred to Marley. They were weapons. And weapons that can be countered must either evolve, or be supported by something stronger.
 
 That weakness cannot be allowed to linger.
 
@@ -307,7 +307,7 @@ Another map is placed atop the others.
 
 Shipping routes. Airspace corridors. Military installations.
 
-And at the center of it all-
+And at the center of it all,
 
 A single island circled in red.
 
@@ -325,9 +325,9 @@ Willy Tybur finally speaks.
 
 Silence.
 
-"That fear," Willy continues, "is the only thing keeping this nation relevant. Especially now-when Titans alone can no longer guarantee dominance."
+"That fear," Willy continues, "is the only thing keeping this nation relevant. Especially now, when Titans alone can no longer guarantee dominance."
 
-His gaze drifts-briefly-to Reiner.
+His gaze drifts-briefly-to Reiner and other warriors.
 
 "And especially after a warning from none other than Eren Yeager."
 
@@ -343,9 +343,9 @@ A faint smile.
 
 "But a shield must face the blade."
 
-The plan unfolds-not as a military strategy, but as a **carefully crafted narrative**.
+The plan unfolds, not as a military strategy, but as a **carefully crafted narrative**.
 
-Paradis will be attacked-but not hastily. Not blindly. Marley has waited because it had to. It needed time to adapt, to re-arm, to ensure that when the Founding Titan finally revealed itself… Marley would not be helpless.
+Paradis will be attacked but not hastily. Not blindly. Marley has waited because it had to. It needed time to adapt, to re-arm, to ensure that when the Founding Titan finally revealed itself… Marley would not be helpless.
 
 The world must see Marley bleed.
 
@@ -357,15 +357,15 @@ Only then will the world unite.
 
 Only then will Marley remain indispensable.
 
-"The Warriors will breach the walls first," Magath adds. "Once engagement begins, the War Hammer Titan will enter the field. Anti-Titan artillery and armored divisions-refined using Middle Eastern designs-will be positioned outside the walls under Zeke Yeager's command."
+"The Warriors will breach the walls first," Magath adds. "Once engagement begins, the War Hammer Titan will enter the field. Anti-Titan artillery and armored divisions, refined using Middle Eastern designs will be positioned outside the walls under Zeke Yeager's command."
 
 Reiner hears it clearly now.
 
 This is not a mission.
 
-It is a calculated sacrifice-backed by technology, myth, and fear.
+It is a calculated sacrifice, backed by technology, myth, and fear.
 
-The truth-that Marley ruled the world through Titans for generations-will be buried beneath a louder story.
+The truth, that Marley ruled the world through Titans for generations will be buried beneath a louder story.
 
 A necessary lie.
 
@@ -393,7 +393,7 @@ Reiner stares through the open hatch, watching the clouds thin.
 
 For a moment, there is only water.
 
-Then-
+Then,
 
 Land.
 
@@ -401,7 +401,7 @@ A jagged coastline cuts through the mist, sharper than he remembers. Darker. He 
 
 Paradis.
 
-Porco leans forward slightly, squinting. Pieck's expression shifts-alert, calculating.
+Porco leans forward slightly, squinting. Pieck's expression shifts, alert, calculating.
 
 Something is wrong.
 
@@ -413,11 +413,11 @@ There are no three walls.
 
 Only one.
 
-A massive outer structure dominates the landscape-thick, angular, deliberately ugly. Crystallized armored plating lines its surface; artillery emplacements embedded at regular intervals. Spotlights sweep the terrain below in slow, overlapping arcs. This is not a wall meant to hide behind.
+A massive outer structure dominates the landscape, thick, angular, deliberately ugly. Crystallized armored plating lines its surface; artillery emplacements embedded at regular intervals. Spotlights sweep the terrain below in slow, overlapping arcs. This is not a wall meant to hide behind.
 
 It is a wall built to fight. Island Soldiers running, taking their formations near the wall, entering a lift inside built by Armin and Hange.
 
-Beyond it-set further inland-stands another barrier. Smaller. Tighter. Completely sealed from above, its surface is smooth and uninterrupted. No towers. No gaps.
+Beyond it, set further inland, stands another barrier. Smaller. Tighter. Completely sealed from above, its surface is smooth and uninterrupted. No towers. No gaps.
 
 A fortress within a fortress.
 
@@ -447,7 +447,7 @@ Waiting.
 
 Soldiers.
 
-At their center stands a man with long hair caught in the wind, posture relaxed, gaze lifted-not toward the airships, but toward the horizon beyond them.
+At their center stands a man with long hair caught in the wind, posture relaxed, gaze lifted, not toward the airships, but toward the horizon beyond them.
 
 Reiner knows that silhouette instantly.
 
@@ -481,9 +481,9 @@ They are walking into a trap.
 
 The night breaks first.
 
-Not with sound-but with breath.
+Not with sound, but with breath.
 
-Eren bolts upright in his bed, lungs burning as if he has surfaced from deep water. Sweat clings to his skin. His hands tremble, fingers digging into the sheets as memories crash over one another-faces, screams, blood, walls falling, chains tightening.
+Eren bolts upright in his bed, lungs burning as if he has surfaced from deep water. Sweat clings to his skin. His hands tremble, fingers digging into the sheets as memories crash over one another, faces, screams, blood, walls falling, chains tightening.
 
 _Run._
 
@@ -493,7 +493,7 @@ _You're free._
 
 He presses his palms to his eyes, but it doesn't help. The images are not _seen_. They are _remembered_.
 
-A knock comes fast-too fast.
+A knock comes fast, too fast.
 
 "Eren!"
 
@@ -501,7 +501,7 @@ Mikasa doesn't wait for an answer. The door opens, light spilling into the room.
 
 Eren tries to speak. Nothing comes out.
 
-His chest tightens again-and this time he doesn't fight it.
+His chest tightens again and this time he doesn't fight it.
 
 He breaks.
 
@@ -521,7 +521,7 @@ No summons. No formal orders.
 
 Just people who know something is wrong.
 
-Levi leans against the wall, arms crossed, eyes sharp. Hange stands nearby, unusually quiet. Jean and Connie sit on the floor, back against the wall. Sasha clutches a mug she never drinks from. Historia sits close-close enough to reach Eren if he needs it.
+Levi leans against the wall, arms crossed, eyes sharp. Hange stands nearby, unusually quiet. Jean and Connie sit on the floor, back against the wall. Sasha clutches a mug she never drinks from. Historia sits close, close enough to reach Eren if he needs it.
 
 Mikasa never let's go of him.
 
@@ -537,7 +537,7 @@ Eren looks up.
 
 Armin swallows. "You said it like you knew something, not just the facts, but something that has been haunting you since we learned the truth. You haven't been the same since then."
 
-Silence settles again-but this time, it waits.
+Silence settles again, but this time, it waits.
 
 Eren exhales slowly.
 
@@ -569,7 +569,7 @@ Then comes the hardest part.
 
 He tells them how Grisha got the Attack Titan. How the Founding Titan was stolen. How the power passed to him.
 
-And finally-
+And finally,
 
 "The Smiling Titan," Eren says quietly.
 
@@ -621,7 +621,7 @@ Not the weight.
 
 The release.
 
-The burden doesn't vanish-but it _moves_. It spreads. It becomes something shared.
+The burden doesn't vanish, but it _moves_. It spreads. It becomes something shared.
 
 Historia shifts forward.
 
@@ -629,7 +629,7 @@ Historia shifts forward.
 
 Everyone turns.
 
-"I won't be a symbol," she continues. "And I won't be used. But if my blood can help you use this power-help us survive-then I'll choose that."
+"I won't be a symbol," she continues. "And I won't be used. But if my blood can help you use this power, help us survive, then I'll choose that."
 
 Eren looks at her, stunned.
 
@@ -639,7 +639,7 @@ Historia meets his gaze without hesitation.
 
 "I'm choosing this," she replies. "Just like you did."
 
-For the first time in a long while-
+For the first time in a long while,
 
 Eren doesn't feel scared.
 
@@ -651,7 +651,7 @@ Eren doesn't feel scared.
 
 The ground is silent.
 
-Eren and Historia stand at the center of the practice arena; their figures small against the vast, open space. Everyone else keeps their distance-Levi Squad, Hange, the soldiers, all positioned carefully along the perimeter.
+Eren and Historia stand at the center of the practice arena; their figures small against the vast, open space. Everyone else keeps their distance; Levi Squad, Hange, the soldiers, all positioned carefully along the perimeter.
 
 No one knows what will happen.
 
@@ -659,7 +659,7 @@ Everyone knows something will.
 
 Hange raises a hand.
 
-"At my signal," she says, voice steady but tense. "If anything goes wrong-anything-you pull back immediately."
+"At my signal," she says, voice steady but tense. "If anything goes wrong, anything, you pull back immediately."
 
 Eren nods.
 
@@ -669,7 +669,7 @@ Eren hesitates only for a moment before taking it.
 
 The instant their skin touches, light flashes.
 
-Not blinding-_piercing_.
+Not blinding, _piercing_.
 
 The world collapses inward.
 
@@ -687,7 +687,7 @@ They move forward instinctively.
 
 As they almost approach it, they see her.
 
-A small girl steps out from the light of the tree, barefoot; her expression is cautious but curious. Her eyes hold no malice-only exhaustion far too old for a child.
+A small girl steps out from the light of the tree, barefoot; her expression is cautious but curious. Her eyes hold no malice, only exhaustion far too old for a child.
 
 "Who are you?" Historia asks gently.
 
@@ -700,7 +700,7 @@ Something feels wrong, but she feels something familiar about her.
 Historia and Eren extend their hands together.  
 The girl steps forward and places her small hands into theirs.
 
-For a single heartbeat-
+For a single heartbeat,
 
 Eren feels a **pull**.
 
@@ -710,7 +710,7 @@ Not backward.
 
 _Everywhere._
 
-Faces brush against his mind-men and women he does not know, eyes filled with resolve, fear, defiance. Their presence is fleeting, overlapping, gone before he can grasp them.
+Faces brush against his mind; men and women he does not know, eyes filled with resolve, fear, defiance. Their presence is fleeting, overlapping, gone before he can grasp them.
 
 _Who…?_
 
@@ -730,9 +730,9 @@ Ymir's memory begins.
 
 They see a village burning.
 
-A young girl is dragged through the mud as soldiers laugh. A king stands above her-cold, satisfied. Her people are slaughtered. She is branded as a slave.
+A young girl is dragged through the mud as soldiers laugh. A king stands above her, cold, satisfied. Her people are slaughtered. She is branded as a slave.
 
-She lets a pig loose-hungry, frightened.
+She lets a pig loose which was hunted by the soldiers for food.
 
 People bail on her.
 
@@ -752,7 +752,7 @@ Something moves.
 
 She is almost passing out.
 
-A creature-parasitic, spine-like-binds itself to her spine.
+A creature, parasitic, spine-like, binds itself to her spine.
 
 Power floods her veins.
 
@@ -764,7 +764,7 @@ Destroying everything around her vicinity, the first titan was born.
 
 She returns.
 
-Not to freedom-but to her master.
+Not to freedom, but to her master.
 
 The king uses her.
 
@@ -808,7 +808,7 @@ Nine powers.
 
 Endless obedience.
 
-She builds Titans from sand, again and again, across generations-following commands she was never taught to question.
+She builds Titans from sand, again and again, across generations, following commands she was never taught to question.
 
 The vision fades.
 
@@ -816,11 +816,11 @@ Eren and Historia stand trembling.
 
 Historia collapses to her knees.
 
-Tears stream down her face as she crawls toward the girl and pulls her into an embrace.
+Tears stream down her face as she crawls toward the girl and pulls the girl into her embrace.
 
 "I'm sorry," Historia sobs. "I'm so sorry you had to go through all of this."
 
-The girl stiffens-then relaxes.
+The girl stiffens, then relaxes.
 
 Historia notices something then.
 
@@ -832,7 +832,7 @@ Without hesitation, Historia scoops sand from the ground, shaping it carefully, 
 
 The girl gasps.
 
-Then-
+Then,
 
 She speaks.
 
@@ -852,7 +852,7 @@ Eren's breath catches.
 
 "My… parents?"
 
-She nods. "When we die, our souls return to this tree. Everything becomes one. Kings from the past called it co-ordinates."
+She nods. "When we die, our souls return to this tree. Everything becomes one. Kings from the past called it the co-ordinates."
 
 She bows her head.
 
@@ -868,7 +868,7 @@ His fists clench.
 
 He kneels before her and takes her hands.
 
-"Please," he pleads. "Lend me your power one last time. I promise-no one will ever use you again."
+"Please," he pleads. "Lend me your power one last time. I promise, no one will ever use you again."
 
 The girl begins to cry after hearing his plea.
 
@@ -904,7 +904,7 @@ The ground shakes.
 
 Walls crumble. People around the walls and the Garrison regiments are in panic. Commander Pyxis watches it unfold.
 
-The Colossal Titans within are revealed-silent, unmoving.
+The Colossal Titans within are revealed, silent, unmoving.
 
 Everyone watches in awe.
 
@@ -940,7 +940,7 @@ _"Eren… what have you done?"_
 
 The Titan does not remain.
 
-Cracks race across its massive form, light bleeding through the fractures as the body begins to dissolve. Steam and smoke swallow the arena; the ground trembling until-finally-it stops.
+Cracks race across its massive form, light bleeding through the fractures as the body begins to dissolve. Steam and smoke swallow the arena; the ground trembling until-finally, it stops.
 
 Silence follows.
 
@@ -954,7 +954,7 @@ Levi reaches them first, gripping Eren and Historia's arm and pulling him clear 
 
 Everyone waits.
 
-Eren straightens slowly. His hands tremble-then clench into fists.
+Eren straightens slowly. His hands tremble, then clench into fists.
 
 He looks up.
 
@@ -966,7 +966,7 @@ Relief spreads instantly.
 
 Mikasa exhales sharply, tension leaving her shoulders. Armin closes his eyes for a moment; a hand pressed to his chest. Hange lets out a shout of pure exhilaration. Connie and Sasha jump, laughing, disbelief giving way to excitement. Jean smiles.
 
-For the first time since the warning-
+For the first time since the warning,
 
 Hope feels real.
 
@@ -980,21 +980,21 @@ The Ethereal Plane.
 
 Ymir.
 
-The truth behind the Founding Titan-and how its power can be accessed, understood, and restrained.
+The truth behind the Founding Titan and how its power can be accessed, understood, and restrained.
 
 They also report what followed the collapse of the walls.
 
-Annie Leonhart-freed when the structures fell-has been secured.
+Annie Leonhart, freed when the structures fell has been secured.
 
 The room grows quiet as the implications settle.
 
 Armin speaks first.
 
-"The walls collapsing doesn't have to be a loss," he says, already sketching ideas in his mind. "We can restructure them. Use the terrain to our advantage. We make sure civilians are protected-and we control how the enemy moves."
+"The walls collapsing doesn't have to be a loss," he says, already sketching ideas in his mind. "We can restructure them. Use the terrain to our advantage. We make sure civilians are protected and we control how the enemy moves."
 
 Hange's eyes light up immediately.
 
-"I'll work with you," she says. "We can redesign everything-fortifications, evacuation routes, kill zones. This changes how wars are fought here."
+"I'll work with you," she says. "We can redesign everything, fortifications, evacuation routes, kill zones. This changes how wars are fought here."
 
 Eren nods. "I'll spend more time in the Plane with Historia," he adds. "I need to understand the Founder better. Properly. Good thing is the time works differently there, we can spend forever there, but on the outside world it will be just a moment."
 
@@ -1016,7 +1016,7 @@ Paradis has work to do.
 
 The sand is cool beneath Eren's fingers.
 
-He sits cross-legged beneath the tree of light, sculpting shapes without urgency-letting them to collapse, reshaping them again. Not Titans. Not yet. Just forms. Frames. Possibilities.
+He sits cross-legged beneath the tree of light, sculpting shapes without urgency, letting them to collapse, reshaping them again. Not Titans. Not yet. Just forms. Frames. Possibilities.
 
 Ymir watches from nearby, feet buried in the sand, head tilted with quiet curiosity.
 
@@ -1024,7 +1024,7 @@ Ymir watches from nearby, feet buried in the sand, head tilted with quiet curios
 
 Eren snorts softly. "Yeah. I'm not good at subtle."
 
-Historia laughs; the sounds small but bright in the vast stillness. She sits beside Ymir, showing her how to shape the sand into simple things-a cup, a bird, a crooked little house.
+Historia laughs; the sounds small but bright in the vast stillness. She sits beside Ymir, showing her how to shape the sand into simple things, a cup, a bird, a crooked little house.
 
 Ymir smiles every time it works.
 
@@ -1038,7 +1038,7 @@ About how sand remembers hands.
 
 About how Historia used to hate being called special.
 
-Eren feels the power humming in him-vast, endless-but he doesn't reach for it.
+Eren feels the power humming in him, vast, endless, but he doesn't reach for it.
 
 Not fully.
 
@@ -1050,7 +1050,7 @@ Ymir nods. "That's new."
 
 Behind him, the sand shifts on its own.
 
-A massive silhouette begins to form-ribs arcing outward; a tall skeletal outline, incomplete. Not a Titan. Not a weapon.
+A massive silhouette begins to form, ribs arcing outward; a tall skeletal outline, incomplete. Not a Titan. Not a weapon.
 
 Something is waiting for me.
 
@@ -1060,7 +1060,7 @@ Ymir studies it for a long time.
 
 "It's what you haven't decided yet."
 
-Eren exhales slowly-and lets the sand fall through his fingers.
+Eren exhales slowly and lets the sand fall through his fingers.
 
 ### Inside the Walls - Engineering Room
 
@@ -1070,7 +1070,7 @@ Armin hasn't noticed the time in hours.
 
 "If we angle the outer fortifications like this," he murmurs, tracing lines with charcoal, "we force their advance into narrow zones. Airships lose maneuverability. Titans can't swarm."
 
-Hange leans over his shoulder, eyes gleaming-not with madness, but focus.
+Hange leans over his shoulder, eyes gleaming, not with madness, but focus.
 
 "And if we integrate vertical artillery here-oh. Oh, that's beautiful."
 
@@ -1118,7 +1118,7 @@ Dot Pyxis exhales through his nose. "That's a strong way to open a meeting."
 
 That draws a reaction.
 
-A Garrison officer leans forward. "With respect, Captain-our responsibility is the walls. Not experimental formations dreamed up by-"
+A Garrison officer leans forward. "With respect, Captain, our responsibility is the walls. Not experimental formations dreamed up by-"
 
 "-by people who've actually seen the enemy," Levi cuts in.
 
@@ -1134,7 +1134,7 @@ Armin steps forward before it escalates.
 
 He spreads the maps across the table.
 
-Not battle plans-systems.
+Not battle plans, systems.
 
 "These evacuation routes intersect with firing corridors," Armin continues. "If the Garrison holds here without coordination, civilians die here."
 
@@ -1156,7 +1156,7 @@ Keith Shadis finally speaks.
 
 The room stills.
 
-She steps forward-not commanding, not pleading.
+She steps forward, not commanding, not pleading.
 
 "When the walls fell before," she continues, "we waited for someone else to handle it. For ranks. For rules."
 
@@ -1168,7 +1168,7 @@ Silence.
 
 "There are branches," she says. "Different strengths. Different histories."
 
-Then her voice hardens-not loud, but absolute.
+Then her voice hardens, not loud, but absolute.
 
 "But there are no separate consequences."
 
@@ -1198,23 +1198,23 @@ That settles it.
 
 Stone groans.
 
-The Colossal Titan moves-slowly, deliberately-guided with precision rather than force. Eren stands on the ground, eyes closed, breathing measured.
+The Colossal Titan moves, slowly, deliberately-guided with precision rather than force. Eren stands on the ground, eyes closed, breathing measured.
 
 He feels every step like pressure against his ribs.
 
 _Gently,_ he thinks. _Just enough._
 
-Below, civilians move through cleared corridors-orderly, calm. No panic. Historia's orders echo through the ranks, clear and firm.
+Below, civilians move through cleared corridors, orderly, calm. No panic. Historia's orders echo through the ranks, clear and firm.
 
 "No pushing. Families stay together. We've drilled this."
 
-She watches everything-listens to complaints, answers questions, reassures where needed; commands where necessary.
+She watches everything, listens to complaints, answers questions, reassures where needed; commands where necessary.
 
 This isn't a queen giving speeches.
 
 It's a leader making sure no one is left behind.
 
-With Hange's guidance, Eren raises a new inner wall-part of the island's redesign. A place where civilians can live without fear, while the military prepares beyond it.
+With Hange's guidance, Eren raises a new inner wall, part of the island's redesign. A place where civilians can live without fear, while the military prepares beyond it.
 
 ### Training Grounds
 
@@ -1266,7 +1266,7 @@ Command roles rotate without warning.
 
 Veterans answer rookies.
 
-Orders change mid-air-sometimes vanish entirely.
+Orders change mid-air, sometimes vanish entirely.
 
 "Again," Levi says.
 
@@ -1286,19 +1286,19 @@ Into the forests.
 
 Into uneven ground where clean formations mean nothing.
 
-Garrison soldiers struggle at first-unused to vertical movement-but Scouts slow their pace, correcting grips, adjusting anchors.
+Garrison soldiers struggle at first, unused to vertical movement, but Scouts slow their pace, correcting grips, adjusting anchors.
 
 "Use the tree, not the height," Mikasa tells one of them quietly, guiding their line placement.
 
-Military Police units learn to move without waiting-reading hand signals, watching body language instead of rank insignia.
+Military Police units learn to move without waiting, reading hand signals, watching body language instead of rank insignia.
 
 "Left flank's open," a former MP shouts, surprised at himself for noticing first.
 
-"Then move," Jean snaps back-not angry, just urgent.
+"Then move," Jean snaps back, not angry, just urgent.
 
 They do.
 
-Titan dummies are raised among the trees-crude, moving targets dragged along rails.
+Titan dummies are raised among the trees, crude, moving targets dragged along rails.
 
 Blades flash.
 
@@ -1312,7 +1312,7 @@ Sasha laughs breathlessly as she lands beside a Garrison soldier, pointing at a 
 
 He nods, already moving again.
 
-Connie runs drills beside Levi-hard, precise, unforgiving.
+Connie runs drills beside Levi; hard, precise, unforgiving.
 
 "Don't think about killing," Levi tells him. "Think about efficiency."
 
@@ -1324,7 +1324,7 @@ Armin watches from the edge, quietly adjusting formations between rotations.
 
 Hange scribbles notes, already revising layouts based on what fails.
 
-Levi Squad drills relentlessly-pair formations, breakaways, re-engagements.
+Levi Squad drills relentlessly; pair formations, breakaways, re-engagements.
 
 Blades clash until hands shake.
 
@@ -1354,7 +1354,7 @@ No soldiers.
 
 No weapons drawn.
 
-Three figures stand across from Eren-Eldians marked by Marley, speaking not as warriors, but as believers.
+Three figures stand across from Eren, Eldians marked by Marley, speaking not as warriors, but as believers.
 
 They tell him about **Zeke Yeager**.
 
@@ -1382,7 +1382,7 @@ They flinch.
 
 "Life without choice isn't mercy," he continues. "It's just another form of control."
 
-One of them steps forward. "Then the cycle never ends."
+One of them steps forward. "Then the cycle will never end."
 
 Eren meets their gaze.
 
@@ -1392,7 +1392,7 @@ Silence.
 
 "You should leave," Eren adds. "And don't come back with this idea again."
 
-They hesitate-then bow.
+They hesitate, then bow.
 
 Not in respect.
 
@@ -1408,13 +1408,13 @@ Eren doesn't look back.
 
 #### Sparing
 
-Jean knocks Eren flat-again.
+Jean knocks Eren flat, again.
 
 "Still relying on Titan instincts," Jean mutters.
 
 Eren groans. "I know."
 
-Levi trains Connie personally hard, efficient, and merciless.
+Levi trains Connie personally; hard, efficient, and merciless.
 
 "You fight like someone who expects to survive," Levi tells Connie. "Fight like someone who can't afford mistakes."
 
@@ -1440,13 +1440,13 @@ She hesitates. "If things go wrong… don't push yourself just to protect us."
 
 Eren turns toward her.
 
-For a moment, the world narrows-not to fear, not to power-but to her presence beside him.
+For a moment, the world narrows; not to fear, not to power, but to her presence beside him.
 
 "I'm not doing this alone anymore," he says.
 
 He means more than strategy.
 
-Mikasa seems to sense it-but doesn't press.
+Mikasa seems to sense it but doesn't press.
 
 Armin joins them, leaning against the railing.
 
@@ -1490,15 +1490,15 @@ Meanwhile inside the walls, Armin explains the plans to Annie, hoping her not to
 
 The work is finished.
 
-The inner wall stands-lower, broader, layered with crystallized stone and steel. Artillery embedded seamlessly. Signal towers aligned to sightlines practiced a hundred times over.
+The inner wall stands, lower, broader, layered with crystallized stone and steel. Artillery embedded seamlessly. Signal towers aligned to sightlines practiced a hundred times over.
 
-Beyond it, an outer wall stretches across the landscape-vast, deliberate, built to endure.
+Beyond it, an outer wall stretches across the landscape; vast, deliberate, built to endure.
 
 This isn't a wall of fear.
 
 It's a wall of intent.
 
-Levi Squad stands atop it-Historia among them.
+Levi Squad stands atop it, Historia among them.
 
 Below, soldiers, engineers, and scouts stand in formation.
 
@@ -1508,7 +1508,7 @@ Historia steps forward.
 
 "This will hold," she says.
 
-Not as hope-but as a fact.
+Not as hope, but as a fact.
 
 Eren looks out over Paradis.
 
@@ -1516,7 +1516,7 @@ The land isn't just safer.
 
 It's ready.
 
-For a moment-
+For a moment,
 
 There is peace.
 
@@ -1532,7 +1532,7 @@ Eren and his team are looking towards the Marleyan Airships, and it is followed 
 
 The sky hums.
 
-Eren stands atop the inner wall, cloak snapping against his legs as the Marleyan airships drift closer, their silhouettes cutting through the clouds like knives. His eyes track the lead vessel-not the soldiers moving along its deck, not the artillery lining its underside.
+Eren stands atop the inner wall, cloak snapping against his legs as the Marleyan airships drift closer, their silhouettes cutting through the clouds like knives. His eyes track the lead vessel; not the soldiers moving along its deck, not the artillery lining its underside.
 
 He's waiting for one person.
 
@@ -1540,7 +1540,7 @@ Below him, the battlefield lies quiet. Too quiet.
 
 Porco Galliard drops first.
 
-A dark shape falling fast, parachute snapping open moments before impact. Pieck follows soon after; her descent controlled, deliberate, followed by a cargo containing her weapons as well as her weapon unit. They separate midair, drifting toward opposite sectors-exactly where Eren expected them to go.
+A dark shape falling fast, parachute snapping open moments before impact. Pieck follows soon after; her descent controlled, deliberate, followed by a cargo containing her weapons as well as her weapon unit. They separate midair, drifting toward opposite sectors, exactly where Eren expected them to go.
 
 He exhales.
 
@@ -1558,7 +1558,7 @@ Reiner thinking, "ODM gear? Out here? How are they planning to use here?"
 
 Reiner jumps.
 
-For a moment, he's just a falling man-arms spread, eyes fixed forward.
+For a moment, he's just a falling man, arms spread, eyes fixed forward.
 
 Then lightning tears the sky apart.
 
@@ -1570,7 +1570,7 @@ Eren hasn't moved.
 
 _"Good_," Reiner thinks. "_He's not using it."_
 
-Relief flickers through him-short-lived, but real.
+Relief flickers through him, short-lived, but real.
 
 Eren steps forward.
 
@@ -1578,7 +1578,7 @@ Not rushing. Not transforming yet.
 
 Reiner narrows his eyes. "You're going to face me like this?"
 
-Eren smiles. Two poles appear in front of him from the ground.
+Eren smirks. Two poles appear in front of him from the ground.
 
 He takes a jump using the ODM gears and the poles to pull himself forward.
 
@@ -1592,11 +1592,11 @@ He doesn't hesitate.
 
 He bites the vial, drinking the blood.
 
-The transformation begins-not violently, but _cleanly_.
+The transformation begins, not violently, but _cleanly_.
 
 Flesh forms. Muscle locks into place. Bone reshapes.
 
-The Attack Titan rises-broader than before, frame reinforced, posture unnervingly stable. No roar. No rage.
+The Attack Titan rises, broader than before, frame reinforced, posture unnervingly stable. No roar. No rage.
 
 Just control.
 
@@ -1606,7 +1606,7 @@ The Marleyan Army began to jump from the airships, taking the lead of their comm
 
 Eren lands; he looks at Armor Titan and walks towards him.
 
-After a few moments, as the Attack Titan crossed half the distance, then-
+After a few moments, as the Attack Titan crossed half the distance, then,
 
 Movement.
 
@@ -1624,15 +1624,15 @@ Eren doesn't turn.
 
 The ground _answers_ instead.
 
-Crystal spikes tear upward without warning-brutal, precise. One impales the Jaw Titan through the torso, lifting Porco off the ground mid-leap. Another skewers the Cart Titan's legs, pinning Pieck in place before her weapons can fire.
+Crystal spikes tear upward without warning, brutal, precise. One impales the Jaw Titan through the torso, lifting Porco off the ground mid-leap. Another skewers the Cart Titan's legs, pinning Pieck in place before her weapons can fire.
 
 Shock freezes them both.
 
-"What-" Porco and Pieck gasps.
+"What!" Porco and Pieck gasps.
 
 Reiner stares in shock.
 
-"That's impossible," he mutters. "The War Hammer-"
+"That's impossible," he mutters. "The War Hammer,"
 
 Cracks spread across Eren's Titan.
 
@@ -1640,7 +1640,7 @@ Not fractures.
 
 _Plates._
 
-Armor-like crystal grows outward from his body, interlocking seamlessly over muscle and sinew-lighter than Reiner's, denser than steel. A fusion. Not imitation.
+Armor like crystal grows outward from his body, interlocking seamlessly over muscle and sinew, lighter than Reiner's, denser than steel. A fusion. Not imitation.
 
 Eren clenches his fists and bumps at each other.
 
@@ -1658,9 +1658,9 @@ Reiner is frozen in fear. He could not process what he just saw; he knew how har
 
 Inside the inner wall through the window, Hange and Armin are looking at the battlefield and operating it. Hange activates the grid button as she screams, "That's right you bastards."
 
-Reiner feels it then-the pressure beneath his feet.
+Reiner feels it then, the pressure beneath his feet.
 
-Crystal pillars erupt across the battlefield in a grid, rising at calculated intervals, followed by mid-range columns between the large columns and urban-block simulations, making a perfect battleground for ODM users. ODM lines snap onto them instantly. Soldiers swing, dive, strike-turning the terrain itself into a weapon.
+Crystal pillars erupt across the battlefield in a grid, rising at calculated intervals, followed by mid-range columns between the large columns and urban-block simulations, making a perfect battleground for ODM users. ODM lines snap onto them instantly. Soldiers swing, dive, strike, turning the terrain itself into a weapon.
 
 The Marleyan ground forces break formation, as they began to get impaled mid-air before getting a chance.
 
@@ -1682,11 +1682,11 @@ And Eren Yeager is ready to meet him head-on.
 
 The impact is immediate.
 
-Eren and Reiner collide like colliding walls-fists slamming into armor, shockwaves tearing through the reinforced ground. Stone fractures beneath their feet, crystal pillars shuddering but holding, doing exactly what Armin designed them to do: channel force without collapsing.
+Eren and Reiner collide like colliding walls, fists slamming into armor, shockwaves tearing through the reinforced ground. Stone fractures beneath their feet, crystal pillars shuddering but holding, doing exactly what Armin designed them to do: channel force without collapsing.
 
 Reiner swings first.
 
-The Armored Titan's fist crashes into Eren's side, sending him skidding across the grid. Eren plants his heel against a crystal column, pivots, and drives forward-shoulder first-slamming into Reiner's chest. Armor plates crack, but hold.
+The Armored Titan's fist crashes into Eren's side, sending him skidding across the grid. Eren plants his heel against a crystal column, pivots, and drives forward, shoulder first, slamming into Reiner's chest. Armor plates crack, but hold.
 
 They exchange blows in brutal rhythm.
 
@@ -1710,7 +1710,7 @@ The Cart Titan shifts nearby, legs bracing as Pieck reorients her mounted frame,
 
 They don't get long to think.
 
-Crystal structures rise around them-not randomly, not violently-but **precisely**.  
+Crystal structures rise around them, not randomly, not violently, but **precisely**.  
 Mid-range columns lock into place.  
 Urban-block simulations follow, closing gaps, narrowing lanes.
 
@@ -1724,7 +1724,7 @@ A shadow passes overhead.
 
 Mikasa drops first.
 
-The Thunder Spear leaves her hand mid-fall, spinning once before slamming into the ground between the two Titans. The explosion doesn't aim to kill-it **forces separation**.
+The Thunder Spear leaves her hand mid-fall, spinning once before slamming into the ground between the two Titans. The explosion doesn't aim to kill, it **forces separation**.
 
 Porco is blasted forward.  
 Pieck is driven backward.
@@ -1738,9 +1738,9 @@ Two figures land lightly in front of them.
 Blades drawn.  
 Gas hissing.
 
-Levi Ackerman stands where Porco is now facing-backed by dense urban blocks and narrow corridors.
+Levi Ackerman stands where Porco is now facing, backed by dense urban blocks and narrow corridors.
 
-Mikasa Ackerman stands opposite Pieck-open ground behind her, columns arranged like retreat lanes.
+Mikasa Ackerman stands opposite Pieck, open ground behind her, columns arranged like retreat lanes.
 
 Levi speaks without looking away, "Don't waste the spears."
 
@@ -1758,13 +1758,13 @@ He lowers himself, muscles coiling.
 
 He charges.
 
-Porco moves first-fast, feral, body low as he launches forward; jaws snapping wide.
+Porco moves first, fast, feral, body low as he launches forward; jaws snapping wide.
 
 Levi doesn't move.
 
 Not yet.
 
-At the last second, Levi sidesteps, ODM lines snapping into a nearby block. He pulls Porco **past him**, not away-into the urban structures.
+At the last second, Levi sidesteps, ODM lines snapping into a nearby block. He pulls Porco **past him**, not away, into the urban structures.
 
 Porco crashes through stone, claws scraping walls too close together for full momentum.
 
@@ -1776,7 +1776,7 @@ To react.
 
 Levi is everywhere.
 
-He doesn't strike to kill-only to **redirect**.  
+He doesn't strike to kill, only to **redirect**.  
 A cut to the shoulder.  
 A slice across hardened plating.  
 A kickoff a wall that forces Porco deeper into the maze.
@@ -1791,13 +1791,13 @@ This isn't just a duel.
 
 It's containment.
 
-On the opposite side-
+On the opposite side,
 
 Pieck pulls back instinctively, weapons swiveling toward Mikasa.
 
 Mikasa lets her.
 
-She runs forward just long enough to draw fire-bullets chewing the ground-then fires her ODM line sideways, pulling herself into a column cluster.
+She runs forward just long enough to draw fire, bullets chewing the ground, then fires her ODM line sideways, pulling herself into a column cluster.
 
 Pieck tracks her. Retreating.
 
@@ -1811,7 +1811,7 @@ Pieck feels it.
 
 Too late.
 
-Mikasa fires upward, swings over Pieck's frame, and lands on the mounted weapon-not to destroy it, but to **force Pieck forward**.
+Mikasa fires upward, swings over Pieck's frame, and lands on the mounted weapon, not to destroy it, but to **force Pieck forward**.
 
 Pieck bucks, slamming into a pillar.
 
@@ -1819,7 +1819,7 @@ The pillar doesn't break.
 
 The Cart Titan stumbles.
 
-Mikasa drops, slicing clean through a joint in the mounting rig, then darts away-never lingering.
+Mikasa drops, slicing clean through a joint in the mounting rig, then darts away, never lingering.
 
 The weapon crashes uselessly to the ground.
 
@@ -1835,7 +1835,7 @@ Porco lunges again.
 
 This time, Levi didn't sidestep.
 
-The Jaw Titan's claws snap forward with terrifying speed-too fast for hesitation. Levi fires his ODM lines instantly, not to retreat, but to **brace**, pulling himself into Porco's trajectory.
+The Jaw Titan's claws snap forward with terrifying speed, too fast for hesitation. Levi fires his ODM lines instantly, not to retreat, but to **brace**, pulling himself into Porco's trajectory.
 
 Steel meets hardened claws.
 
@@ -1847,7 +1847,7 @@ Porco doesn't let up.
 
 He pivots mid-charge, tailing Levi with frightening precision. His jaws snap shut inches from Levi's head, the air cracking with the force.
 
-"Got you-!"
+"Got you!"
 
 Levi twists, barely clearing the bite as the Jaw Titan's teeth shear through stone instead.
 
@@ -1857,9 +1857,9 @@ Too close.
 
 Porco is smiling now.
 
-"Thought so," he snarls. "You're fast-but I'm built for this."
+"Thought so," he snarls. "You're fast, but I'm built for this."
 
-He springs again, faster than before, claws striking in rapid succession. Levi blocks once-_once_-and the force rattles his arms.
+He springs again, faster than before, claws striking in rapid succession. Levi blocks it and the force rattles his arms.
 
 This isn't a lumbering Titan.
 
@@ -1873,7 +1873,7 @@ Up.
 Across.  
 Through the urban blocks.
 
-Levi cuts across Porco's forearm-shallow, but enough to disrupt balance.
+Levi cuts across Porco's forearm, shallow, but enough to disrupt balance.
 
 Porco answers by **swiping midair**, clipping Levi's harness and tearing part of it loose.
 
@@ -1885,18 +1885,18 @@ Levi doesn't disengage.
 
 He accelerates.
 
-For a moment, it's pure speed-steel and claws crossing too fast for anyone else to follow. Levi strikes; Porco counters. Porco lunges; Levi pivots.
+For a moment, it's pure speed, steel and claws crossing too fast for anyone else to follow. Levi strikes; Porco counters. Porco lunges; Levi pivots.
 
 Equal reaction time.  
 Equal aggression.
 
 But space is shrinking.
 
-Porco clips a corner-just slightly.
+Porco clips a corner, just slightly.
 
 Levi doesn't miss it.
 
-He changes angles instantly, forcing Porco deeper between the blocks. The Jaw Titan tries to leap wide-there isn't room.
+He changes angles instantly, forcing Porco deeper between the blocks. The Jaw Titan tries to leap wide, there isn't room.
 
 Porco snarls, frustration bleeding into his movements.
 
@@ -1904,7 +1904,7 @@ Porco snarls, frustration bleeding into his movements.
 
 Levi doesn't answer.
 
-Porco lunges again-desperate, furious.
+Porco lunges again, desperate, furious.
 
 Levi lets him come.
 
@@ -1914,7 +1914,7 @@ Porco turns too late.
 
 Levi drives his blade into the Jaw Titan's eye socket.
 
-Porco screams-not in pain alone, but in rage.
+Porco screams, not in pain alone, but in rage.
 
 Levi doesn't finish him.
 
@@ -1943,17 +1943,15 @@ Levi's voice drifts from above, calm and cold.
 "You're fast," he says.  
 "But this ground isn't yours."
 
-Porco roars and charges again-
-
--and the trap tightens.
+Porco roars and charges again, and the trap tightens.
 
 #### Back to war
 
 On the ground, Marleyan infantry breaks formation.
 
-The terrain betrays them at every step-narrow lanes, sudden elevation changes, blind angles that turn into death traps. Survey Corps soldiers swing from pillar to pillar, striking and retreating before Marley can regroup.
+The terrain betrays them at every step, narrow lanes, sudden elevation changes, blind angles that turn into death traps. Survey Corps soldiers swing from pillar to pillar, striking and retreating before Marley can regroup.
 
-Artillery fire rains down-but the angles are wrong.
+Artillery fire rains down, but the angles are wrong.
 
 The battlefield belongs to Paradis.
 
@@ -1961,7 +1959,7 @@ Reiner roars and charges again.
 
 Eren meets him head-on.
 
-Their fists collide mid-air-bone against crystal-reinforced muscle. Eren twists, hooks Reiner's arm, and slams a punch straight into his face.
+Their fists collide mid-air, bone against crystal-reinforced muscle. Eren twists, hooks Reiner's arm, and slams a punch straight into his face.
 
 Armor shatters.
 
@@ -1975,11 +1973,11 @@ The Armored Titan collapses to one knee, head snapping back as Eren drives a fin
 
 Reiner hits the ground hard.
 
-For a fraction of a second-
+For a fraction of a second,
 
 Silence.
 
-Then-
+Then,
 
 A scream tears through the air.
 
@@ -1991,7 +1989,7 @@ Reiner reacts instantly.
 
 He surges forward, tackling Eren to the ground, pinning him beneath his weight. His remaining armor grinds against Eren's chest as he raises his fist.
 
-Reiner, "This ends now-"
+Reiner, "This ends now,"
 
 But before he could land the punch, A thunderous crack interrupts him.
 
@@ -2023,7 +2021,7 @@ The forearm expands and locks into a mini gun, crystal lattice humming as it rot
 
 He fires.
 
-Crystal shards fired by Eren strikes to War Hammer Titan, detonating crystal defenses and throwing her backward through a line of pillars. She retaliates instantly-spikes, hammers, and blades erupting from the ground.
+Crystal shards fired by Eren strikes to War Hammer Titan, detonating crystal defenses and throwing her backward through a line of pillars. She retaliates instantly, spikes, hammers, and blades erupting from the ground.
 
 Eren dodges.
 
@@ -2031,13 +2029,13 @@ Steps through the chaos.
 
 Closes the distance.
 
-He pulls back his fist-
+He pulls back his fist,
 
 And charges.
 
 Two monsters collide again.
 
-This time-
+This time,
 
 It's something else entirely.
 
@@ -2047,11 +2045,11 @@ The War Hammer does not retreat.
 
 She answers force with annihilation.
 
-Crystal erupts in every direction-spears, hammers, whips tearing through the air with surgical precision. Eren moves through it, not faster, but _earlier_-anticipating the angles before they fully form. A hammer crashes where his head had been a moment ago; he steps into the gap and drives a knee into the War Hammer's torso, shattering layered crystal and sending fragments screaming across the field.
+Crystal erupts in every direction, spears, hammers, whips tearing through the air with surgical precision. Eren moves through it, not faster, but _earlier_, anticipating the angles before they fully form. A hammer crashes where his head had been a moment ago; he steps into the gap and drives a knee into the War Hammer's torso, shattering layered crystal and sending fragments screaming across the field.
 
 She reforms instantly.
 
-A blade grows from her arm, slashing downward. Eren catches it with his forearm-crystal grinding against crystal-then twists, snapping the weapon apart and ramming his shoulder into her core.
+A blade grows from her arm, slashing downward. Eren catches it with his forearm, crystal grinding against crystal, then twists, snapping the weapon apart and ramming his shoulder into her core.
 
 She gets slammed but immediately rolls back up.
 
@@ -2065,7 +2063,7 @@ He stops targeting the Titan.
 
 He targets the ground.
 
-Crystal spikes burst upward beneath her feet, destabilizing her stance. Eren lunges, driving both hands into her legs, pins her down, and then exposes her weakness-not flesh, not armor-
+Crystal spikes burst upward beneath her feet, destabilizing her stance. Eren lunges, driving both hands into her legs, pins her down, and then exposes her weakness, not flesh, not armor,
 
 A cocoon.
 
@@ -2083,17 +2081,17 @@ He yanks the cord.
 
 It snaps with a sound like breaking glass.
 
-The War Hammer's Titan freezes-then collapses.
+The War Hammer's Titan freezes, then collapses.
 
 Eren stands there, cocoon clenched in his fist.
 
 For a moment, he doesn't know what to do.
 
-Then-
+Then,
 
 A deafening crack.
 
-An anti-Titan shell screams across the battlefield and slams directly into Eren's hand.
+An Anti-Titan shell screams across the battlefield and slams directly into Eren's hand.
 
 The explosion is violent.
 
@@ -2105,7 +2103,7 @@ Eren's entire palm is blown away.
 
 The War Hammer is dead.
 
-Silence falls-sharp, stunned.
+Silence falls, sharp, stunned.
 
 Eren looks up.
 
@@ -2119,7 +2117,7 @@ Eren's eyes burn.
 
 "They never cared," he growls. "Not about anyone."
 
-Rage surges-not wild, not blind-but focused.
+Rage surges, not wild, not blind, but focused.
 
 Deadly.
 
@@ -2137,7 +2135,7 @@ The explosion swallows the platform.
 
 The wall falls silent.
 
-Eren exhales slowly as steam pours from his shoulder, muscle and bone already reforming; crystal following last-methodical, controlled.
+Eren exhales slowly as steam pours from his shoulder, muscle and bone already reforming; crystal following last, methodical, controlled.
 
 Behind him, Reiner watches in horror as his own body struggles to heal, armor sluggish, head regenerating piece by piece.
 
@@ -2145,7 +2143,7 @@ _"Why…_ he thinks. _Why isn't he slowing down?_
 
 _He's using power far beyond his limits."_
 
-And yet-
+And yet,
 
 Eren stands.
 
@@ -2173,7 +2171,7 @@ The ground ahead erupts.
 
 The front wall collapses inward as artillery fire tears it apart. Tanks surge through the breach; steel treads crush debris beneath them.
 
-And leading them-
+And leading them,
 
 A familiar shape charges forward.
 
@@ -2229,7 +2227,7 @@ Eren stands still in the same position he was before, steam rising from his body
 
 He waits.
 
-Inside his mind, his voice is quiet-but resolute.
+Inside his mind, his voice is quiet, but resolute.
 
 _"It's time, fallen heroes."_
 
@@ -2237,7 +2235,7 @@ The ground beneath the tanks ripples.
 
 Zeke's eyes widen.
 
-"Wait-"
+"Wait,"
 
 The earth erupts.
 
@@ -2245,9 +2243,9 @@ Colossal Titans burst upward from beneath the battlefield, massive arms impaling
 
 Marley's armored spearhead is annihilated in seconds.
 
-Zeke stares as his army is flanked-_from below_.
+Zeke stares as his army is flanked _from below_.
 
-"…No," he whispers. "That's-"
+"…No," he whispers. "That's,"
 
 A shot rings out.
 
@@ -2255,11 +2253,11 @@ A single, precise crack.
 
 The bullet slams into the Beast Titan's neck, snapping his head sideways and throwing his massive body off balance.
 
-Sasha lowers her anti-titan rifle, breath steady.
+Sasha lowers her Anti-Titan rifle, breath steady.
 
 "Got you," she mutters.
 
-Before Zeke can recover-
+Before Zeke can recover,
 
 Connie is already there.
 
@@ -2279,7 +2277,7 @@ Levi is watching this unfold, remembering Connie asking him to teach him to use 
 
 Connie in his mind, _"This is for Ragako."_
 
-With a final wrench, Connie severs control and drags Zeke's human body free, hauling him through the air toward the rear lines-toward Levi, where the other captured Warriors are restrained and waiting.
+With a final wrench, Connie severs control and drags Zeke's human body free, hauling him through the air toward the rear lines, toward Levi, where the other captured Warriors are restrained and waiting.
 
 Zeke can't scream.
 
@@ -2293,7 +2291,7 @@ The plan unfolding exactly as intended.
 
 Reiner does not.
 
-Armor plates crack as Reiner forces himself upright, disbelief giving way to desperation. His breathing is ragged; vision blurred-but his resolve burns hotter than ever.
+Armor plates crack as Reiner forces himself upright, disbelief giving way to desperation. His breathing is ragged; vision blurred, but his resolve burns hotter than ever.
 
 "I can't lose," he growls. "Not now. Not like this."
 
@@ -2325,11 +2323,11 @@ Eren is holding Reiner in his fist.
 
 He turns slightly, glancing toward where Levi stands with the restrained Warriors.
 
-"Come," he continues. "I want to talk to you-and your friends-about something."
+"Come," he continues. "I want to talk to you and your friends about something."
 
 Reiner stares up at him, chest heaving, the battlefield burning around them.
 
-For the first time since he became a Warrior-
+For the first time since he became a Warrior,
 
 He doesn't know what comes next.
 
@@ -2341,7 +2339,7 @@ The battlefield is silent.
 
 Smoke drifts lazily across broken ground; crystal shards catch the light like frozen stars. The air smells of scorched metal and salt carried inland from the coast.
 
-Marleyan soldiers kneel in long rows-**not only those who landed first, but the remnants of entire battalions pulled from the shoreline and surrounding plains**. Disarmed. Exhausted. Guarded on all sides.
+Marleyan soldiers kneel in long rows, **not only those who landed first, but the remnants of entire battalions pulled from the shoreline and surrounding plains**. Disarmed. Exhausted. Guarded on all sides.
 
 Some still wear naval insignia.  
 Others bear the dust and scorch marks of artillery positions that no longer exist.
@@ -2349,7 +2347,7 @@ Others bear the dust and scorch marks of artillery positions that no longer exis
 No one fights anymore.  
 No one even speaks.
 
-Beyond the broken ground, the **airships lie wrecked or grounded**, their advance halted hours ago-cut off by the collapsing grid, flanked by Titans emerging from beneath the earth, and overwhelmed by Paradis forces that moved faster than any projection had allowed.
+Beyond the broken ground, the **airships lie wrecked or grounded**, their advance halted hours ago, cut off by the collapsing grid, flanked by Titans emerging from beneath the earth, and overwhelmed by Paradis forces that moved faster than any projection had allowed.
 
 Every route inward has been sealed.  
 Every remaining unit has surrendered.
@@ -2366,7 +2364,7 @@ Pieck.
 
 Colt.
 
-Their eyes are fixed forward-waiting.
+Their eyes are fixed forward, waiting.
 
 Footsteps echo.
 
@@ -2376,16 +2374,16 @@ Annie Leonhart.
 
 For a moment, no one breathes.
 
-Reiner's knees nearly give out. Porco stares as if he's seeing a ghost. Pieck's eyes widen-then soften-then harden again.
+Reiner's knees nearly give out. Porco stares as if he's seeing a ghost. Pieck's eyes widen, then soften, then harden again.
 
 "…Annie?" Reiner whispers.
 
 She doesn't answer.  
-She just looks at them-older, quieter, and unmistakably real.
+She just looks at them, older, quieter, and unmistakably real.
 
 Everyone expects death.
 
-Then-
+Then,
 
 The Attack Titan collapses.
 
@@ -2397,7 +2395,7 @@ The Marleyan Warriors freeze.
 
 Something is wrong.
 
-Eren's eyes glow-not brightly, not violently-but impossibly deep, as if galaxies swirl behind them. Infinite. Watching.
+Eren's eyes glow, not brightly, not violently, but impossibly deep, as if galaxies swirl behind them. Infinite. Watching.
 
 Understanding hits them all at once.
 
@@ -2405,11 +2403,11 @@ _That's why._
 
 Eren walks closer.
 
-Before he can speak, a Marleyan officer shouts from the rear ranks-one of many dragged inland after the coastal route.
+Before he can speak, a Marleyan officer shouts from the rear ranks, one of many dragged inland after the coastal route.
 
 "You think you've won?" He snarls. "As long as you devils exist, we'll keep coming! You must be erased from this world!"
 
-Cheers erupt behind him-ragged, desperate, hollow.
+Cheers erupt behind him, ragged, desperate, hollow.
 
 Reiner's expression twists.
 
@@ -2427,13 +2425,13 @@ The laughter dies.
 
 Murmurs ripple through the crowd.
 
-"Don't bluff," a soldier scoffs. "Fairy tales-"
+"Don't bluff," a soldier scoffs. "Fairy tales,"
 
 "Jean. Connie," Eren says quietly.
 
 They move instantly, cutting the restraints from the Warriors.
 
-Porco steps back, instinctively biting his hand-
+Porco steps back, instinctively biting his hand,
 
 Blood spills.
 
@@ -2486,7 +2484,7 @@ She's crying.
 
 She's smiling.
 
-For the first time-free.
+For the first time, free.
 
 Eren turns back to the fallen officer and lifts him effortlessly.
 
@@ -2506,13 +2504,13 @@ Eren releases him.
 
 "Hange," he says, turning away. "Treat the prisoners. Prepare their escort home."
 
-Around them, **Paradis soldiers begin organizing the captured forces-coastal battalions, artillery crews, command officers-into guarded columns**, moving with discipline born not of hatred, but certainty.
+Around them, **Paradis soldiers begin organizing the captured forces, coastal battalions, artillery crews, command officers, into guarded columns**, moving with discipline born not of hatred, but certainty.
 
 As the Marleyan army is led away, Reiner steps forward once more.
 
 "Wait," he says. "You could have taken our powers from the beginning. Why didn't you?"
 
-Eren stops-but doesn't turn.
+Eren stops, but doesn't turn.
 
 "Because I don't control people's will," he replies.
 
@@ -2534,11 +2532,11 @@ _About everything._
 
 ## CHAPTER 6: END OF THE GENERATIONAL SORROW
 
-Eren takes one step toward Armin-and collapses.
+Eren takes one step toward Armin and collapses.
 
 Armin barely has time to react before Eren's weight crashes into him. He catches him, arms trembling, heart pounding as steam rises faintly from Eren's skin.
 
-"Eren-!"
+"Eren!"
 
 Eren's body is exhausted. Not injured. _Spent._
 
@@ -2560,7 +2558,7 @@ Armin holds him tighter. "You've done enough," he says, voice breaking.
 
 Eren wakes to quiet breathing.
 
-Mikasa is asleep in the chair beside him, head resting against the bedframe, fingers still curled around his hand-as if letting go might make him disappear.
+Mikasa is asleep in the chair beside him, head resting against the bedframe, fingers still curled around his hand, as if letting go might make him disappear.
 
 Eren smiles.
 
@@ -2568,11 +2566,11 @@ He shifts slightly.
 
 Her eyes snap open.
 
-For a moment, she just stares at him, frozen-like she's afraid the movement is a trick.
+For a moment, she just stares at him, frozen, like she's afraid the movement is a trick.
 
 Then she's crying. Laughing. Hugging him so tightly it almost hurts.
 
-"I thought you-" Her voice breaks. She pulls back just enough to look at his face, searching for something solid. "I thought I lost you."
+"I thought you," Her voice breaks. She pulls back just enough to look at his face, searching for something solid. "I thought I lost you."
 
 "I'm still here," Eren says quietly.
 
@@ -2582,7 +2580,7 @@ Later, when the room has gone still again, the silence grows heavier than before
 
 Eren stares at the ceiling for a long moment.
 
-There's something he's been holding back-not because he didn't want to say it, but because he was afraid of what the answer might take from her.
+There's something he's been holding back, not because he didn't want to say it, but because he was afraid of what the answer might take from her.
 
 "Mikasa," he says at last.
 
@@ -2592,7 +2590,7 @@ She looks up immediately.
 
 She stiffens.
 
-He turns his head toward her, voice careful-not pleading, not demanding.
+He turns his head toward her, voice careful, not pleading, not demanding.
 
 "Not because of duty," he adds. "Not because of blood. I don't want something you feel forced to carry. I want to know _you_."
 
@@ -2622,7 +2620,7 @@ Mikasa turns her head to his hand, like she is lying on it.
 
 They don't rush it.
 
-They lean in slowly, as if afraid the moment might break-
+They lean in slowly, as if afraid the moment might break,
 
 And then they kiss.
 
@@ -2634,7 +2632,7 @@ Just real.
 
 The door opens.
 
-Jean steps inside-mid-sentence-then stops.
+Jean steps inside mid-sentence, then stops.
 
 He freezes.
 
@@ -2644,7 +2642,7 @@ Then away.
 
 "…Right," he mutters, already turning his head. "I'll-uh. I'll pretend I didn't see that."
 
-Behind him, Connie blinks once-then bursts out laughing.
+Behind him, Connie blinks once, then bursts out laughing.
 
 "No way," he says. "No way that just happened."
 
@@ -2652,7 +2650,7 @@ Sasha grins, clapping her hands together. "About time."
 
 Armin stands in the doorway, quiet.
 
-He doesn't say anything-just exhales, shoulders relaxing as a small smile spreads across his face.
+He doesn't say anything, just exhales, shoulders relaxing as a small smile spreads across his face.
 
 Levi clicks his tongue.
 
@@ -2686,13 +2684,13 @@ Levi Squad meets up near a campfire.
 
 The fire burns low, steady rather than bright.
 
-Eren sits with his squad in a loose circle, tin cups warming their hands. Mikasa sitting next to him, holding his arm, laying her head on his shoulder. No one speaks much. The memorial still hangs over them - not like grief, but like something unfinished.
+Eren sits with his squad in a loose circle, tin cups warming their hands. Mikasa sitting next to him, holding his arm, laying her head on his shoulder. No one speaks much. The memorial still hangs over them, not like grief, but like something unfinished.
 
 The crackle of wood is the loudest sound.
 
 Then footsteps.
 
-Levi notices first. He doesn't react - just watches.
+Levi notices first. He doesn't react, just watches.
 
 Eren looks up.
 
@@ -2708,15 +2706,15 @@ Jean exhales slowly. "You're already here."
 
 Reiner nods once. "We thought… it might be easier to talk like this. Not standing in lines. Not pretending we're still on opposite sides."
 
-Silence follows - not hostile, just heavy.
+Silence follows; not hostile, just heavy.
 
 Eren shifts, then sets his cup down and stands. He gestures toward the fire.
 
 "You can sit," he says. "If you want."
 
-Reiner hesitates, then steps forward. The others follow - carefully, like they're testing the ground. They don't cross fully into the circle. They stop just short.
+Reiner hesitates, then steps forward. The others follow; carefully, like they're testing the ground. They don't cross fully into the circle. They stop just short.
 
-"That's close enough," Connie mutters, then winces. "I mean-yeah. Sit."
+"That's close enough," Connie mutters, then winces. "I mean yeah. Sit."
 
 Porco snorts. "Still charming."
 
@@ -2734,7 +2732,7 @@ Jean's jaw tightens. "Good. Because we're not there."
 
 Reiner nods. "I figured."
 
-Mikasa steps closer to Eren - not in front of him, not behind him. Just beside.
+Mikasa steps closer to Eren, not in front of him, not behind him. Just beside.
 
 Pieck speaks next, voice calm. "It's strange," she says. "Standing here without orders. Without knowing what we're supposed to be."
 
@@ -2752,7 +2750,7 @@ Porco lets out a breath that almost sounds like a laugh. "Good. Would've felt wr
 
 That cracks something.
 
-Not laughter - release.
+Not laughter, release.
 
 Reiner looks at Eren then. Really looks at him.
 
@@ -2774,7 +2772,7 @@ But no one stands up to leave.
 
 Levi finally turns away from the fire, satisfied.
 
-The night deepens. Someone adds another log. The circle widens by inches - not enough to forget the past, but enough to share the warmth.
+The night deepens. Someone adds another log. The circle widens by inches, not enough to forget the past, but enough to share the warmth.
 
 Enemies once.
 
@@ -2920,7 +2918,7 @@ Eren closes his eyes.
 
 Zeke walks away.
 
-Eren remains by the dying fire, alone-but lighter than before.
+Eren remains by the dying fire, alone, but lighter than before.
 
 #### After a couple of days
 
@@ -2928,7 +2926,7 @@ When it is over, there is no celebration.
 
 Only exhaustion.
 
-Eren and Mikasa leave the Survey Corps the same way they lived in it-without announcement.
+Eren and Mikasa leave the Survey Corps the same way they lived in it, without announcement.
 
 No ceremony.
 
@@ -2936,11 +2934,11 @@ No applause.
 
 Just two cloaks folded neatly and placed where they belong.
 
-They walk away together, not because the war is over-but because **they are**.
+They walk away together, not because the war is over, but because **their battle is finished**.
 
 Armin stands before his first briefing as a section commander, notes clutched too tightly in his hands. Hange watches from the side, saying nothing.
 
-When Armin speaks, his voice shakes once-then steadies.
+When Armin speaks, his voice shakes once, then steadies.
 
 People listen.
 
@@ -2970,7 +2968,7 @@ Sometimes they don't.
 
 Annie doesn't expect him to be there.
 
-The port is crowded-ships unloading supplies, people moving cautiously, still unsure how peace is supposed to look. She walks slowly, hands in her pockets, eyes scanning faces without really looking.
+The port is crowded, ships unloading supplies, people moving cautiously, still unsure how peace is supposed to look. She walks slowly, hands in her pockets, eyes scanning faces without really looking.
 
 Then she stops.
 
@@ -2990,13 +2988,13 @@ Then his breath catches.
 
 She nods once. That's all she manages.
 
-He walks toward her-slow at first, like he's afraid she might vanish if he moves too fast. When he reaches her, he stops again, hands hovering uncertainly.
+He walks toward her, slow at first, like he's afraid she might vanish if he moves too fast. When he reaches her, he stops again, hands hovering uncertainly.
 
 "You're… you're real," he says. "I didn't-after everything, I didn't know if-"
 
 Annie steps forward and wraps her arms around him.
 
-He stiffens for half a heartbeat-then breaks.
+He stiffens for half a heartbeat, then breaks.
 
 He pulls her close, arms shaking as he presses his face into her hair, holding on like the ground might disappear if he lets go.
 
@@ -3026,7 +3024,7 @@ She nods against his shoulder.
 
 For the first time since she was a child, Annie allows herself to be held without bracing for impact.
 
-Around them, the world keeps moving-ships unloading, people talking, a future trying to begin.
+Around them, the world keeps moving, ships unloading, people talking, a future trying to begin.
 
 But for Annie Leonhart, the war ends there.
 
@@ -3034,7 +3032,7 @@ In her father's arms.
 
 Meanwhile, statues are pulled down.
 
-Not smashed in rage-but dismantled carefully, piece by piece. The likenesses of false heroes are removed from plazas and melted down for scrap.
+Not smashed in rage, but dismantled carefully, piece by piece. The likenesses of false heroes are removed from plazas and melted down for scrap.
 
 The Tybur estate is sealed.
 
@@ -3062,7 +3060,7 @@ Children are pulled from training programs.
 
 Uniforms meant for teenagers are burned.
 
-A generation is told-awkwardly, uncertainly-that they are allowed to live.
+A generation is told, awkwardly, uncertainly that they are allowed to live.
 
 #### Reiner's bedroom
 
@@ -3108,7 +3106,7 @@ Reiner hesitates in the doorway.
 
 He does.
 
-For a few minutes, they eat in silence - the kind that isn't uncomfortable, just cautious.
+For a few minutes, they eat in silence, the kind that isn't uncomfortable, just cautious.
 
 Then Gabi can't hold it in anymore.
 
@@ -3150,7 +3148,7 @@ It's quiet. Rough around the edges. But it's real.
 
 Everyone freezes.
 
-Reiner covers his mouth, surprised - then lowers his hand.
+Reiner covers his mouth, surprised, then lowers his hand.
 
 "I'm sorry," he says, voice unsteady. "I just…"
 
@@ -3166,7 +3164,7 @@ Not the weight lifting all at once.
 
 But the ground holding.
 
-And when he smiles - really smiles - it's not because the past is gone.
+And when he smiles, really smiles, it's not because the past is gone.
 
 It's because the future finally belongs to someone else.
 
@@ -3218,7 +3216,7 @@ Some refuse to.
 
 All are recorded.
 
-Borders do not vanish-but they loosen. Trade routes reopen where armies once marched. Formerly occupied nations send delegates instead of demands. Reparations are argued over, adjusted, argued over again.
+Borders do not vanish, but they loosen. Trade routes reopen where armies once marched. Formerly occupied nations send delegates instead of demands. Reparations are argued over, adjusted, argued over again.
 
 Progress is slow.
 
@@ -3234,7 +3232,7 @@ As an officer.
 
 Her uniform is simple. No Titan insignia. No inherited curse. Just rank earned through skill, discipline, and experience.
 
-She leads drills-efficient, precise, and controlled. Not teaching destruction, but restraint. Not how to overpower, but how to protect it.
+She leads drills, efficient, precise, and controlled. Not teaching destruction, but restraint. Not how to overpower, but how to protect it.
 
 Her father watches from the sidelines.
 
@@ -3286,7 +3284,7 @@ No inheritance.
 
 Just coordination, awareness, retreat.
 
-Porco corrects a stance. Pieck adjusts a formation. They work in practiced rhythm-arguing quietly, refining constantly.
+Porco corrects a stance. Pieck adjusts a formation. They work in practiced rhythm, arguing quietly, refining constantly.
 
 "Too aggressive," Pieck notes.
 
@@ -3300,7 +3298,7 @@ Neither of them needs to prove anything anymore.
 
 Zeke spends his days in administrative buildings, not war rooms.
 
-He works with Colt, who takes the role more naturally than he expected. Together they oversee the dismantling of what remains of Marley's old military doctrine-closing Titan research facilities, decommissioning training camps, redirecting resources toward civil infrastructure.
+He works with Colt, who takes the role more naturally than he expected. Together they oversee the dismantling of what remains of Marley's old military doctrine, closing Titan research facilities, decommissioning training camps, redirecting resources toward civil infrastructure.
 
 There are arguments.
 
@@ -3320,7 +3318,7 @@ They still exist, written in records, spoken by older generations.
 
 But children use them less.
 
-They argue about school, about work, about whose turn it is to clean up-not about bloodlines they were never taught to fear.
+They argue about school, about work, about whose turn it is to clean up, not about bloodlines they were never taught to fear.
 
 The statue of Helos is taken down.
 
@@ -3328,7 +3326,7 @@ Not in anger.
 
 In silence.
 
-Its pieces are cataloged, melted, repurposed into materials for public works-bridges, railings, memorial plaques bearing no names of heroes.
+Its pieces are cataloged, melted, repurposed into materials for public works, bridges, railings, memorial plaques bearing no names of heroes.
 
 In its place, a new statue is erected.
 
@@ -3336,7 +3334,7 @@ Eren Yeager does not stand triumphant.
 
 He is not shown as a conqueror.
 
-The sculptor depicts him mid-step, cloak caught by the wind, eyes fixed forward-not above.
+The sculptor depicts him mid-step, cloak caught by the wind, eyes fixed forward not above.
 
 The plaque beneath it does not call him a god.
 
@@ -3362,7 +3360,7 @@ The world does not change all at once.
 
 In some places, the first signs are subtle.
 
-Ports once reserved for Marleyan warships reopen to civilian trade. Flags are lowered quietly, replaced by nothing at all. Checkpoints remain-but soldiers there ask for papers instead of obedience.
+Ports once reserved for Marleyan warships reopen to civilian trade. Flags are lowered quietly, replaced by nothing at all. Checkpoints remain but soldiers there ask for papers instead of obedience.
 
 Formerly occupied nations argue among themselves about what independence should look like.
 
@@ -3374,7 +3372,7 @@ Most simply want stability.
 
 In cities once stripped of resources, factories are reopened under local control.
 
-Workers argue over wages instead of rations. Children attend schools that teach geography without red lines drawn around "enemy" states. Histories are rewritten-not to glorify suffering, but to acknowledge it.
+Workers argue over wages instead of rations. Children attend schools that teach geography without red lines drawn around "enemy" states. Histories are rewritten not to glorify suffering, but to acknowledge it.
 
 The word _liberation_ is used carefully.
 
@@ -3416,9 +3414,9 @@ No foreign Titan casts a shadow over the debate.
 
 In border regions once defined by fear, mixed communities begin to form.
 
-Languages overlap. Customs clash. Marriages are questioned-and then accepted. The words _Eldian_ and _Marleyan_ still exist, but they lose their sharpest edges.
+Languages overlap. Customs clash. Marriages are questioned and then accepted. The words _Eldian_ and _Marleyan_ still exist, but they lose their sharpest edges.
 
-Children argue over whose turn it is to speak-not whose blood is dangerous.
+Children argue over whose turn it is to speak, not whose blood is dangerous.
 
 Delegations gather in neutral halls.
 
@@ -3432,7 +3430,7 @@ Not by threat.
 
 Stories begin to circulate.
 
-Of an island that could have destroyed the world-but didn't.
+Of an island that could have destroyed the world but didn't.
 
 Of a man who chose an ending instead of a reign.
 
@@ -3460,7 +3458,7 @@ The walls don't exist anymore.
 
 It becomes small.
 
-Not weak-_human_.
+Not weak, _human_.
 
 People no longer live stacked by class or distance from danger. The old divisions fade quietly: inner districts lose their privilege, outer districts lose their stigma. Homes are rebuilt where people choose to stay, not where walls once forced them.
 
@@ -3470,7 +3468,7 @@ Wealth becomes circulation, not protection.
 
 Trade ships dock at newly built ports.
 
-Rail lines stretch inland, carrying goods from abroad-machines, books, blueprints written in languages Paradis once feared. Technologies are adapted, not imported blindly. Engineers argue over power systems. Builders debate materials. Nothing is rushed.
+Rail lines stretch inland, carrying goods from abroad, machines, books, blueprints written in languages Paradis once feared. Technologies are adapted, not imported blindly. Engineers argue over power systems. Builders debate materials. Nothing is rushed.
 
 Progress is careful.
 
@@ -3478,7 +3476,7 @@ Intentional.
 
 Beyond the city, a vast open yard stretches across reclaimed land.
 
-The Colossal Titans stand there-over 600-700 thousands of them-reduced now to forms closer to ordinary Titans. Their massive frames no longer strain the earth. Their heat no longer scorches the air.
+The Colossal Titans stand there, over 600-700 thousands of them, reduced now to forms closer to ordinary Titans. Their massive frames no longer strain the earth. Their heat no longer scorches the air.
 
 They are dormant.
 
@@ -3522,7 +3520,7 @@ They listen.
 
 New professions emerge.
 
-Aviation engineers design gliders, then planes-machines meant to observe, not bomb. Marine explorationists chart deep waters once thought unreachable. Expeditionary scholars travel beyond the island, documenting snowfields, jungles, deserts, volcanoes-returning with maps, journals, stories.
+Aviation engineers design gliders, then planes, machines meant to observe, not bomb. Marine explorationists chart deep waters once thought unreachable. Expeditionary scholars travel beyond the island, documenting snowfields, jungles, deserts, volcanoes, returning with maps, journals, stories.
 
 Not conquest.
 
@@ -3560,7 +3558,7 @@ The island is no longer a cage.
 
 It is a place.
 
-And for the first time since its founding, Paradis is not preparing for the end of the world-
+And for the first time since its founding, Paradis is not preparing for the end of the world,
 
 It is preparing to be part of it.
 
@@ -3592,7 +3590,7 @@ Faye giggles. Thomas straightens proudly.
 
 Zeke laughs softly. "I like that better."
 
-Behind him, the grandparents step forward slowly-older now, careful with their steps, eyes already wet, smiling at the kids.
+Behind him, the grandparents step forward slowly, older now, careful with their steps, eyes already wet, smiling at the kids.
 
 They enter together.
 
@@ -3636,7 +3634,7 @@ Porco.
 
 Zeke.
 
-And finally-
+And finally,
 
 His grandparents.
 
@@ -3664,7 +3662,7 @@ Thomas climbs closer, careful, as if the bed might break.
 
 "Yeah," Eren answers honestly. "But it's the good kind."
 
-His grandmother takes his hand. It's warm-but fragile.
+His grandmother takes his hand. It's warm but fragile.
 
 "You did enough," she says. "More than enough."
 
@@ -3674,7 +3672,7 @@ Eren looks at her, then at his grandfather.
 
 His grandfather shakes his head. "We worried because we loved you. That never changes."
 
-Silence settles-not heavy, just full.
+Silence settles, not heavy, just full.
 
 Zeke steps forward last.
 
@@ -3708,7 +3706,7 @@ She takes his hand, steady despite the tears slipping down her face.
 
 His eyes drift closed.
 
-His chest rises once more-
+His chest rises once more,
 
 Then slowly, gently, his body begins to dissolve.
 
@@ -3728,7 +3726,7 @@ Meanwhile, Eren opens his eyes.
 
 He is not alone.
 
-Faces he thought lost forever wait for him-friends, family, even enemies at peace. And in front of them all-
+Faces he thought lost forever wait for him, friends, family, even enemies at peace. And in front of them all,
 
 He look at his parents.
 
@@ -3746,7 +3744,7 @@ She shakes her head, smiling through tears. "No. Thank _you_. You freed us."
 
 The souls gather.
 
-They kneel-not in worship, but in respect.
+They kneel, not in worship, but in respect.
 
 Eren doesn't understand.
 
@@ -3758,11 +3756,11 @@ Short hair. Sharp eyes. A presence that feels familiar in a way Eren can't place
 
 "You didn't," the man says. "But you finished it."
 
-Eren stares. "…You're-"
+Eren stares. "…You are,"
 
 "I carried the Attack Titan once," the man replies calmly. "Like many of us here."
 
-Another figure joins him-older, hardened, wearing the weight of a forgotten war in his posture.
+Another figure joins him, older, hardened, wearing the weight of a forgotten war in his posture.
 
 "We were the ones who first noticed it," the second man says. "During the Great Titan War. When the Founder's command reached us… and failed."
 
@@ -3820,7 +3818,7 @@ Friends. Family. Even former enemies.
 
 All standing together.
 
-Ymir watches them-free at last.
+Ymir watches them, free at last.
 
 And for the first time since the world began tearing itself apart,
 
@@ -3867,22 +3865,22 @@ Only emptiness, like everything ceased from existence.
 #### Stabilization - Understanding Before Integration
 
 - Confusion is more dangerous than hunger. Groups gather daily as translators and historians begin explaining the world. Dates are repeated. Maps are redrawn again and again.
-- Armin spends hours answering questions that never end. Annie stays beside him. When he speaks only of the present, she adds what Marley once taught-and what it hid. Together, they learn how to tell the truth. After their lectures, Armin and Annie get to spend more time together, talking about their stuff.
+- Armin spends hours answering questions that never end. Annie stays beside him. When he speaks only of the present, she adds what Marley once taught and what it hid. Together, they learn how to tell the truth. After their lectures, Armin and Annie get to spend more time together, talking about their stuff.
 
 #### Expansion - Making Space for the Living
 
-- The island grows outward. Old restricted zones are reclaimed. Roads are laid where Titans once stood. Paradis becomes large again-not by conquest, but by necessity.
-- New agricultural lands are carved from unused plains. Irrigation channels stretch across open fields. Former Titans work beside the islanders. Hunger does not disappear-but it retreats.
+- The island grows outward. Old restricted zones are reclaimed. Roads are laid where Titans once stood. Paradis becomes large again, not by conquest, but by necessity.
+- New agricultural lands are carved from unused plains. Irrigation channels stretch across open fields. Former Titans work beside the islanders. Hunger does not disappear but it retreats.
 - The strain deepens. Food lines grow longer. Exhaustion spreads. Advisors urge limits. Historia refuses. "Then we save as many as we can," she says, "and carry the weight."
 
 #### Shared Responsibility - Truth, Labor, and Repair
 
 - Aid arrives unevenly. Supply ships dock. Engineers expand water systems. Some nations help. Some hesitate. Enough choose responsibility.
-- Reiner sits among the displaced. Not as a leader, not as a soldier. He draws borders in the dirt, explains wars without pride, lies without defense. He teaches history as something done to them-not something they deserved.
-- Marleyan doctors work beside Paradis medics. Former Warriors act as liaisons, translating not just language-but accountability.
+- Reiner sits among the displaced. Not as a leader, not as a soldier. He draws borders in the dirt, explains wars without pride, lies without defense. He teaches history as something done to them, not something they deserved.
+- Marleyan doctors work beside Paradis medics. Former Warriors act as liaisons, translating not just language but accountability.
 - Annie begins patrolling settlements at night. Teaching self-defense, not war. Sitting with those who cannot sleep.
-- Jean oversees training for volunteers. No shouting. No glory. Just preparation to serve the island-not defend it from monsters.
-- Historia doesn't go to her office; she works along with the people in the field. As she gets completely exhausted and decides to have dinner, Reiner arrives with food and drinks-for two. No explanation. No apology. Historia nods. They sit. They talk about land, people, tomorrow.
+- Jean oversees training for volunteers. No shouting. No glory. Just preparation to serve the island, not defend it from monsters.
+- Historia doesn't go to her office; she works along with the people in the field. As she gets completely exhausted and decides to have dinner, Reiner arrives with food and drinks for two. No explanation. No apology. Historia nods. They sit. They talk about land, people, tomorrow.
 
 #### One Year - From Camps to Community
 
@@ -3899,11 +3897,11 @@ Only emptiness, like everything ceased from existence.
 
 - Rehabilitation is no longer the island's only purpose. Cooperation replaces the crisis. Fields sustain the population. Numbers stop mattering.
 - Late one night, Historia finishes reviewing reports for long past exhaustion. She prepares to eat alone. A knock comes.
-- Reiner arrives with food and drinks-for two. Historia nods.
+- Reiner arrives with food and drinks for two. Historia nods.
 
 #### Closing Beat
 
-- Levi watches the island from a distance. Not as its strongest soldier-but as someone no longer needed to be, also imagining if Erwin could see the result of his gambling.
+- Levi watches the island from a distance. Not as its strongest soldier but as someone no longer needed to be, also imagining if Erwin could see the result of his gambling.
 - They did not build paradise. They built a place where no one was abandoned again.
 
 ---
