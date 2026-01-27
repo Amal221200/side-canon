@@ -2557,9 +2557,9 @@ Armin holds him tighter. "You've done enough," he says, voice breaking.
 
 ### **Two Days Later**
 
-Eren wakes to quiet breathing.
+Eren wakes up in quiet breathing.
 
-Mikasa is asleep in the chair beside him, head resting against the bedframe, fingers still curled around his hand, as if letting go might make him disappear.
+Mikasa is asleep in the chair beside him, head resting against the bedframe; fingers still curled around his hand; as if letting go might make him disappear.
 
 Eren smiles.
 
@@ -2567,21 +2567,21 @@ He shifts slightly.
 
 Her eyes snap open.
 
-For a moment, she just stares at him, frozen, like she's afraid the movement is a trick.
+For a moment, she just stares at him, frozen-like she's afraid the movement is a trick.
 
-Then she's crying. Laughing. Hugging him so tightly it almost hurts.
+Then she cries. Laughing. Hugging him so tightly, it almost hurts.
 
-"I thought you," Her voice breaks. She pulls back just enough to look at his face, searching for something solid. "I thought I lost you."
+"I thought you-" Her voice breaks. She pulls back just enough to look at his face, searching for something solid. "I thought I lost you."
 
 "I'm still here," Eren says quietly.
 
-She exhales shakily, forehead resting against his.
+She exhales shakily, forehead resting against his shoulder, breathing him in like she needs proof.
 
 Later, when the room has gone still again, the silence grows heavier than before.
 
 Eren stares at the ceiling for a long moment.
 
-There's something he's been holding back, not because he didn't want to say it, but because he was afraid of what the answer might take from her.
+There's something he's been holding back not because he didn't want to say it, but because he was afraid of what the answer might take from her.
 
 "Mikasa," he says at last.
 
@@ -2589,9 +2589,9 @@ She looks up immediately.
 
 "How do you really feel about me?"
 
-She stiffens.
+She stiffens up.
 
-He turns his head toward her, voice careful, not pleading, not demanding.
+He turns his head toward her; voice careful not pleading, not demanding.
 
 "Not because of duty," he adds. "Not because of blood. I don't want something you feel forced to carry. I want to know _you_."
 
@@ -2601,67 +2601,73 @@ For a second, Eren thinks he's made a mistake.
 
 Then she speaks.
 
-"I questioned it," she says quietly. "More times than I can count. I was scared it wasn't real. Scared that if it was… I'd lose you anyway."
+"I questioned it," she says quietly. "More times than I can count. I was scared that it wasn't real. Scared that if it was… I'd lose you anyway."
 
 She looks back at him, eyes steady now.
 
-"But even when I tried to push it away," she continues, "it never changed. I love you. Not because I had to. Because I chose to."
+"But even when I tried to push it away," she continued, "it never changed. I love you. Not because I had to. Because I chose to."
 
 Eren's breath catches.
 
 For the first time in a long while, he doesn't feel like he has to earn the right to exist.
 
-"I feel the same way," he says. "I just needed to know we were standing in the same place."
+"I feel the same way," he says softly. "I just needed to know we were standing in the same place."
 
-Mikasa smiles through tears.
+Mikasa's lips tremble.
 
-Eren reaches up, cupping her face, thumb brushing the corner of her eye.
+She laughs quietly through tears.
 
-Mikasa turns her head to his hand, like she is lying on it.
+Eren reaches up, resting his forehead against hers.
 
-They don't rush it.
+She leans into it immediately, as if the space between them had always been waiting to close.
 
-They lean in slowly, as if afraid the moment might break,
+They stay like that.
 
-And then they kiss.
+Breathing.
 
-Not desperate.
+Crying.
 
-Not triumphant.
+Smiling.
 
-Just real.
+No promises are spoken.
+
+No moments rushed.
+
+Just two people, who are finally allowed to feel what they've carried for years.
 
 The door opens.
 
-Jean steps inside mid-sentence, then stops.
+Jean steps inside-mid-sentence-then stops.
 
 He freezes.
 
 His eyes flick from Eren to Mikasa.
 
-Then away.
+Then he clears his throat and looks away.
 
-"…Right," he mutters, already turning his head. "I'll-uh. I'll pretend I didn't see that."
+"…I'm gonna," he says, gesturing vaguely toward the hall, "give you some time."
 
-Behind him, Connie blinks once, then bursts out laughing.
+Connie peeks around him, takes one look, and grins.
 
-"No way," he says. "No way that just happened."
+"Ohhh," he says knowingly. "So _that's_ what this is."
 
-Sasha grins, clapping her hands together. "About time."
+Sasha smiles softer than usual. "This is so amazing!"
 
-Armin stands in the doorway, quiet.
+Armin stands quietly in the doorway.
 
-He doesn't say anything, just exhales, shoulders relaxing as a small smile spreads across his face.
+He doesn't interrupt.
+
+He just exhales, relief settling into his shoulders as if something long overdue has finally fallen into place.
 
 Levi clicks his tongue.
 
-"Tch," he says. "Took you idiots long enough."
+"…About damn time," he mutters, turning away.
 
-Eren groans, sinking back against the bed.
+Eren and Mikasa startles and move away a little after seeing the others.
 
-Mikasa doesn't look embarrassed.
+But Mikasa doesn't let his hand go.
 
-She just tightens her grip on Eren's hand.
+If anything, she holds his hand a little tighter.
 
 ### **After the War**
 
