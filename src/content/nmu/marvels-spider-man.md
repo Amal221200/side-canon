@@ -3,7 +3,7 @@ title: "Marvel's Spider-Man"
 description: "In a re-imagined pre-established Marvel Universe based in 2016, this is the story of worlds first superhero of modern time, where Avengers and other teams didn't exist yet, and X-Men were still only dealing with mutant affaris."
 pubDate: 'Jan 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man.png'
-published: false
+published: true
 ---
 
 ## Character description:
@@ -52,7 +52,7 @@ _Gwen Stacy - my lab partner, sharp as lightning and always two steps ahead._
 
 _And Flash Thompson - the school quarterback who's made it his mission to remind me I'm not cool._
 
-_So yeah… that's my story._
+_So yeah… this is my story._
 
 _A high school student, a part-time scientist, and a superhero._
 
@@ -442,9 +442,11 @@ Flash nodded, a spark of newfound admiration in his eyes. "Yeah. Anything you ne
 
 Gwen's gaze was steady and resolute. MJ's hand squeezed Peter's. "You need us, just as we need you. Even heroes need help."
 
-Peter smiled faintly, a sense of weight being lifted from his shoulders. MJ chuckled softly, squeezing his hand again. Everyone hid their chuckle. May watched, tears now mixed with pride, shaking her head. "I've been watching you two since you were kids. Don't think I haven't noticed."
+Peter smiled faintly, a sense of weight being lifted from his shoulders.
 
-Laughter rippled through the room, a lightness that had been missing for too long. Flash and Gwen shared a quiet glance; Harry smiled at the scene with relief. For the first time in a year, Peter felt the true meaning of being **surrounded, supported, and understood**.
+Harry gets up, "Okay, we are going to celebrate this, our new team."
+
+Everyone disagrees to him, Gwen talks about schoolwork, MJ talks about Peter getting rest, May talks about eating home cooked food, there is buzz all over the room.
 
 Outside the window, Midtown continued its chaotic rhythm. But inside, in that apartment, a new era had begun. Spider-Man was no longer alone.
 
@@ -490,8 +492,88 @@ Peter is attending school regularly, and to everyone's surprise, Flash was showi
 
 **"Spider-Man and Wolverine Save Midtown High - Heroes Among Us!"**
 
-Peter held the paper, smiling as his friends crowded around. Cheers, laughter, and playful teasing filled the air. Flash ruffled Peter's hair. Gwen and Harry exchanged quiet smiles. MJ squeezed Peter's hand, chuckling at his reaction.
+Peter held the paper, smiling as his friends crowded around. Cheers, laughter, and playful teasing filled the air. Flash ruffled Peter's hair. Gwen and Harry exchanged quiet smiles. MJ looks at him, chuckling at his reaction.
 
-And high above the city, Spider-Man swung from web to web, the wind in his face, the cheers below him, and the knowledge that **he was never truly alone**.
+### Homecoming Night
+
+The gymnasium at Midtown High looked almost unrecognizable.
+
+Soft lights hung from the ceiling, reflecting silver streamers and balloons swaying gently to the music. The chatter of students blended with laughter and the low hum of anticipation a rare night where homework, expectations, and secrets were momentarily forgotten.
+
+Peter Parker stood awkwardly near the entrance, tugging at the collar of a borrowed suit jacket.
+
+"I hate this already," he muttered.
+
+Flash clapped a hand on his shoulder. "Relax Parker, you survived Rhino. You can survive a dance."
+
+Harry adjusted his tie in the reflection of a trophy case, grinning. "Besides, you don't get out of this one. We _forced_ you to prepare for a reason."
+
+Peter exhaled, scanning the room until he saw her.
+
+Across the gym, Mary Jane Watson stood beside Gwen near the refreshment table. MJ wore a simple but elegant dress, confident without trying, her smile effortless. Gwen leaned in, whispering something that made MJ laugh softly - the kind of laugh Peter had known since childhood.
+
+For a moment, the noise faded.
+
+MJ looked up.
+
+Their eyes met.
+
+She excused herself from Gwen and walked toward Peter, every step deliberate, calm. Peter felt his heart hammer louder than any fight he'd ever been in.
+
+"Hey," she said gently.
+
+"Hey," he replied, suddenly forgetting every sentence he'd rehearsed in his head.
+
+MJ tilted her head, studying him - the nerves, the posture, the boy she'd known forever trying not to look terrified. Her smile softened.
+
+"I know," she said.
+
+Peter blinked. "You… know-"
+
+She nodded. "About your feelings? Yeah. It wasn't exactly a secret."
+
+He swallowed. "MJ, I-"
+
+She stepped closer, extending her hand. "You don't have to worry about it. Just… dance with me."
+
+For a second, Peter hesitated; then he took her hand.
+
+They stepped onto the dance floor together as the music swelled, slow and steady. The world narrowed to movement and rhythm. Peter wasn't Spider-Man here. He wasn't carrying guilt or responsibility or bruises under his skin.
+
+He was just Peter Parker.
+
+Flash leaned against the bleachers nearby, watching with a half-smile. Gwen joined him, arms crossed and amused.
+
+"Didn't think I'd ever see him relax," Flash said.
+
+Gwen smirked. "He needed this more than he'll ever admit."
+
+Harry stood off to the side, drink in hand, eyes on Peter and MJ, smiling quietly, satisfied. Things were finally falling into place.
+
+Then, a subtle vibration.
+
+One by one, their watches lit up.
+
+Red.
+
+Peter felt it instantly. The shift. The call.
+
+MJ noticed his expression change before he even spoke. She glanced down at his wrist, then back at him.
+
+"Time?" she asked.
+
+Peter nodded, apologetic. "I'm sorry…"
+
+MJ squeezed his hand, smiling not sad, not afraid. Just understanding.
+
+"Go get them, tiger."
+
+Peter's breath caught. He smiled back, nodding at Flash, Gwen, and Harry. They moved instinctively, blocking sightlines, creating distractions, laughter rising as Flash deliberately knocked over a stack of chairs.
+
+Peter slipped away.
+
+By the time anyone noticed, Peter was already gone.
+
+High above the city, Spider-Man swung from web to web, the wind in his face, the cheers below him, and the knowledge that **he was never truly alone**.
 
 Somewhere in the distance, the city's lights glimmered like stars, hinting at the challenges to come, the threats yet unseen, and the friends who would stand beside him, ready for the next swing.
