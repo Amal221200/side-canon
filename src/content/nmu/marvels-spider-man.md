@@ -3,7 +3,7 @@ title: "Marvel's Spider-Man"
 description: "In a re-imagined pre-established Marvel Universe based in 2016, this is the story of worlds first superhero of modern time, where Avengers and other teams didn't exist yet, and X-Men were still only dealing with mutant affaris."
 pubDate: 'Jan 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man.png'
-published: true
+published: false
 ---
 
 ## Character description:
