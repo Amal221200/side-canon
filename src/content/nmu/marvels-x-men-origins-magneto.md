@@ -2,7 +2,7 @@
 title: "Marvel's X-Men: Origins: Magneto"
 description: "This is the origin story of Magneto in a new setting post World War II, in a fictional Eastern European country where Jewish people are still discriminated."
 pubDate: "Jan 26, 2026"
-heroImage: "@/assets/nmu/nmu-placeholder.webp"
+heroImage: "@/assets/nmu/marvels-x-men-origins-magneto.jpg"
 published: false
 ---
 
