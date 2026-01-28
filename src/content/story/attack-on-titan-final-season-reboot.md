@@ -1952,7 +1952,7 @@ On the ground, Marleyan infantry breaks formation.
 
 The terrain betrays them at every step, narrow lanes, sudden elevation changes, blind angles that turn into death traps. Survey Corps soldiers swing from pillar to pillar, striking and retreating before Marley can regroup.
 
-Artillery fire rains down, but the angles are wrong.
+Artillery emplaced along the breached walls opens fire, joined by suppressive gunfire from the airships; but the angles are wrong.
 
 The battlefield belongs to Paradis.
 
@@ -1994,7 +1994,7 @@ Reiner, "This ends now,"
 
 But before he could land the punch, A thunderous crack interrupts him.
 
-A Thunder Spear slams directly into Reiner's exposed face.
+Jean slams a Thunder Spear directly into Reiner’s exposed face, meanwhile Sasha distracts War Hammer, preventing her from attacking Jean.
 
 The explosion rips him backward, armor detonating outward as the Armored Titan crashes onto his back, stunned.
 
@@ -2012,13 +2012,15 @@ He doesn't look at Reiner.
 
 His attention is already on the War Hammer.
 
+War Hammer recovers from the distraction.
+
 Eren raises his intact arm.
 
 The flesh reshapes.
 
 Hardens.
 
-The forearm expands and locks into a mini gun, crystal lattice humming as it rotates.
+His forearm expands, locking into a barrel-like structure—crystal veins glowing faintly beneath the surface.
 
 He fires.
 
@@ -2046,15 +2048,37 @@ The War Hammer does not retreat.
 
 She answers force with annihilation.
 
-Crystal erupts in every direction, spears, hammers, whips tearing through the air with surgical precision. Eren moves through it, not faster, but _earlier_, anticipating the angles before they fully form. A hammer crashes where his head had been a moment ago; he steps into the gap and drives a knee into the War Hammer's torso, shattering layered crystal and sending fragments screaming across the field.
+Crystal erupts from the ground in a tight radius around the War Hammer; forming weapons mid-motion rather than being thrown. A massive hammer swings sideways, aiming to crush Eren from his blind side.
 
-She reforms instantly.
+He doesn’t dodge backward.
 
-A blade grows from her arm, slashing downward. Eren catches it with his forearm, crystal grinding against crystal, then twists, snapping the weapon apart and ramming his shoulder into her core.
+He steps forward.
 
-She gets slammed but immediately rolls back up.
+The hammer slams into the ground behind him, pulverizing stone where his head had been a heartbeat earlier. Before the shockwave can fully expand, Eren is already inside the War Hammer’s reach.
 
-They trade blows that flatten the battlefield.
+He drives his knee upward into her torso.
+
+The impact fractures layered crystal plating, sending shards screaming outward like shrapnel. The War Hammer skids back several meters, heels carving trenches into the earth.
+
+She doesn’t fall.
+
+Crystal ripples across her body as she stabilizes, reforming even as she moves. Her right arm elongates, hardening into a blade that snaps downward in a brutal arc.
+
+Eren raises his forearm to meet it.
+
+Crystal clashes against crystal, grinding and screeching, until he rotates his body through the impact, snapping the blade at its base. He pivots with the motion, twisting his torso and slamming his shoulder and upper back into her center, driving her off balance.
+
+She is driven backward, boots carving deep trenches into the earth before she forcibly arrests the momentum. Crystal surges from her heels, anchoring her in place as she straightens—already reforming.
+
+No pause.
+
+No breathing room.
+
+The battlefield around them is already unrecognizable, flattened, fractured, reshaped by every exchange.
+
+They don’t trade blows.
+
+They erase space between each other.
 
 Each strike sends shockwaves rippling through the reinforced grid, pillars cracking but holding. The War Hammer adapts, changing shapes mid-motion, growing weapons faster, harder, sharper.
 
@@ -2074,7 +2098,7 @@ The crystal pod dangles in his grip, still connected to her left leg by a long, 
 
 The War Hammer's Titan convulses.
 
-Eren stares at the cocoon, breathing heavily, steam pouring from his frame.
+Eren stares at the cocoon, breathing heavily, steam pouring from his frame to recover his muscles.
 
 "I know how you fight," he mutters. "Hiding away from your body."
 
@@ -2122,21 +2146,43 @@ Rage surges, not wild, not blind, but focused.
 
 Deadly.
 
-From his remaining arm, crystal flows and reshapes, stretching outward into a massive bow. He instantly heals his fist enough to pull back an arrow formed of compressed crystal and intent.
+From his remaining arm, crystal flows outward, reshaping with purpose. It stretches, curves, locks, forming a massive bow grown rather than built.
 
-Aims.
+The string draws itself taut: a filament of reinforced Titan fiber, humming under impossible tension.
 
-Screams as he pulls, then releases.
+Eren regrows his hand just enough to grip.
 
-The arrow tears through the air and punches straight through the artillery emplacement.
+From his palm, crystal condenses into an arrow, dense, narrow, deliberate.
 
-Through Magath.
+He draws.
 
-The explosion swallows the platform.
+The bow resists him. The air around it tightens.
 
-The wall falls silent.
+Energy surges through the string.
 
-Eren exhales slowly as steam pours from his shoulder, muscle and bone already reforming; crystal following last, methodical, controlled.
+Eren screams as he pulls, a sound torn from his chest, equal parts rage and strain-
+
+-and releases.
+
+The arrow is already gone.
+
+The air splits where it passed.
+
+A heartbeat later, the artillery emplacement detonates; metal rupturing, stone pulverizing.
+
+The arrow punches through Magath before the sound reaches him.
+
+The platform collapses in fire and debris.
+
+Silence spreads across the wall.
+
+No cheers.
+
+No roar.
+
+Just the knowledge that the shot was intentional—and final.
+
+Eren exhales slowly as steam pours from his shoulder, muscle and bone already recovering; crystal following last, methodical, controlled.
 
 Behind him, Reiner watches in horror as his own body struggles to heal, armor sluggish, head regenerating piece by piece.
 
