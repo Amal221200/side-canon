@@ -2286,7 +2286,7 @@ Zeke's eyes widen.
 
 The earth erupts.
 
-Colossal Titans burst upward from beneath the battlefield, massive arms impaling tanks mid-charge. Steel is crushed like paper. Explosions bloom uselessly against flesh that doesn't flinch.
+Colossal Titans (only twice-thrice the size of Attack Titan) burst upward from beneath the battlefield, massive arms impaling tanks mid-charge. Steel is crushed like paper. Explosions bloom uselessly against flesh that doesn't flinch.
 
 Marley's armored spearhead is annihilated in seconds.
 
