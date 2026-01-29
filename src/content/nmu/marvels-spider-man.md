@@ -378,7 +378,7 @@ The ground vibrated as Rhino approached. The kids are scared but still standing 
 
 "Hey, bub. How about picking on someone your own size?"
 
-Rhino stopped, turning. Standing in the alley, claws gleaming in the dim light, was Wolverine. His jaw was set, a grin tugging at the corner of his mouth as his claws extended with a metallic hiss.
+Rhino stopped, turning. Standing in the alley, claws gleaming in the dim light, was Wolverine, in his leather jacket over tank top and jeans. His jaw was set, a grin tugging at the corner of his mouth as his claws extended with a metallic hiss.
 
 Flash and the others' mouths dropped open. Relief washed over them - someone strong arrived to fight Rhino.
 
