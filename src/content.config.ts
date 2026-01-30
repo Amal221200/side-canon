@@ -27,6 +27,7 @@ const nmu = defineCollection({
 			updatedDate: z.coerce.date().optional(),
 			heroImage: image(),
 			published: z.boolean(),
+			order: z.number(),
 		}),
 });
 

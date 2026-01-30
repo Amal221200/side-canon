@@ -4,7 +4,7 @@ import IndexPageContainer from '@/components/IndexPageContainer.astro';
 import { PageType } from '@/types';
 
 const stories = (await getCollection('nmu')).filter((story) => story.data.published).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	(a, b) => a.data.order - b.data.order,
 );
 ---
 

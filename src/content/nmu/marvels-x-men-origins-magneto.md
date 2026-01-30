@@ -4,6 +4,7 @@ description: "This is the origin story of Magneto in a new setting post World Wa
 pubDate: "Jan 26, 2026"
 heroImage: "@/assets/nmu/marvels-x-men-origins-magneto.jpg"
 published: false
+order: 2
 ---
 
 ## Description

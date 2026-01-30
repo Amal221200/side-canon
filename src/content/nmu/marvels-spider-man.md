@@ -4,6 +4,7 @@ description: "In a re-imagined pre-established Marvel Universe based in 2016, th
 pubDate: 'Jan 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man.png'
 published: true
+order: 1
 ---
 
 ## Character description:
