@@ -1347,7 +1347,7 @@ Logan answers next, short, grounded.
 
 Cyclops, Jean and Logan,
 
-"ALL GOOD."
+"**ALL GOOD!!!**"
 
 There's a brief pause.
 

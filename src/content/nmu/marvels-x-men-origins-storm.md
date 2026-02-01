@@ -12,7 +12,7 @@ order: 3
 
 _"My name is Ororo Munroe._
 
-_My mother, N'Dare, was born into an ancient line of African priestesses-women with white hair, blue eyes, and a rare gift: the ability to wield magic._
+_My mother, N'Dare, was born into an ancient line of African priestesses, women with white hair, blue eyes, and a rare gift: the ability to wield magic._
 
 _They lived in a hidden village in Kenya. She was meant to be their next leader._
 
@@ -36,7 +36,7 @@ _My mother told me stories, about her clan, our lineage, and the women who came 
 
 _She showed me an ancient ruby, passed down from generation to generation._
 
-_My father told me different stories-about Harlem, about struggle, about love, and about choosing hope even when the world makes it difficult._
+_My father told me different stories, about Harlem, about struggle, about love, and about choosing hope even when the world makes it difficult._
 
 _Everything changed when I was six years old._
 
@@ -64,7 +64,7 @@ _"_
 
 Ororo did not remember being found.
 
-She remembered **hunger** first - the way it hollowed her stomach until the ache felt sharper than grief. She remembered heat pressing down on her skin, the city's breath thick with dust and sweat and rot. She remembered learning, very quickly, that no one looked twice at a barefoot child unless she was already dead.
+She remembered **hunger** first, the way it hollowed her stomach until the ache felt sharper than grief. She remembered heat pressing down on her skin, the city's breath thick with dust and sweat and rot. She remembered learning, very quickly, that no one looked twice at a barefoot child unless she was already dead.
 
 The boys who noticed her were older, sharper, already half-broken by the streets. They watched her for a full day before approaching. When they did, they didn't speak. One of them simply slid a piece of bread across the stone toward her.
 
@@ -76,7 +76,7 @@ They led her through alleys too narrow for carts, through passageways that smell
 
 Achmed El Gibár did not stand when he saw her.
 
-He studied her silently - the dirt-caked hair, the pale eyes that didn't match her skin, the way her gaze kept drifting upward, searching for open space. When she met his eyes, she didn't look away.
+He studied her silently, the dirt-caked hair, the pale eyes that didn't match her skin, the way her gaze kept drifting upward, searching for open space. When she met his eyes, she didn't look away.
 
 Most children did.
 
@@ -96,7 +96,7 @@ She followed without question.
 
 Training began the next morning.
 
-Achmed did not explain why things were done - only _how_. He showed her how to stretch out a palm when begging, how to cry without tears, how to vanish into a crowd by becoming unremarkable. He taught her which pockets were loose and which were traps, which locks could be coaxed open and which were meant to maim the impatient.
+Achmed did not explain why things were done, only _how_. He showed her how to stretch out a palm when begging, how to cry without tears, how to vanish into a crowd by becoming unremarkable. He taught her which pockets were loose and which were traps, which locks could be coaxed open and which were meant to maim the impatient.
 
 She learned fast.
 
@@ -108,7 +108,7 @@ He only stayed close enough that nothing could reach her.
 
 She was six years old when Achmed sent her after her first real mark.
 
-An American tourist - clean clothes, distracted eyes, heavy wallet. She watched him for nearly an hour, memorizing his movements, his pauses, the rhythm of his steps. When she finally moved, it was with the quiet confidence Achmed had drilled into her.
+An American tourist, clean clothes, distracted eyes, heavy wallet. She watched him for nearly an hour, memorizing his movements, his pauses, the rhythm of his steps. When she finally moved, it was with the quiet confidence Achmed had drilled into her.
 
 Her fingers slipped into the pocket.
 
@@ -118,7 +118,7 @@ Her body locked in place, muscles refusing to obey. It felt as if invisible hand
 
 The man turned.
 
-Their eyes met, and something _else_ touched her - vast, searching, impossibly calm. She didn't understand what was happening, only that she was being _seen_ in a way no one had ever seen her before.
+Their eyes met, and something _else_ touched her, vast, searching, impossibly calm. She didn't understand what was happening, only that she was being _seen_ in a way no one had ever seen her before.
 
 Then another presence crashed into the moment like a blade.
 
@@ -126,7 +126,7 @@ The man staggered, gasping, his expression twisting in sudden agony. Ororo felt 
 
 She ran.
 
-She didn't look back until she reached the rooftops, heart pounding so hard she thought it might tear free. Below her, unseen forces clashed - something ancient and cruel pressing against something disciplined and strained.
+She didn't look back until she reached the rooftops, heart pounding so hard she thought it might tear free. Below her, unseen forces clashed, something ancient and cruel pressing against something disciplined and strained.
 
 She did not know their names.
 
@@ -138,7 +138,7 @@ Within a year, Achmed no longer sent anyone to watch her.
 
 She was his best.
 
-The others followed her without question, copying her movements, her timing. She stole because she had to, because food was survival and survival was everything. There was no romance in it, no thrill - only necessity sharpened into skill.
+The others followed her without question, copying her movements, her timing. She stole because she had to, because food was survival and survival was everything. There was no romance in it, no thrill, only necessity sharpened into skill.
 
 But necessity grew dull.
 
@@ -150,11 +150,11 @@ Guards. Myths. Whispers of something ancient and valuable hidden behind walls to
 
 She went alone.
 
-The locks yielded more easily than she expected. The halls were silent in a way that felt wrong, but she ignored it. She found the ruby in a velvet-lined case - warm when she touched it, almost pulsing, as if it were alive.
+The locks yielded more easily than she expected. The halls were silent in a way that felt wrong, but she ignored it. She found the ruby in a velvet-lined case, warm when she touched it, almost pulsing, as if it were alive.
 
 The moment she lifted it free, the world screamed
 
-The explosion came without warning. Stone shattered. Fire roared through corridors that had been silent seconds before. Ororo ran - not thinking, not questioning - diving through smoke and flame as the mansion collapsed behind her.
+The explosion came without warning. Stone shattered. Fire roared through corridors that had been silent seconds before. Ororo ran, not thinking, not questioning, diving through smoke and flame as the mansion collapsed behind her.
 
 She did not stop running until her lungs burned.
 
@@ -180,17 +180,17 @@ She waited for praise that never came.
 
 Instead, he locked the ruby away and said no more.
 
-That night, Ororo lay awake under the open sky, confused by the strange emptiness in her chest - the feeling that she had crossed a line she didn't know existed.
+That night, Ororo lay awake under the open sky, confused by the strange emptiness in her chest, the feeling that she had crossed a line she didn't know existed.
 
 Neither of them knew the truth.
 
 That the mansion had belonged to something that did not die easily.
 
-That the ruby was not treasure at all - but a heart.
+That the ruby was not treasure at all, but a heart.
 
 Ororo learned, slowly and unwillingly, how to be angry.
 
-Grief had come first - heavy, suffocating, impossible to look at directly. Anger was lighter. Sharper. Easier to carry.
+Grief had come first, heavy, suffocating, impossible to look at directly. Anger was lighter. Sharper. Easier to carry.
 
 If her parents had stayed, she told herself, they would not have died. If they had not moved. If they had not chosen a life that left her alone beneath stone and fire.
 
@@ -222,7 +222,7 @@ She slipped it free, retraced her steps, and vanished back into the night withou
 
 When she returned, Achmed was waiting.
 
-She placed the box at his feet and knelt, unable to hide her pride. This was her moment - proof that she could be trusted, that she was no longer just surviving but _becoming_.
+She placed the box at his feet and knelt, unable to hide her pride. This was her moment, proof that she could be trusted, that she was no longer just surviving but _becoming_.
 
 Achmed did not open it right away.
 
@@ -236,7 +236,7 @@ Younger than she remembered them. Smiling. Alive in a way that felt impossible.
 
 The air left her lungs.
 
-Her knees hit the ground before she realized she was falling. The anger she had wrapped herself in split apart, and everything she had buried rushed back in - the sound of laughter she barely remembered, the warmth of hands she could no longer feel.
+Her knees hit the ground before she realized she was falling. The anger she had wrapped herself in split apart, and everything she had buried rushed back in, the sound of laughter she barely remembered, the warmth of hands she could no longer feel.
 
 Achmed watched her in silence.
 
@@ -262,7 +262,7 @@ In the days that followed, she said her name only in her head. Quietly. Carefull
 
 Ororo.
 
-When she finally spoke it aloud, the sound felt strange - painful, but real.
+When she finally spoke it aloud, the sound felt strange, painful, but real.
 
 She returned to Achmed and bowed her head.
 
@@ -278,7 +278,7 @@ That was how she knew she had been noticed.
 
 Hakiim and Nari fell in behind her without argument the first night Achmed sent them out together. She didn't correct them. Leadership, she had learned, was not something you claimed. It was something others surrendered when they trusted you not to disappear.
 
-They moved through the city with the practiced ease of children who knew every shortcut and shadow. The target was simple - sacks of grain, crates of dried fruit. Food for mouths that would not eat otherwise.
+They moved through the city with the practiced ease of children who knew every shortcut and shadow. The target was simple, sacks of grain, crates of dried fruit. Food for mouths that would not eat otherwise.
 
 They were almost clear when Hakiim stumbled.
 
@@ -288,7 +288,7 @@ It was enough.
 
 A guard's shout tore through the night.
 
-Ororo's pulse spiked. She turned, already calculating - distance, numbers, escape routes. Nari didn't hesitate. She grabbed her sack and ran, feet light, fast, vanishing into the dark.
+Ororo's pulse spiked. She turned, already calculating, distance, numbers, escape routes. Nari didn't hesitate. She grabbed her sack and ran, feet light, fast, vanishing into the dark.
 
 "Food first," Nari hissed over her shoulder. "They'll catch you both."
 
@@ -346,7 +346,7 @@ Then he nodded.
 
 He punished her instead.
 
-The blows burned, but Ororo did not cry. Pain was familiar. Responsibility was new - heavier, sharper, harder to carry.
+The blows burned, but Ororo did not cry. Pain was familiar. Responsibility was new, heavier, sharper, harder to carry.
 
 That night, as she lay bruised beneath the open sky, Ororo understood something she would never forget:
 
@@ -360,7 +360,7 @@ Achmed did not speak the client's name aloud at first. When he finally did, the 
 
 Desmond Barrett.
 
-A man who paid well, asked little, and never took responsibility for what followed. He spoke of an artifact older than empires - the **Opal of Ozymandias** - a thing said to bind its bearer to an ancient power, to strip them of death and leave only obedience to an ancient mutant Apocalypse.
+A man who paid well, asked little, and never took responsibility for what followed. He spoke of an artifact older than empires, the **Opal of Ozymandias**, a thing said to bind its bearer to an ancient power, to strip them of death and leave only obedience to an ancient mutant Apocalypse.
 
 Achmed did not believe in legends.
 
@@ -370,7 +370,7 @@ And the pyramids had all four.
 
 They entered before dawn, when the desert still held its breath.
 
-Stone swallowed sound. Each step echoed too loudly, too clearly, as if the walls themselves were counting them. Ororo moved first, hand raised when she felt something wrong - a floor tile worn too smooth, a corridor that smelled too clean.
+Stone swallowed sound. Each step echoed too loudly, too clearly, as if the walls themselves were counting them. Ororo moved first, hand raised when she felt something wrong, a floor tile worn too smooth, a corridor that smelled too clean.
 
 They worked together the way Achmed had taught them to.
 
@@ -378,13 +378,13 @@ Nari darted ahead, quick and precise.
 
 Hakiim checked the walls, careful where he placed his hands.
 
-Ororo watched everything - shadows, air, silence.
+Ororo watched everything, shadows, air, silence.
 
 Traps revealed themselves slowly: pressure plates disguised as sand, blades that whispered down from ceilings, corridors that narrowed just enough to panic the careless. They bypassed each one, breath held, sweat cooling on skin.
 
 When they reached the chamber, the air changed.
 
-Stone statues lined the walls - warriors, priests, kings - all frozen mid-motion, eyes carved too carefully to be dead. At the center stood one figure taller than the rest, arms outstretched, holding the Opal.
+Stone statues lined the walls, warriors, priests, kings, all frozen mid-motion, eyes carved too carefully to be dead. At the center stood one figure taller than the rest, arms outstretched, holding the Opal.
 
 It glowed faintly.
 
@@ -406,7 +406,7 @@ Then everything stopped.
 
 The tallest statue lowered its weapon.
 
-It turned - not toward the others, but toward Ororo.
+It turned, not toward the others, but toward Ororo.
 
 And bowed.
 
@@ -420,7 +420,7 @@ The others stared, unable to speak.
 
 "I have waited," Ozymandias continued, eyes fixed on her. "I see what was. I see what will be."
 
-He gestured, and the walls shimmered with carvings she hadn't noticed before - images etched deep into stone. A woman standing beneath storm-wracked skies. Winds bending to her will. People kneeling, not in fear, but in need.
+He gestured, and the walls shimmered with carvings she hadn't noticed before, images etched deep into stone. A woman standing beneath storm-wracked skies. Winds bending to her will. People kneeling, not in fear, but in need.
 
 "You will not remain this," he said gently. "You will rise. You will command the air. You will save your people."
 
@@ -446,7 +446,7 @@ Pressure.
 
 No air.
 
-Hakiim screamed her name - then choked it off.
+Hakiim screamed her name, then choked it off.
 
 Nari managed to escape with the Opal, wanting to find Achmed to help, but she got captured by Barrett. He took her, including Achmed, and fled the place, leaving the trapped kids to die.
 
@@ -470,7 +470,7 @@ Then, something broke.
 
 The air moved.
 
-At first, just a whisper - a shift where no wind should exist. Then stronger, tearing through dust and debris, carving space where there had been none. Lightning followed, sudden and blinding, cracking stone like fragile bone.
+At first, just a whisper, a shift where no wind should exist. Then stronger, tearing through dust and debris, carving space where there had been none. Lightning followed, sudden and blinding, cracking stone like fragile bone.
 
 The rubble exploded outward.
 
@@ -480,7 +480,7 @@ The sky stared down at her through the ruin.
 
 She stared back.
 
-They found Barrett where Achmed was being held - bound, bruised, surrounded by children meant for sacrifice.
+They found Barrett where Achmed was being held, bound, bruised, surrounded by children meant for sacrifice.
 
 The fight was chaos. Screams. Fire. Panic.
 
@@ -494,7 +494,7 @@ Greed blinded him.
 
 The stone took him instantly.
 
-His body froze mid-breath, flesh turning to rock, eyes wide and unseeing - immortal, invincible, forever trapped.
+His body froze mid-breath, flesh turning to rock, eyes wide and unseeing, immortal, invincible, forever trapped.
 
 The legends had been true.
 
@@ -516,7 +516,7 @@ It settled into Ororo's bones like an ache that refused to be named. Cairo no lo
 
 She found herself watching the river.
 
-The Nile moved with purpose - steady, patient, unconcerned with borders or cities or the lives clinging to its banks. It did not hesitate. It did not look back.
+The Nile moved with purpose, steady, patient, unconcerned with borders or cities or the lives clinging to its banks. It did not hesitate. It did not look back.
 
 Neither would she.
 
@@ -538,7 +538,7 @@ She looked at it, remembering fire and stone and prophecy, remembering how close
 
 "You don't want many things that will save you," Achmed replied.
 
-She hugged him - longer this time. He stood stiff at first, then rested his hand briefly against her back, as if committing the moment to memory.
+She hugged him, longer this time. He stood stiff at first, then rested his hand briefly against her back, as if committing the moment to memory.
 
 Then she walked south.
 
@@ -552,11 +552,11 @@ In others, crops bent toward her as if recognizing something they could not name
 
 She did not stay long enough to ask why.
 
-Khartoum passed beneath her feet like a turning page. Ethiopia rose ahead, green and vast and unfamiliar. The farther she walked, the lighter her chest felt - as if distance itself were teaching her how to breathe again.
+Khartoum passed beneath her feet like a turning page. Ethiopia rose ahead, green and vast and unfamiliar. The farther she walked, the lighter her chest felt, as if distance itself were teaching her how to breathe again.
 
 The man seemed kind.
 
-That was what frightened her most, afterward - how easily she had believed it.
+That was what frightened her most, afterward, how easily she had believed it.
 
 He offered her a ride when the road grew long and the sun burned too hot. He spoke softly, smiled easily, asked nothing of her except where she was headed.
 
@@ -572,7 +572,7 @@ When she told him to stop, he laughed.
 
 When she tried to move, he grabbed her.
 
-Fear cut through her like lightning - sharp, blinding, absolute. There was no time to think. No space to run.
+Fear cut through her like lightning, sharp, blinding, absolute. There was no time to think. No space to run.
 
 She fought.
 
@@ -594,7 +594,7 @@ What she had been forced to do.
 
 Under the open sky, she sank to her knees.
 
-"I won't do this again," she whispered - not to him, not to anyone else, but to herself. "Never again."
+"I won't do this again," she whispered, not to him, not to anyone else, but to herself. "Never again."
 
 She stayed there until the stars came out, until her breathing slowed, until the vow settled into her bones.
 
@@ -618,7 +618,7 @@ The thieves found her first.
 
 They always did it.
 
-This group was different-less desperate, more careful. Their teacher was older, slower, and kinder in the way men became when they had already buried too many children. He knew Achmed. Spoke his name with quiet respect. He did not ask Ororo where she had come from or why she never slept indoors.
+This group was different, less desperate, more careful. Their teacher was older, slower, and kinder in the way men became when they had already buried too many children. He knew Achmed. Spoke his name with quiet respect. He did not ask Ororo where she had come from or why she never slept indoors.
 
 He only asked if she could work.
 
@@ -638,7 +638,7 @@ Normal meant quiet hands. Normal meant nothing answering when she panicked. She 
 
 She told no one.
 
-She stole less now. Only what she needed. Food. Cloth. Small things that reminded her of her parents-a scrap of film, a cracked lens, anything that suggested a future that wasn't just survival.
+She stole less now. Only what she needed. Food. Cloth. Small things that reminded her of her parents, a scrap of film, a cracked lens, anything that suggested a future that wasn't just survival.
 
 Hope, stolen carefully, was still hope.
 
@@ -650,7 +650,7 @@ She took it without thinking.
 
 The gunshots came seconds later.
 
-Claude shouted. His men raised weapons. Ororo ran-heart hammering, lungs burning-but the alley narrowed too fast. Fear surged, sharp and familiar.
+Claude shouted. His men raised weapons. Ororo ran, heart hammering, lungs burning, but the alley narrowed too fast. Fear surged, sharp and familiar.
 
 The wind answered.
 
@@ -672,7 +672,7 @@ When she returned to camp, Teacher was waiting.
 
 "You don't steal memories," he told her. "They make you careless."
 
-She bristled. She was better than the others-faster, smarter, more precise. Even better than him.
+She bristled. She was better than the others, faster, smarter, more precise. Even better than him.
 
 "That's your problem," he said calmly. "You were taught to survive, not to wait."
 
@@ -686,7 +686,7 @@ At first.
 
 Then she listened too closely.
 
-Slaves, Claude said. Betrayal. Black people turning on each other-it spilled from him carelessly, easily.
+Slaves, Claude said. Betrayal. Black people turning on each other, it spilled from him carelessly, easily.
 
 Zenja felt something twist.
 
@@ -712,7 +712,7 @@ Ororo did neither.
 
 "You are not the king of me," she told him coolly. "You don't rule Ororo Munroe."
 
-He laughed-surprised, delighted.
+He laughed, surprised, delighted.
 
 "Then you are a white lioness," he said. "Untamed."
 
@@ -732,7 +732,7 @@ Claude de Ruyter did not grieve.
 
 He planned.
 
-He sent word north, then farther still, until his brother answered. Andreas arrived with men who did not ask questions and weapons that ended them. Together, they followed the trail Claude knew Ororo would leave behind - kindnesses remembered, villages spoken of too fondly.
+He sent word north, then farther still, until his brother answered. Andreas arrived with men who did not ask questions and weapons that ended them. Together, they followed the trail Claude knew Ororo would leave behind, kindnesses remembered, villages spoken of too fondly.
 
 They reached the camp at dawn.
 
@@ -852,7 +852,7 @@ They traveled together after that.
 
 Not as before.
 
-When they found Klaw - when T'Challa saw the man who killed thousands of innocent Wakandans - something inside him shifted, sharp and irreversible.
+When they found Klaw, when T'Challa saw the man who killed thousands of innocent Wakandans, something inside him shifted, sharp and irreversible.
 
 "I stayed too long," he said that night. "I have duties I cannot outrun."
 
@@ -884,7 +884,7 @@ Ororo stopped counting the days.
 
 Time lost its shape once people began waiting for her.
 
-She moved across the continent like a rumor made flesh-through villages with cracked earth and hollow-eyed children, through lands where storms no longer came when they were needed. Wherever she stayed, the sky responded. Rain fell. Winds shifted. Rivers remembered how to flow.
+She moved across the continent like a rumor made flesh, through villages with cracked earth and hollow-eyed children, through lands where storms no longer came when they were needed. Wherever she stayed, the sky responded. Rain fell. Winds shifted. Rivers remembered how to flow.
 
 At first, she helped because she could.
 
@@ -900,7 +900,7 @@ They called her **Goddess Ororo**.
 
 The name sat wrong in her chest.
 
-She laughed at first-uneasy, dismissive-but no one laughed with her. They spoke of drought breaking, of storms walking beside a woman with white hair and eyes like the heart of lightning.
+She laughed at first, uneasy, dismissive but no one laughed with her. They spoke of drought breaking, of storms walking beside a woman with white hair and eyes like the heart of lightning.
 
 She tried to explain.
 
@@ -916,7 +916,7 @@ Ainet asked no questions.
 
 She watched.
 
-When the rains came at Ororo's whispered request, the village celebrated for days. Children danced barefoot in mud. Elders wept openly. Hands reached for Ororo-not to touch, but to reassure themselves she was real.
+When the rains came at Ororo's whispered request, the village celebrated for days. Children danced barefoot in mud. Elders wept openly. Hands reached for Ororo, not to touch, but to reassure themselves she was real.
 
 For the first time since Cairo, Ororo felt something close to peace.
 
@@ -936,7 +936,7 @@ The balance broke.
 
 Animals collapsed where water never came. Other villages watched clouds pass overhead without relief. Hunger followed. Then death.
 
-Ororo felt it before she saw it-the tension in the wind, the way the air no longer moved naturally around her.
+Ororo felt it before she saw it the tension in the wind, the way the air no longer moved naturally around her.
 
 Ainet came to her quietly.
 
@@ -960,7 +960,7 @@ Not to praise.
 
 To **patterns**.
 
-To the way heat gathered. To how animals moved before storms. To how the land asked without words. Rain was not meant to obey-it was meant to **answer**.
+To the way heat gathered. To how animals moved before storms. To how the land asked without words. Rain was not meant to obey it was meant to **answer**.
 
 Ororo learned to release what she had taken, to guide the storms gently, to give back what she had unbalanced. It took weeks. Some damage could not be undone.
 
@@ -968,7 +968,7 @@ She did not sleep much during that time.
 
 When the people called her goddess again, she no longer answered.
 
-She watched them bow and felt something tighten inside her chest. Worship had made her powerful-but it had also made her careless.
+She watched them bow and felt something tighten inside her chest. Worship had made her powerful but it had also made her careless.
 
 She thought of the man she had killed.
 
@@ -980,7 +980,7 @@ Gods did not doubt.
 
 She did.
 
-At night, she stood alone beneath the stars and wondered what would happen when the people realized she was not divine-only dangerous if misunderstood.
+At night, she stood alone beneath the stars and wondered what would happen when the people realized she was not divine, only dangerous if misunderstood.
 
 The wind moved around her, waiting.
 
@@ -988,13 +988,13 @@ For the first time, Ororo did not tell it what to do.
 
 The villagers built the dam by hand.
 
-Stone by stone, mud-packed and imperfect, stretching across a riverbed that had forgotten what water felt like. They worked without complaint, because Ororo had promised rain-and promises from gods were not questioned.
+Stone by stone, mud-packed and imperfect, stretching across a riverbed that had forgotten what water felt like. They worked without complaint, because Ororo had promised rain and promises from gods were not questioned.
 
 She stood apart when it was finished, watching the sun burn the earth pale and brittle. The sky above felt tense, like breath held too long.
 
 She reached for it carefully.
 
-Clouds gathered. Slowly. Responsibly. She guided them the way Ainet had taught her-coaxing, not commanding.
+Clouds gathered. Slowly. Responsibly. She guided them the way Ainet had taught her, coaxing, not commanding.
 
 Then something _pulled back_.
 
@@ -1004,7 +1004,7 @@ Ororo staggered.
 
 This was not her doing.
 
-A figure emerged within the clouds-laughing, exultant, arms raised as if the world itself were a toy.
+A figure emerged within the clouds, laughing, exultant, arms raised as if the world itself were a toy.
 
 Deluge.
 
@@ -1028,11 +1028,11 @@ Alive.
 
 Barely.
 
-She carried him the way she had once carried grain, the way she had once been carried herself-careful, reverent, refusing to let him die simply because the world had decided he should.
+She carried him the way she had once carried grain, the way she had once been carried herself, careful, reverent, refusing to let him die simply because the world had decided he should.
 
 The village watched in uneasy silence as she laid the stranger down.
 
-He was unlike anyone they had seen-brilliant eyes behind broken glasses, breath shallow but steady. Ororo stayed with him through the night, holding the storm at bay with sheer will until dawn crept into the sky.
+He was unlike anyone they had seen, brilliant eyes behind broken glasses, breath shallow but steady. Ororo stayed with him through the night, holding the storm at bay with sheer will until dawn crept into the sky.
 
 The others came later.
 
@@ -1054,7 +1054,7 @@ Not instinct.
 
 Understanding.
 
-The woman-Jean-reached out carefully, asking permission not with words but with _intent_. Ororo allowed it, reluctantly, and suddenly she was not alone in her own mind.
+The woman, Jean, reached out carefully, asking permission not with words but with _intent_. Ororo allowed it, reluctantly, and suddenly she was not alone in her own mind.
 
 Thoughts aligned.
 
@@ -1062,7 +1062,7 @@ The blue-furred man spoke quickly, urgently, not in prayer or metaphor but in ph
 
 A lens.
 
-Ororo shaped the storm not as rain, but as geometry-countless droplets suspended in perfect arrangement, bending light toward a single point in the sky.
+Ororo shaped the storm not as rain, but as geometry, countless droplets suspended in perfect arrangement, bending light toward a single point in the sky.
 
 The man with the red visor stepped forward, bracing himself.
 
@@ -1070,7 +1070,7 @@ Sunlight poured through the lens like fire through glass.
 
 His eyes burned brighter than lightning.
 
-Deluge laughed as the energy surged toward him-until his laughter turned to shock.
+Deluge laughed as the energy surged toward him, until his laughter turned to shock.
 
 Too much.
 
@@ -1102,11 +1102,11 @@ Later, as the plane lifted safely into clear sky, the woman spoke to the others.
 
 "He already knows," she said.
 
-Far away, a man in a wheelchair felt the wind shift and smiled-not with triumph, but with recognition.
+Far away, a man in a wheelchair felt the wind shift and smiled, not with triumph, but with recognition.
 
 The years blurred.
 
-Ororo no longer measured time by days or seasons, but by the land itself-by how long the earth took to heal after she touched it, by how long people waited before daring to hope again.
+Ororo no longer measured time by days or seasons, but by the land itself, by how long the earth took to heal after she touched it, by how long people waited before daring to hope again.
 
 She walked where the drought had bitten deepest.
 
@@ -1114,13 +1114,13 @@ Across the wide breath of the Serengeti, where grass had turned brittle and anim
 
 Wherever she went, she stayed just long enough.
 
-Rain followed her footsteps-sometimes gently, sometimes in long, patient sheets that soaked deep into the ground. Rivers remembered their paths. Crops lifted green heads again. Children learned the sound of thunder without fear.
+Rain followed her footsteps, sometimes gently, sometimes in long, patient sheets that soaked deep into the ground. Rivers remembered their paths. Crops lifted green heads again. Children learned the sound of thunder without fear.
 
 She did not announce herself.
 
 The people did that for her.
 
-They left offerings where she slept. Sang songs she never taught them. Told stories that changed with each retelling-of a woman who spoke to the sky, of white hair that shone like moonlight, of eyes that turned pale when storms came.
+They left offerings where she slept. Sang songs she never taught them. Told stories that changed with each retelling, of a woman who spoke to the sky, of white hair that shone like moonlight, of eyes that turned pale when storms came.
 
 They called her **Wind-Rider**.
 
@@ -1144,7 +1144,7 @@ Storms came, and people said she had passed through again.
 
 Ororo felt the weight of it most at night.
 
-She stood alone beneath open skies, listening to wind move through grass and stone, wondering how many lives had been saved-and how many depended now on her never leaving.
+She stood alone beneath open skies, listening to wind move through grass and stone, wondering how many lives had been saved and how many depended now on her never leaving.
 
 Gods, she thought, did not get tired.
 
@@ -1162,7 +1162,7 @@ Xavier waited at the edge of Uzuri.
 
 He did not enter the village.
 
-The people there watched him with suspicion - a stranger in strange clothes, seated in a chair that did not belong on dirt roads. He did not look like a king, a hunter, or a priest. That alone made him dangerous.
+The people there watched him with suspicion, a stranger in strange clothes, seated in a chair that did not belong on dirt roads. He did not look like a king, a hunter, or a priest. That alone made him dangerous.
 
 Ororo noticed him immediately.
 
@@ -1176,7 +1176,7 @@ She didn't smile.
 
 They sat beneath a tree old enough not to care who was divine and who was not.
 
-Xavier spoke first - not of danger, not of destiny, but of memory.
+Xavier spoke first, not of danger, not of destiny, but of memory.
 
 "You were six," he said. "In Cairo."
 
@@ -1184,7 +1184,7 @@ Her body tensed before her mind caught up.
 
 "You took my wallet," he continued, almost fondly. "Cleanly. Professionally. I would have applauded if I'd been able to move."
 
-She remembered then - the pressure behind her eyes, the sense of being _seen_ without being touched.
+She remembered then, the pressure behind her eyes, the sense of being _seen_ without being touched.
 
 "You didn't stop me," she said.
 
@@ -1200,7 +1200,7 @@ She looked away, toward the sky.
 
 "No," Xavier said. "You are not."
 
-The word landed softly. Relief followed it - sharp, unexpected, painful.
+The word landed softly. Relief followed it, sharp, unexpected, painful.
 
 "You are a mutant," he continued. "One of the gifted."
 
@@ -1224,7 +1224,7 @@ Her gaze sharpened.
 
 Ororo felt something cold settle in her chest.
 
-"They are protected," Xavier said quietly. "By something old. Old enough that my mind cannot pass through it. Old enough that I cannot reach my allies. The caves where my students are held are sealed - not by stone, but by belief."
+"They are protected," Xavier said quietly. "By something old. Old enough that my mind cannot pass through it. Old enough that I cannot reach my allies. The caves where my students are held are sealed, not by stone, but by belief."
 
 "Magic," Ororo said.
 
@@ -1232,7 +1232,7 @@ Ororo felt something cold settle in her chest.
 
 She stood.
 
-The wind rose with her - not violently, not eagerly. Waiting.
+The wind rose with her, not violently, not eagerly. Waiting.
 
 "You could have come with soldiers," she said. "With weapons."
 
@@ -1258,7 +1258,7 @@ Of the man she had killed to survive.
 
 Of rain that had come too late elsewhere because she had chosen _here_.
 
-She thought of the others - young, frightened, caged beneath the earth.
+She thought of the others, young, frightened, caged beneath the earth.
 
 Not worshippers.
 
@@ -1282,7 +1282,7 @@ No spark. No echo.
 
 Nothing.
 
-Scott groaned beside her, straining uselessly against his bonds. Hank lay unnaturally still, breathing shallow and uneven, his body wrong-human again, stripped down to something fragile and breakable.
+Scott groaned beside her, straining uselessly against his bonds. Hank lay unnaturally still, breathing shallow and uneven, his body wrong, human again, stripped down to something fragile and breakable.
 
 "They've drugged us," Hank murmured, voice hoarse. "Neural inhibitors. Crude, but effective."
 
@@ -1292,7 +1292,7 @@ That terrified her more than the ropes.
 
 They were dragged from the cave like offerings.
 
-The air outside was thin and cold, the ground uneven beneath their feet. They were forced to sit in a wide, open space ringed with stone and bone, torches flickering in the growing wind. At the center stood a ruby-large, ancient, wrong.
+The air outside was thin and cold, the ground uneven beneath their feet. They were forced to sit in a wide, open space ringed with stone and bone, torches flickering in the growing wind. At the center stood a ruby, large, ancient, wrong.
 
 The **Heart of Eternal Darkness**.
 
@@ -1314,7 +1314,7 @@ That night, Andreas took everything.
 
 Xavier followed her gaze, understanding settling in his expression. "Then this is worse than we feared."
 
-The tribe gathered, chanting low and rhythmic. Ororo felt the air tighten, twist-something old stirring beneath the earth itself.
+The tribe gathered, chanting low and rhythmic. Ororo felt the air tighten, twist, something old stirring beneath the earth itself.
 
 "We must destroy it," she said.
 
@@ -1360,13 +1360,13 @@ Her breath hitched.
 
 Not again.
 
-The memories came crashing in-rubble crushing her parents, the coffin snapping shut, her lungs burning as the world closed around her.
+The memories came crashing in, rubble crushing her parents, the coffin snapping shut, her lungs burning as the world closed around her.
 
 Outside, the chanting rose.
 
 Something answered.
 
-The ruby glowed brighter, pulsing, cracking as **Candra** began to form-half-shape, half-shadow, eyes burning with hunger.
+The ruby glowed brighter, pulsing, cracking as **Candra** began to form, half-shape, half-shadow, eyes burning with hunger.
 
 "More," the ancient mutant hissed. "More power. More flesh."
 
@@ -1388,7 +1388,7 @@ _"Ororo."_
 
 She looked up.
 
-Charles' voice filled her mind, not commanding-**anchoring**.
+Charles' voice filled her mind, not commanding, but **anchoring**.
 
 _"I know what it is to live with fear. To suffer silently."_
 
@@ -1400,7 +1400,7 @@ The cave felt less small.
 
 _"Survivors are stronger than their fear,_ he said. _Do not let it cage you. Let it remind you of what you can overcome."_
 
-Images flashed in her mind-villages saved, children laughing in rain, hands lifted in gratitude, fear dissolving when she arrived.
+Images flashed in her mind, villages saved, children laughing in rain, hands lifted in gratitude, fear dissolving when she arrived.
 
 _"You can change the air around this world,_ Charles said. _And we need you now. Help us build a world where people are stronger than fear."_
 
@@ -1410,7 +1410,7 @@ The panic broke.
 
 Ororo stood.
 
-Lightning flared in her eyes-pure white, blinding.
+Lightning flared in her eyes, pure white, blinding.
 
 The air roared.
 
@@ -1432,7 +1432,7 @@ One sweep of wind flattened the attackers, scattering them like leaves. She turn
 
 _"You will not play god and take from us anymore."_
 
-Lightning tore from the sky-full force, absolute.
+Lightning tore from the sky, full force, absolute.
 
 Candra raised her hands, blocking it, screaming in fury. She was not whole yet. Not strong enough.
 
@@ -1464,7 +1464,7 @@ No power.
 
 They were subdued quickly, efficiently.
 
-Above them, Storm calmed the sky-winds easing, clouds thinning, the mountain settling back into sleep.
+Above them, Storm calmed the sky, winds easing, clouds thinning, the mountain settling back into sleep.
 
 The world exhaled.
 
@@ -1478,7 +1478,7 @@ Ororo knelt beside him, tears streaking her face.
 
 Xavier smiled faintly. "No," he said. "This was my choice."
 
-She looked out at the sky-quiet now, obedient again.
+She looked out at the sky, quiet now, obedient again.
 
 Not because she commanded it.
 
@@ -1490,11 +1490,11 @@ And something new had begun.
 
 Jean was the first to speak.
 
-"You should come with us," she said, not carefully, not rehearsed-just honest. "There are people like us out there who need help. And… we need you."
+"You should come with us," she said, not carefully, not rehearsed, just honest. "There are people like us out there who need help. And… we need you."
 
 Ororo looked at her, surprised by how much the words mattered.
 
-Scott nodded, unable to hide the grin that tugged his mouth. "That's right. You were incredible today. We'd be dead if you hadn't shown up. You came like a storm-swept everything away."
+Scott nodded, unable to hide the grin that tugged his mouth. "That's right. You were incredible today. We'd be dead if you hadn't shown up. You came like a storm, swept everything away."
 
 She almost laughed at that.
 
@@ -1512,7 +1512,7 @@ The village was quiet, settled into a peace it had not known for years. Ainet sa
 
 Ororo swallowed. "They want me to."
 
-Ainet smiled-not sadly, not proudly, but knowingly. "They are right."
+Ainet smiled, not sadly, not proudly, but knowingly. "They are right."
 
 "I can help here," Ororo said. "There is still drought. Still suffering."
 
@@ -1524,7 +1524,7 @@ Tears came then, sudden and unstoppable.
 
 "So was I," Ainet said, pulling her into an embrace. "When I realized my children would outgrow me."
 
-Ororo clung to her, sobbing into the folds of her shawl, grieving not just what she was leaving-but who she had been.
+Ororo clung to her, sobbing into the folds of her shawl, grieving not just what she was leaving but who she had been.
 
 The next morning, the sky hummed.
 
@@ -1556,9 +1556,9 @@ The aircraft lifted.
 
 The world changed again.
 
-The mansion rose from green hills like something both old and hopeful. As Ororo stepped out, she felt the air-different here. Alive with possibility.
+The mansion rose from green hills like something both old and hopeful. As Ororo stepped out, she felt the air, different here. Alive with possibility.
 
-Children watched from the school grounds, eyes wide with fascination as she hovered slightly above the grass without realizing it.
+Children watched from the school grounds, eyes wide with fascination as she hovered slightly above the grass, without realizing it.
 
 Inside her room waited a uniform.
 
@@ -1570,7 +1570,7 @@ She ran her fingers over it, then put it on.
 
 When she entered the lab with the others, something clicked into place.
 
-Three of them now-Cyclops, Jean, Storm-standing together not as gods or myths, but as equals.
+Three of them now, Cyclops, Jean, Storm, standing together not as gods or myths, but as equals.
 
 Charles smiled. "Welcome," he said. "You have much to learn."
 
