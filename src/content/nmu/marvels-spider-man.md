@@ -349,19 +349,37 @@ Suddenly, the radio crackled into life. The familiar panicked voice of a reporte
 
 "- Rhino is back, terrorizing the streets outside Midtown High! Police are on site but unable to contain-"
 
-Flash slammed his hands on the table. "Not again! I can't just sit here!"
+Flash slammed his hands against the wall. 
 
-Harry stepped forward, trying to calm him. "Flash, wait. We don't know what we're dealing with yet!"
+“Not again! I can’t just sit here!” 
 
-MJ and Gwen exchanged worried looks, realizing Flash's temper would lead him straight into danger. "He's not thinking!" MJ muttered.
+He stormed out of the room. 
 
-But Flash didn't care. He bolted the door. "I'm not letting him get away with this!"
+Harry followed immediately. Gwen and MJ exchanged worried looks before hurrying after them. 
 
-Harry chased after him, trying to stop him. "You're going to get yourself killed!"
+Flash reached the hallway door. 
 
-Flash spun around, jaw clenched. "Better me than letting him hurt anyone else!"
+Harry caught up to him, grabbing his shoulder. 
 
-Gwen stepped between them, holding her arms wide. "Stop! You don't know what we're up against! But we need to do something… for Peter, as he did for all of use."
+“What do you think you’re doing?” Harry said. “You walk out that door like this… you don’t come back.” 
+
+Flash laughed bitterly. 
+
+“You think I don’t know that?” 
+
+Harry’s voice cracked — just slightly. 
+
+“You’re going to get yourself killed!” 
+
+Flash’s hand stayed on the doorknob. 
+
+“Better me than letting him hurt anyone else,” Flash said. 
+
+Gwen stepped between them. 
+
+“Stop,” she said. “Both of you. You don’t know what we’re up against. But we need to do something… for Peter — as he did for all of us.”
+
+### Street, Outside Midtown High
 
 The streets outside the school were blocked. Rhino stomped, growling, "I want Spider-Man!" His massive form cast long shadows across the crumbling asphalt.
 
@@ -373,25 +391,194 @@ MJ, Harry, and Gwen followed, forming a loose line of defiance.
 
 Flash "You want Spider-Man, you have to go through us"
 
-Rhino laughed, a deep, grinding sound. "Fine by me." He charged.
+Rhino laughed, a deep, grinding sound. "Fine by me." He walked towards them.
 
-The ground vibrated as Rhino approached. The kids are scared but still standing to their ground. As Rhino approaches, a low, menacing growl echoed from the shadows.
+The ground vibrated as Rhino approached, the police barricades rattling as if they were about to snap loose. Sirens wailed somewhere behind the perimeter, their lights washing the street in red and blue.
 
-"Hey, bub. How about picking on someone your own size?"
+The kids stood frozen.
 
-Rhino stopped, turning. Standing in the alley, claws gleaming in the dim light, was Wolverine, in his leather jacket over tank top and jeans. His jaw was set, a grin tugging at the corner of his mouth as his claws extended with a metallic hiss.
+MJ’s fingers clenched into Harry’s sleeve.
+Gwen’s breath came shallow, measured.
+Flash didn’t move — even as instinct screamed at him to run.
 
-Flash and the others' mouths dropped open. Relief washed over them - someone strong arrived to fight Rhino.
+Then the sound came.
 
-The fight erupted with bone-crunching ferocity. Rhino charged at Wolverine, as Wolverine moved with fluid precision, slashing and lunging with claws that could cut steel. Rhino roared in fury, swinging his massive fists, but Logan was faster, smarter, and brutal in his efficiency.
+Low. Rough. Close.
 
-Peter's friends watched, eyes wide with awe, as Wolverine tore through the rampaging villain, each strike forcing Rhino back, weakening him inch by inch.
+A growl that cut through the chaos.
 
-Finally, Wolverine pinned Rhino against a wall. Cutting his limbs and a horn. "Who sent you, punk? Tell me, or I'll make this worse."
+“Hey, bub,” a voice said from the shadows near the school gates.
+“How about picking on someone your own size?”
 
-With a defeated roar, Rhino muttered, "Hammerhead… he sent me… please, spare me!"
+Rhino stopped, boots grinding across broken pavement. He turned.
 
-Logan grunted, stepping back, letting the now-defeated villain retreat. Turning to the kids, he sheathed his claws and crossed his arms.
+A man stepped forward from beside a dented police cruiser — leather jacket, tank top, jeans worn thin at the knees. Short, broad, solid. He looked at Rhino like he was measuring a broken machine.
+
+Snikt.
+
+Metal claws slid free with a sharp, unmistakable hiss.
+
+Flash’s mouth fell open.
+“Oh my—”
+
+Rhino snorted. “You?” He laughed, rolling his shoulders. “I eat guys like you for breakfast.”
+
+Wolverine cracked his neck once.
+“Then choke on this.”
+
+Rhino roared and charged.
+
+Not reckless — direct. A battering ram aimed straight at Wolverine.
+
+Wolverine sprinted forward too.
+
+At the last second, he dove sideways. Rhino thundered past, his horn smashing into a police van. The vehicle lifted off the ground and slammed back down, tires bursting.
+
+Before Rhino could turn, Wolverine was already on him — leaping, claws driving into the thick muscle of Rhino’s shoulder.
+
+Rhino howled and swatted him out of the air.
+
+Wolverine hit the pavement hard, skidding across the road until he slammed into the metal school gate. The impact rang like a bell.
+
+MJ gasped.
+“He— he hit him like—”
+
+Wolverine pushed himself up slowly, blood trickling from his brow — already sealing.
+
+“Yeah,” he muttered. “That tracks.”
+
+Rhino charged again, swinging wide. Wolverine ducked under the punch as it obliterated a streetlight, sparks showering the road. Wolverine slashed across Rhino’s thigh — shallow, precise.
+
+Rhino staggered, snarling.
+
+“You’re fast!” Rhino bellowed. “But you’re not strong enough!”
+
+He grabbed Wolverine mid-motion and slammed him into the hood of a squad car. The engine block crumpled. Wolverine rolled off just as Rhino brought both fists down, smashing the car flat.
+
+The kids flinched.
+
+Wolverine came up behind Rhino and climbed him — claws biting into armor seams, joints, anywhere he could slow him down. Rhino staggered toward a stopped school bus, slamming his back against it.
+
+The bus rocked violently.
+
+Police lights flashed across his armor. The school loomed behind Wolverine — concrete steps, glass doors, silhouettes of students and teachers frozen in terror.
+
+Rhino’s eyes flicked past Wolverine.
+
+He smiled.
+
+“Still got leverage,” he growled.
+
+Before anyone could react, Rhino lunged sideways, wrapping both arms around a stopped school bus near the barricade. Metal screamed as he lifted it off the ground — wheels spinning, glass shattering.
+
+MJ screamed.
+"WOLVERINE!"
+
+Rhino roared, muscles bulging as he turned toward the school.
+“LET’S SEE YOU STOP THIS!”
+
+The bus tilted — aimed straight at the front steps.
+
+Something in Wolverine snapped.
+
+He didn’t shout.
+
+He didn’t warn.
+
+He charged.
+
+Wolverine dropped low, sprinting straight at Rhino as the bus began to rise higher. His posture changed — no tactics, no patience. Just instinct.
+
+Feral.
+
+Rhino barely had time to turn.
+
+Wolverine slid beneath the bus as Rhino shifted his grip—
+
+Snikt.
+
+Wolverine’s claws flashed upward.
+
+The first strike carved deep into Rhino’s left knee.
+
+Bone cracked.
+
+Rhino howled, his leg collapsing as the bus lurched violently. Wolverine didn’t stop — he rolled, came up behind him, and slashed again.
+
+The right leg went next.
+
+Rhino screamed and fell forward, the bus crashing sideways into the pavement instead of the school, skidding to a halt in a shower of sparks.
+
+The ground shook.
+
+Before Rhino could even process the pain, Wolverine was on him.
+
+He leapt onto Rhino’s back, driving his claws down into both shoulders, severing muscle and locking the arms uselessly at Rhino’s sides.
+
+Rhino roared, trying to swing — nothing responded.
+
+Wolverine yanked himself forward and slashed.
+
+Both forearms.
+
+Metal armor split. Flesh gave way.
+
+Rhino collapsed fully now, face-first against the asphalt, bellowing in agony.
+
+Wolverine landed in front of him.
+
+Rhino tried to lift his head.
+
+Bad idea.
+
+Wolverine grabbed the horn with one hand.
+
+Snikt.
+
+One clean, brutal slice.
+
+The horn hit the ground with a hollow clang.
+
+Silence followed — broken only by Rhino’s ragged breathing and distant sirens.
+
+Wolverine stood over him, chest heaving, eyes wild. For a moment, it looked like he might keep going.
+
+Then he stopped.
+
+He crouched, pressing one claw tip into the pavement inches from Rhino’s face.
+
+Low. Controlled. Deadly calm.
+
+Rhino tried to speak.
+
+Wolverine raised a hand.
+
+“Don’t,” he said.
+
+He crouched beside Rhino, voice low — not angry, not curious. Certain.
+
+“I know who sent you.”
+
+Rhino’s breath hitched.
+
+“You were never the plan,” Wolverine continued. “You were noise. A distraction.”
+
+Rhino whimpered, fear finally overtaking the rage.
+
+Wolverine stood, looking down at him.
+
+“You don’t come after kids,” he said flatly.
+“You don’t bring this kind of fight to a school.”
+
+He turned away, already losing interest.
+
+“Someone will be here for you,” he added over his shoulder. “They won’t be as patient.”
+
+Moments later, the sound of distant engines cut through the air.
+
+He stood and stepped back, scanning the school, the kids, the damage — making sure the threat was truly over.
+
+He turned towards the kids who stood against Rhino. He sheathed his claws and crossed his arms.
 
 "You kids are brave, don't worry, we will handle this from here" Wolverine said, his voice rough but approving. "And tell him… he's not alone in this fight. Not ever."
 
