@@ -3,7 +3,7 @@ title: "Marvel's X-Men: Origins: Storm"
 description: "This story explores the journey of Ororo Munroe, a journey of surival, loss, self-discovery before she is accepted by her founded family aka X-Men."
 pubDate: "Jan 30, 2026"
 heroImage: "@/assets/nmu/marvels-x-men-origins-storm.jpg"
-published: false
+published: true
 order: 3
 ---
 
