@@ -25,23 +25,23 @@ Hammer Head: Hammer Head is the crime boss, currently the most notorious crimina
 
 ---
 
-## Prelude:
+## Prelude
 
 _"My name is Peter Parker. I'm just a regular high school kid from Queens… who also happens to be your friendly neighborhood Spider-Man._
 
-_It's been a year since that bite - the one from a genetically enhanced spider that changed everything. It gave me the abilities of a spider: wall-crawling, super strength, enhanced senses, agility - and, somehow, the responsibility that comes with them._
+_It's been a year since that bite, the one from a genetically enhanced spider that changed everything. It gave me the abilities of a spider:_ _wall-crawling, super strength, enhanced senses, agility, and, somehow, the responsibility that comes with them._
 
-_At first, I didn't know what to do with any of it. I used to sneak into underground fights, testing how far my powers could go. One night, after a match, a thief ran past me. I could've stopped him - but I didn't. I thought it wasn't my problem._
+_At first, I didn't know what to do with any of it. I used to sneak into underground fights, testing how far my powers could go. One night, after a match, a thief ran past me. I could've stopped him, but I didn't. I thought it wasn't my problem._
 
 _Later that night, my Uncle Ben was murdered by that same thief._
 
 _That was the moment my life changed forever._
 
-_Since then, I've tried to honor his words - "With great power comes great responsibility." I became Spider-Man, fighting for the people who can't fight for themselves, stopping crime, saving lives, and trying every day to live up to the man my uncle wanted me to be._
+_Since then, I've tried to honor his words, "With great power comes great responsibility." I became Spider-Man, fighting for the people who can't fight for themselves, stopping crime, saving lives, and trying every day to live up to the man my uncle wanted me to be._
 
-_In just one year, a lot has happened. I built my own web-shooters, designed a few prototype suits before perfecting one, and took down villains like Batroc, Trapmaster, and even Aleksei Sytsevich in his Rhino armor. But the real problem? The crime lords hiding behind it all - Hammerhead and Tombstone. They control everything from the shadows… and Spider-Man keeps getting in their way._
+_In just one year, a lot has happened. I built my own web-shooters, designed a few prototype suits before perfecting one, and took down villains like Batroc, Trapmaster, and even Aleksei Sytsevich in his Rhino armor. But the real problem? The crime lords hiding behind it all, Hammerhead and Tombstone. They control everything from the shadows… and Spider-Man keeps getting in their way._
 
-_I live with my Aunt May - the strongest woman I know. She works two jobs just to afford my education, never once complaining, never once giving up. And somehow, she still finds time to worry about me being late for dinner._
+_I live with my Aunt May, the strongest woman I know. She works two jobs just to afford my education, never once complaining, never once giving up. And somehow, she still finds time to worry about me being late for dinner._
 
 _My friends are my world:_
 
@@ -57,155 +57,359 @@ _So yeah… this is my story._
 
 _A high school student, a part-time scientist, and a superhero._
 
-_And this is the story of how I became the first hero of the modern age -_
+_And this is the story of how I became the first real hero of the modern age -_
 
-_The story of Spider-Man."_
+_the story of Spider-Man."_
 
 ---
 
 ## Chapter 1: A Year in Red and Blue
 
-The sirens of Queens cut through the midnight haze, a familiar rhythm that never quite stopped echoing through Peter Parker's nights. Somewhere between the beat of the police radios and the hum of traffic, a streak of red and blue soared across the rooftops - fluid, fast, and impossibly graceful.
+### **Weekend in the Webs**
 
-Spider-Man.
+Saturday afternoon in Queens had a different rhythm.
 
-It had been a year since the bite. A year since that ordinary high-school kid with too much homework and too little confidence had decided to swing into the chaos and make sense of it.
+The sun hung high over brick rooftops and fire escapes, washing the city in heat and noise. Car horns, music spilling from open windows, kids shouting in the distance, all of it blurred together as a red-and-blue streak arced above the streets.
 
-The city didn't know who he was - not really. To some, he was a menace. To others, a myth. But to Peter, he was a promise.
+Spider-Man moved easily in daylight.
 
-The promise of a man he couldn't bring back.
+He timed his swings between buses and delivery trucks, adjusting web length on instinct, feet brushing walls as he redirected momentum. People pointed out. Some waved. Others pulled out their phones.
 
-He landed on a rusted water tower overlooking the East River, chest heaving. Below, a pair of thieves clambered out of a jewelry store window, their bags jangling with glass and silver. Peter sighed, rolling his neck until it popped.
+He didn't slow.
 
-"Guys," he muttered, tightening his gloves, "it's a school night."
+The police scanner crackled in his ear.
+
+"-possible purse snatching, Queensboro Plaza-"
+
+"Copy," Peter muttered, already banking left.
+
+A quick stop. A webbed wrist. A purse returned to a shaken woman who barely had time to say thank you before Spider-Man was gone again.
+
+He didn't wait for it.
+
+By evening, the sun dipped low, and the city softened, long shadows stretching across rooftops as Peter perched atop a billboard, adjusting a web-shooter clogged with grit.
+
+Saturday nights were louder. Messier.
+
+A hit-and-run near the avenue.
+
+A fight spilling out of a convenience store.
+
+A fire escape bending under too much weight.
+
+He worked fast, efficiently, saving strength where he could, listening, choosing which sirens to follow and which to leave to the police.
+
+Between calls, he checked the time.
+
+No homework due until Monday. No alarms are waiting in the morning.
+
+Just one more swing.
+
+Sunday morning came with sore muscles and a bruised rib that protested every deep breath.
+
+Peter moved slower now, perched on a church steeple as the city below woke up, bakery doors opening, joggers passing, church bells ringing.
+
+He stretched carefully, testing what still hurt.
+
+"Okay," he muttered. "We're not broken. That's a win."
+
+The scanner chimed again.
+
+A lost kid near the park.
+
+A break-in gone wrong.
+
+A dog trapped on a roof.
+
+Not all heroics made headlines.
+
+By afternoon, the sun was harsh again, sweat soaking into the suit beneath the mask. Peter stopped long enough to re-web a torn seam and drink water from a rooftop hose, head tilted back, breathing hard.
+
+He thought about going home.
+
+He didn't.
+
+By Sunday night, the city finally slowed.
+
+Neon lights flickered on. The river reflected the moon in broken lines. Peter landed on a rusted water tower overlooking the East River, chest heaving, hands braced on his knees.
+
+Below, two figures smashed a jewelry store window and scrambled out, bags clinking.
+
+Peter sighed.
+
+"Guys," he said quietly, tightening his gloves, "you picked the worst possible night."
 
 He leapt.
 
-The web hit first, followed by the weight of Spider-Man himself - two seconds of acrobatics and one quip later, both thieves were dangling upside down, cocooned against a lamppost. The sirens closed in, and Peter was already gone, swinging through the night, wind howling past his mask.
+Web. Flip. Impact. Two quick strikes and a lamppost later, the thieves hung upside down, wrapped tight.
 
-He didn't wait for thanks. He never did.
+Sirens approached.
 
-Back in his small Queens bedroom, Peter peeled off his mask and stared at his reflection in the mirror - eyes ringed with exhaustion, bruises blooming under his skin, but the faintest smile tugging at his lips. He'd done something tonight. He'd made a difference, even if no one would ever know.
+Peter was already swinging away.
 
-Then his gaze drifted to the old photograph on his desk - Uncle Ben, laughing in the sunlight, hand resting on Peter's shoulder.
+Hours later, back in his small Queens bedroom, Peter peeled off the mask and let it drop onto his desk. He caught his reflection in the mirror, exhaustion etched into his face, bruises darkening, eyes heavy but alive.
 
-Peter whispered, "Still trying, Uncle Ben. Still trying."
+Two days.
+
+No breaks. No applause.
+
+Just… work.
+
+On his desk sat an old photograph, Uncle Ben, smiling wide, hand resting on Peter's shoulder.
+
+Peter picked it up, thumb brushing the corner.
+
+"Still trying," he whispered. "Every weekend."
+
+Outside, a siren wailed once, then faded.
+
+Peter lay back on his bed, muscles screaming, eyes closing.
+
+Sunday night gave him that much.
+
+Monday would ask for more.
 
 ---
 
 ## Chapter 2: The Web of Friends
 
-Morning light spilled through the narrow windows of **Midtown High**, catching the dust in golden streaks. The bell rang, sneakers squeaked, lockers slammed. It was chaos with a heartbeat, the kind of noise Peter Parker had learned to love.
+Morning light spilled through the narrow windows of Midtown High, catching dust motes in soft, golden streaks. The bell rang. Lockers slammed. Sneakers squeaked across the linoleum.
 
-He walked through the crowded hallway clutching his half-eaten sandwich and a stack of homework. The bruise near his collarbone pulsed beneath the fabric, a silent reminder of last night's patrol.
+It was chaos with a heartbeat, the kind Peter Parker had learned to love.
 
-"Morning, tiger," said a familiar voice.
+He moved through the crowded hallway clutching a half-eaten sandwich and a stack of homework. Beneath his shirt, a bruise near his collarbone pulsed faintly, a quiet reminder of last night's patrol.
 
-Peter looked up and met **Mary Jane Watson's** grin - auburn hair tied back, camera slung around her shoulder, eyes full of that sharp mischief that had followed her since they were kids climbing fences and chasing fireflies.
+"Morning, tiger."
 
-"You look like you lost a fight with gravity," she teased.
+Peter looked up and met Mary Jane Watson's grin, auburn hair tied back, camera slung over her shoulder, eyes bright with the same mischief she'd carried since they were kids climbing fences and chasing fireflies.
+
+"You look like you lost a fight with gravity," she said.
 
 Peter smiled. "More like chemistry homework. Gravity was kinder."
 
-She laughed and nudged his arm. "One day you'll learn to sleep like normal people, Parker."
+She laughed, nudging his arm. "One day you'll learn to sleep like a normal person, Parker."
 
 "Sleep's overrated."
 
-"Tell that to your eye bags."
+"Tell that to your eye bags," a voice cut in.
 
-They turned the corner and found **Harry Osborn** leaning against a locker, phone in hand, school tie undone as usual. "There's my favorite nerd duo," he said, tossing Peter a grin. "MJ, you're looking way too awake for first period."
+They turned the corner to find Harry Osborn leaning against a locker, tie loosened, phone in hand, looking far too awake for the hour.
+
+"There's my favorite nerd duo," Harry said, flashing Peter a grin. "MJ, you're looking suspiciously alive for first period."
 
 "That's because I actually sleep," she shot back.
 
-Harry clapped Peter on the shoulder. "Party at my place this weekend. You're coming. No excuses, no homework, no mysterious disappearances. I'm not taking no for an answer."
+Harry clapped Peter on the shoulder. "Party at my place this weekend. You're coming. No excuses. No homework. No mysterious disappearances. I'm not taking no for an answer."
 
 Peter hesitated. "I'll… try."
 
-"Try means yes," Harry said, flashing that disarming Osborn smile.
+"Try means yes," Harry said. That effortless Osborn confidence is already sealing the deal.
 
-From behind them came the unmistakable sound of a football thudding against metal. **Flash Thompson** strutted down the hallway, quarterback confidence radiating off him. He smirked at Peter. "Hey, Parker! Forgot your lunch money again, or you just saving it for a microscope fund?"
+A football thudded loudly against a locker behind them.
+
+Flash Thompson strolled down the hall, quarterback confidence radiating from every step. He smirked when he saw Peter.
+
+"Hey Parker. Forget your lunch money again, or are you saving it for a microscope fund?"
 
 MJ rolled her eyes. "Grow up, Flash."
 
 He shrugged. "Just saying hi to my favorite nerd."
 
-Before Peter could respond, a quiet voice cut through the tension. "Ignore him."
+Before Peter could respond, a calm voice cut through the tension.
 
-**Gwen Stacy** stood by her locker, clutching a stack of science journals. Blonde hair tied neatly, eyes calm but sharp. Flash leaves Peter after she arrives. She handed Peter a small vial wrapped in tissue. "You left this in the lab yesterday. Your formula ratios are off - again."
+"Ignore him."
 
-Peter blinked. "Oh, thanks, Gwen. I, uh, didn't mean to-"
+Gwen Stacy stood by her locker, arms full of science journals. Her blonde hair was tied neatly back, her expression composed but alert.
 
-"You never do," she said with a half-smile. "But you're welcome."
+Flash scoffed once, then moved on.
 
-Harry watched the exchange and grinned. "So this is the genius lab partner I keep hearing about."
+Gwen handed Peter a small vial wrapped carefully in tissue. "You left this in the lab yesterday. Your formula ratios are off, again."
 
-Gwen tilted her head. "And you're the distraction I keep hearing about."
+Peter blinked. "Oh. Thanks, Gwen. I didn't mean to-"
 
-MJ laughed out loud, and Peter just rubbed his neck, smiling despite himself. For a moment, it felt normal - a fragile peace between classes, crushes, and the thousand secrets he carried.
+"You never do," she said with a faint smile. "But you're welcome."
 
-Later, during lunch, the 4 of them gathered at their usual table near the window overlooking the football field. MJ was scribbling notes for the school paper; Gwen was sketching a circuit diagram; Harry was scrolling through his messages, and Flash just finished practicing and having snack at another table.
+Harry watched the exchange, amused. "So this is the genius lab partner I keep hearing about."
 
-Peter mostly listened - until he caught MJ glaring at a headline on her laptop:
+Gwen tilted her head slightly. "And you must be the distraction."
+
+MJ laughed. Peter rubbed the back of his neck, smiling despite himself.
+
+For a moment, everything felt normal, a fragile balance of classes, friendships, crushes, and the thousand secrets Peter carried with him every day.
+
+### **Cafeteria**
+
+At lunch, the four of them gathered at their usual table near the window overlooking the football field.
+
+MJ scribbled notes for the school paper. Gwen sketched a circuit diagram in the margins of her notebook. Harry scrolled through messages. Flash sat a few tables away, finishing a post-practice snack.
+
+Peter was finishing his notes, until MJ stopped typing and turned on the news.
 
 **DAILY BUGLE: "SPIDER-MENACE STRIKES AGAIN"**
 
-She muttered under her breath. "They make him sound like some kind of criminal. He's saving people."
+She scoffed. "They make him sound like a criminal. He's saving people."
 
-Flash leaned over. "Hey, at least he's doing something. That guy got guts. Unlike those mutants who only fight for themselves."
+Flash leaned over from his table. "Hey, at least he's doing something. Guy has guts. Unlike those mutants who only fight for themselves."
 
-Peter froze, half-bitten sandwich hovering in midair.
+Peter froze, sandwich halfway to his mouth.
 
 Harry smirked. "What about you, Parker? You think he's a hero or a menace?"
 
-Peter forced a smile. "I think… sometimes people just do what they can. Even if no one gets it."
+Peter swallowed and forced a shrug. "I think… sometimes people just do what they can. Even if no one gets it."
 
-MJ looked up, curious at his tone, but said nothing.
+MJ looked up at him, curious at the tone but said nothing.
 
-When the final bell rang, Peter and Gwen stayed behind in the lab. The late sunlight painted the beakers gold. Gwen tapped a pen against her notebook.
+### **Lab**
 
-"You ever feel like people only see a fraction of who you are?" she asked suddenly.
+After the final bell, the lab was quiet, bathed in late-afternoon sunlight. Beakers glowed amber beneath the fading day.
 
-Peter looked up from his microscope. "All the time."
+Gwen tapped her pen against her notebook. "You ever feel like people only see a fraction of who you are?"
+
+Peter glanced up from his microscope. "All the time."
 
 She smiled faintly. "Then maybe that's a good thing. Keeps life interesting."
 
-Peter smiled back, though behind it sat a thought he could never voice.
+Peter smiled back, though the thought he didn't voice sat heavy behind it.
 
-If only you knew.
+_If only you knew._
 
-Gwen asks, "So, when will you ask MJ out for your first Homecoming party".
+### **Outside Campus**
 
-Peter "I haven't thought about it yet."
+As they stepped out onto the ground, Gwen nudged him lightly.
 
-Gwen "Oh come on, I know you like her, and what could possibly go wrong."
+"So," she said, "when are you asking MJ to Homecoming?"
 
-Peter "I am afraid I could jeopardize our friendship."
+Peter groaned. "I haven't thought about it."
 
-Harry from behind "And that's why you need to have some faith in yourself"
+"Oh, come on," Gwen said. "I know you like her. What could possibly go wrong?"
 
-Peter surprised "Harry, what are you still doing here."
+"I'm afraid I'd jeopardize our friendship."
 
-Harry "My dad is still busy, I thought of staying here and do my homework."
+"And that," Harry said from behind them, "is why you need to have some faith in yourself."
 
-Gwen "You, doing homework, did the sun rised from east?"
+Peter jumped slightly. "Harry, what are you still doing here?"
 
-Harry "Very funny"
+"My dad's busy," Harry shrugged. "Figured I'd stay and do homework."
 
-Suddenly Peter's spider-sense tingles, he leaves immediately saying his friends.
+Gwen raised an eyebrow. "You? Homework? Did the sun rise in the west today?"
 
-Harry and Gwen are curious to know what is going on with him these days.
+Harry smirked. "Very funny."
 
-That night, the city called again - a police chase downtown, a mugging near the bridge, a child stuck in a fire escape.
+Suddenly, Peter's Spider-Sense flared.
+
+He stiffened, then forced a smile. "Hey, I… I gotta go. See you guys."
+
+Before they could respond, he was already moving away.
+
+Harry and Gwen exchanged glances.
+
+"What's going on with him lately?" Gwen murmured, watching Peter disappear down the path.
+
+Harry shrugged, slipping his hands into his pockets. "Who knows. He doesn't really share much."
+
+They walked in silence for a few steps before Gwen glanced at him again.
+
+"How long have you two known each other?" She asked.
+
+Harry smiled faintly. "Since Midtown. First week actually."
+
+Gwen raised an eyebrow. "Really?"
+
+"Yeah," Harry said. "I was stuck on an algebra problem, couldn't figure it out. Out of nowhere, he just… leaned over and fixed it. Didn't even say much. Just pointed, explained it once, and went back to his work."
+
+Gwen smiled. "That sounds like him."
+
+"A few days later," Harry continued, "it was pouring. Like heavy rain. I was heading home in my dad's car and saw him on the side of the road, fixing the chain on his bike. Completely soaked. Clothes, bag… I'm pretty sure his notebooks were ruined."
+
+He shook his head slightly in the memory.
+
+"I made my dad stop. Peter tried to say no, of course he did. But we dragged him into the car anyway. Took him to our place. My dad liked him instantly. Said he was smart. That night we got him new notebooks, clothes… whatever he needed."
+
+Gwen listened quietly.
+
+"After that," Harry said, "we were inseparable. He introduced me to MJ too. It didn't take long to figure out he was already into her. He wasn't exactly subtle."
+
+Gwen laughed softly. "Figures."
+
+She hesitated. "Is he always like this? Running off at the last second? Disappearing?"
+
+Harry shook his head. "Not really. It started happening more after his uncle died."
+
+Gwen slowed. "Uncle?"
+
+"Yeah," Harry said. "His parents left when he was young. Not sure why. He grew up with his aunt and uncle. They were basically his mom and dad."
+
+He swallowed. "The night his uncle was murdered… I've never seen anyone that broken. MJ and I stayed with him the whole day. He barely spoke."
+
+Gwen nodded slowly. "I've heard about it. Benjamin Parker."
+
+"Yeah," Harry said. "That's him."
+
+They reached the edge of the campus.
+
+"I can tell you one thing," Harry added quietly. "I'd give my life for him. And I know, without a doubt, he'd do the same for any of us."
+
+Gwen smiled, wiping her eyes before the tears could fall.
+
+"He's lucky," she said. "To have friends like you."
+
+Harry smiled back. "Thanks."
+
+They stood for a moment, the evening breeze moving through the trees lining the campus road.
+
+Harry glanced at Gwen. "Hey… you want a lift?"
+
+She blinked. "I thought your dad was picking you up."
+
+Harry smirked. "I said he is busy. I never said anything about picking me up."
+
+Before she could respond, he reached into his pocket and casually pressed a button on a sleek key fob.
+
+A soft electronic chime echoed down the street.
+
+From farther up the road, a low hum grew louder, smoother, controlled. A dark, polished car rolled into view; headlights flashed once as it slowed near the curb.
+
+Gwen stopped walking.
+
+"…Okay," she said, genuinely impressed. "You're full of surprises."
+
+Harry shrugged, trying not to look too pleased. "Comes in handy sometimes."
+
+She shook her head, smiling as they headed toward the car. "You really don't act like someone who owns _that_."
+
+Harry glanced back at the school, then at the empty path Peter had taken earlier.
+
+"Yeah," he said quietly. "Guess not."
+
+The car door opened smoothly. Gwen slid in, still glancing around, curiosity flickering behind her calm expression.
+
+Harry followed, the door closing behind them as the car pulled away from the curb.
+
+The school disappeared in the rearview mirror.
+
+That night, the city called again.
+
+A police chase downtown, Spider-Man webbed the lead car's axle, sending it spinning harmlessly into a stack of trash bags as officers closed in.
+
+A mugging near the bridge, two quick webs, a sharp kick, and the thief was left dangling beneath the streetlight, cursing as Spider-Man vanished into the dark.
+
+A child trapped on a fire escape, smoke curling from the window, small hands shaking as Spider-Man lifted them into his arms and carried them to safety just as flames licked the railing.
 
 By dawn, Spider-Man had saved three lives, stopped two robberies, and collected enough bruises to make an anatomy chart jealous.
 
-And somewhere, under the early morning rain, a man named **Hammerhead** watched the news footage with cold amusement.
+He perched briefly on a water tower as the sun crept over the skyline, chest aching, mask torn at the seam, then pushed himself back into motion.
 
-"So, the bug is still buzzing," he muttered. "Time to swat it for good."
+The city never really slept.
+
+Neither did he.
+
+Somewhere across the city, a man named Hammerhead watched the footage with cold amusement.
+
+"So," he muttered, lifting his glass, "the bug's still buzzing."
 
 He picked up his phone.
 
-"Find me Aleksei Sytsevich. Tell him I've got an offer."
+"Find me Aleksei Sytsevich," he said. "Tell him I've got an offer."
 
 ---
 
@@ -217,7 +421,7 @@ In a dimly lit warehouse near the docks, **Hammerhead** sat behind a scarred ste
 
 "The kid's a problem," Hammerhead muttered, voice rough like gravel. He slammed the glass down, the amber liquid spilling onto the desk. "I've tried the usual muscle. He's smarter than anyone I've sent. Stronger. Faster. But everyone has a weakness."
 
-From the shadows, a figure stepped forward - **Aleksei Sytsevich**, nervous but desperate. "Mr. Hammerhead… you said you had a way. A way to… fix this. To end it."
+From the shadows, a figure stepped forward, **Aleksei Sytsevich**, nervous but desperate. "Mr. Hammerhead… you said you had a way. A way to… fix this. To end it."
 
 Hammerhead smiled, the faintest glint of steel in his eyes. "I've got something better. Power, Aleksei. Enough to crush him. Enough to make sure no one calls him hero again."
 
@@ -231,7 +435,7 @@ Hammerhead's smile widened. "It won't. Or… if it does, it'll make Spider-Man p
 
 The words lingered in the stale air. Aleksei picked up the vial, the weight of choice pressing down on him like a hammer. He closed his eyes. He thought about the ridicule, the failures, the endless shadow of Spider-Man's victories. And then, with a shuddering hand, he injected the serum into his veins.
 
-Pain flared instantly. Heat, strength, something monstrous swelling inside him. His bones shifted, muscles tore and rebuilt, sinew stretching. The mirror across the room reflected the **transformation**: human replaced by beast, Aleksei replaced by **the Rhino**.
+Pain flared instantly. Heat, strength, something monstrous swelling inside him. His bones shifted, muscles tore and rebuilt, sinew stretching. The mirror across the room reflected the **transformation**: humans replaced by beast, Aleksei replaced by **the Rhino**.
 
 He roared, a sound that split the concrete walls and rattled Hammerhead's whiskey glass. Fists clenched, the knuckles cracking like firecrackers. "I… I feel… unstoppable," he growled.
 
@@ -251,85 +455,291 @@ He is running through the hallway, taking his mask and web shooters from the bag
 
 ---
 
-## Chapter 4: Chaos at Midtown
+## Chapter 4: Chaos at Midtown High
 
-The bell hadn't rung yet, but the halls of **Midtown High** were already alive with the usual chatter. Students laughed, lockers clanged, sneakers squeaked across the linoleum. Then, a low rumble shook the building, rattling lockers and sending books tumbling.
+The bell hadn't rung yet, but the halls of Midtown High were already alive, lockers slamming, laughter echoing, sneakers squeaking across polished linoleum. It was the familiar chaos of another school morning.
 
-"What the-?" MJ froze, looking out the window.
+Then the building _shuddered_.
 
-Outside, the streets were chaos. A massive figure - gray, horned, impossibly muscular - barreled down the avenue. **Rhino**. Cars skidded, pedestrians screamed, and a city bus screeched to a halt, its brakes screaming in protest.
+Lockers rattled violently. Books slid off desks. A deep, distant rumble rolled through the floor, growing louder by the second.
 
-Peter's chest tightened beneath his uniform. He wears the mask he was holding in his arms. Without thinking, he sprinted, leaving everything behind.
+"What the-?" MJ froze mid-sentence, turning toward the window.
 
-Through the classroom window, **Gwen, MJ, Harry, and Flash** watched the carnage unfold.
+Outside, the street was unraveling.
 
-"Is that…?" Gwen whispered, squinting.
+Cars skidded sideways, horns blaring in panic. Pedestrians scattered as a massive figure charged down the avenue, gray-skinned, horned, impossibly muscular.
 
-Spider-Man leapt into the fray, web-swinging between streetlamps and bouncing off walls with effortless precision. He landed in front of Rhino just as the villain swung a steel beam, sending a car spinning into the sidewalk.
+Rhino.
 
-Flash's face lit up with awe. "That's… that's Spider-Man!"
+A city bus screeched to a halt, its brakes screaming as it swerved to avoid him.
 
-"Stay back!" MJ shouted instinctively, grabbing Flash by the arm. "Don't go near him!"
+Peter's chest tightened beneath his uniform.
 
-But the sight of Spider-Man in action was intoxicating. Flash let go of her hand and bolted toward the street. Harry and MJ exchanged panicked looks and followed, with Gwen trailing cautiously, her mind racing to anticipate the worst.
+Not today.
 
-Spider-Man ducked, rolled, and kicked Rhino back toward a school bus. The vehicle teetered dangerously, and the students inside screamed. Spider-Man's reflexes were sharp, but Rhino was relentless.
+His fingers closed around the mask he'd been holding. There was no plan, no hesitation, just instinct. He pulled it on as he moved, already sprinting for the door.
 
-Rhino's eyes caught movement - **Peter's friends** standing at the edge of the street. A cruel smile spread across the horned face. With a roar, he seized the bus and hurled it toward them.
+By the time Gwen turned back toward him, Peter was gone.
+
+From the classroom window, Gwen, MJ, Harry, and Flash watched the street erupt into chaos.
+
+"Is that…?" Gwen whispered, squinting, her mind racing.
+
+A red-and-blue blur dropped into the street.
+
+Spider-Man.
+
+He swung low between streetlamps, flipped off a mailbox, and landed hard in front of Rhino just as the villain ripped a steel beam from a construction barrier and hurled it. Spider-Man twisted midair, webbing the beam and redirecting it just enough to send a parked car spinning harmlessly into the sidewalk instead.
+
+Flash's face lit up with awe.
+
+"That's… that's Spider-Man!"
+
+"Flash, no!" MJ shouted, grabbing his arm. "Stay back!"
+
+But it was already too late.
+
+The sight was intoxicating, the power, the speed, the defiance. Flash yanked free and bolted toward the street.
+
+"Flash!" Harry cursed, running after him.
+
+MJ followed without thinking. Gwen hesitated only a moment before trailing behind, her eyes never leaving the fight.
+
+Spider-Man moved fast, ducking, rolling, striking. He slammed both feet into Rhino's chest, knocking the giant backward toward the bus.
+
+The bus teetered dangerously.
+
+Students inside screamed.
+
+Spider-Man fired a web, anchoring the bus to a streetlight just as it began to tip. His timing was perfect, but Rhino didn't care.
+
+Rhino's gaze shifted.
+
+He saw them.
+
+Four kids at the edge of the street.
+
+A slow, cruel smile spread across his face.
+
+With a roar, Rhino picked up a car and threw at them.
 
 "Spider-Man!" MJ screamed.
 
-Spider-Man's muscles tensed. He launched a web, kicking the bus with enough force to nudge it forward and away from his friends. But Rhino saw the distraction as an opportunity.
+Peter reacted instantly, webbing the car, twisting his body midair and pulling the car away from them and crashing sideways.
 
-Before Spider-Man could react, Rhino lunged, grabbing him with brute force. Spider-Man's body twisted, muscles straining against unnatural pressure. Bones cracked audibly, each one a dagger of pain. Spider-Man screamed, the sound cutting through the chaos.
+But that second was all Rhino needed.
 
-MJ's hand trembled as she ran forward, but Gwen grabbed her shoulder. "Stop! Let him-"
+As Spider-Man landed, Rhino slammed into him without giving him a window to react.
 
-Spider-Man's body went limp as Rhino released him and stomped away, leaving devastation in his wake. The city's chaos was mirrored in their hearts.
+Rhino grabbed Spider-Man's body, twisted violently in his grip. The sound was unmistakable.
 
-Before Rhino leaves, he stomps on Spider-Man, making him scream through pain and agony. Everyone is scared after seeing what they did to Spider-Man.
+Crack_._
 
-MJ felt something familiar hearing Spidey's scream, she goes near him reaching to the mask. Harry tries to stop her, but she still insisted to see the man behind the mask Slowly, deliberately, she removed it, revealing the **face she had known all her life**.
+Spider-Man screamed.
 
-Her breath caught. Peter's eyes, bruised and teary, met hers. His lips trembled as he whispered, "MJ…"
+The sound cuts through everything, louder than sirens, louder than metal tearing. Bones fractured under impossible pressure; each snaps a blade of pain.
 
-Gwen, Harry, and Flash froze; the realization washing over them like a tidal wave. **Peter Parker. Spider-Man. All along.**
+"No-!" MJ started forward.
+
+"Stop!" Gwen grabbed her shoulder, eyes wide with horror. "You can't-!"
+
+Rhino hurled Spider-Man to the ground like discarded scrap. Spider-Man hit the pavement hard, rolling once before going still.
+
+Rhino turned away, satisfied.
+
+Then he stopped.
+
+With deliberate cruelty, he turned back and _stomped_.
+
+Spider-Man screamed again, the sound raw and broken.
+
+The street went silent.
+
+Even Rhino seemed to be done.
+
+He turned and walked away, leaving destruction behind him.
+
+MJ didn't hear Gwen calling her name.
+
+She was already running.
+
+Her knees hit the pavement beside Spider-Man as she reached for him, hands shaking. Something in that scream, something familiar_,_ had torn straight through her.
+
+"MJ- wait," Harry said, grabbing her arm. "Don't-"
+
+She pulled free.
+
+Slowly. Carefully.
+
+She reached for the mask.
+
+Harry's hand hovered, torn between stopping her and knowing it was already too late.
+
+MJ peeled the mask back.
+
+Time has stopped.
+
+Peter's face stared up at her, bruised, bloodied, eyes glassy with pain.
+
+Her breath caught.
+
+Peter's eyes fluttered open, unfocused but aware. He swallowed, lips trembling.
+
+"M… MJ…"
+
+Behind her, Gwen, Harry, and Flash froze.
+
+The truth crashed into them all at once.
+
+Peter Parker.
+
+Spider-Man.
+
+All along.
+
+And nothing would ever be the same again.
 
 ---
 
 ## Chapter 5: The Mask Revealed
 
-Minutes later, before the authorities show up, MJ puts the mask back on and insists everyone to help him get him home. The friends agree, Flash lifted him; Harry takes his sports car parked outside and drove. Everyone gets inside the car and leaves the arena.
+Minutes passed, no sirens yet, no authorities in sight.
 
-No one spoke much on the ride home. The silence was heavy with fear, confusion, and a dawning understanding: **Peter Parker had been living a double life; one none of them had fully grasped until now.**
+MJ knelt beside Peter, her hands trembling only slightly as she lifted the mask and carefully pulled it back over his face. For a moment, she just stared at him, as if she needed the barrier again to keep herself steady.
 
-**Peter's Home:**
+"We can't stay," she said, her voice firm despite the fear behind it. "If the police get here… if anyone sees him like this-"
 
-MJ opens the door, Flash and Gwen go upstairs to take Peter to bedroom, while MJ and Harry try to gather all the supplies Gwen told them to bring.
+She didn't finish the sentence.
 
-Inside the bedroom, Flash helps to lie Peter on his bed, and Gwen begins assessing his injuries, her hands steady and precise. "We need to realign his bones and stabilize him. He's strong, but the trauma could be serious if we leave it. And we can't take him to the hospital; it will risk revealing his identity."
+Flash nodded immediately. "We get him home. Now."
 
-Flash, his jaw tight, volunteered. "I've helped with injuries before… let me."
+Harry was already moving, keys in hand. "My car's right outside."
 
-MJ and Harry bring all the supplies; Gwen insists them to stay outside and bring some more supplies while she can do her procedure with Flash.
+Flash slid one arm under Peter's shoulders, careful despite the urgency. Peter groaned softly, pain cutting through the fog as Flash lifted him.
 
-Gwen shuts the door. A few seconds later, they hear Peter screaming in pain as Flash tries to realign his bones. MJ couldn't handle it; Harry helps consoling her as she cries on his shoulder "I can't believe… I didn't even know…"
+"Easy, Parker," Flash muttered. "I've got you."
 
-Hours passed, by night; Peter is resting, stabilized, and unconscious. He is sleeping in the position so his bones could rest, and Gwen made her own saline solution that is flowing through Peter's bloodstream.
+They moved quickly, quietly, piling into Harry's sports car as Flash settled Peter across the back seat, Gwen supporting his legs, MJ holding his head steady.
 
-The friends collapsed in chairs around him, exhausted but resolute. They had just crossed a threshold: the secret was out, the danger real, and their lives forever intertwined with Spider-Man's.
+The car pulled away just as distant sirens began to rise.
 
-Flash admires Gwen's intellect and quick-thinking under pressure, and Gwen thanks Flash for helping her perform the procedures as she couldn't have done by herself.
+No one spoke on the drive.
 
-May's keys jingled at the front door. The friends exchanged hurried glances. Harry and MJ rushed to intercept her, stalling, while Gwen stayed behind, keeping an eye on Peter.
+The city lights passed in streaks across the windows, but inside the car there was only the weight of what they had seen, what they now knew.
 
-May entered, cheerful at first, then froze as she saw the scene: bruised, bandaged, and exhausted; Peter lay on the bed. Her hand flew to her mouth. "Peter!"
+Peter Parker had been living a double life.
 
-Peter weakly tried to sit up, but Gwen steadied him. May's eyes filled with tears, scanning his face, lingering on the bruises. "Oh, my God… Peter…"
+And none of them had truly understood how heavy it was.
 
-MJ, Harry, and Gwen tried to console her, explaining as best they could, while Peter remained silent, letting May take in the full scope of the truth.
+### **Peter's Home**
 
-Somewhere across the city inside a large mansion, a rugged hairy man watches a news where a kid talks about everything happened outside midtown high, he gently keeps his bottle of beer on the table.
+MJ unlocked the door with shaking hands.
+
+Inside, everything felt painfully normal, the quiet hum of the apartment, the familiar smell of detergent and old books. It made what they were about to do feel unreal.
+
+"Upstairs," Gwen said softly. "Careful."
+
+Flash and Gwen carried Peter to his bedroom, easing him onto the bed. His breathing was shallow but steady, his body tense even in unconsciousness.
+
+Gwen didn't waste time. She rolled up her sleeves and began checking him, ribs, arms, spine, her expression focused, controlled.
+
+"We need to realign his bones and stabilize him," she said. "He heals faster than a normal person, but trauma like this… if it sets wrong, it could do permanent damage."
+
+MJ swallowed. "The hospital-?"
+
+"We can't," Gwen said immediately. "Too many questions. Too much risk."
+
+Flash clenched his jaw. "Tell me what you need."
+
+Gwen looked at him for a moment - measuring - then nodded.
+
+"I'll guide you. I can't do this alone."
+
+Meanwhile, MJ and Harry rushed around the apartment, gathering everything Gwen asked for: bandages, clean towels, antiseptics, anything that could help.
+
+When they returned, Gwen shook her head gently.
+
+"Wait outside. Both of you."
+
+MJ hesitated. "Gwen-"
+
+"Please," Gwen said. "Trust me."
+
+She closed the bedroom door.
+
+Seconds later, Peter screamed.
+
+The sound ripped through the apartment, raw, broken, unbearable.
+
+MJ collapsed against the wall, hands over her mouth. Harry caught her before she slid to the floor, holding her as she shook.
+
+"I didn't know," MJ whispered through tears. "I swear… I didn't know."
+
+Harry held her tighter, his own voice barely steady.
+
+"He didn't let anyone know."
+
+Time stretched.
+
+Minutes bled into hours.
+
+By the time the door finally opened, night had settled outside the windows.
+
+Peter lay unconscious but stable; his body positioned carefully to allow his bones to heal. A makeshift IV dripped slowly beside him; Gwen's improvised saline solution is flowing into his bloodstream.
+
+Flash sank into a chair, exhausted, staring at his hands.
+
+Gwen exhaled slowly, wiping sweat from her brow. "He'll heal. It'll take time… but he will."
+
+Flash looked at her, awe and respect clear in his eyes.
+
+"I couldn't have done that without you."
+
+Gwen shook her head. "Neither could I."
+
+They stayed there, all of them, sitting around Peter's bed, drained, shaken, but unwilling to leave.
+
+They had crossed a line.
+
+The secret was out.
+
+The danger was real.
+
+And their lives were now permanently tied to Spider-Man's.
+
+The sound of keys jingling broke the silence.
+
+Everyone froze.
+
+"Aunt May," MJ whispered.
+
+They are completely out of the idea of how to handle this.
+
+She opened the door, smiling at first.
+
+Then she saw the bandages. The bruises. The stillness.
+
+"Peter?" Her voice broke as she rushed forward. "Peter!"
+
+Peter stirred weakly, trying to lift his head. Gwen tried to make Peter avoid any moments, letting the others handle May.
+
+May's hands trembled as she took in his injuries, tears filling her eyes.
+
+"Oh my God… Peter…"
+
+MJ and Harry spoke softly, carefully, trying to explain, trying not to overwhelm her. Peter stayed silent, letting her see the truth for herself.
+
+Fear. Shock. Understanding.
+
+And love.
+
+Somewhere across the city, in a sprawling mansion bathed in dim light, a rugged, bearded man watched the news in silence.
+
+A shaky video replayed on the screen, students shouting, sirens wailing, chaos outside Midtown High.
+
+The man slowly set his bottle of beer down on the table.
+
+His eyes narrowed.
 
 ---
 
@@ -337,11 +747,11 @@ Somewhere across the city inside a large mansion, a rugged hairy man watches a n
 
 A couple of days have passed since the incident. Peter is recovering faster than an average human. May hasn't gone to work since, and the kids haven't gone to school yet.
 
-Harry tells May "I have known him as one of the smartest, sensible and mature guy, far more than anyone could be for his age, but never knew he has been carrying this responsibility for so long."
+Harry tells May, "I have known him as one of the smartest, sensible and mature guy, far more than anyone could be for his age, but never knew he has been carrying this responsibility for so long."
 
 Everyone agrees with him.
 
-Flash tells May "I am sorry Mrs. Parker, for so long I treated Peter so badly, he didn't deserve it."
+Flash tells May, "I am sorry Mrs. Parker, for so long I treated Peter so badly, he didn't deserve it."
 
 May "Hey, you didn't need to apologize for anything."
 
@@ -349,35 +759,35 @@ Suddenly, the radio crackled into life. The familiar panicked voice of a reporte
 
 "- Rhino is back, terrorizing the streets outside Midtown High! Police are on site but unable to contain-"
 
-Flash slammed his hands against the wall. 
+Flash slammed his hands against the wall.
 
-“Not again! I can’t just sit here!” 
+"Not again! I can't just sit here!"
 
-He stormed out of the room. 
+He stormed out of the room.
 
-Harry followed immediately. Gwen and MJ exchanged worried looks before hurrying after them. 
+Harry followed immediately. Gwen and MJ exchanged worried looks before hurrying after them.
 
-Flash reached the hallway door. 
+Flash reached the hallway door.
 
-Harry caught up to him, grabbing his shoulder. 
+Harry caught up to him, grabbing his shoulder.
 
-“What do you think you’re doing?” Harry said. “You walk out that door like this… you don’t come back.” 
+"What do you think you're doing?" Harry said. "You walk out that door like this… you don't come back."
 
-Flash laughed bitterly. 
+Flash laughed bitterly.
 
-“You think I don’t know that?” 
+"You think I don't know that?"
 
-Harry’s voice cracked — just slightly. 
+Harry's voice cracked, just slightly.
 
-“You’re going to get yourself killed!” 
+"You're going to get yourself killed!"
 
-Flash’s hand stayed on the doorknob. 
+Flash's hand stayed on the doorknob.
 
-“Better me than letting him hurt anyone else,” Flash said. 
+"Better me than letting him hurt anyone else," Flash said.
 
-Gwen stepped between them. 
+Gwen stepped between them.
 
-“Stop,” she said. “Both of you. You don’t know what we’re up against. But we need to do something… for Peter — as he did for all of us.”
+"Stop," she said. "Both of you. You don't know what we're up against. But we need to do something… for Peter, as he did for all of us."
 
 ### Street, Outside Midtown High
 
@@ -391,15 +801,19 @@ MJ, Harry, and Gwen followed, forming a loose line of defiance.
 
 Flash "You want Spider-Man, you have to go through us"
 
+Rhino laughed, a deep, grinding sound. "Fine by me." He walked.
+
 Rhino laughed, a deep, grinding sound. "Fine by me." He walked towards them.
 
 The ground vibrated as Rhino approached, the police barricades rattling as if they were about to snap loose. Sirens wailed somewhere behind the perimeter, their lights washing the street in red and blue.
 
 The kids stood frozen.
 
-MJ’s fingers clenched into Harry’s sleeve.
-Gwen’s breath came shallow, measured.
-Flash didn’t move — even as instinct screamed at him to run.
+MJ's fingers clenched into Harry's sleeve.
+
+Gwen's breath came shallow, measured.
+
+Flash didn't move, even as instinct screamed at him to run.
 
 Then the sound came.
 
@@ -407,103 +821,109 @@ Low. Rough. Close.
 
 A growl that cut through the chaos.
 
-“Hey, bub,” a voice said from the shadows near the school gates.
-“How about picking on someone your own size?”
+"Hey, bub," a voice said from the shadows near the school gates.
+
+"How about picking on someone your own size?"
 
 Rhino stopped, boots grinding across broken pavement. He turned.
 
-A man stepped forward from beside a dented police cruiser — leather jacket, tank top, jeans worn thin at the knees. Short, broad, solid. He looked at Rhino like he was measuring a broken machine.
+A man stepped forward from beside a dented police cruiser, leather jacket, tank top, jeans worn thin at the knees. Short, broad, solid. He looked at Rhino like he was measuring a broken machine.
 
 Snikt.
 
 Metal claws slid free with a sharp, unmistakable hiss.
 
-Flash’s mouth fell open.
-“Oh my—”
+Flash's mouth fell open.
 
-Rhino snorted. “You?” He laughed, rolling his shoulders. “I eat guys like you for breakfast.”
+"Oh my-"
+
+Rhino snorted. "You?" He laughed, rolling his shoulders. "I eat guys like you for breakfast."
 
 Wolverine cracked his neck once.
-“Then choke on this.”
+
+"Then choke on this."
 
 Rhino roared and charged.
 
-Not reckless — direct. A battering ram aimed straight at Wolverine.
+Not reckless, direct. A battering ram aimed straight at Wolverine.
 
 Wolverine sprinted forward too.
 
 At the last second, he dove sideways. Rhino thundered past, his horn smashing into a police van. The vehicle lifted off the ground and slammed back down, tires bursting.
 
-Before Rhino could turn, Wolverine was already on him — leaping, claws driving into the thick muscle of Rhino’s shoulder.
+Before Rhino could turn, Wolverine was already on him, leaping, claws driving into the thick muscle of Rhino's shoulder.
 
 Rhino howled and swatted him out of the air.
 
 Wolverine hit the pavement hard, skidding across the road until he slammed into the metal school gate. The impact rang like a bell.
 
 MJ gasped.
-“He— he hit him like—”
 
-Wolverine pushed himself up slowly, blood trickling from his brow — already sealing.
+"He- he hit him like-"
 
-“Yeah,” he muttered. “That tracks.”
+Wolverine pushed himself up slowly, blood trickling from his brow, already sealing.
 
-Rhino charged again, swinging wide. Wolverine ducked under the punch as it obliterated a streetlight, sparks showering the road. Wolverine slashed across Rhino’s thigh — shallow, precise.
+"Yeah," he muttered. "That tracks."
+
+Rhino charged again, swinging wide. Wolverine ducked under the punch as it obliterated a streetlight, sparks showering the road. Wolverine slashed across Rhino's thigh, shallow, and precise.
 
 Rhino staggered, snarling.
 
-“You’re fast!” Rhino bellowed. “But you’re not strong enough!”
+"You're fast!" Rhino bellowed. "But you're not strong enough!"
 
 He grabbed Wolverine mid-motion and slammed him into the hood of a squad car. The engine block crumpled. Wolverine rolled off just as Rhino brought both fists down, smashing the car flat.
 
 The kids flinched.
 
-Wolverine came up behind Rhino and climbed him — claws biting into armor seams, joints, anywhere he could slow him down. Rhino staggered toward a stopped school bus, slamming his back against it.
+Wolverine came up behind Rhino and climbed him, claws biting into armor seams, joints, anywhere he could slow him down. Rhino staggered toward a stopped school bus, slamming his back against it.
 
 The bus rocked violently.
 
-Police lights flashed across his armor. The school loomed behind Wolverine — concrete steps, glass doors, silhouettes of students and teachers frozen in terror.
+Police lights flashed across his armor. The school loomed behind Wolverine, concrete steps, glass doors, silhouettes of students and teachers frozen in terror.
 
-Rhino’s eyes flicked past Wolverine.
+Rhino's eyes flicked past Wolverine.
 
 He smiled.
 
-“Still got leverage,” he growled.
+"Still got leverage," he growled.
 
-Before anyone could react, Rhino lunged sideways, wrapping both arms around a stopped school bus near the barricade. Metal screamed as he lifted it off the ground — wheels spinning, glass shattering.
+Before anyone could react, Rhino lunged sideways, wrapping both arms around a stopped school bus near the barricade. Metal screamed as he lifted it off the ground, wheels spinning, glass shattering.
 
-MJ screamed.
+Flash screamed.
+
 "WOLVERINE!"
 
 Rhino roared, muscles bulging as he turned toward the school.
-“LET’S SEE YOU STOP THIS!”
 
-The bus tilted — aimed straight at the front steps.
+"LET'S SEE YOU STOP THIS!"
+
+The bus tilted, aimed straight at the front steps.
 
 Something in Wolverine snapped.
 
-He didn’t shout.
+He didn't shout.
 
-He didn’t warn.
+He didn't warn.
 
 He charged.
 
-Wolverine dropped low, sprinting straight at Rhino as the bus began to rise higher. His posture changed — no tactics, no patience. Just instinct.
+Wolverine dropped low, sprinting straight at Rhino as the bus began to rise higher. His posture changed, no tactics, no patience. Just instinct.
 
 Feral.
 
 Rhino barely had time to turn.
 
-Wolverine slid beneath the bus as Rhino shifted his grip—
+Wolverine slid beneath the bus as Rhino shifted his grip-
 
 Snikt.
 
-Wolverine’s claws flashed upward.
+Wolverine's claws flashed upward.
 
-The first strike carved deep into Rhino’s left knee.
+The first strike carved deep into Rhino's left knee.
 
 Bone cracked.
 
-Rhino howled, his leg collapsing as the bus lurched violently. Wolverine didn’t stop — he rolled, came up behind him, and slashed again.
+Rhino howled, his leg collapsing as the bus lurched violently. Wolverine didn't stop, he rolled, came up behind him, and slashed again.
 
 The right leg went next.
 
@@ -513,9 +933,9 @@ The ground shook.
 
 Before Rhino could even process the pain, Wolverine was on him.
 
-He leapt onto Rhino’s back, driving his claws down into both shoulders, severing muscle and locking the arms uselessly at Rhino’s sides.
+He leapt onto Rhino's back, driving his claws down into both shoulders, severing muscle and locking the arms uselessly at Rhino's sides.
 
-Rhino roared, trying to swing — nothing responded.
+Rhino roared, trying to swing, nothing responded.
 
 Wolverine yanked himself forward and slashed.
 
@@ -539,13 +959,13 @@ One clean, brutal slice.
 
 The horn hit the ground with a hollow clang.
 
-Silence followed — broken only by Rhino’s ragged breathing and distant sirens.
+Silence followed, broken only by Rhino's ragged breathing and distant sirens.
 
 Wolverine stood over him, chest heaving, eyes wild. For a moment, it looked like he might keep going.
 
 Then he stopped.
 
-He crouched, pressing one claw tip into the pavement inches from Rhino’s face.
+He crouched, pressing one claw tip into the pavement inches from Rhino's face.
 
 Low. Controlled. Deadly calm.
 
@@ -553,36 +973,37 @@ Rhino tried to speak.
 
 Wolverine raised a hand.
 
-“Don’t,” he said.
+"Don't," he said.
 
-He crouched beside Rhino, voice low — not angry, not curious. Certain.
+He crouched beside Rhino, voice low, not angry, not curious. Certain.
 
-“I know who sent you.”
+"I know who sent you."
 
-Rhino’s breath hitched.
+Rhino's breath hitched.
 
-“You were never the plan,” Wolverine continued. “You were noise. A distraction.”
+"You were never the plan," Wolverine continued. "You were noise. A distraction."
 
 Rhino whimpered, fear finally overtaking the rage.
 
 Wolverine stood, looking down at him.
 
-“You don’t come after kids,” he said flatly.
-“You don’t bring this kind of fight to a school.”
+"You don't come after kids," he said flatly.
+
+"You don't bring this kind of fight to a school."
 
 He turned away, already losing interest.
 
-“Someone will be here for you,” he added over his shoulder. “They won’t be as patient.”
+"Someone will be here for you," he added over his shoulder. "They won't be as patient."
 
 Moments later, the sound of distant engines cut through the air.
 
-He stood and stepped back, scanning the school, the kids, the damage — making sure the threat was truly over.
+He stood and stepped back, scanning the school, the kids, the damage, making sure the threat was truly over.
 
-He turned towards the kids who stood against Rhino. He sheathed his claws and crossed his arms.
+He turned to the kids who stood against Rhino. He sheathed his claws and crossed his arms.
 
 "You kids are brave, don't worry, we will handle this from here" Wolverine said, his voice rough but approving. "And tell him… he's not alone in this fight. Not ever."
 
-Relief and gratitude rippled through MJ, Gwen, Harry, and Flash. For the first time, they felt connected to the larger world - a world where Spider-Man wasn't the only hero.
+Relief and gratitude rippled through MJ, Gwen, Harry, and Flash. For the first time, they felt connected to the larger world, a world where Spider-Man wasn't the only hero.
 
 ---
 
@@ -596,7 +1017,7 @@ MJ, Gwen, and Harry nodded. For Peter's friends, the world had suddenly grown wi
 
 The apartment was quiet in the late afternoon, bathed in a soft golden glow from the sun filtering through the blinds. Peter sat at the edge of the dining table, leaning slightly, still fragile from the injuries he had sustained. Harry helped him settle into the chair, his hands steady, firm, and protective.
 
-MJ, Gwen, May, and Flash lingered nearby, exchanging subtle glances, their curiosity and concern palpable. They had waited for this moment - for Peter to speak, to reveal everything.
+MJ, Gwen, May, and Flash lingered nearby, exchanging subtle glances, their curiosity and concern palpable. They had waited for this moment for Peter, to speak, to reveal everything.
 
 Peter took a deep breath. "I… I need to tell you all something. About who I am… what happened to me… what I've been doing."
 
@@ -658,7 +1079,7 @@ Flash nudged him playfully. "You better believe it, Parker. After what I saw, th
 
 MJ reached over, holding Peter's hand. "We've always believed in Spider-Man. And now we know why. But more than that… we believe in _you_, Peter."
 
-The room was silent for a beat, each of them letting the weight of that moment sink in. Outside, the city continued its relentless rhythm, but here, in this small apartment, a team had formed - five friends bound together by trust, courage, and loyalty.
+The room was silent for a beat, each of them letting the weight of that moment sink in. Outside, the city continued its relentless rhythm, but here, in this small apartment, a team had formed, five friends bound together by trust, courage, and loyalty.
 
 A few hours later, as the sun dipped below the skyline, Peter suited up. Swinging through Midtown, the city's lights reflecting off his suit, he felt a **renewed sense of purpose**. People cheered from the streets, kids pointed upward in admiration, and somewhere, a camera from the local news captured his figure as he soared above the chaos.
 
@@ -698,7 +1119,7 @@ Harry adjusted his tie in the reflection of a trophy case, grinning. "Besides, y
 
 Peter exhaled, scanning the room until he saw her.
 
-Across the gym, Mary Jane Watson stood beside Gwen near the refreshment table. MJ wore a simple but elegant dress, confident without trying, her smile effortless. Gwen leaned in, whispering something that made MJ laugh softly - the kind of laugh Peter had known since childhood.
+Across the gym, Mary Jane Watson stood beside Gwen near the refreshment table. MJ wore a simple but elegant dress, confident without trying, her smile effortless. Gwen leaned in, whispering something that made MJ laugh softly, the kind of laugh Peter had known since childhood.
 
 For a moment, the noise faded.
 
@@ -712,7 +1133,7 @@ She excused herself from Gwen and walked toward Peter, every step deliberate, ca
 
 "Hey," he replied, suddenly forgetting every sentence he'd rehearsed in his head.
 
-MJ tilted her head, studying him - the nerves, the posture, the boy she'd known forever trying not to look terrified. Her smile softened.
+MJ tilted her head, studying him, the nerves, the posture, the boy she'd known forever trying not to look terrified. Her smile softened.
 
 "I know," she said.
 
@@ -730,11 +1151,45 @@ They stepped onto the dance floor together as the music swelled, slow and steady
 
 He was just Peter Parker.
 
-Flash leaned against the bleachers nearby, watching with a half-smile. Gwen joined him, arms crossed and amused.
+Flash leaned against the bleachers nearby, arms folded, watching the dance floor with a half-smile that didn't quite reach his eyes.
 
-"Didn't think I'd ever see him relax," Flash said.
+Gwen stepped up beside him, mirroring his stance. "You look… thoughtful. That's new."
 
-Gwen smirked. "He needed this more than he'll ever admit."
+Flash scoffed softly. "Don't spread it around. I've got a reputation."
+
+She glanced at him. "You ever feel like people already decided who you are before you even open your mouth?"
+
+Flash tilted his head, surprised. "Yeah."
+
+A beat. "More than they should."
+
+Gwen studied him for a moment. "You're not who you pretend to be."
+
+He let out a short laugh. "Funny. I was about to say the same about you."
+
+They watched Peter and MJ on the dance floor, laughing awkwardly, completely unaware of anything beyond each other.
+
+"My dad's a cop," Gwen said casually, like it wasn't a big thing. "Teaches you to notice patterns. People, I mean."
+
+Flash shifted his weight. "Yeah. I get that."
+
+She glanced at him. "You don't talk about your family much."
+
+He hesitated, just long enough to be noticeable, then shrugged. "Some things aren't great party conversation."
+
+Gwen nodded. No pressure. No follow-up.
+
+Instead, she smiled. "Well… for what it's worth, you're doing okay tonight."
+
+Flash smirked. "High praise."
+
+They stood there a moment longer, the music drifting over them, the night warm and forgiving.
+
+"Hey," Flash said finally, pushing off the bleachers. "Wanna grab something to drink? Before someone starts a slow song and makes it weird."
+
+Gwen smiled. "Lead the way."
+
+They walked off together, not a couple, not yet, just two people choosing not to be alone for the moment.
 
 Harry stood off to the side, drink in hand, eyes on Peter and MJ, smiling quietly, satisfied. Things were finally falling into place.
 
