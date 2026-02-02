@@ -9,29 +9,31 @@ order: 4
 
 ## Chapter 1
 
-The X-Men move on Wolverine's information.
+The X-Men move on Wolverine’s information.
 
-Hammerhead's operation is buried deep, layers of concrete, steel, and men who believe secrecy equals safety. The team splits before reaching the perimeter, each unit peeling away into the night with practiced ease.
+Silvio Moretti’s operation is buried deep—layers of concrete, steel, and men who believe secrecy equals safety. A fixer. Old money muscle. The kind of gangster who doesn’t run the city, but keeps it breathing.
 
-Cyclops leads the strike team toward the base itself. Morph and Nightcrawler follow him into the shadows, where Hammerhead is hidden behind heavy fortifications and heavier confidence.
+The team splits before reaching the perimeter, each unit peeling away into the night with practiced ease.
+
+Cyclops leads the strike team toward the base itself. Morph and Nightcrawler follow him into the shadows, where Moretti is hidden behind heavy fortifications and heavier confidence.
 
 Across the city, Jean, Rogue, and Storm approach an open warehouse where money and weapons change hands in plain sight. No walls. No cover. Just greed exposed under harsh industrial lights.
 
-Logan remains behind at the school, assigned to night duty alongside Mimic. It wasn't his call, and he didn't argue, though the irritation sits quietly beneath his skin.
+Logan remains behind at the school, assigned to night duty alongside Mimic. It wasn’t his call, and he didn’t argue, though the irritation sits quietly beneath his skin.
 
-Back at the base, Nightcrawler scouts ahead, mapping every ledge, beam, and blind spot, every place he might need to disappear from, or reappear into, if things go wrong.
+Back at the base, Nightcrawler scouts ahead, mapping every ledge, beam, and blind spot—every place he might need to disappear from, or reappear into, if things go wrong.
 
-The signal comes through Scott's visor.
+The signal comes through Scott’s visor.
 
 Two sharp clicks.
 
 Morph moves first.
 
-He steps in close, drops the guard with a precise strike to the throat, and catches the body before it hits the floor. In the same breath, his features ripple and settle. The same jawline. The same scar. The same tired, bored expression. He adjusts the helmet, exhales once, and walks forward like he's always belonged there.
+He steps in close, drops the guard with a precise strike to the throat, and catches the body before it hits the floor. In the same breath, his features ripple and settle. The same jawline. The same scar. The same tired, bored expression. He adjusts the helmet, exhales once, and walks forward like he’s always belonged there.
 
 Nightcrawler is already gone.
 
-A soft _crack_ splits the air as Kurt reappears upside down on a steel beam, tail coiled, eyes scanning the corridor below. He blinks and vanishes again. Another _crack_. Now he's behind a mounted security camera. A gentle tap. A precise twist.
+A soft crack splits the air as Kurt reappears upside down on a steel beam, tail coiled, eyes scanning the corridor below. He blinks and vanishes again. Another crack. Now he’s behind a mounted security camera. A gentle tap. A precise twist.
 
 The feed goes dead.
 
@@ -41,11 +43,11 @@ Cyclops advances last.
 
 Measured. Controlled.
 
-His hand hovers near his visor, not as a threat, but as a promise.
+His hand hovers near his visor—not as a threat, but as a promise.
 
-Inside the base, Hammerhead's men move with careless confidence. They laugh quietly. They argue. They pace their routes like the night belongs to them.
+Inside the base, Moretti’s men move with careless confidence. They laugh quietly. They argue. They pace their routes like the night belongs to them.
 
-They don't realize they've already lost the room.
+They don’t realize they’ve already lost the room.
 
 Morph passes through a checkpoint, nodding casually to another guard. The guard nods back, uninterested, already forgetting him.
 
@@ -53,35 +55,39 @@ A second later, Nightcrawler drops silently behind the man.
 
 The guard never screams.
 
-Across the city, the warehouse breathes with noise, forklifts whining, crates scraping against concrete, money being counted too loudly by men who believe they are untouchable.
+Across the city, the warehouse breathes with noise—forklifts whining, crates scraping against concrete, money being counted too loudly by men who believe they are untouchable.
+
+A voice cuts through the chaos.
+
+“Shipment clears tonight,” a lieutenant says into a phone. “Yeah. Same buyer. Stone-face. Pays clean.”
 
 Then the fog rolls in.
 
-At first, it seems natural. Cold air creeping along the floor, curling around boots and pallet stacks. Then it thickens. Visibility collapses to arm's length. Shadows stretch, distort. Voices rise. Panic takes hold.
+At first, it seems natural. Cold air creeping along the floor, curling around boots and pallet stacks. Then it thickens. Visibility collapses to arm’s length. Shadows stretch, distort. Voices rise. Panic takes hold.
 
-Storm stands elevated on a steel platform, eyes glowing white, perfectly still, calm as the sky in the moment before it breaks. The fog responds to her with surgical precision, flowing around her allies without ever touching them.
+Storm stands elevated on a steel platform, eyes glowing white, perfectly still—calm as the sky in the moment before it breaks. The fog responds to her with surgical precision, flowing around her allies without ever touching them.
 
 Jean taps her comm once.
 
-"Visuals compromised. Moving."
+“Visuals compromised. Moving.”
 
 Rogue cracks her knuckles, a grin spreading across her face.
 
-"Finally."
+“Finally.”
 
-They move through the haze behind specialized lenses, clear-eyed where everyone else sees only ghosts. To the men inside the warehouse, they are silhouettes, shapes in motion, impossible to track.
+They move through the haze behind specialized lenses, clear-eyed where everyone else sees only ghosts. To the men inside the warehouse, they are silhouettes—shapes in motion, impossible to track.
 
 A gunman fires blindly into the fog. The muzzle flash blooms and the shot vanishes into nothing.
 
 Jean lifts her hand.
 
-The man freezes mid-motion, the bullets freezes, suspended against a crate by invisible force. Rogue steps in, yanks the weapon free, and folds the barrel in half like soft metal.
+The man freezes mid-motion, bullets suspended against a crate by invisible force. Rogue steps in, yanks the weapon free, and folds the barrel in half like soft metal.
 
 Storm raises one hand.
 
 The air answers.
 
-A sudden gust slams a group of men into the far wall, not lethal, just decisive. The fight ends before it can truly begin.
+A sudden gust slams a group of men into the far wall—not lethal, just decisive. The fight ends before it can truly begin.
 
 Crates burst open under the impact. Weapons spill out. Cash. Ledgers. Data drives.
 
@@ -93,25 +99,25 @@ Evidence secured.
 
 Back at the base, the trap snaps shut.
 
-Cyclops steps into Hammerhead's office just as the crime boss reaches for a hidden weapon.
+Cyclops steps into Moretti’s office just as the man reaches for a hidden weapon.
 
-"Don't."
+“Don’t.”
 
-The word lands heavy, final.
+The word lands heavy. Final.
 
-Hammerhead laughs, slow and dismissive.
+Moretti laughs—slow, dismissive.
 
-"You brought three people?"
+“You brought three people?”
 
-The air _cracks_.
+The air cracks.
 
 Nightcrawler appears behind him, boots silent on the floor.
 
-"So far," Kurt says softly.
+“So far,” Kurt says softly.
 
-Hammerhead turns-
+Moretti turns—
 
--and Morph sheds the disguise in mid-motion, slamming him into the desk. Wood splinters. Papers explode into the air. A bodyguard lunges forward, weapon already raised.
+—and Morph sheds the disguise mid-motion, slamming him into the desk. Wood splinters. Papers explode into the air. A bodyguard lunges forward, weapon already raised.
 
 Cyclops opens his visor.
 
@@ -121,33 +127,41 @@ The reinforced wall caves inward as if punched by the building itself. The shock
 
 Too late.
 
-Hammerhead struggles, but Nightcrawler has him pinned, tail wrapped tight around his arm, leverage perfect. Cyclops stands over him, visor glowing, unshaken.
+Moretti struggles, but Nightcrawler has him pinned—tail wrapped tight around his arm, leverage perfect. Cyclops stands over him, visor glowing, unshaken.
 
-"Your evidence is already gone," Scott says calmly. "This ends now."
+“Your buyers are exposed,” Scott says calmly. “Your routes are burned. This ends now.”
 
-Outside, sirens cut through the night, an anonymous tip, perfectly timed.
+Outside, sirens cut through the night—an anonymous tip, perfectly timed.
 
 The room falls silent.
 
 Minutes later, both teams rendezvous at the extraction point.
 
-Hammerhead is bound, furious, and very aware that his power has slipped away. He struggles once, then stills, eyes burning with the understanding that this isn't something he can buy his way out of.
+Moretti is bound, furious, and very aware that his usefulness has expired. He struggles once, then stills—eyes burning with the understanding that someone higher up will survive him.
 
 Jean hands Scott the case.
 
-"Everything," she says. "Money trails. Suppliers. Buyers."
+“Everything,” she says. “Money trails. Suppliers. Buyers.”
 
-Storm lowers her hand, and the fog begins to thin. Below them, flashing police lights cut through the streets, too late to change anything, right on time to collect what remains.
+Storm lowers her hand, and the fog begins to thin. Below them, flashing police lights cut through the streets—too late to change anything, right on time to collect what remains.
 
-"They will not recover from this," Storm says quietly.
+“They’ll replace him,” Storm says quietly.
 
-Cyclops nods once.
+Cyclops nods.
 
-"Good work, everyone."
+“But not tonight.”
 
 No cheers. No celebration.
 
-High above the city, the X-Men disappear into the night, mission complete.
+High above the city, the X-Men disappear into the night.
+
+The operation is finished.
+
+The system is not.
+
+---
+
+## Chapter 2
 
 Back at Xavier's mansion, the lights are off.
 
@@ -347,7 +361,7 @@ Morning light spills into the common room, thin and gray.
 
 The television hums softly.
 
-"-last night, a coordinated strike by the X-Men resulted in the arrest of known crime figure Hammerhead. Authorities confirm-"
+"-last night, a coordinated strike by the X-Men resulted in the arrest of known crime figure Silvio Moretti. Authorities confirm-"
 
 Cyclops stands near the window, arms folded, wearing his normal glasses. Jean sits on the edge of the table, exhaustion still clinging to her. Storm watches the screen in silence, arms crossed. Rogue leans against the counter, helmet tossed aside. Nightcrawler perches near the staircase, tail wrapped loosely around his leg. Morph sprawls in a chair, pretending not to listen.
 
@@ -471,7 +485,7 @@ They declared open season.
 
 ---
 
-## Chapter 2
+## Chapter 3
 
 The Cerebro chamber hums softly, a low mechanical breath filling the space.
 
