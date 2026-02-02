@@ -7,24 +7,6 @@ published: true
 order: 1
 ---
 
-## Character description:
-
-Mary Jane Watson: She is a strong, independent, and smart girl with a knack of journalism. She lives in the neighborhood next to Peter's house and has been his friend since childhood. Peter has liked her since the age he even knew what it was, and MJ always liked his company, and has been inseparable. MJ also happens to admire Spider-Man, as she believes he is helping people, and wish to stand up against Bugle.
-
-Harry Osborn: Harry has been Peter's best friend since mid-school. He is a handsome, rich, and incredibly sensible person. He also happens to help Peter to do things he is afraid of, to make him more confident. He also has been introduced to MJ, and they have been together since mid-school. Harry also encourages Peter to tell MJ about his feelings for her, but that's something he hasn't achieved yet.
-
-Gwen Stacy: Gwen Stacy is one of Peter's best friends and his intellectual partner. They met each other in Midtown High as lab partners, and they happen to be the brightest of all. She is the one Peter could talk about science, fiction, and even been able to open to her about deep feelings that most of them are not aware of. She even knows about his feelings for MJ, and she is also aware how much he cares for his friends and his aunt, and it has been rough since he lost his uncle. Peter also happens to get ideas from her about Spidey related stuff without letting her know the truth.
-
-Flash Thompson: Flash Thompson is the quarterback, the potential prom king, and Peter's worst nightmare in school. Flash has been teasing him, beating him, and taking lunch money from him since junior school, at least the amount of bullying has been reduced since Gwen has been defending Peter, and she happens to be the only person in the school Flash actually listens to. Flash comes from a complicated family that no one knows about, and also has an immense respect for Spider-Man. He believes Spidey is the only person who stands against the bad guys and doesn't like mutants as he thinks they only use their powers for their own issue.
-
-May Parker: May Parker is an amazing, strong, and incredibly productive women, who also happens to be like a single guardian to Peter. She does yoga, self-defense, works out, and does multiple jobs to afford Peter's education, and still makes time for household chores, cooking food, and even spending quality time with Peter. She tries not to think about Ben, and focuses on things she can control, that is to be healthy, strong, and be prepared for anything for Peter.
-
-Aleksei Sytsevich: Aleksei Sytsevich is a gangster who happens to have a little beef with Spider-Man. He also created his own Mech Rhino suit from the resources he got from Hammer Head to fight Spidey, but he humiliated Aleksei by defeating him, and putting him behind the bars
-
-Hammer Head: Hammer Head is the crime boss, currently the most notorious criminal in New York, known for smuggling, money laundering, and stealing from others for his own benefit. But Spider-Man has been acting like a thorn in his path, as he ruined multiple operations, causing him more loss than he can imagine. He even brought people like Batroc, Trap-master and even funded Aleksei's Rhino armor, but he constantly fails to put down Spider-Man.
-
----
-
 ## Prelude
 
 _"My name is Peter Parker. I'm just a regular high school kid from Queens… who also happens to be your friendly neighborhood Spider-Man._
@@ -39,9 +21,9 @@ _That was the moment my life changed forever._
 
 _Since then, I've tried to honor his words, "With great power comes great responsibility." I became Spider-Man, fighting for the people who can't fight for themselves, stopping crime, saving lives, and trying every day to live up to the man my uncle wanted me to be._
 
-_In just one year, a lot has happened. I built my own web-shooters, designed a few prototype suits before perfecting one, and took down villains like Batroc, Trapmaster, and even Aleksei Sytsevich in his Rhino armor. But the real problem? The crime lords hiding behind it all, Hammerhead and Tombstone. They control everything from the shadows… and Spider-Man keeps getting in their way._
+_In just one year, a lot has happened. I built my own web-shooters, designed a few prototype suits before perfecting one, and took down villains like Batroc, Trap-Master, and even Aleksei Sytsevich in his Rhino armor. But the real problem? The crime lords hiding behind it all, Hammerhead and Tombstone. They control everything from the shadows… and Spider-Man keeps getting in their way._
 
-_I live with my Aunt May, the strongest woman I know. She works two jobs just to afford my education, never once complaining, never once giving up. And somehow, she still finds time to worry about me being late for dinner._
+_I live with my Aunt May, the strongest woman I know. She works multiple jobs just to afford my education, never once complaining, never once giving up. And somehow, she still finds time to worry about me being late for dinner._
 
 _My friends are my world:_
 
@@ -107,15 +89,15 @@ Just one more swing.
 
 Sunday morning came with sore muscles and a bruised rib that protested every deep breath.
 
-Peter finished his breakfast quickly, forcing himself to eat more than he wanted to. Aunt May stood near the sink, already halfway through her morning routine. 
+Peter finished his breakfast quickly, forcing himself to eat more than he wanted to. Aunt May stood near the sink, already halfway through her morning routine.
 
-“I’m heading out,” Peter said, grabbing his bag. “Studying at Gwen’s place. Might be a long one.” 
+"I'm heading out," Peter said, grabbing his bag. "Studying at Gwen's place. Might be a long one."
 
-Aunt May glanced over her shoulder, smiling. “Don’t stay out too late. And come home for dinner if you can.” 
+Aunt May glanced over her shoulder, smiling. "Don't stay out too late. And come home for dinner if you can."
 
-“I will,” Peter said easily. “Okay.” 
+"I will," Peter said easily. "Okay."
 
-She nodded, satisfied, and Peter slipped out the door. 
+She nodded, satisfied, and Peter slipped out the door.
 
 Peter moved slower now, perched on a church steeple as the city below woke up, bakery doors opening, joggers passing, church bells ringing.
 
@@ -457,7 +439,7 @@ Meanwhile, next morning at Midtown High, Peter Parker sat hunched over a circuit
 
 Suddenly Rhino appears outside Midtown high and starts chaos.
 
-Peter's chest tightened, Spider-Sense flaring. He is looking outside through the window, at Rhino. "Not today…" he muttered.
+Peter's chest tightened, Spider-Sense flaring. He looks outside through the window, at Rhino. "Not today…" he muttered.
 
 The city groaned beneath the first blows of Rhino's rampage.
 
@@ -539,7 +521,7 @@ With a roar, Rhino picked up a car and threw at them.
 
 "Spider-Man!" MJ screamed.
 
-Peter reacted instantly, webbing the car, twisting his body midair and pulling the car away from them and crashing sideways.
+Spider-Man reacted instantly, webbing the car, twisting his body midair and pulling the car away from them and crashing sideways.
 
 But that second was all Rhino needed.
 
@@ -563,7 +545,7 @@ Rhino turned away, satisfied.
 
 Then he stopped.
 
-With deliberate cruelty, he turned back and _stomped_.
+With deliberate cruelty, he turned back and stomped.
 
 Spider-Man screamed again, the sound raw and broken.
 
@@ -633,7 +615,7 @@ Flash slid one arm under Peter's shoulders, careful despite the urgency. Peter g
 
 "Easy, Parker," Flash muttered. "I've got you."
 
-They moved quickly, quietly, piling into Harry's sports car as Flash settled Peter across the back seat, Gwen supporting his legs, MJ holding his head steady.
+They moved quickly, quietly, piling into Harry's car as Flash settled Peter across the back seat, Gwen supporting his legs, MJ holding his head steady.
 
 The car pulled away just as distant sirens began to rise.
 
@@ -649,49 +631,67 @@ And none of them had truly understood how heavy it was.
 
 MJ unlocked the door with shaking hands.
 
-Inside, everything felt painfully normal, the quiet hum of the apartment, the familiar smell of detergent and old books. It made what they were about to do feel unreal.
+Inside, everything felt painfully normal - the quiet hum of the apartment, the familiar smell of detergent and old books. It made what they were about to do feel unreal.
 
 "Upstairs," Gwen said softly. "Careful."
 
 Flash and Gwen carried Peter to his bedroom, easing him onto the bed. His breathing was shallow but steady, his body tense even in unconsciousness.
 
-Gwen didn't waste time. She rolled up her sleeves and began checking him, ribs, arms, spine, her expression focused, controlled.
+Gwen didn't waste time. She rolled up her sleeves and began assessing him - ribs, arms, spine - her movements precise, controlled.
 
-"We need to realign his bones and stabilize him," she said. "He heals faster than a normal person, but trauma like this… if it sets wrong, it could do permanent damage."
+"This is bad," she said quietly. "He heals faster than a normal person, but trauma like this… if it sets wrong, it could do permanent damage."
 
 MJ swallowed. "The hospital-?"
 
 "We can't," Gwen said immediately. "Too many questions. Too much risk."
 
-Flash clenched his jaw. "Tell me what you need."
+Flash clenched his jaw. "Then tell me what you need."
 
-Gwen looked at him for a moment - measuring - then nodded.
+Gwen glanced around the room - the sparse shelves, the small bathroom cabinet - and shook her head.
 
-"I'll guide you. I can't do this alone."
+"There won't be enough here," she said. "Basic first aid won't cut it."
 
-Meanwhile, MJ and Harry rushed around the apartment, gathering everything Gwen asked for: bandages, clean towels, antiseptics, anything that could help.
+She turned to MJ and Harry. "I need you to get supplies."
 
-When they returned, Gwen shook her head gently.
+"What kind?" Harry asked.
 
-"Wait outside. Both of you."
+"Bandages. Sterile wraps. Saline. Painkillers. Whatever you can find," Gwen said. "A pharmacy, a medical supply store - anywhere. Move."
 
 MJ hesitated. "Gwen-"
 
-"Please," Gwen said. "Trust me."
+"Please," Gwen said, softer now. "Trust me."
 
-She closed the bedroom door.
+MJ nodded, wiping her face, and followed Harry out the door.
 
-Seconds later, Peter screamed.
+Gwen turned back to Flash. "I'll guide you. I can't do this alone."
 
-The sound ripped through the apartment, raw, broken, unbearable.
+Flash nodded once. "Just tell me what to do."
 
-MJ collapsed against the wall, hands over her mouth. Harry caught her before she slid to the floor, holding her as she shook.
+Gwen closed the bedroom door.
 
-"I didn't know," MJ whispered through tears. "I swear… I didn't know."
+MJ and Harry were halfway back up the stairs when the scream tore through the apartment.
 
-Harry held her tighter, his own voice barely steady.
+Peter's voice - raw, broken, full of agony.
 
-"He didn't let anyone know."
+MJ froze.
+
+The sound ripped straight through her, stealing the air from her lungs. Her knees buckled, and she slid down the wall, hands flying to her mouth.
+
+"I didn't know," she sobbed. "I swear… I didn't know."
+
+Harry dropped beside her, arms wrapping around her shoulders as she shook.
+
+"He didn't let anyone know," he said quietly, holding her tighter. "Not a single one of us."
+
+The scream faded - replaced by strained breathing, muffled instructions from behind the door.
+
+MJ pressed her forehead to Harry's shoulder, tears soaking into his jacket.
+
+Inside the room, Flash followed Gwen's steady voice.
+
+Harry, "Come on MJ, let's move. They need our help."
+
+MJ nods, still sobbing, stand up and leave the house with Harry.
 
 Time stretched.
 
@@ -699,7 +699,9 @@ Minutes bled into hours.
 
 By the time the door finally opened, night had settled outside the windows.
 
-Peter lay unconscious but stable; his body positioned carefully to allow his bones to heal. A makeshift IV dripped slowly beside him; Gwen's improvised saline solution is flowing into his bloodstream.
+Peter lay unconscious but stable; his body positioned carefully to allow his bones to heal. A saline IV dripped slowly beside him.
+
+**The apartment was quieter now - the kind of quiet that came after the medical team sent by Norman, who knew exactly what they were doing had finished their work and slipped away without questions.**
 
 Flash sank into a chair, exhausted, staring at his hands.
 
@@ -729,7 +731,7 @@ Everyone froze.
 
 They are completely out of the idea of how to handle this.
 
-She opened the door, smiling at first.
+She opened the room door, smiling at first, hoping he had invited friends.
 
 Then she saw the bandages. The bruises. The stillness.
 
@@ -1023,7 +1025,9 @@ Relief and gratitude rippled through MJ, Gwen, Harry, and Flash. For the first t
 
 ## Chapter 7: A House of Secrets
 
-Days later, **X-Men operatives** captured Hammerhead, unraveling his criminal network. News reports broadcast mutant intervention: Hammerhead imprisoned, stolen goods recovered, and Rhino incapacitated. Flash watched, shaking his head in awe.
+Days later, **X-Men operatives** captured Hammerhead, unraveling his criminal network. News reports broadcast mutant intervention: Hammerhead imprisoned, stolen goods recovered, and Rhino incapacitated.
+
+Flash watched, shaking his head in awe.
 
 "Maybe… maybe not all mutants are selfish," he said quietly.
 
@@ -1063,17 +1067,19 @@ Silence fell over the room for a heartbeat. Then Harry spoke, breaking it with w
 
 Flash nodded, a spark of newfound admiration in his eyes. "Yeah. Anything you need."
 
-Gwen's gaze was steady and resolute. MJ's hand squeezed Peter's. "You need us, just as we need you. Even heroes need help."
+Gwen's gaze was steady and resolute.
+
+Peter at first in disbelief, "Guys, you don't have to do this."
+
+MJ's hand squeezed Peter's. "You need us, just as we need you. Even heroes need help."
 
 Peter smiled faintly, a sense of weight being lifted from his shoulders.
 
 Harry gets up, "Okay, we are going to celebrate this, our new team."
 
-Everyone disagrees to him, Gwen talks about schoolwork, MJ talks about Peter getting rest, May talks about eating home cooked food, there is buzz all over the room.
+Everyone disagrees with him, Gwen talks about schoolwork, MJ talks about Peter getting rest, May talks about eating home cooked food, there is buzz all over the room.
 
 Outside the window, Midtown continued its chaotic rhythm. But inside, in that apartment, a new era had begun. Spider-Man was no longer alone.
-
----
 
 ## Chapter 8: You're Not Alone
 
@@ -1091,7 +1097,7 @@ Peter shook his head slightly, smiling. "I never thought I'd see the day where a
 
 Flash nudged him playfully. "You better believe it, Parker. After what I saw, there's no way I'm standing on the sidelines. Not again."
 
-MJ reached over, holding Peter's hand. "We've always believed in Spider-Man. And now we know why. But more than that… we believe in _you_, Peter."
+MJ reached over. "We've always believed in Spider-Man. And now we know why. But more than that… we believe in _you_, Peter."
 
 The room was silent for a beat, each of them letting the weight of that moment sink in. Outside, the city continued its relentless rhythm, but here, in this small apartment, a team had formed, five friends bound together by trust, courage, and loyalty.
 
@@ -1105,7 +1111,7 @@ MJ grinned, looping her arm through his. "Exactly. Heroes need help. And we've g
 
 Gwen looked at Flash and Harry. "Think of it as… Spider-Man support staff. Only cooler."
 
-Harry laughed. "Spider-Team. Catchy, huh?"
+Harry laughed. "Team Spider. Catchy, huh?"
 
 Flash rolled his eyes but couldn't hide his smile. "As long as we keep Peter alive, I don't care what we call it."
 
