@@ -107,6 +107,16 @@ Just one more swing.
 
 Sunday morning came with sore muscles and a bruised rib that protested every deep breath.
 
+Peter finished his breakfast quickly, forcing himself to eat more than he wanted to. Aunt May stood near the sink, already halfway through her morning routine. 
+
+“I’m heading out,” Peter said, grabbing his bag. “Studying at Gwen’s place. Might be a long one.” 
+
+Aunt May glanced over her shoulder, smiling. “Don’t stay out too late. And come home for dinner if you can.” 
+
+“I will,” Peter said easily. “Okay.” 
+
+She nodded, satisfied, and Peter slipped out the door. 
+
 Peter moved slower now, perched on a church steeple as the city below woke up, bakery doors opening, joggers passing, church bells ringing.
 
 He stretched carefully, testing what still hurt.
@@ -189,7 +199,7 @@ Peter smiled. "More like chemistry homework. Gravity was kinder."
 
 She laughed, nudging his arm. "One day you'll learn to sleep like a normal person, Parker."
 
-"Sleep's overrated."
+"Sleep's overrated." Peter said in response, voice low.
 
 "Tell that to your eye bags," a voice cut in.
 
@@ -213,7 +223,7 @@ Flash Thompson strolled down the hall, quarterback confidence radiating from eve
 
 MJ rolled her eyes. "Grow up, Flash."
 
-He shrugged. "Just saying hi to my favorite nerd."
+Flash shrugged. "Just saying hi to my favorite nerd."
 
 Before Peter could respond, a calm voice cut through the tension.
 
@@ -223,7 +233,7 @@ Gwen Stacy stood by her locker, arms full of science journals. Her blonde hair w
 
 Flash scoffed once, then moved on.
 
-Gwen handed Peter a small vial wrapped carefully in tissue. "You left this in the lab yesterday. Your formula ratios are off, again."
+Gwen handed Peter a small vial wrapped carefully in tissue. "You left this in the lab last day. Your formula ratios are off, again."
 
 Peter blinked. "Oh. Thanks, Gwen. I didn't mean to-"
 
@@ -311,15 +321,15 @@ They walked in silence for a few steps before Gwen glanced at him again.
 
 "How long have you two known each other?" She asked.
 
-Harry smiled faintly. "Since Midtown. First week actually."
+Harry smiled faintly. "Since middle school. First week actually."
 
 Gwen raised an eyebrow. "Really?"
 
-"Yeah," Harry said. "I was stuck on an algebra problem, couldn't figure it out. Out of nowhere, he just… leaned over and fixed it. Didn't even say much. Just pointed, explained it once, and went back to his work."
+"Yeah," Harry said. "I was stuck on an algebra problem, couldn't figure it out. Out of nowhere, he just… leaned over and fixed it. Didn't even say much. Just pointed, explained it once, and just disappeared."
 
 Gwen smiled. "That sounds like him."
 
-"A few days later," Harry continued, "it was pouring. Like heavy rain. I was heading home in my dad's car and saw him on the side of the road, fixing the chain on his bike. Completely soaked. Clothes, bag… I'm pretty sure his notebooks were ruined."
+"A few days later," Harry continued, "it was pouring. Like heavy rain. I was heading home in my dad's car and saw him on the side of the road, fixing the chain on his bike. Completely soaked. Clothes, bag… I was pretty sure his notebooks were ruined."
 
 He shook his head slightly in the memory.
 
@@ -339,7 +349,7 @@ Gwen slowed. "Uncle?"
 
 "Yeah," Harry said. "His parents left when he was young. Not sure why. He grew up with his aunt and uncle. They were basically his mom and dad."
 
-He swallowed. "The night his uncle was murdered… I've never seen anyone that broken. MJ and I stayed with him the whole day. He barely spoke."
+He swallowed. "The night his uncle was murdered… I've never seen anyone that broken. MJ and I stayed with him the whole day after the funeral. He barely spoke."
 
 Gwen nodded slowly. "I've heard about it. Benjamin Parker."
 
@@ -403,9 +413,9 @@ The city never really slept.
 
 Neither did he.
 
-Somewhere across the city, a man named Hammerhead watched the footage with cold amusement.
+Somewhere across the city, a man named Hammerhead watched the footage with cold amusement inside his base.
 
-"So," he muttered, lifting his glass, "the bug's still buzzing."
+"So," he muttered, lifting his glass of bourbon, "the bug's still buzzing."
 
 He picked up his phone.
 
@@ -441,9 +451,13 @@ He roared, a sound that split the concrete walls and rattled Hammerhead's whiske
 
 Hammerhead nodded, leaning back in his chair. Satisfaction etched in every line of his face. "Go. Show him what happens when you bite more than you can chew."
 
-Meanwhile, next morning at Midtown High, Peter Parker sat hunched over a circuit board in the lab with Gwen. His hands were steady, precise, but his mind wandered the day ahead: school, homework, maybe a patrol if time allowed. Suddenly Rhino appears outside Midtown high and starts chaos.
+### Midtown High
 
-Peter's chest tightened. He is looking outside through the window. "Not today…" he muttered.
+Meanwhile, next morning at Midtown High, Peter Parker sat hunched over a circuit board in the lab with Gwen. His hands were steady, precise, but his mind wandered the day ahead: school, homework, maybe a patrol if time allowed.
+
+Suddenly Rhino appears outside Midtown high and starts chaos.
+
+Peter's chest tightened, Spider-Sense flaring. He is looking outside through the window, at Rhino. "Not today…" he muttered.
 
 The city groaned beneath the first blows of Rhino's rampage.
 
@@ -451,7 +465,7 @@ Outside Midtown High, some students were leaving early for the day, unaware that
 
 Before Gwen could react and look towards Peter, he already ran, taking his bag.
 
-He is running through the hallway, taking his mask and web shooters from the bag, and removed his shirt revealing his suit beneath.
+He is running through the hallway, taking his mask and web shooters from the bag, and removed his T-shirt revealing his suit beneath.
 
 ---
 
@@ -473,7 +487,7 @@ Rhino.
 
 A city bus screeched to a halt, its brakes screaming as it swerved to avoid him.
 
-Peter's chest tightened beneath his uniform.
+Peter's chest tightened beneath his T-shirt.
 
 Not today.
 
