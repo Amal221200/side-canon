@@ -7,6 +7,80 @@ published: true
 order: 5
 ---
 
+## Prelude
+
+_"My name is Bruce Banner._
+
+_I hold PhDs in Nuclear Physics, Biochemistry, Radio Physics, Engineering, Robotics, Computer Science and Medicinal knowledge._
+
+_One year after meta-humans were officially recognized and given the opportunity to operate as heroes, the United States military decided to revive the Super Soldier Serum program._
+
+_They contacted me._
+
+_They believed my expertise in radiation, nuclear physics, and biology could help unlock new potential._
+
+_During the course of the program, I made a decision._
+
+_I injected myself with a small dose of the serum._
+
+_Not enough to induce transformation._
+
+_Enough to allow me to perform controlled experimentation._
+
+_I was then exposed to gamma radiation in regulated increments while the team monitored my condition._
+
+_There was a malfunction._
+
+_A gamma overload occurred. An explosion. People around there assumed I was dead._
+
+_Turns out, I survived it._
+
+_All of Gamma was absorbed by my body._
+
+_The exposure altered me._
+
+_I transformed into a large, green, humanoid entity exhibiting extreme physical strength and heightened aggression. According to eyewitness reports, the entity displayed behavior described as pure, unrestrained rage._
+
+_I have limited memories of this period._
+
+_Significant damage was caused._
+
+_Multiple people were injured._
+
+_Some were killed._
+
+_When I regained consciousness, I went to the hospital to see Betty Ross._
+
+_I was informed by General Thaddeus Ross that I was no longer permitted to approach her._
+
+_I accepted that decision._
+
+_I understood that I represented a threat._
+
+_Later, I overheard orders being issued for my capture._
+
+_At that point, I chose to flee._
+
+_For the next two years, I lived in isolation in a remote region of Northern New Mexico._
+
+_I avoided all forms of digital communication._
+
+_I did not use phones, bank cards, or any system that could leave a trace._
+
+_I sustained myself through temporary labor in nearby areas._
+
+_During that time, I gathered equipment and materials necessary to construct a private laboratory._
+
+_My objective was not to escape._
+
+_It was to find a cure._
+
+_I was not hiding from the world._
+
+_I was trying to prevent further harm caused by me."_
+
+---
+
 ## Chapter 1
 
 ### **Quiet Before the Pulse**
@@ -1902,25 +1976,25 @@ Bruce exhales.
 
 "…Dad?"
 
-**David Banner** leans forward.
+**Brian Banner** leans forward.
 
-"I was trying to build something without weakness that day," David says. "Something that could survive anything. And instead, I got a monster who wants to _hide_. Who doesn't even want to be the strongest."
+"I was trying to build something without weakness that day," Brian says. "Something that could survive anything. And instead, I got a monster who wants to _hide_. Who doesn't even want to be the strongest."
 
 Bruce's jaw tightens.
 
-"I tipped off the Army," David continues casually. "That little cure attempt of yours? I couldn't let you erase perfection just because you're afraid of it."
+"I tipped off the Army," Brian continues casually. "That little cure attempt of yours? I couldn't let you erase perfection just because you're afraid of it."
 
 Bruce says nothing.
 
-For the first time, David's smile falters.
+For the first time, Brian's smile falters.
 
-"I gave you everything," David snaps. "And you throw it away. You dissapoint me."
+"I gave you everything," Brian snaps. "And you throw it away. You dissapoint me."
 
 Bruce finally speaks.
 
 "I'm glad," he says quietly. "I'm glad I'm a disappointment to you."
 
-David stiffens.
+Brian stiffens.
 
 "Because here I am," Bruce continues, voice steady, "choosing who I want to be. Despite everything you did. Despite what you tried to turn me into."
 
@@ -1932,27 +2006,27 @@ A pause.
 
 "You'll never see me again. You'll never see the light of the day."
 
-David surges forward, rage breaking through.
+Brian surges forward, rage breaking through.
 
 "How _dare_ you speak to me like that-"
 
 Bruce turns away.
 
-David's voice fades into incoherent shouting as Bruce walks out.
+Brian's voice fades into incoherent shouting as Bruce walks out.
 
 Outside, the air feels different.
 
 Ross stands beside him for a moment.
 
-"I'm done chasing you," Ross says at last. "But be careful. There are others. People who want what you can do."
+"I'm done chasing you," Ross says at last. "You don't have to worry about Blonsky, he is under our containment. But be careful. There are others. People who want what you can do."
 
-Bruce nods.
+Bruce, "I will".
 
 As he turns to leave, Ross adds, quieter-
 
-"Tell Betty… I love her. And I miss her."
+"Also tell Betty… I love her. And I miss her."
 
-Bruce nods again.
+Bruce nods.
 
 A car waits-sent by **Charles Xavier**.
 
