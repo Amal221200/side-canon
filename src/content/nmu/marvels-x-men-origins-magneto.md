@@ -93,7 +93,7 @@ When he complained, his father would place a hand on his shoulder and say:
 
 Erik never argued with him again after that. He would simply nod and join his family for dinner, pretending for a moment that life was normal.
 
-### Next Day
+### Few Days Later
 
 One afternoon, school had just ended. Erik stepped out into the street, clutching his worn bag, when a deafening **explosion** shattered the air.
 
