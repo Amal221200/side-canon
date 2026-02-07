@@ -4,7 +4,7 @@ description: "This story explores the journey of Ororo Munroe, a journey of suri
 pubDate: "Jan 30, 2026"
 heroImage: "@/assets/nmu/marvels-x-men-origins-storm.jpg"
 published: true
-order: 3
+order: 4
 ---
 
 ## Prelude

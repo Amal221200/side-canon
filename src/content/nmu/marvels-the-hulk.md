@@ -4,7 +4,7 @@ description: "This is the story of Bruce Banner, a man who is forced to confront
 pubDate: "2026-02-03"
 heroImage: "@/assets/nmu/marvels-the-hulk.jpg"
 published: true
-order: 5
+order: 6
 ---
 
 ## Prelude

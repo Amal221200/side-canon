@@ -4,7 +4,7 @@ description: "This is the story of the X-Men in this New Marvel Universe."
 pubDate: "Jan 30, 2026"
 heroImage: "@/assets/nmu/marvels-x-men.jpg"
 published: true
-order: 4
+order: 5
 ---
 
 ## Chapter 1
