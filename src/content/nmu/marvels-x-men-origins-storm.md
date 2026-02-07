@@ -7,8 +7,7 @@ published: true
 order: 3
 ---
 
-
-## INTRO
+## Prelude
 
 _"My name is Ororo Munroe._
 
@@ -1032,15 +1031,19 @@ She carried him the way she had once carried grain, the way she had once been ca
 
 The village watched in uneasy silence as she laid the stranger down.
 
-He was unlike anyone they had seen, brilliant eyes behind broken glasses, breath shallow but steady. Ororo stayed with him through the night, holding the storm at bay with sheer will until dawn crept into the sky.
+He was unlike anyone they had seen, brilliant eyes behind broken glasses, body twisted by pain, breath shallow but steady. Even unconscious, there was something alert about him, as if his mind refused to rest. Ororo knelt beside him, one hand raised, holding the storm at bay with sheer will until dawn crept slowly into the sky.
 
-The others came later.
+She did not leave his side.
 
-A man with burning eyes held behind red glass.
+The others arrived with the morning.
 
-A woman whose presence pressed gently at Ororo's thoughts without permission.
+First, a man with burning eyes held behind red glass. He stopped short when he saw her, uncertainty flickering across his face.
 
-They were around the same age as Ororo.
+Then a woman stepped forward; calm, focused; her presence brushing against Ororo's thoughts like a hand near fire, careful not to touch.
+
+They were young. Not children. Not elders.
+
+Equals.
 
 They did not bow.
 
@@ -1048,33 +1051,85 @@ They did not kneel.
 
 They asked questions.
 
-Stopping Deluge required something Ororo had never tried before.
+"Is he alive?" the man with the visor asked.
 
-Not instinct.
+Ororo hesitated; she answered in her native language, "Who are you?"
 
-Understanding.
+She sensed Hank's presence, relieved knowing his status. "Thank you for saving our friend" she said gently.
 
-The woman, Jean, reached out carefully, asking permission not with words but with _intent_. Ororo allowed it, reluctantly, and suddenly she was not alone in her own mind.
+Ororo felt it then not intrusion, not force, just **attention**.
 
-Thoughts aligned.
+_"May I?"_ The woman's intent asked.
 
-The blue-furred man spoke quickly, urgently, not in prayer or metaphor but in physics. Water droplets. Refraction. Focus.
+Ororo studied her for a long moment, then inclined her head.
 
-A lens.
+"Yes," she said. "But… gently."
 
-Ororo shaped the storm not as rain, but as geometry, countless droplets suspended in perfect arrangement, bending light toward a single point in the sky.
+Jean helped Ororo remember English, now she can speak and understand it, she introduced her with everyone and she learns her names
 
-The man with the red visor stepped forward, bracing himself.
+A few hours later, they moved away from the village as the sky darkened again, not naturally. Ororo felt the pressure shift, the wind tightening in on itself.
+
+"Deluge," Scott said, jaw tight. "He feeds energy. Storms, pressure systems, anything he can amplify."
+
+Ororo's gaze snapped at him. "He steals the sky."
+
+"Yes," Hank said as he joined them, adjusting his cracked glasses. "And if he keeps drawing from it, the imbalance could spread far beyond this region."
+
+The words _imbalance_ and _spread_ needed no translation.
+
+Ororo closed her eyes, feeling the air respond to her unease. "I can stop the storm," she said.
+
+Jean shook her head. "Not without him taking it back."
+
+Hank crouched, already thinking aloud. "If he's absorbing raw energy… then we don't starve him."
+
+He looked up at Ororo. "We overload him."
+
+She frowned. "How?"
+
+Hank gestured to the clouds. "Water droplets, suspended, precisely shaped."
+
+Jean picked up the thought instantly. "A lens."
+
+Ororo's breath caught.
+
+"Light," she said softly.
+
+Scott stepped forward. "I can take it," he said. "If you can focus it."
+
+Ororo searched for his face; not for confidence, but for _truth_.
+
+She found it.
+
+Deluge came forward.
+
+The storm shifted.
+
+Not rain.
+
+Not wind.
+
+Structure.
+
+Countless droplets hung suspended in perfect alignment, bending sunlight into a single, blinding column in the sky. The effort was immense; every muscle in Ororo's body trembled as she held geometry in motion.
+
+"Now," Jean said quietly, anchoring them together.
+
+Scott braced himself.
 
 Sunlight poured through the lens like fire through glass.
 
 His eyes burned brighter than lightning.
 
-Deluge laughed as the energy surged toward him, until his laughter turned to shock.
+Deluge laughed as the energy surged toward him; arms wide, ecstatic.
+
+"Yes," he roared. "More-!"
+
+Then his laughter cracked.
 
 Too much.
 
-The storm fed him faster than he could contain. His body fractured under its own excess.
+The storm fed him faster than he could contain. His form warped, fissures of light tearing through him as the excess overwhelmed whatever held him together.
 
 The sky detonated.
 
@@ -1084,13 +1139,11 @@ When it was over, the clouds thinned naturally, as if relieved.
 
 The strangers prepared to leave.
 
-Ororo did not ask their names.
-
 She did not thank them.
 
 They did not ask her to come with them.
 
-But the blue-furred man lingered, studying her with a look she recognized too well.
+But Hank lingered, studying her with a look she recognized too well.
 
 Curiosity.
 
@@ -1102,7 +1155,7 @@ Later, as the plane lifted safely into clear sky, the woman spoke to the others.
 
 "He already knows," she said.
 
-Far away, a man in a wheelchair felt the wind shift and smiled, not with triumph, but with recognition.
+Far away, Charles felt the wind shift and smiled; not with triumph, but with recognition.
 
 The years blurred.
 
