@@ -31,4 +31,18 @@ const nmu = defineCollection({
 		}),
 });
 
-export const collections = { story, nmu };
+const nmuSpecials = defineCollection({
+	loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/nmu-specials' }),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string(),
+			description: z.string(),
+			pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+			heroImage: image(),
+			published: z.boolean(),
+			order: z.number(),
+		}),
+});
+
+export const collections = { story, nmu, "nmu-specials": nmuSpecials };

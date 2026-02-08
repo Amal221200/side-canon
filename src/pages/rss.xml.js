@@ -5,6 +5,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '@/consts';
 export async function GET(context) {
 	const stories = (await getCollection('story')).filter((post) => post.data.published);
 	const nmuPosts = (await getCollection('nmu')).filter((post) => post.data.published);
+	const nmuSpecialsPosts = (await getCollection('nmu-specials')).filter((post) => post.data.published);
 
 	const nmuLinks = nmuPosts.map((post) => ({
 		...post.data,
@@ -16,10 +17,17 @@ export async function GET(context) {
 		link: `/stories/${post.id}/`,
 	}));
 
+	const nmuSpecialsLinks = nmuSpecialsPosts.map((post) => ({
+		...post.data,
+		link: `/nmu-specials/${post.id}/`,
+	}));
+
+
+
 	return rss({
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
 		site: context.site,
-		items: [...storyLinks, ...nmuLinks],
+		items: [...storyLinks, ...nmuLinks, ...nmuSpecialsLinks],
 	});
 }

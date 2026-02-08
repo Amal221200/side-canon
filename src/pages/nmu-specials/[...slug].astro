@@ -1,0 +1,21 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import StoryLayout from '@/layouts/StoryLayout.astro';
+import { PageType } from '@/types';
+
+export async function getStaticPaths() {
+	const stories = await getCollection('nmu-specials');
+	return stories.filter((story) => story.data.published).map((story) => ({
+		params: { slug: story.id },
+		props: story,
+	}));
+}
+type Props = CollectionEntry<'nmu-specials'>;
+
+const story = Astro.props;
+const { Content } = await render(story);
+---
+
+<StoryLayout story={story.data} type={PageType.NMU_SPECIALS}>
+	<Content />
+</StoryLayout>

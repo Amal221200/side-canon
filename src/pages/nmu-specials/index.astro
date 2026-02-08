@@ -1,0 +1,16 @@
+---
+import { getCollection } from 'astro:content';
+import IndexPageContainer from '@/components/IndexPageContainer.astro';
+import { PageType } from '@/types';
+
+const stories = (await getCollection('nmu-specials')).filter((story) => story.data.published).sort(
+	(a, b) => a.data.order - b.data.order,
+);
+---
+
+<IndexPageContainer
+	stories={stories}
+	title="NMU Specials"
+	description="Explore the stories of NMU that happens across the history but not in the current events."
+ 	type={PageType.NMU_SPECIALS}
+/>

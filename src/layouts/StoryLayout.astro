@@ -33,7 +33,7 @@ const { story: { title, description, pubDate, updatedDate, heroImage }, type } =
 				>
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
 				</svg>
-				<span class="font-medium">Back to {type === PageType.STORIES ? 'Stories' : 'NMU'}</span>
+				<span class="font-medium">Back to {type === PageType.STORIES ? 'Stories' : type === PageType.NMU ? 'NMU' : 'NMU Specials'}</span>
 			</a>
 		</div>
 	</div>
