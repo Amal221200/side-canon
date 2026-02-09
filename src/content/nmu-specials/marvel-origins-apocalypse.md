@@ -395,13 +395,13 @@ Each incomplete by design.
 
 ### PHASE I: The Awakening of Knowledge
 
-Apocalypse wandered the world after Egypt, not as a conqueror, but as an **observer**.
+Apocalypse wandered the world after Egypt, not as a conqueror, but as an observer.
 
-During his travels, he encountered an **External,** a being guarding something ancient, dormant, and not meant for humanity.
+During his travels, he encountered an External, a being guarding something ancient, dormant, and not meant for humanity.
 
-A **Celestial vessel**.
+A Celestial vessel.
 
-Apocalypse killed the External without ceremony.
+Apocalypse brutally impaling an External and leaving them incapacitated without ceremony, leaving him to die.
 
 Not for destiny.
 
@@ -415,38 +415,105 @@ Not communion.
 
 He learned:
 
-- What mutants were
-- That he was not unique, but _early_
-- That his potential had no defined ceiling
-- That evolution itself could be _guided_
+What mutants were.
+
+That he was not unique, but early.
+
+That his potential had no defined ceiling.
+
+That evolution itself could be guided.
 
 The Celestials spoke of **roles**.
 
-Apocalypse ignored them.
+They did not command him.
+
+They did not threaten him.
+
+They did not name him chosen.
+
+They showed him **outcomes**.
+
+Civilizations that stagnated.
+
+Species that survived only through pressure.
+
+Experiments that corrected themselves-or were corrected.
+
+Apocalypse understood the implication immediately.
+
+He was not required.
+
+He was **permitted**.
+
+As long as evolution continued to move forward,
+
+as long as strength still emerged under stress,
+
+his existence would remain… acceptable.
+
+That was the cost.
+
+Apocalypse ignored the role they suggested.
 
 What interested him was **technology**.
 
-He learned how Celestial systems worked, how they amplified biology rather than replacing it. Using this knowledge, he forged his first armor: not protection, but **augmentation**.
+He learned how Celestial systems worked-how they amplified biology rather than replacing it. Using this knowledge, he forged his first armor: not protection, but **augmentation**.
 
 Here, he tested himself deliberately:
 
-- Energy manipulation
-- Shapeshifting
-- Teleportation
-- Telekinesis
-- Telepathy
+Energy manipulation.
 
-Not to show dominance, but to **measure limits**.
+Shapeshifting.
+
+Teleportation.
+
+Telekinesis.
+
+Telepathy.
+
+Not to show dominance-
+
+but to ensure he remained **useful**.
 
 He brought the vessel to Egypt, buried it beneath stone and myth, and sealed it beneath a monument humanity would misunderstand forever.
 
-A **Sphinx**.
+A Sphinx.
 
 Civilization built symbols.
 
-Apocalypse built foundations.
+Apocalypse built **foundations**.
 
-### PHASE II: Bloodlines and Belief
+And beneath those foundations,
+
+he buried the truth he would never speak aloud:
+
+That even he
+
+was still being tested.
+
+### PHASE II: Awareness of the Sorcery
+
+Apocalypse once turned his attention to sorcery.
+
+He studied the Masters of the Mystic Arts, learned their rituals, their symbols, their methods.
+
+What he discovered disturbed him.
+
+These humans did not evolve.
+
+They learned.
+
+And through knowledge alone, they could one day rival gods.
+
+To Apocalypse, this was not progress.
+
+It was contamination.
+
+He destroyed the circle he had learned from, believing the threat contained.
+
+History would prove him wrong.
+
+### PHASE III: Bloodlines and Belief
 
 Apocalypse did not build empires.
 
@@ -470,7 +537,7 @@ Belief can rot.
 
 Blood alone was not enough.
 
-### PHASE III: Okkara and the Cost of Survival
+### PHASE IV: Okkara and the Cost of Survival
 
 Apocalypse found something rare.
 
@@ -512,7 +579,7 @@ And he learns something new:
 
 Even strength has limits when it stands alone.
 
-### PHASE IV: The Sleeper Who Watches
+### PHASE V: The Sleeper Who Watches
 
 Apocalypse entered long cycles of hibernation.
 
@@ -531,7 +598,6 @@ He watched:
 - Rome rise and fall
 - Alexander burn the world too fast
 - Empires fracture under their own weight
-- In ancient China, he observed the **Mandarin**, wielding ten rings, proof that power could exist without evolution
 
 Apocalypse did not cause these wars.
 
@@ -545,7 +611,7 @@ Who failed.
 
 Any potential candidates to be his Horsemen.
 
-### PHASE V: The Essex Variable
+### PHASE VI: The Essex Variable
 
 Apocalypse entered **Essex's lab** unseen.
 

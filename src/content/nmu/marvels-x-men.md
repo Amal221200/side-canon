@@ -55,11 +55,11 @@ A second later, Nightcrawler drops silently behind the man.
 
 The guard never screams.
 
-Across the city, the warehouse breathes with noise—forklifts whining, crates scraping against concrete, money being counted too loudly by men who believe they are untouchable.
+Across the city, the warehouse breathes with noise, forklifts whining, crates scraping against concrete, money being counted too loudly by men who believe they are untouchable.
 
 A voice cuts through the chaos.
 
-“Shipment clears tonight,” a lieutenant says into a phone. “Yeah. Same buyer. Stone-face. Pays clean.”
+“Shipment clears tonight,” a lieutenant says into a phone. “Yeah. Same buyer. Pays clean.”
 
 Then the fog rolls in.
 
@@ -105,7 +105,7 @@ Cyclops steps into Moretti’s office just as the man reaches for a hidden weapo
 
 The word lands heavy. Final.
 
-Moretti laughs—slow, dismissive.
+Moretti laughs; slow, dismissive.
 
 “You brought three people?”
 
@@ -127,23 +127,23 @@ The reinforced wall caves inward as if punched by the building itself. The shock
 
 Too late.
 
-Moretti struggles, but Nightcrawler has him pinned—tail wrapped tight around his arm, leverage perfect. Cyclops stands over him, visor glowing, unshaken.
+Moretti struggles, but Nightcrawler has him pinned, tail wrapped tight around his arm, leverage perfect. Cyclops stands over him, visor glowing, unshaken.
 
 “Your buyers are exposed,” Scott says calmly. “Your routes are burned. This ends now.”
 
-Outside, sirens cut through the night—an anonymous tip, perfectly timed.
+Outside, sirens cut through the night, an anonymous tip, perfectly timed.
 
 The room falls silent.
 
 Minutes later, both teams rendezvous at the extraction point.
 
-Moretti is bound, furious, and very aware that his usefulness has expired. He struggles once, then stills—eyes burning with the understanding that someone higher up will survive him.
+Moretti is bound, furious, and very aware that his usefulness has expired. He struggles once, then stills, eyes burning with the understanding that someone higher up will survive him.
 
 Jean hands Scott the case.
 
 “Everything,” she says. “Money trails. Suppliers. Buyers.”
 
-Storm lowers her hand, and the fog begins to thin. Below them, flashing police lights cut through the streets—too late to change anything, right on time to collect what remains.
+Storm lowers her hand, and the fog begins to thin. Below them, flashing police lights cut through the streets, too late to change anything, right on time to collect what remains.
 
 “They’ll replace him,” Storm says quietly.
 
@@ -743,7 +743,7 @@ It is wrong.
 
 ---
 
-## Chapter 3
+## Chapter 4
 
 ### Lab
 
@@ -1425,7 +1425,7 @@ Someone realizes the board has just changed.
 
 ---
 
-## Chapter 4
+## Chapter 5
 
 The facility doesn't scream when MADS destabilizes.
 
@@ -1505,7 +1505,7 @@ Mimic shifts his stance, settling in.
 
 "Then we hold the line," he says.
 
-Jean closes her eyes, not to reach outward, not to act but to wait.
+Jean closes her eyes, not to reach outward, not to act, but to wait.
 
 And somewhere deeper in the facility, the board is still being cleared.
 
@@ -1649,7 +1649,9 @@ Stryker drops to his knees, gasping, arms trembling, suddenly aware of how heavy
 
 Logan straightens.
 
-His claws slide out with a familiar snikt.
+His claws slide out with a familiar-
+
+_Snikt!_
 
 The sound echoes.
 
@@ -1989,7 +1991,7 @@ The X-Men advance toward the machine, toward the future, toward a war that has j
 
 ---
 
-## Chapter 5: War
+## Chapter 6: War
 
 ### Opening beats
 
@@ -2041,27 +2043,29 @@ Erik nods once.
 
 The connection ends.
 
-Charles closes his eyes.
+Charles reaches for Cerebro.
 
-And reaches outward.
+The helmet settles into place as the system comes alive, threads of awareness spreading outward, not across the world, but across the school, the grounds, brushing the city beyond.
 
-_"Listen to me",_ his voice carries, not as command, not as fear, but as truth.
+"Listen to me."
 
-_This is important._
+His voice carries, not as command, not as fear, but as truth.
 
-Across the school, across classrooms and dormitories, even across the city, to all mutants nearby, minds still.
+"This is important."
 
-_"Our school is in danger. The shield will hold but only for a short time. Our teachers are facing something larger than any one place."_
+Across classrooms and dormitories, across quiet hallways and restless minds, the noise softens. Attention turns inward.
+
+_"Our school is in danger. The shield will_ _hold, but only for a short time. Our teachers are facing something larger than any one place."_
 
 A pause.
 
-_"I will not order you to fight. This must be your choice. I am also asking individuals with gifts to lend your strength to protect people."_
+_"I will not order you to fight. This must be your choice. I am asking for capable individuals to lend your strength to protect people."_
 
 Silence stretches.
 
-Then, acceptance.
+Questions surface. Fear. Resolve.
 
-One by one, minds step forward.
+Then, one by one, minds step forward.
 
 Around twenty senior students answered the call.
 
@@ -2163,7 +2167,7 @@ The war has begun.
 
 The Sentinel finished rising.
 
-The earth around it is no longer ground-it's ruin. Asphalt split like bone. Trees torn out by the roots. Concrete crushed into dust beneath metal feet the size of buildings.
+The earth around it is no longer ground, it's ruin. Asphalt split like bone. Trees torn out by the roots. Concrete crushed into dust beneath metal feet the size of buildings.
 
 Sirens wail in every direction.
 
@@ -3691,7 +3695,7 @@ is over.
 
 ---
 
-## Chapter 6: Epilogue
+## Chapter 7: Epilogue
 
 The city gathers in silence.
 
@@ -3715,21 +3719,21 @@ Too quiet for a place that has known so much noise.
 
 The X-Men and the parents wait together near the garden, uncertainty hanging in the air. No one speaks. No one wants to ask the question that still lingers.
 
-Then,
+Then-
 
 the sound of tires on gravel.
 
-Charles's car enters the property.
+Charles’s car enters the property.
 
 Scott is there before it fully stops. He opens the door carefully, steady hands already in place. Logan appears at the other side, unfolding the wheelchair without a word. Together, they help Charles out, practiced, respectful, unhurried.
 
 A worried parent approaches instinctively.
 
-"Professor, "
+"Professor-"
 
 Charles looks up at them and smiles. Not forced. Not reassuring out of obligation.
 
-"They're safe," he says gently. "They're coming home."
+"They’re safe," he says gently. "They’re coming home."
 
 The parent exhales, nodding, holding onto the words like a lifeline.
 
@@ -3745,7 +3749,7 @@ The doors open.
 
 And suddenly, the waiting ends.
 
-Officers step aside as children pour out, some hesitant, some running full speed. Parents break formation without thinking. Shoes are abandoned. Names are shouted. Arms open.
+Officers step aside as children pour out-some hesitant, some running full speed. Parents break formation without thinking. Shoes are abandoned. Names are shouted. Arms open.
 
 They meet in the center of the garden.
 
@@ -3753,7 +3757,7 @@ Hugs crash together. Laughter breaks through tears. A father lifts his son into 
 
 For a moment, the world is only this.
 
-A little girl clutches her mother's coat, eyes fixed past her shoulder, watching the figures standing near the mansion steps.
+A little girl clutches her mother’s coat, eyes fixed past her shoulder-watching the figures standing near the mansion steps.
 
 "Was that the man with the claws?" she asks softly.
 
@@ -3761,9 +3765,9 @@ Her mother nods.
 
 A boy nearby raises his arm, mimicking a blast, eyes wide with awe.
 
-"They didn't run," he says. "They stayed."
+"They didn’t run," he says. "They stayed."
 
-One by one, parents approach, awkward, unsure, until someone finally says it out loud.
+One by one, parents approach-awkward, unsure-until someone finally says it out loud.
 
 "Thank you."
 
@@ -3783,15 +3787,15 @@ Pretending to fight.
 
 Pretending to stand in front of danger instead of behind it.
 
-Storm watches them go, a softness in her eyes she doesn't try to hide.
+Storm watches them go, a softness in her eyes she doesn’t try to hide.
 
-"Careful," Logan mutters beside her. "They're gonna start copyin' us."
+"Careful," Logan mutters beside her. "They’re gonna start copyin’ us."
 
 She smiles.
 
 "Let us hope," she says quietly, "they grow into something even better."
 
-And for the first time since the war began, the future doesn't feel like a threat.
+And for the first time since the war began, the future doesn’t feel like a threat.
 
 It feels like a promise.
 
@@ -3801,7 +3805,7 @@ Not celebratory.
 
 Measured.
 
-The President addresses the nation with a seriousness that hasn't been rehearsed.
+The President addresses the nation with a seriousness that hasn’t been rehearsed.
 
 He speaks of loss.
 
@@ -3809,7 +3813,7 @@ Of restraint.
 
 Of bravery.
 
-He speaks of mutants, not as threats, not as curiosities but as people who stood between cities and annihilation.
+He speaks of mutants-not as threats, not as curiosities-but as people who stood between cities and annihilation.
 
 "We cannot ask those who protected us to remain in the shadows," he says. "Nor can we allow power without responsibility."
 
