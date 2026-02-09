@@ -929,13 +929,15 @@ He brings his hands together.
 
 **THUNDERCLAP.**
 
-A wave of gamma energy detonates outward-not destructive rage, but raw release. Equipment shatters. Walls crack. Hank is thrown back hard, slamming into the far side of the room.
+A wave of gamma energy detonates outward-not destructive rage, but raw release from every part of his body. Clothes ripped away by the shockwave. Equipment shatters. Walls crack. Hank is thrown back hard, slamming into the far side of the room.
 
 The shockwave fades.
 
 Bruce collapses.
 
 Unconscious.
+
+Naked.
 
 Smoke drifts through the ruined chamber.
 
