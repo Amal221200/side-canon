@@ -2059,7 +2059,7 @@ _"Our school is in danger. The shield will_ _hold, but only for a short time. Ou
 
 A pause.
 
-_"I will not order you to fight. This must be your choice. I am asking for capable individuals to lend your strength to protect people."_
+_"I will not order you to fight. This must be your choice. I am asking for capable individuals to lend your strength to protect our school."_
 
 Silence stretches.
 
@@ -2213,7 +2213,13 @@ The first hatches disengage.
 
 Hundreds of smaller Sentinels deploy human-sized, fast, coordinated, falling like metal rain into the streets below.
 
-"The rest," he adds, steady, "the world will have to face without us."
+Scott’s voice remains steady. 
+
+“The others out there… they’ll stand. They have to. We hold this line so they can.” 
+
+He lowers his visor. 
+
+“That’s how we win.” 
 
 Lightning crawls across Storm's arms.
 
@@ -2227,9 +2233,7 @@ Mimic locks in.
 
 The Sentinel's systems hum in unison.
 
-Cyclops lowers his visor.
-
-"This thing wants to erase us," he says. "So, we don't hold back."
+"This thing wants to erase us," Cyclops continues, "So, we don't hold back."
 
 A beat.
 
