@@ -7,10 +7,6 @@ heroImage: "@/assets/nmu-specials/marvel-origins-warpath.jpg"
 order: 3
 ---
 
-**Theme:**
-
-_Strength without ownership. Power without permission._
-
 ## ACT I — THE BROTHER (2016)
 
 **Arizona. Present day.**
