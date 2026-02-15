@@ -7,6 +7,182 @@ published: true
 order: 7
 ---
 
+## PRELUDE
+
+_“New York never really gets quieter._
+
+_It just learns new ways to be loud._
+
+_The difference now is… I’m not the only one listening._
+
+_When the X-Men started handling the bigger disasters, the skyline didn’t feel lighter exactly — but it felt shared. City-wide threats stopped landing squarely on my homework schedule. I didn’t have to sprint from calculus to catastrophe every other afternoon._
+
+_Turns out, having backup changes things._
+
+_You breathe more._
+
+_You sleep more._
+
+_Sometimes._
+
+_Senior year wasn’t cinematic._
+
+_It was coffee._
+
+_Deadlines._
+
+_Applications._
+
+_Late-night study sessions where the printer jammed exactly when you needed it most._
+
+_MJ practically lived in the newsroom. She said she was “just covering school events,” but she was already thinking about how stories shape people. She doesn’t chase drama. She asks why it happens._
+
+_Gwen treated chemistry like it was poetry written in molecular form. She didn’t just memorize equations — she understood them. That’s different._
+
+_Harry balanced boardroom expectations and physics exams like he’d been preparing his whole life. The scary part? He didn’t complain about it._
+
+_Flash… still tackled people like it was personal. But somewhere between practice and finals, he started asking questions about force distribution and structural integrity. I don’t think he realized when that shift happened. I did._
+
+_As for me?_
+
+_I learned balance._
+
+_Not perfectly. I still missed alarms. Still overcommitted. Still underestimated how long patrol would take._
+
+_But I was better._
+
+_The fights got smaller._
+
+_Or maybe I just got smarter about which ones mattered._
+
+_I shut down an illegal tech pipeline running through Brooklyn docks. Broke up a weapons ring moving modified gear to low-level criminals. Helped dismantle Tombstone’s supply routes without turning it into a city-wide war._
+
+_Scorpion made things complicated for a week. Enhanced. Unstable. That wasn’t a solo job. Gwen analyzed toxin samples. Harry traced the funding. MJ followed rumor threads through community boards. Flash handled ground coordination when things got messy._
+
+_I did the swinging._
+
+_They did the thinking._
+
+_It wasn’t a miracle squad._
+
+_It was friends who refused to stand still._
+
+_Aunt May noticed I was home more._
+
+_“You’re eating like a person again,” she said once._
+
+_I told her that was progress._
+
+_She asked if I was happy._
+
+_I didn’t answer right away._
+
+_But I wasn’t drowning anymore._
+
+_That’s something._
+
+_MJ and I didn’t have epic rooftop confessions every week._
+
+_We had long walks._
+
+_Debates about responsibility._
+
+_Shared fries at 1 a.m._
+
+_Arguments about whether I push myself too hard._
+
+_She doesn’t want Spider-Man._
+
+_She wants Peter._
+
+_That still scares me a little._
+
+_But in a good way._
+
+_Acceptance letters arrived like quiet earthquakes._
+
+_Gwen’s._
+
+_Harry’s._
+
+_MJ’s._
+
+_Flash’s — academic and athletic._
+
+_Mine came last._
+
+_MIT._
+
+_I stared at it long enough to convince myself it was real._
+
+_Aunt May cried._
+
+_I pretended not to._
+
+_Graduation felt unreal in the most normal way possible._
+
+_Caps flying._
+
+_Parents cheering._
+
+_Flash pretending he wasn’t emotional._
+
+_MJ filming everything._
+
+_Harry shaking hands like he was already stepping into tomorrow._
+
+_Gwen smiling in that subtle way she does when she’s proud but won’t admit it._
+
+_I looked up at the stands._
+
+_Aunt May waved._
+
+_That was the loudest moment of the day._
+
+_We didn’t promise to stay the same._
+
+_We promised to stay connected._
+
+_Study groups._
+
+_Shared ideas._
+
+_Building something one day._
+
+_Not because we needed to._
+
+_Because we wanted to._
+
+_The night before leaving, I stood on a rooftop and looked at the skyline._
+
+_The city didn’t look smaller._
+
+_It looked familiar._
+
+_The X-Men were responding to something uptown. Sirens echoed faintly across the river._
+
+_I didn’t feel replaced._
+
+_I felt… supported._
+
+_MIT wasn’t an escape._
+
+_It was a step._
+
+_For once, I wasn’t chasing my life from behind._
+
+_I was walking toward it._
+
+_New city._
+
+_Same responsibility._
+
+_And this time, I wasn’t carrying it alone.”_
+
+_— Peter Parker_
+
+---
+
 ## CHAPTER 1: NEW LIFE
 
 ### Cambridge
