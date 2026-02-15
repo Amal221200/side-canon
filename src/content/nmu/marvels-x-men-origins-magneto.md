@@ -2157,15 +2157,17 @@ Erik descends.
 
 The metal settles behind him, obedient, waiting.
 
+He bound Victor, Azazel, and Emma in coils of steel, tightening just enough until they lost consciousness.
+
 Shaw stands in front of him, still powerful, but **too late**.
 
-Erik looks him in the eyes.
+Erik looks at him in the eyes.
 
 No speech.
 
 No warning.
 
-Steel bars; surgical, saline-white, drive through Shaw's body in a blink.
+Before Shaw could even move a muscle, steel bars; surgical, saline-white, drive through his body in a blink. 
 
 Four. Five.
 
