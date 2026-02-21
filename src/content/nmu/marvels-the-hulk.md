@@ -1994,7 +1994,7 @@ Bruce says nothing.
 
 For the first time, Brian's smile falters.
 
-"I gave you everything," Brian snaps. "And you throw it away. You dissapoint me."
+"I gave you everything," Brian snaps. "And you throw it away. You disappoint me."
 
 Bruce finally speaks.
 
@@ -2034,7 +2034,7 @@ As he turns to leave, Ross adds, quieter-
 
 Bruce nods.
 
-A car waits-sent by **Charles Xavier**.
+A car waits, sent by **Charles Xavier**.
 
 Back at the mansion, Charles meets Bruce in his study.
 
