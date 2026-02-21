@@ -1828,17 +1828,21 @@ He glances toward the hovering chopper in the distance.
 
 "Then I'm going to your little mansion."
 
-Something in Hulk changes.
+Something in Hulk ignites. 
 
-Not a roar.
+Not wild. 
 
-Not fury.
+Not blinding. 
 
-**Stillness.**
+Cold. 
 
-His posture straightens. His chest expands. Muscle tightens-not explosively, but _densely_. His frame grows-not wild, but deliberate. His feet touches the ground, the ground cracks beneath his feet.
+The rage doesn’t vanish. 
 
-Resolve replaces rage.
+It condenses. 
+
+His posture straightens. His chest expands. Muscle tightens-not explosively, but _densely_. His frame grows-not wild, but deliberate. His feet touch the ground, the ground cracks beneath his feet.
+
+The anger is still there, but it has a direction. 
 
 Abomination's grin falters.
 
