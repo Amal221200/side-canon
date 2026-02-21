@@ -3071,43 +3071,49 @@ He watches as the machines lift their cannons in unison, targeting coordinates h
 
 "I'm sorry," he mutters, not to the soldiers, not to the ships-
 
-to the children he promised would be safe.
+To the children he promised would be safe. 
 
-The first blast charges.
+The first blast charges. 
 
-Reality **warps**.
+Red energy flares in response. 
 
-Red light twists sideways, folding in on itself. Probability stutters. The blast misfires, slamming harmlessly into empty air as the Sentinels jerk, suddenly unsure.
+The air distorts, not reality bending, but force colliding. Wanda’s hands snap upward, and the beam veers violently off course, dragged sideways by an opposing surge of telekinetic pressure. It slams into open water, detonating in steam. 
 
-Every machine pivots.
+Every Sentinel pivot. 
 
-A figure descends from above, slow, deliberate, boots touching down on the pier as if gravity itself asked permission.
+A figure descends from above, slow, deliberate; boots touching down on the pier. 
 
-Scarlet energy coils around her hands like living thought.
+Scarlet energy coils around her hands, not chaotic, controlled. 
 
-**Scarlet Witch** lifts her eyes.
+The Sentinels fire again. 
 
-The Sentinels fire.
+This time the bolts don’t misfire. 
 
-The shots unravel.
+They hit a wall. 
 
-Bolts bend away. Missiles detonate early. Targeting systems fracture under impossible math.
+A concussive red barrier absorbs the barrage, splintering under the strain. Wanda exhales sharply and twists her wrists— 
 
-With a single sweep of her hand, Wanda **crushes probability**, and the Sentinels collapse inward, armor tearing itself apart as if it never agreed to exist in the first place.
+The missiles jerk mid-air, caught in opposing force fields. They rupture prematurely, explosions blooming harmlessly above the dock. 
 
-Metal falls.
+Targeting systems flicker, not because math failed, but because their sensors are being saturated. Magnetic interference spikes. Guidance fails. 
 
-Water churns.
+With a violent sweep of her arm, Wanda unleashes everything she’s holding. 
 
-Silence returns.
+The nearest Sentinels are ripped off their feet, not reality collapsing, but metal folding under immense telekinetic compression. Armor buckles. Limbs shear. Machines slam into each other in a storm of twisted steel. 
 
-Bishop stares.
+Metal crashes. 
+
+Water churns. 
+
+Silence returns. 
+
+Bishop stares. 
 
 Wanda turns to him, calm amid the wreckage.
 
 "You're not giving up now old man," she says gently. "Not today."
 
-Bishop plants his foot, forcing himself upright. The energy stabilizes, focused, deadly, _ready_.
+Bishop plants his foot, forcing himself upright. The energy inside him stabilizes, focused, deadly, _ready_.
 
 "Not a chance," he growls.
 
@@ -3469,7 +3475,7 @@ Red chaos energy flickers across the clouds.
 
 Cyclops looks up.
 
-Wanda descends slowly, eyes glowing, not angry, not wild, _focused_.
+Wanda descends slowly; eyes glowing, not angry, not wild, but focused.
 
 Beside her, Bishop lands heavily, rifle humming, energy stabilized and ready.
 
@@ -3619,9 +3625,13 @@ Not controlled.
 
 Not precise.
 
-A raw, devastating optic blast tears through the exposed channel.
+A column of pure concussive force detonates from his eyes, ripping across the battlefield like a newborn star.
 
-Wanda follows, chaos energy folding reality inward, collapsing systems, unmaking probability.
+The recoil alone would have shattered bone.
+
+Wanda catches it.
+
+Scarlet energy flares around them, reinforcing his trajectory, tightening the beam’s spread, preventing dispersion.
 
 The Sentinel screams.
 

@@ -1511,7 +1511,7 @@ Gamma dogs tear toward fleeing civilians-
 
 -but red energy snaps around them.
 
-Scarlet Witch raises her hands, eyes glowing as she twists probability itself. Two dogs collide mid-leap, bodies folding unnaturally as reality buckles around them.
+Scarlet Witch raises her hands, eyes glowing as scarlet force lashes outward. Two dogs collide mid-leap; The two monsters collide violently, bodies slamming together before crashing to the ground in a heap of bone and fury.
 
 Quicksilver blurs through the streets, a streak of silver-blue-grabbing civilians, pulling them out from collapsing buildings, yanking wounded bodies out of danger faster than the dogs can track.
 
@@ -1519,7 +1519,7 @@ Quicksilver blurs through the streets, a streak of silver-blue-grabbing civilian
 
 "I see 'em," Logan snarls, climbing back to his feet. "Big guy's not my dance partner anyway."
 
-Morph shifts-expanding into something massive, interposing himself between Abomination and Jean, then changing again, trying to confuse, distract, slow-
+Morph shifts, expanding into something massive, interposing himself between Abomination and Jean, then changing again, trying to confuse, distract, slow-
 
 Abomination grabs him mid-shift and **throws him** into the side of a building hard enough to crater concrete.
 
@@ -1529,7 +1529,7 @@ The strike hits.
 
 The light fades.
 
-Abomination exhales smoke-and laughs.
+Abomination exhales smoke and laughs.
 
 "This is what they sent?" he says, rolling his shoulders. "You're not defenders. You're _practice_."
 
@@ -1565,7 +1565,7 @@ Helpless.
 
 Then-
 
-a voice, calm and familiar, enters his mind.
+A voice, calm and familiar, enters his mind.
 
 _Bruce._
 
@@ -1593,7 +1593,7 @@ Ross snaps toward him.
 
 "You don't have to," Bruce replies. "I can handle myself."
 
-Ross hesitates-fear, doubt, calculation colliding.
+Ross hesitates, fear, doubt, calculation colliding.
 
 Finally-
 
@@ -1613,17 +1613,17 @@ They hug-tight, wordless.
 
 The door opens.
 
-Abomination looks up, grinning-eyes locking onto the chopper, onto Ross.
+Abomination looks up, grinning, eyes locking onto the chopper, onto Ross.
 
 A challenge.
 
 Bruce jumps.
 
-The wind tears past him as he falls-mind focused, breathing steady. Images flash: **Charles Xavier**, the X-Men, Betty.
+The wind tears past him as he falls, mind focused, breathing steady. Images flash: **Charles Xavier**, the X-Men, Betty.
 
 His eyes blaze green.
 
-The transformation is controlled-muscle surging, bones reshaping, power snapping into place with terrifying precision.
+The transformation is controlled, muscle surging, bones reshaping, and power snapping into place with terrifying precision.
 
 He hits the ground like a meteor.
 
@@ -1637,7 +1637,7 @@ The Hulk stands.
 
 Facing Abomination.
 
-Abomination laughs-eager, waiting.
+Abomination laughs, eager, and waiting. 
 
 The Hulk throws back his head and roars.
 
@@ -1645,7 +1645,7 @@ And the earth answers.
 
 Abomination tilts his head.
 
-Two gamma dogs snarl at his sides-muscle twitching, eyes burning.
+Two gamma dogs snarl at his sides, muscle twitching, eyes burning.
 
 "Go," he growls.
 
@@ -2074,7 +2074,7 @@ Charles smiles.
 
 "A good city."
 
-Bruce walks the grounds one last time.
+Bruce walk the ground one last time.
 
 The X-Men nod as he passes. Children wave. Some smile. Some just watch-knowing they're looking at someone who chose restraint when power begged for more.
 
