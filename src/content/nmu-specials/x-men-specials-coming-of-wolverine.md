@@ -9,7 +9,7 @@ order: 10
 
 ## Chapter One — Bringing the Animal
 
-### 2005. Northern Canada.
+### 2005, Northern Canada.
 
 The forest felt older than memory.
 
@@ -233,7 +233,7 @@ The man from the forest lay still.
 
 No longer caked in blood and dirt.
 
-His body had been cleaned. The worst of the tangled hair trimmed back. Beard shaped but still rugged — more of a wolf than a gentleman. Muscles defined beneath pale skin now free of grime. For someone who survived in wilderness, there wasn’t a single scar on him, not one mark to prove he had ever been wounded.
+His body had been cleaned. The worst of the tangled hair trimmed back. Beard shaped but still rugged — more of a wolf than a gentleman. Muscles defined beneath lightly weathered fair skin are now free of grime. For someone who survived in the wilderness, there wasn’t a single scar on him, not one mark to prove he had ever been wounded.
 
 The adamantium claws were retracted.
 
@@ -257,7 +257,7 @@ He did not force memories.
 
 He did not unlock the past.
 
-He searched for cognition — language centers long dormant, neural pathways buried beneath trauma and isolation.
+He searched for cognition — language centers long dormant; neural pathways buried beneath trauma and isolation.
 
 He reconnected what had withered:
 
@@ -421,7 +421,7 @@ Behind him, Jean. Calm, observant.
 
 Storm moved with measured grace.
 
-And trailing slightly behind them, curious but cautious, was **Rogue** — Anna Marie — still young, still learning.
+And trailing slightly behind them, curious but cautious, **Rogue** — Anna Marie — still young, still learning.
 
 Charles gestured lightly.
 
@@ -459,7 +459,7 @@ A slight pause.
 
 “As one of us.”
 
-Logan’s expression hardened.
+Logan’s expressions hardened.
 
 “Well, I don’t need help from any shelter service.”
 
@@ -559,7 +559,7 @@ Young voices.
 
 He turns instinctively.
 
-Across the field, students — teenagers — are finishing some late evening activity. A few still tossing a ball. A couple arguing. One floating briefly before landing clumsily.
+Across the field, students — teenagers — are finishing some late evening activities. A few still tossing a ball. A couple arguing. One floating briefly before landing clumsily.
 
 Normal chaos.
 
@@ -641,7 +641,7 @@ Charles continues, voice steady.
 
 Logan says nothing.
 
-“You may stay,” Charles adds. “Learn about us. About what we protect. About what you could protect.”
+“You may stay,” Charles adds, “Learn about us. About what we protect. About what you could protect.”
 
 Wind stirs lightly across the lawn.
 
@@ -655,7 +655,7 @@ No hunting.
 
 No blood.
 
-He doesn’t understand the word peaceful.
+He doesn’t understand the word peace.
 
 But he recognizes the absence of threat.
 
@@ -673,7 +673,7 @@ A long beat.
 
 Logan nods once — not agreement, not gratitude.
 
-Just decision.
+Just a decision.
 
 “I’ll stay.”
 
@@ -681,17 +681,17 @@ Not forever.
 
 Not committed.
 
-Just… for now.
+“Just… for now.”
 
 Charles inclines his head.
 
 “That is enough.”
 
-They sit in silence a moment longer.
+They sit in silence for a moment longer.
 
 Logan still scans the perimeter.
 
-But his shoulders lower — just slightly.
+But his shoulders are lower — just slightly.
 
 For the first time in years, he is not calculating escape.
 
@@ -715,7 +715,7 @@ He sat in the back of classrooms, arms folded, silent. A world map projected aga
 
 He didn’t react.
 
-But he memorized.
+But he memorized it.
 
 In the lab, Hank explained genetic theory with enthusiastic precision. Logan listened, not because he cared about chromosomes, but because knowledge meant terrain. Terrain meant advantage.
 
@@ -723,9 +723,9 @@ Later, in a computer room, the low hum of desktop towers filled the air. Monitor
 
 A student mentioned researching something “online.”
 
-Logan’s eyes shifted to the screens.
+Logan’s eyes shifted to the screen.
 
-“All that information just sits there?” he asked.
+“All that information just sits there?” He asked.
 
 “Accessible from anywhere,” Hank replied, adjusting his glasses. “With the right connection.”
 
@@ -755,7 +755,7 @@ Scott stepped forward, leadership posture automatic.
 
 “Simulation level three. Controlled engagement.”
 
-Logan stood opposite them, still, unreadable.
+Logan stood opposite them, still, and unreadable.
 
 The room dissolved.
 
@@ -933,7 +933,7 @@ Charles watched calmly from his chair.
 
 “You are correct.”
 
-Scott blinked — not expecting agreement.
+Scott blinked — not expecting an agreement.
 
 Charles continued.
 
@@ -955,7 +955,7 @@ Jean was still unsettled.
 
 Charles folded his hands.
 
-“He does not understand comfort. Or restraint. Or consequence. He survived without memory. Without structure. Without society.”
+“He does not understand comfort, restraint, or consequence. He survived without memory. Without structure. Without society.”
 
 Scott looked toward the sealed doors.
 
@@ -1005,7 +1005,7 @@ Logan nodded once.
 
 “Felt like drowning. Then everything went quiet.”
 
-“I wasn’t trying to control you,” she said. “Just… stop you.”
+“I wasn’t trying to control you,” she said. “Just… stopping you.”
 
 He accepted that without comment.
 
@@ -1021,19 +1021,17 @@ The simplicity of it lands heavy.
 
 Jean studies him.
 
-“That’s why we are learning,” she says softly. “So we don’t become what we’re fighting.”
+“That’s why we are learning,” she says softly. “So, we don’t become what we’re fighting.”
 
 He swallowed, eyes still on the horizon.
 
 “And I’m sorry for hurting him. Feels like he’s important to you.”
 
-Jean studied him.
-
-“How do you know that?”
+Jean curiously asks, “How do you know that?”
 
 Logan tilted his head slightly.
 
-“In that room… when I went forward, and you stopped me in the air—” He searched for the right words. “It’s like, you were afraid to lose him.”
+“In that room… when I went forward, and you stopped me mid-strike—” He searched for the right words. “It’s like, you were afraid to lose him.”
 
 Jean’s expression softened. Not embarrassed. Not surprised.
 
@@ -1061,7 +1059,7 @@ She looked up at the stars briefly.
 
 Logan listened.
 
-“And he still chooses restraint,” Jean continued. “He still chooses responsibility. He trains harder than anyone. Pushes himself harder than anyone. Not because he likes control.”
+“And he still chooses restraint.” Jean continued. “He still chooses responsibility. He trains harder than anyone. Pushes himself harder than anyone. Not because he likes control.”
 
 A pause.
 
@@ -1081,7 +1079,7 @@ She let that hang between them.
 
 Logan absorbed that slowly.
 
-He thought about the way Scott stood his ground. The way the optic blasts never wavered. The way he didn’t step back even when claws were inches away.
+He thought about the way Scott stood on his ground. The way the optic blasts never wavered. The way he didn’t step back even when claws were inches away.
 
 Maybe that wasn’t stubbornness.
 
@@ -1329,9 +1327,11 @@ Scott finishes a lap and slows near the steps.
 
 Scott gestures to the grounds.
 
-“Run helps.”
+“Running helps.”
 
-Logan considers it. Then drops down from the balcony instead of using the stairs.
+Logan considers it, then drops from the balcony instead of taking the stairs.
+
+He lands in the lawn below — the earth compressing sharply beneath his boots.
 
 Scott doesn’t react.
 
@@ -1343,15 +1343,37 @@ Logan’s is effortless.
 
 After several laps, Scott stops at the outdoor training rack — pull-ups, weighted presses, resistance cables.
 
-Logan joins without being invited.
+He jumps up, grips the bar, and begins.
 
-Steel bends slightly in Logan’s grip.
+One.
 
-Scott notices.
+Two.
 
-Logan, “You’re not bad kid."
+Ten.
 
-“You don’t get to say it’s not bad,” Scott says between reps. “Your muscles repair instantly.”
+Fifteen.
+
+Twenty.
+
+His form never breaks. Breathing measured. Shoulders steady. No swinging.
+
+Logan watches.
+
+Scott keeps going.
+
+Twenty-five.
+
+Thirty.
+
+Only then does he drop down.
+
+Logan steps closer, arms folding across his chest.
+
+“You’re not bad, kid.”
+
+Scott reaches back up for another set.
+
+“You don’t get to say it’s not bad,” he replies between reps. “Your muscles repair instantly.”
 
 Logan smirks faintly.
 
@@ -1363,11 +1385,11 @@ Almost.
 
 ### Ororo & Jean Arrive
 
-**Storm** approaches with **Jean Grey**, both already dressed for training.
+**Storm** arrives with **Jean Grey;** both already dressed for training.
 
 Storm observes the scene calmly.
 
-“So you reconciled already?”
+“So, you reconciled already?”
 
 Scott shrugs.
 
@@ -1391,7 +1413,7 @@ Scott adds dryly:
 
 “At least you two have something in common.”
 
-Logan glances between them.
+Logan glances at them.
 
 “Yeah?”
 
@@ -1485,9 +1507,9 @@ A pause.
 
 Logan doesn’t answer.
 
-But he doesn’t leave.
+But he didn’t leave.
 
-### The Departure Decision
+### The Departure Decision (After few weeks)
 
 Night.
 
@@ -1515,7 +1537,7 @@ A pause.
 
 “But we could use your support.”
 
-Logan nods slightly.
+Logan nodded slightly.
 
 “Thanks. For everything.”
 
@@ -1549,7 +1571,7 @@ Last coordinates flashing.
 
 Logan feels it before anyone says it.
 
-Something wrong.
+Something is wrong.
 
 Charles’ expression tightens.
 
@@ -1561,7 +1583,7 @@ Logan steps forward.
 
 “I can help.”
 
-Charles studies him.
+Charles studied him.
 
 “You’re certain?”
 
@@ -1605,7 +1627,7 @@ Logan studies it.
 
 Brown leather panels.
 
-Tan armor plating.
+Tan armor plates.
 
 Black striping.
 
@@ -1709,7 +1731,7 @@ He disappeared into the control corridors.
 
 Rogue entered through a lower access hallway.
 
-Two guards rushed her.
+Two guards rushed to her.
 
 She moved fluidly, training evident. A spinning kick disarmed one. She grabbed the second by the collar, skin meeting skin for half a second.
 
@@ -1827,9 +1849,7 @@ A low chuckle echoed from the upper catwalk.
 
 Heavy boots stepped into view.
 
-Sabretooth
-
-Victor Creed.
+Victor Creed aka Sabretooth.
 
 Grinning.
 
@@ -1851,8 +1871,6 @@ Lady Deathstrike moved silently behind Logan.
 
 He sensed her presence a fraction too late.
 
-Metal claws clicked softly inches from his spine.
-
 Stryker folded his hands.
 
 “You came back.”
@@ -1873,25 +1891,41 @@ Jean strained against her restraints, trying to break the dampeners.
 
 Stryker continued:
 
-“They erased you. Twisted you. Left you feral.”
+“They’re teaching you to hesitate.”
 
 A beat.
 
-“But you were ours first.”
+“We never did.”
 
 Logan’s jaw tightened.
 
 Stryker’s voice softened.
 
-“You don’t even know what you are capable of.”
+“You feel it, don’t you?”
 
-Sabretooth laughed.
+A glance toward Sabretooth.
 
-“He doesn’t remember a thing.”
+“The clarity. The absence of doubt.”
 
-Stryker gestured slightly.
+Sabretooth laughed low in his throat.
 
-“Join us. We’ll make you strong again.”
+“He smells it on you.”
+
+Victor stepped closer.
+
+“You’re not one of them.”
+
+A slow grin.
+
+“You’re one of us.”
+
+Stryker’s gaze never wavered.
+
+“You don’t have to pretend with us.”
+
+A beat.
+
+“Come back. Be what you are.”
 
 Logan finally turned his head slightly.
 
@@ -2519,75 +2553,55 @@ Later—
 
 In the infirmary wing—
 
-Hank worked silently, scanning Logan’s torso with a portable diagnostic unit.
+Hank scanned Logan’s torso, eyes moving across the display.
 
-The monitor hummed softly as internal imaging projected across the screen.
+“Skeletal structure intact,” he said calmly. “The adamantium held.”
 
-“Remarkable,” Hank muttered under his breath.
+He adjusted the device slightly.
 
-He adjusted the display.
-
-“Your skeletal structure remains intact, as expected. The adamantium frame absorbed the compression.”
-
-He glanced at the bruising spreading across Logan’s side.
-
-“However, the connective tissue between the ribs has suffered significant tearing. Intercostal cartilage separation. Pulmonary bruising. Severe muscular trauma.”
+“Significant soft tissue trauma. Cartilage strain. Lung bruising.”
 
 Logan stared at the ceiling.
 
-“Feels like it.”
+“Yeah.”
 
-Hank gave him a sideways look.
+Hank’s tone shifted slightly.
 
-“I imagine it would.”
+“There’s residual carbonadium in your system. It suppressed your healing for a time.”
 
-He ran the scanner lower.
+Logan flexed his jaw.
 
-“And there’s residual carbonadium toxicity in your bloodstream. Omega Red’s coils emit a radioactive field. It appears to have temporarily suppressed your healing factor.”
+“Felt slower.”
 
-Logan’s jaw tightened slightly.
+“It’s clearing,” Hank replied. “Your regeneration should normalize shortly.”
 
-“Yeah. Felt slower.”
-
-“Yes,” Hank confirmed. “Your regeneration was functioning — but not at optimal efficiency.”
-
-He powered down the device.
-
-“The carbonadium traces are already breaking down. Once cleared, your natural healing rate should resume fully.”
-
-Logan flexed his hand experimentally.
+Logan flexed his hand once.
 
 “Nothing permanent?”
 
-Hank allowed himself a small smile.
+Hank allowed a faint smile.
 
-“On you? Highly unlikely.”
+“Not on you.”
 
 He stepped back.
 
-“You may consider refraining from catching collapsing infrastructure with your bare hands in the future.”
+“Next time, try not to hold up collapsing structures.”
 
-Logan exhaled through his nose.
+Logan exhaled.
 
 “Noted.”
 
 When it was done, Logan stepped out into the hallway.
 
-He looked down at his hands.
+He paused and looked down at his hands.
 
-Flexed them once.
-
-Claws extended.
+Claws slid out.
 
 Retracted.
 
 Tonight—
 
 He didn’t hunt.
-
-He didn’t chase.
-
-He didn’t pursue revenge.
 
 He protected.
 
@@ -2711,7 +2725,7 @@ Jean waited patiently.
 
 Scott’s jaw tightened slightly.
 
-“But when you were hurt last night, I knew one thing,”
+“But when you were hurt last night, I knew one thing.”
 
 His voice changed.
 
@@ -2757,7 +2771,9 @@ He nodded once.
 
 “I’d like that.”
 
-Jean smiles after hearing it.
+Jean’s fingers tightened gently around his.
+
+Sunlight shifted across the room as they sat there — not saying anything more.
 
 Far enough from the door to pretend they weren’t listening.
 
@@ -2801,7 +2817,7 @@ Logan shook his head.
 
 “Guy can strategize a battlefield but can’t say three words.”
 
-Storm let out the smallest breath of a laugh.
+Storm let out the smallest breath of laughter.
 
 And then—
 
@@ -2905,7 +2921,7 @@ But not hunted.
 
 Two local men notice him from across the bar.
 
-They exchange a glance.
+They exchanged glances.
 
 Walk over.
 
@@ -3009,7 +3025,9 @@ Shared choice.
 
 Logan looks around the table.
 
-For once, he isn’t sitting near the exit.
+He notices the exit.
+
+And chooses not to sit near it.
 
 He isn’t scanning the room.
 
@@ -3027,7 +3045,7 @@ Jean watches quietly.
 
 Logan mutters:
 
-“Guess I’m not leaving at six.”
+“Guess I’m not leaving until six.”
 
 Scott smirks.
 

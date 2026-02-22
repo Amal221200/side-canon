@@ -3,7 +3,7 @@ title: "Marvel’s X-Men 2"
 description: "This explores the growth of X-Men after the sentinel war and Scott Summers biggest challenge against his past."
 pubDate: "Feb 21, 2026"
 heroImage: "@/assets/nmu/marvels-x-men-2.webp"
-published: true
+published: false
 order: 8
 ---
 
