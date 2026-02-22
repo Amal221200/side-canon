@@ -3,7 +3,7 @@ title: "Marvel's Spider-Man 2"
 description: "Explore the story of Peter Parker and his friends embarking their new journey as they join MIT."
 pubDate: 'Jan 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man-2.jpg'
-published: true
+published: false
 order: 7
 ---
 

@@ -3,7 +3,7 @@ title: "X-Men: Origins - Cyclops"
 description: "This story explores the early life of Scott Summers, abuse, overcoming disabilities, and the journey to becoming Cyclops."
 pubDate: "Feb 7, 2026"
 heroImage: "@/assets/nmu/marvels-x-men-origins-cyclops.jpeg"
-published: true
+published: false
 order: 3
 ---
 

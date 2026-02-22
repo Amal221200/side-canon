@@ -3,7 +3,7 @@ title: "HELVETIA PROTOCOL"
 description: "Helvetia Protocol is a government-supported, semi-independent rapid response unit specializing in urban stability operations, counter-terror intervention, high-tech crime suppression, and infrastructure protection."
 pubDate: 'Feb 14, 2026'
 heroImage: '@/assets/nmu-specials/zurich.jpg'
-published: true
+published: false
 order: 8
 ---
 

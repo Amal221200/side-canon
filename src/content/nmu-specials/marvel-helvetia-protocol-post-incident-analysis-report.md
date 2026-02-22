@@ -3,7 +3,7 @@ title: "HELVETIA PROTOCOL – POST-INCIDENT ANALYSIS REPORT"
 description: "This is a post-incident analysis report of the Zurich Infrastructure Event."
 pubDate: 'Feb 14, 2026'
 heroImage: '@/assets/nmu-specials/mysterio.jpg'
-published: true
+published: false
 order: 9
 ---
 
