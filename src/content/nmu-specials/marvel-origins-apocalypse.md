@@ -558,7 +558,7 @@ He named them after **outcomes**.
 
 He called them his Horsemen, not as weapons, but as _principles_.
 
-Then came **Amenth**.
+Then came **Amenth**, a dark dimension ruled by a dark entity called **Annihilation**.
 
 Demons from the Dark Dimension did not invade for conquest. They invaded to consume.
 
