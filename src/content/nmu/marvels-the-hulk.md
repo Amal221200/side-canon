@@ -117,7 +117,7 @@ No nearby towns. No foot traffic. No cell towers within several miles. Just enou
 
 The lab is hidden beneath the cabin.
 
-Not underground-**embedded**. Shielded walls. Lead-lined panels scavenged from decommissioned medical equipment. A homemade filtration system hums softly, cycling air through layers of charcoal, ion traps, and something Bruce designed himself: a crude but effective gamma particulate siphon.
+Not underground—**embedded**. Shielded walls. Lead-lined panels scavenged from decommissioned medical equipment. A homemade filtration system hums softly, cycling air through layers of charcoal, ion traps, and something Bruce designed himself: a crude but effective gamma particulate siphon.
 
 It isn't elegant.
 
@@ -133,7 +133,7 @@ Bruce works odd jobs. Hardware store repairs. Generator maintenance. Fixing old 
 
 People like him.
 
-Not because he tries to be charming-but because he listens. Because he explains things without making anyone feel small. Because when someone's car won't start in the cold, he's already rolling up his sleeves.
+Not because he tries to be charming—but because he listens. Because he explains things without making anyone feel small. Because when someone's car won't start in the cold, he's already rolling up his sleeves.
 
 They call him _Doc_ sometimes.
 
@@ -141,13 +141,13 @@ He smiles when they do.
 
 Once a week, he drives an hour south for therapy.
 
-The office is small. Neutral. Intentional. The therapist doesn't know everything-but she knows enough. Knows about rage. Knows about dissociation. Knows what it means to live in fear of yourself.
+The office is small. Neutral. Intentional. The therapist doesn't know everything—but she knows enough. Knows about rage. Knows about dissociation. Knows what it means to live in fear of yourself.
 
 Bruce doesn't talk about monsters.
 
 He talks about **restraint**.
 
-About the moment before anger spikes. About how emotion doesn't have to be erased-only _redirected_. He listens. He practices. He writes things down.
+About the moment before anger spikes. About how emotion doesn't have to be erased—only _redirected_. He listens. He practices. He writes things down.
 
 In the evenings, he trains.
 
@@ -161,7 +161,7 @@ Night falls early.
 
 Back at the cabin, Bruce initiates the process.
 
-Electrodes attach along his spine. Sensors press against his temples. A low-frequency pulse hums through the room as the system activates-drawing out trace gamma radiation, isolating it, containing it.
+Electrodes attach along his spine. Sensors press against his temples. A low-frequency pulse hums through the room as the system activates—drawing out trace gamma radiation, isolating it, containing it.
 
 He grips the edge of the table.
 
@@ -183,7 +183,7 @@ Bruce slumps back, exhausted but intact. He stares at the ceiling, chest rising 
 
 This could work.
 
-Somewhere far away-
+Somewhere far away—
 
 Concrete walls. Fluorescent lighting. Screens filled with satellite feeds, thermal scans, intercepted data.
 
@@ -195,7 +195,7 @@ A name resurfaces.
 
 Bruce Banner.
 
-Analysts track purchasing patterns. Specialized components bought in cash. Radiation-adjacent materials acquired under different aliases. A cluster of activity forming a shape they don't like.
+Analysts track purchasing patterns. Specialized components bought in cash. Radiation—adjacent materials acquired under different aliases. A cluster of activity forming a shape they don't like.
 
 They assume escalation.
 
@@ -219,7 +219,7 @@ For now, the monster sleeps.
 
 Next day, around 8 pm, sometime after he returns from work, he begins the preparation to cure himself.
 
-The calculations fill the whiteboard now-no empty space left, no room for doubt. Variables circled, crossed out, rewritten. Gamma decay curves intersect with suppression thresholds. Every margin holds a note, a contingency, a hope.
+The calculations fill the whiteboard now—no empty space left, no room for doubt. Variables circled, crossed out, rewritten. Gamma decay curves intersect with suppression thresholds. Every margin holds a note, a contingency, a hope.
 
 He adjusts a dial.
 
@@ -237,7 +237,7 @@ A cranial harness lowers over his head. Thin needles settle against his scalp, t
 
 He rolls up his sleeve.
 
-The injector hisses as the suppressant enters his bloodstream-cool at first, then heavy. Pulse monitors attach along his chest, arms, neck. One last device goes into his mouth, biting down hard as he secures it.
+The injector hisses as the suppressant enters his bloodstream—cool at first, then heavy. Pulse monitors attach along his chest, arms, neck. One last device goes into his mouth, biting down hard as he secures it.
 
 Hands strapped.
 
@@ -249,9 +249,9 @@ The computer hums to life.
 
 "Initialization in thirty seconds," the system says.
 
-Bruce exhales, long and steady. He closes his eyes-not in fear, but in focus.
+Bruce exhales, long and steady. He closes his eyes—not in fear, but in focus.
 
-_"You've prepared for this._
+_"You are prepared for this._
 
 _You've controlled worse."_
 
@@ -263,7 +263,7 @@ Tanks crouch at the edge of the forest like metal predators. Jets circle high ab
 
 No one speaks.
 
-General Ross watches from a command screen inside a camp, arms crossed, eyes burning. Satellite feeds lock onto a single point in the woods-an anomaly, faint but growing.
+General Ross watches from a command screen inside a camp, arms crossed, eyes burning. Satellite feeds lock onto a single point in the woods—an anomaly, faint but growing.
 
 Beside the convoy, Emil Blonsky tightens his gloves.
 
@@ -279,7 +279,7 @@ Bruce tightens his jaw.
 
 "Four."
 
-The suppressant is already changing him-slowing heart rate, dulling neural spikes.
+The suppressant is already changing him—slowing heart rate, dulling neural spikes.
 
 "Three."
 
@@ -297,11 +297,11 @@ The system locks.
 
 The lab erupts with sound.
 
-Suppressors flood Bruce's bloodstream, burning cold this time-his muscles seize as gamma extraction begins. Electricity surges through the conduits, blue-white arcs crawling across the walls.
+Suppressors flood Bruce's bloodstream, burning cold this time—his muscles seize as gamma extraction begins. Electricity surges through the conduits, blue-white arcs crawling across the walls.
 
 Bruce screams.
 
-Not in rage-in shock.
+Not in rage—in shock.
 
 The monitor spikes.
 
@@ -309,15 +309,15 @@ The monitor spikes.
 
 **EXTRACTION RATE: UNSTABLE**
 
-Power drains fast-too fast. The system pulls energy from everywhere it can, ripping it through the grid like a starving animal.
+Power drains fast—too fast. The system pulls energy from everywhere it can, ripping it through the grid like a starving animal.
 
 Outside, the forest lights up.
 
-Electricity dances across the cabin roof, spilling into the trees, leaping skyward. In the distance, a town flickers-lights dim, then vanish.
+Electricity dances across the cabin roof, spilling into the trees, leaping skyward. In the distance, a town flickers—lights dim, then vanish.
 
 Alarms scream in Ross's command center.
 
-"It's escalating," an analyst shouts. "If it keeps drawing power-"
+"It's escalating," an analyst shouts. "If it keeps drawing power—"
 
 "It'll overload everything," Ross snaps.
 
@@ -349,7 +349,7 @@ Smoke rises from the crater where the cabin once stood. Flames lick at shattered
 
 Blonsky moves first, soldiers spreading out behind him.
 
-Then-
+Then—
 
 a sound.
 
@@ -373,17 +373,17 @@ The soldiers freeze.
 
 Something _stands up_.
 
-A silhouette stretches unnaturally tall-bones cracking, muscles swelling, skin darkening into something massive and impossible. The scream that follows isn't human.
+A silhouette stretches unnaturally tall—bones cracking, muscles swelling, skin darkening into something massive and impossible. The scream that follows isn't human.
 
 The Hulk erupts from the debris.
 
-He crashes into the line like a force of nature-bodies thrown aside, armor crushed like paper. Soldiers fire. It doesn't matter. He swats them away, shattering the ground beneath his feet.
+He crashes into the line like a force of nature—bodies thrown aside, armor crushed like paper. Soldiers fire. It doesn't matter. He swats them away, shattering the ground beneath his feet.
 
 Blonsky dives clear as the Hulk's fist obliterates the space where he stood.
 
 Jets roar overhead, floodlights snapping on, followed by the tanks.
 
-The Hulk turns, framed in blinding white light-green skin steaming, chest heaving, eyes burning like twin suns.
+The Hulk turns, framed in blinding white light—green skin steaming, chest heaving, eyes burning like twin suns.
 
 He throws his head back and roars.
 
@@ -407,7 +407,7 @@ As the monster he feared howls beneath the moon.
 
 The forest doesn't stand a chance.
 
-Hulk moves like an earthquake with intent-each step collapsing soil, uprooting trees, crushing steel beneath his feet. Tanks fan out around him, five… seven… ten forming a tightening ring, engines roaring, turrets tracking.
+Hulk moves like an earthquake with intent—each step collapsing soil, uprooting trees, crushing steel beneath his feet. Tanks fan out around him, five… seven… ten forming a tightening ring, engines roaring, turrets tracking.
 
 They fire.
 
@@ -417,11 +417,11 @@ Two vehicles roll forward.
 
 Mounted sound cannons power up.
 
-The blast hits him instantly-low-frequency waves tearing into his skull, vibrating through bone and muscle. Hulk staggers, clutching his head, bellowing in agony. Soldiers seize the moment.
+The blast hits him instantly—low-frequency waves tearing into his skull, vibrating through bone and muscle. Hulk staggers, clutching his head, bellowing in agony. Soldiers seize the moment.
 
 "Now!"
 
-Electrical trap nets launch, wrapping around his torso and limbs. Currents surge, crackling across green skin. For a moment-just a moment-Hulk drops to one knee.
+Electrical trap nets launch, wrapping around his torso and limbs. Currents surge, crackling across green skin. For a moment—just a moment—Hulk drops to one knee.
 
 The forest holds its breath.
 
@@ -433,11 +433,11 @@ He slams his hands together.
 
 **THUNDERCLAP.**
 
-The shockwave detonates outward-trees snap, soldiers are hurled through the air, sound cannons crumple like tin. The nets disintegrate in a storm of sparks.
+The shockwave detonates outward—trees snap, soldiers are hurled through the air, sound cannons crumple like tin. The nets disintegrate in a storm of sparks.
 
 Hulk surges forward again.
 
-He grabs a tank by the barrel, metal screaming as he bends it backward, tearing it free. With a roar, he spins-using the tank like a hammer-and hurls it skyward.
+He grabs a tank by the barrel, metal screaming as he bends it backward, tearing it free. With a roar, he spins—using the tank like a hammer—and hurls it skyward.
 
 Jets dive.
 
@@ -471,15 +471,15 @@ Hulk starts walking.
 
 Each step is deliberate now. Controlled. Furious.
 
-Then-
+Then—
 
 Light floods the clearing from behind him.
 
 A sleek, black aircraft descends silently, floodlights cutting through smoke and ash. Its presence is calm. Precise. _Different._
 
-Hulk snarls and turns, muscles tensing to leap-
+Hulk snarls and turns, muscles tensing to leap—
 
--and stops.
+and stops.
 
 A voice enters his mind.
 
@@ -525,11 +525,11 @@ The Blackbird rises and disappears into the night.
 
 General Ross watches from his screen.
 
-His jaw tightens-not in anger, but something colder. Something unresolved.
+His jaw tightens—not in anger, but something colder. Something unresolved.
 
 "Search the field," he orders quietly. "Find survivors."
 
-But when the medics reach Blonsky's last position-
+But when the medics reach Blonsky's last known position—
 
 He's gone.
 
@@ -565,7 +565,7 @@ That shouldn't be possible.
 
 Blonsky turns sharply.
 
-A man steps into the light-not wearing a uniform, not wearing a lab coat. Just someone comfortable in places he doesn't belong. His eyes are sharp. Curious. Evaluating.
+A man steps into the light—not wearing a uniform, not wearing a lab coat. Just someone comfortable in places he doesn't belong. His eyes are sharp. Curious. Evaluating.
 
 Blonsky swings his legs off the table, testing his weight.
 
@@ -599,7 +599,7 @@ Blonsky looks up.
 
 The man steps closer, hands behind his back.
 
-"Someone who's tired of pretending that humanity has finished evolving. Someone who doesn't flinch at the word _change_. Someone who understands that weakness isn't moral-it's biological."
+"Someone who's tired of pretending that humanity has finished evolving. Someone who doesn't flinch at the word _change_. Someone who understands that weakness isn't moral—it's biological."
 
 He stops just short of Blonsky.
 
@@ -621,13 +621,13 @@ Silence settles between them.
 
 "Something earned."
 
-Blonsky studies him. He thinks of the green giant-of the fear, the helplessness, the way bullets meant nothing.
+Blonsky studies him. He thinks of the green giant, the fear he felt, the helplessness, the way bullets meant nothing.
 
 Then he nods once.
 
 "Tell me what I have to do."
 
-The man's smile widens-not with triumph, but satisfaction.
+The man's smile widens—not with triumph, but satisfaction.
 
 "Excellent."
 
@@ -639,15 +639,15 @@ And somewhere deep inside Blonsky's body, something **stirs**.
 
 Bruce wakes up screaming.
 
-His body jolts upright, heart hammering, breath ragged-images slamming into him all at once: green light, collapsing walls, gunfire, heat, the sound of his own roar tearing the night apart.
+His body jolts upright, heart hammering, breath ragged—images slamming into him all at once: green light, collapsing walls, gunfire, heat, the sound of his own roar tearing the night apart.
 
-He scrambles backward instinctively-
+He scrambles backward instinctively—
 
--and stops.
+and stops.
 
 Because the room doesn't move.
 
-No alarms. No restraints. No humming machines pulling at his blood. Just sunlight filtering through tall windows, soft and impossibly calm. The bed beneath him doesn't creak like metal-it _gives_, like something meant to hold a human body.
+No alarms. No restraints. No humming machines pulling at his blood. Just sunlight filtering through tall windows, soft and impossibly calm. The bed beneath him doesn't creak like metal—it _gives_, like something meant to hold a human body.
 
 "Easy," a voice says.
 
@@ -659,11 +659,11 @@ Bruce's pulse spikes again.
 
 "Who are you," Bruce says, voice hoarse, already calculating exits.
 
-The man smiles faintly. Not reassuring-_patient_.
+The man smiles faintly. Not reassuring—_patient_.
 
 "My name is **Charles Xavier**," he says. "And you're safe here."
 
-Bruce laughs-short, bitter.
+Bruce laughs, short, bitter.
 
 "No place is safe where I'm around."
 
@@ -687,13 +687,13 @@ Charles wheels back slightly.
 
 The halls are wide, sunlit, alive with motion.
 
-People-_young people_-move through them. Some normal at first glance. Others… less so. A girl with silver eyes laughs as she floats a book beside her. A boy phases briefly through a wall to avoid a collision and apologizes mid-step.
+People—_young people_—move through them. Some normal at first glance. Others… less so. A girl with silver eyes laughs as she floats a book beside her. A boy phases briefly through a wall to avoid a collision and apologizes mid-step.
 
 Bruce slows.
 
 Charles notices everything.
 
-"This is a school," he says. "And a home. For people who never asked to be different-but still have to learn how to live with it."
+"This is a school," he says. "And a home. For people who never asked to be different—but still have to learn how to live with it."
 
 They pass a training hall where controlled combat drills are underway.
 
@@ -701,11 +701,11 @@ They pass a training hall where controlled combat drills are underway.
 
 He gestures subtly as groups come into view.
 
-"Core X-Men-field leaders. Veterans."
+"Core X-Men, field leaders. Veterans."
 
-"X-Force-covert, high-risk intervention."
+"X-Force, covert, high-risk intervention."
 
-"And New X-Men-those still learning the way we work."
+"And New X-Men, those still learning the way we work."
 
 Bruce watches them move with discipline, restraint.
 
@@ -753,11 +753,11 @@ The man looks up, adjusts his glasses, and smiles.
 
 Charles gestures.
 
-"Bruce Banner-this is **Hank McCoy**."
+"Bruce Banner, this is **Hank McCoy**."
 
 Hank steps forward, offering a hand without hesitation.
 
-"Biochemist. Geneticist. Occasional poet when the mood strikes," he says. "And before you ask-yes, the fur is real."
+"Biochemist. Geneticist. Occasional poet when the mood strikes," he says. "And before you ask—yes, the fur is real."
 
 Bruce hesitates… then shakes his hand.
 
@@ -777,7 +777,7 @@ Something in Bruce's shoulders loosens. Just a fraction.
 
 Charles watches quietly.
 
-For the first time since the forest-
+For the first time since the forest—
 
 Bruce Banner doesn't feel like a weapon.
 
@@ -787,7 +787,7 @@ Just a man who finally stopped running.
 
 Bruce lies still on the stretcher.
 
-The lab lights dim as a drone-sleek, circular, quiet-floats above him, projecting layered scans directly into the air. MRI-like waves pass through muscle, bone, blood. Green signatures flicker, then stabilize.
+The lab lights dim as a drone—sleek, circular, quiet—floats above him, projecting layered scans directly into the air. MRI-like waves pass through muscle, bone, blood. Green signatures flicker, then stabilize.
 
 Bruce watches the ceiling. Doesn't speak.
 
@@ -795,7 +795,7 @@ Across the room, **Hank McCoy** studies the results with a scientist's focus and
 
 The scan completes.
 
-Hank gestures, and Bruce's blood appears-magnified, alive. DNA strands rotate slowly, strands glowing where something _shouldn't_ be.
+Hank gestures, and Bruce's blood appears—magnified, alive. DNA strands rotate slowly, strands glowing where something _shouldn't_ be.
 
 "This," Hank says gently, "is why you're still breathing."
 
@@ -805,7 +805,7 @@ Bruce turns his head.
 
 He isolates another layer.
 
-"But you already had something in your system," Hank says. "A diluted strain of the super soldier serum. Enough to strengthen cellular integrity-but not enough to trigger transformation."
+"But you already had something in your system," Hank says. "A diluted strain of the super soldier serum. Enough to strengthen cellular integrity—but not enough to trigger transformation."
 
 Bruce swallows.
 
@@ -817,7 +817,7 @@ The DNA shifts. Locks into place.
 
 Bruce closes his eyes.
 
-"The procedure you attempted last night," Hank continues, "would have worked-temporarily. It could suppress the genetic trigger that causes the transformation."
+"The procedure you attempted last night," Hank continues, "would have worked—temporarily. It could have suppressed the genetic trigger that causes the transformation."
 
 A pause.
 
@@ -837,7 +837,7 @@ Bruce nods, shame flooding his face.
 
 Hank isn't angry. He never was.
 
-"You don't need forgiveness," he says. "You need control. And control doesn't come from suppression-it comes from understanding."
+"You don't need forgiveness," he says. "You need control. And control doesn't come from suppression—it comes from understanding."
 
 Bruce exhales, shaking.
 
@@ -887,7 +887,7 @@ The anger.
 
 The fear.
 
-The vow he made without words-to never feel anything that deeply again.
+The vow he made without words—to never feel anything that deeply again.
 
 The mind didn't break.
 
@@ -897,17 +897,17 @@ Gamma didn't create the monster.
 
 It **gave it permission**.
 
-The memories soften-not erased, but understood. Pain acknowledged instead of buried. Fear allowed to exist without becoming rage.
+The memories soften—not erased, but understood. Pain acknowledged instead of buried. Fear allowed to exist without becoming rage.
 
 Bruce exhales.
 
 And wakes.
 
-He sits up suddenly-too fast.
+He sits up suddenly—too fast.
 
 His face pales.
 
-"I-I need-"
+"I-I need—"
 
 He gags.
 
@@ -923,13 +923,13 @@ Bruce straightens.
 
 Focuses.
 
-His eyes open-glowing green, but calm.
+His eyes open—glowing green, like an exploding star.
 
 He brings his hands together.
 
 **THUNDERCLAP.**
 
-A wave of gamma energy detonates outward-not destructive rage, but raw release from every part of his body. Clothes ripped away by the shockwave. Equipment shatters. Walls crack. Hank is thrown back hard, slamming into the far side of the room.
+A wave of gamma energy detonates outward—not destructive rage, but raw release from every part of his body. Clothes ripped away by the shockwave. Equipment shatters. Walls crack. Hank is thrown back hard, slamming into the far side of the room.
 
 The shockwave fades.
 
@@ -949,7 +949,7 @@ A tired smile crosses his face.
 
 "Looks like you're going to sleep again."
 
-And for the first time-
+And for the first time—
 
 Bruce Banner rests without running.
 
@@ -1009,7 +1009,7 @@ Bruce looks down at his hands.
 
 He leans forward slightly.
 
-"They thought they owed that much to your mother-to give you a chance at a normal life."
+"They thought they owed that much to your mother—to give you a chance at a normal life."
 
 Bruce exhales, something heavy loosening in his chest.
 
@@ -1041,9 +1041,9 @@ For a second, his mind refuses to accept it. He stands slowly, staring at her li
 
 "…Betty?" he whispers.
 
-He steps closer, searching her face, her hands, her breathing-_real_, unmistakably real.
+He steps closer, searching her face, her hands, her breathing—_real_, unmistakably real.
 
-"I thought you-" His voice breaks. "I thought you were gone that day."
+"I thought you—" His voice breaks. "I thought you were gone that day."
 
 She shakes her head, tears spilling freely now.
 
@@ -1059,7 +1059,7 @@ For the first time in years, he doesn't fight it.
 
 He just holds her.
 
-And for a moment-
+And for a moment—
 
 the world is quiet again.
 
@@ -1097,7 +1097,7 @@ Bruce exhales.
 
 "Don't," she says immediately. "I chose to believe in _you_. Not what everyone else said you were."
 
-Their hands find each other between them-hesitant at first, then certain.
+Their hands find each other between them—hesitant at first, then certain.
 
 "After that incident," Bruce says, voice low, "I gave up on the idea of a normal life. I didn't know what to do with myself anymore."
 
@@ -1133,7 +1133,7 @@ A beat.
 
 "You always talked about settling down. Becoming a teacher."
 
-Bruce smiles-small, genuine.
+Bruce smiles—small, genuine.
 
 "Yeah. I did."
 
@@ -1177,7 +1177,7 @@ Evening settles.
 
 Charles' calls him to the lab, invites Betty.
 
-Before Bruce can follow, another voice cuts through the speakers-sharp, unyielding. A military chopper hovering around the property, catches the attention of the X-Men.
+Before Bruce can follow, another voice cuts through the speakers—sharp, unyielding. A military chopper hovering around the property, catches the attention of the X-Men.
 
 "This is General Thaddeus Ross."
 
@@ -1185,15 +1185,15 @@ The air tightens.
 
 "Professor Charles Xavier," Ross continues, "this is your first and last warning. You are harboring a national threat. Return Bruce Banner immediately, or this will be considered an act of resistance against the United States."
 
-Charles raises a hand-
+Charles raises a hand—
 
--but Bruce steps forward.
+but Bruce steps forward.
 
 "I'll go."
 
 Charles turns sharply.
 
-"Bruce-"
+"Bruce—"
 
 "He won't stop," Bruce says calmly. "Not until I'm captured."
 
@@ -1203,7 +1203,7 @@ A faint smile.
 
 Betty grabs his arm.
 
-"No-"
+"No—"
 
 Bruce looks at her, steady.
 
@@ -1221,7 +1221,7 @@ Anger. Hurt. Years of silence.
 
 Ross doesn't speak.
 
-He just looks at her.
+He just looked at her.
 
 The helicopter lifts off.
 
@@ -1233,7 +1233,7 @@ Charles answers quietly.
 
 "No, I trust him."
 
-Far from Westchester-
+Far from Westchester—
 
 A man stands in shadow.
 
@@ -1287,9 +1287,9 @@ Ross doesn't deny it.
 
 "We're sending you somewhere secure."
 
-Betty's voice trembles-but she keeps it steady.
+Betty's voice trembles—but she keeps it steady.
 
-"Like a weapon."
+"Where he could be used as a weapon."
 
 Ross looks away.
 
@@ -1297,7 +1297,7 @@ Before he can respond, a sharp tone cuts through the cabin.
 
 The comm unit crackles.
 
-"Command to Echo-One-do you copy?"
+"Command to Echo-One do you copy?"
 
 Ross straightens instantly.
 
@@ -1311,7 +1311,7 @@ Ross's face drains of color.
 
 "Say that again."
 
-"Visual confirmation-canine morphology. Massive. Gamma-enhanced. Not Banner."
+"Visual confirmation—canine morphology. Massive. Gamma-enhanced. Not Banner."
 
 The words land hard.
 
@@ -1327,7 +1327,7 @@ He turns to the pilot.
 
 The chopper banks sharply.
 
-Bruce and Betty exchange a look-unease rising fast.
+Bruce and Betty exchange a look—unease rising fast.
 
 "Gamma dogs?" Bruce asks. "That's not possible."
 
@@ -1347,7 +1347,7 @@ And that scares him more.
 
 Miles away, alarms echo through the halls of the mansion.
 
-Screens light up with footage: streets torn apart, vehicles crushed, civilians fleeing as massive, glowing shapes tear through the landscape-eyes burning green, bodies warped by unstable gamma radiation.
+Screens light up with footage: streets torn apart, vehicles crushed, civilians fleeing as massive, glowing shapes tear through the landscape—eyes burning green, bodies warped by unstable gamma radiation.
 
 **Charles Xavier** stands still, hand resting on his chair.
 
@@ -1395,7 +1395,7 @@ Dust whips across the runway as the hatch drops.
 
 **Cyclops** steps out first, visor already glowing faintly as distant explosions echo through the city.
 
-"Quicksilver," he says, sharp and precise. "Evacuation first. Move fast. Priority-injured, then kids, then everyone else."
+"Quicksilver," he says, sharp and precise. "Evacuation first. Move fast. Priority—injured, then kids, then everyone else."
 
 **Quicksilver** nods once.
 
@@ -1403,7 +1403,7 @@ Dust whips across the runway as the hatch drops.
 
 And then he's gone.
 
-A sonic crack ripples outward as he blurs into the streets-pulling people from collapsing buildings, yanking children out of harm's way, carrying the wounded faster than fear can register. To the evacuees, he's barely a memory-just a rush of wind and sudden safety.
+A sonic crack ripples outward as he blurs into the streets—pulling people from collapsing buildings, yanking children out of harm's way, carrying the wounded faster than fear can register. To the evacuees, he's barely a memory—just a rush of wind and sudden safety.
 
 Cyclops turns to the rest.
 
@@ -1411,23 +1411,23 @@ Cyclops turns to the rest.
 
 They move.
 
-The first gamma dog bursts through a storefront-massive, glowing veins pulsing beneath warped flesh, jaws snapping with feral hunger.
+The first gamma dog bursts through a storefront—massive, glowing veins pulsing beneath warped flesh, jaws snapping with feral hunger.
 
 **Storm** lifts into the air, eyes flashing white as thunder rolls overhead. Lightning spears down, striking the creature mid-leap and slamming it into the pavement.
 
-Another lunges-
+Another lunges—
 
--and **Wolverine** meets it head-on, claws tearing through hide and bone as he drives it back with raw brutality.
+and **Wolverine** meets it head-on, claws tearing through hide and bone as he drives it back with raw brutality.
 
 From the flank, **Jean Grey** closes her eyes. The dog freezes mid-stride, lifted helplessly as she crushes its momentum and hurls it into the side of a bus.
 
 A second wave surges.
 
-**Morph** grins, body rippling as he becomes something massive-interposing himself, redirecting attacks, morphing again to confuse and divide the pack.
+**Morph** grins, body rippling as he becomes something massive—interposing himself, redirecting attacks, morphing again to confuse and divide the pack.
 
-Cyclops fires controlled optic blasts, each shot precise-breaking limbs, collapsing terrain, never reckless.
+Cyclops fires controlled optic blasts, each shot precise—breaking limbs, collapsing terrain, never reckless.
 
-Wanda uses her chaos magic, to crush multiple dogs.
+Wanda uses her energy projection, to crush multiple dogs.
 
 The streets fall quiet.
 
@@ -1439,9 +1439,9 @@ The ground doesn't just shake.
 
 It **buckles**.
 
-A low vibration crawls through the street, through boots and bone, rattling glass before a single sound reaches the ear. Storm's winds falter for a split second-not from exhaustion, but from interference.
+A low vibration crawls through the street, through boots and bone, rattling glass before a single sound reaches the ear. Storm's winds falter for a split second—not from exhaustion, but from interference.
 
-Then-
+Then—
 
 A howl tears through the air.
 
@@ -1451,13 +1451,13 @@ Not rage.
 
 **Recognition.**
 
-More gamma dogs flood in from the horizon, dozens of them, their bodies glowing unevenly, malformed but fast. They spread instinctively, flanking, herding-_coordinated_.
+More gamma dogs flood in from the horizon, dozens of them, their bodies glowing unevenly, malformed but fast. They spread instinctively, flanking, herding, _coordinated_.
 
 Cyclops snaps instantly into command.
 
-"Jean, Wanda-contain the dogs. Storm, keep the sky clear. Logan, Morph-on me."
+"Jean, Wanda, contain the dogs. Storm, keep the sky clear. Logan, Morph, on me."
 
-Before anyone can move-
+Before anyone can move—
 
 The smoke behind the pack **parts**.
 
@@ -1467,7 +1467,7 @@ Slowly.
 
 Too slowly.
 
-A silhouette taller than the surrounding buildings straightens, muscle sliding over muscle like armored plates locking into place. Its skin is a sickly green-grey, stretched tight over a frame that looks engineered rather than grown. Reptilian ridges line its spine. Its eyes burn-not wild, not enraged-
+A silhouette taller than the surrounding buildings straightens, muscle sliding over muscle like armored plates locking into place. Its skin is a sickly green-grey, stretched tight over a frame that looks engineered rather than grown. Reptilian ridges line its spine. Its eyes burn—not wild, not enraged—
 
 **calculating**.
 
@@ -1479,47 +1479,45 @@ Storm's winds slam into him full force.
 
 He doesn't move.
 
-The gale wraps around his body, screaming, but he simply plants his feet-cracking the asphalt beneath them-and looks up at her.
+The gale wraps around his body, screaming, but he simply plants his feet—cracking the asphalt beneath them—and looks up at her.
 
 Then he steps forward.
 
 The wind breaks.
 
-Wolverine lunges, claws flashing, carving deep into Abomination's side-
-
--and stops.
+Wolverine lunges, claws flashing, carving deep into Abomination's side.
 
 The wounds close as fast as they're made.
 
 Abomination backhands him across the street, sending Logan crashing through a bus with bone-shaking force.
 
-Jean screams as she pushes-telekinesis flaring, veins standing out along her temples. She lifts Abomination _inches_ off the ground-
+Jean screams as she pushes—telekinesis flaring, veins standing out along her temples. She lifts Abomination _inches_ off the ground—
 
--and drops to one knee.
+—and drops to one knee.
 
 "Scott," she gasps. "I can't hold him."
 
 Cyclops fires.
 
-The optic blast slams into Abomination's chest, driving him back a step-_one_ step-before he straightens, smiling.
+The optic blast slams into Abomination's chest, driving him back a step—_one_ step—before he straightens, smiling.
 
 "That tickles," Abomination rumbles.
 
 Meanwhile, the city becomes chaos.
 
-Gamma dogs tear toward fleeing civilians-
+Gamma dogs tear toward fleeing civilians—
 
--but red energy snaps around them.
+but red energy snaps around them.
 
 Scarlet Witch raises her hands, eyes glowing as scarlet force lashes outward. Two dogs collide mid-leap; The two monsters collide violently, bodies slamming together before crashing to the ground in a heap of bone and fury.
 
-Quicksilver blurs through the streets, a streak of silver-blue-grabbing civilians, pulling them out from collapsing buildings, yanking wounded bodies out of danger faster than the dogs can track.
+Quicksilver blurs through the streets, a streak of silver-blue—grabbing civilians, pulling them out from collapsing buildings, yanking wounded bodies out of danger faster than the dogs can track.
 
-"Logan!" Cyclops shouts. "Dogs are multiplying-"
+"Logan!" Cyclops shouts. "Dogs are multiplying—"
 
 "I see 'em," Logan snarls, climbing back to his feet. "Big guy's not my dance partner anyway."
 
-Morph shifts, expanding into something massive, interposing himself between Abomination and Jean, then changing again, trying to confuse, distract, slow-
+Morph shifts, expanding into something massive, interposing himself between Abomination and Jean, then changing again, trying to confuse, distract, slow—
 
 Abomination grabs him mid-shift and **throws him** into the side of a building hard enough to crater concrete.
 
@@ -1539,7 +1537,7 @@ Jean is breathing hard.
 
 Storm is straining to keep the sky under control.
 
-Wolverine is bleeding-but grinning anyway.
+Wolverine is bleeding—but grinning anyway.
 
 Wanda is barely holding back the tide.
 
@@ -1563,7 +1561,7 @@ Inside, the cabin is tense. Soldiers grip restraints. Betty's hands tremble.
 
 Helpless.
 
-Then-
+Then—
 
 A voice, calm and familiar, enters his mind.
 
@@ -1573,7 +1571,7 @@ He looks up sharply.
 
 "Professor…"
 
-_You have your rage now. And you control the beast-because you are one and the same._
+_You have your rage now. And you control the beast—because you are one and the same._
 
 _I trust you._
 
@@ -1595,7 +1593,7 @@ Ross snaps toward him.
 
 Ross hesitates, fear, doubt, calculation colliding.
 
-Finally-
+Finally—
 
 "Pilot," Ross growls. "Take us in."
 
@@ -1607,7 +1605,7 @@ Betty grabs his arm.
 
 "Be careful."
 
-They hug-tight, wordless.
+They hug—tight, wordless.
 
 "I'll come back," Bruce says.
 
@@ -1631,7 +1629,7 @@ Dust erupts.
 
 The shockwave ripples outward.
 
-When the dust clears-
+When the dust clears—
 
 The Hulk stands.
 
@@ -1663,13 +1661,13 @@ One leg in each massive hand.
 
 He plants his feet.
 
-And claps.
+And then—
 
 **THUNDERCLAP.**
 
-The pressure wave detonates outward-not sound, but _force_. Air compresses. The ground buckles. Windows shatter three blocks away.
+The pressure wave detonates outward—not sound, but _force_. Air compresses. The ground buckles. Windows shatter three blocks away.
 
-When the shockwave clears-
+When the shockwave clears—
 
 The dogs are gone.
 
@@ -1695,27 +1693,27 @@ Wall into wall.
 
 Titan into titan.
 
-The impact sends a crater rippling outward-cars flipping, asphalt shattering. Hulk skids back a few feet, boots digging trenches into concrete.
+The impact sends a crater rippling outward—cars flipping, asphalt shattering. Hulk skids back a few feet, boots digging trenches into concrete.
 
 Abomination doesn't stop.
 
 He swings.
 
-Hulk blocks-and the force drives him through a storefront, steel beams folding like wire. Hulk answers with a punch that lifts Abomination off his feet and sends him crashing through a bus.
+Hulk blocks—and the force drives him through a storefront, steel beams folding like wire. Hulk answers with a punch that lifts Abomination off his feet and sends him crashing through a bus.
 
 Abomination rises laughing.
 
 "That all you got?!"
 
-He tackles Hulk, driving him across the street and into a building. Floors collapse beneath them as they plummet-then Hulk twists mid-fall and slams Abomination down harder.
+He tackles Hulk, driving him across the street and into a building. Floors collapse beneath them as they plummet—then Hulk twists mid-fall and slams Abomination down harder.
 
 They hit the ground.
 
-Hulk's fists come down like pile drivers-each blow cracking pavement, shockwaves rippling through the street. Abomination catches one punch, muscles bulging, and **headbutts** Hulk hard enough to split the air.
+Hulk's fists come down like pile drivers—each blow cracking pavement, shockwaves rippling through the street. Abomination catches one punch, muscles bulging, and **headbutts** Hulk hard enough to split the air.
 
 Hulk stumbles.
 
-Abomination grabs him by the throat and hurls him-_three blocks_-through concrete and steel.
+Abomination grabs him by the throat and hurls him—_three blocks_—through concrete and steel.
 
 Hulk skids to a stop.
 
@@ -1727,9 +1725,9 @@ And **jumps**.
 
 The landing shakes the city.
 
-Hulk tackles Abomination mid-swing, driving him through a wall, then another, then another-until they burst into open air again. Hulk lifts him overhead and slams him down so hard the street caves in.
+Hulk tackles Abomination mid-swing, driving him through a wall, then another, then another—until they burst into open air again. Hulk lifts him overhead and slams him down so hard the street caves in.
 
-Abomination coughs-then laughs again.
+Abomination coughs—then laughs again.
 
 "YES!"
 
@@ -1737,7 +1735,7 @@ He hooks Hulk's arm, twists, and **throws him** into a water tower. The structur
 
 Steam rises.
 
-Hulk emerges-eyes burning brighter.
+Hulk emerges—eyes burning brighter.
 
 This time, he doesn't rush.
 
@@ -1755,7 +1753,7 @@ Spins.
 
 And **throws him into the ground** with such force that the shockwave ripples outward like an earthquake, knocking remaining gamma dogs off their feet.
 
-For a moment-Abomination doesn't move.
+For a moment—Abomination doesn't move.
 
 Then his hand twitches.
 
@@ -1779,7 +1777,7 @@ Cyclops turns.
 
 "The dogs," Logan says. "They came from somewhere. And whatever made 'em? It ain't here by accident."
 
-Scott hesitates-then nods.
+Scott hesitates—then nods.
 
 "You track. I'll back you up and follow your lead."
 
@@ -1787,17 +1785,17 @@ Logan doesn't wait.
 
 He's already moving.
 
-The last gamma dogs fall under coordinated strikes-lightning, optic blasts, precision takedowns.
+The last gamma dogs fall under coordinated strikes—lightning, optic blasts, precision takedowns.
 
 But none of them step closer to the center.
 
-Because what's happening there-
+Because what's happening there—
 
 Isn't a fight anymore.
 
 It's a **reckoning**.
 
-Hulk and Abomination stand facing each other amid the ruins-steam rising, the city holding its breath.
+Hulk and Abomination stand facing each other amid the ruins—steam rising, the city holding its breath.
 
 Two paths of power.
 
@@ -1805,18 +1803,18 @@ Two answers to the same question.
 
 They charge again.
 
-And the world braces.  
+And the world braces.
 The fight drags on.
 
 Hulk is breathing hard now.
 
-Each blow still lands like a hammer-but **Abomination** keeps getting back up. Bones realign. Flesh knits. Every wound closes just fast enough to stay in the fight.
+Each blow still lands like a hammer—but **Abomination** keeps getting back up. Bones realign. Flesh knits. Every wound closes just fast enough to stay in the fight.
 
 Abomination grins through broken teeth.
 
 "Getting tired?" he snarls. "Good."
 
-He slams Hulk through the side of a building. Hulk rises slower this time. His shoulders heave. His roar comes out rough-strained.
+He slams Hulk through the side of a building. Hulk rises slower this time. His shoulders heave. His roar comes out rough—strained.
 
 Abomination steps closer, holding Hulks by his neck and lifting in the air.
 
@@ -1840,7 +1838,7 @@ The rage doesn’t vanish.
 
 It condenses. 
 
-His posture straightens. His chest expands. Muscle tightens-not explosively, but _densely_. His frame grows-not wild, but deliberate. His feet touch the ground, the ground cracks beneath his feet.
+His posture straightens. His chest expands. Muscle tightens—not explosively, but _densely_. His frame grows—not wild, but deliberate. His feet touch the ground, the ground cracks beneath his feet.
 
 The anger is still there, but it has a direction. 
 
@@ -1852,17 +1850,17 @@ Hulk grabs his hand and pulls it away.
 
 And moves.
 
-Before Abomination can react, Hulk is already there-too fast, too heavy. A punch caves Abomination's chest inward. Another snaps his jaw sideways. A third drives him into the street so hard the pavement buckles like clay.
+Before Abomination can react, Hulk is already there—too fast, too heavy. A punch caves Abomination's chest inward. Another snaps his jaw sideways. A third drives him into the street so hard the pavement buckles like clay.
 
-Abomination swings back-
+Abomination swings back—
 
 It does nothing.
 
 Hulk doesn't flinch.
 
-He grabs Abomination's arm and **breaks it**-the sound sharp, final. Healing tries to catch up, but Hulk doesn't give it time.
+He grabs Abomination's arm and **breaks it**—the sound sharp, final. Healing tries to catch up, but Hulk doesn't give it time.
 
-He locks Abomination down, shifting his weight, using leverage-**control**. Hulk wraps his forearm around Abomination's neck, tightening slowly, deliberately, holding the broken arm with his legs.
+He locks Abomination down, shifting his weight, using leverage—**control**. Hulk wraps his forearm around Abomination's neck, tightening slowly, deliberately, holding the broken arm with his legs.
 
 Abomination struggles. His strength bleeds away. His healing slows.
 
@@ -1874,11 +1872,11 @@ Abomination's movements weaken.
 
 Then stop.
 
-Hulk holds him there-too long.
+Hulk holds him there—too long.
 
 He could finish it.
 
-Instead-he releases.
+Instead—he releases.
 
 Abomination collapses, unmoving.
 
@@ -1896,17 +1894,17 @@ A soft voice reaches him.
 
 "Bruce."
 
-**Betty Ross** stands a few steps away, fear and awe mixed as she looks at him-really looks at him-for the first time like this.
+**Betty Ross** stands a few steps away, fear and awe mixed as she looks at him—really looks at him—for the first time like this.
 
 Hulk turns gently.
 
-"I told you," he says quietly. "Everything's okay."
+"Don't worry," he says quietly. "Everything's okay."
 
-The X-Men approach cautiously. They check Abomination-no movement. No breath.
+The X-Men approach cautiously. They check Abomination—no movement. Barely breath.
 
-Finished.
+Completely knocked down cold.
 
-**General Thaddeus Ross** steps forward, staring at the body. His voice is low.
+**General Ross** steps forward, staring at the body. His voice is low.
 
 "I'm disappointed," he says.
 
@@ -1918,7 +1916,7 @@ Betty stiffens.
 
 Betty turns.
 
-"Dad-?"
+"Dad—?"
 
 Ross raises his voice.
 
@@ -1940,7 +1938,7 @@ Ross turns.
 
 **Logan** stands beside **Cyclops**.
 
-Between them-bound, silent, furious-
+Between them—bound, silent, furious—
 
 the Mystery Man.
 
@@ -1950,7 +1948,7 @@ Logan smirks.
 
 Ross stares.
 
-And realizes-
+And realizes—
 
 The war he thought he was fighting
 
@@ -1962,9 +1960,9 @@ was never the real one.
 
 The room is sterile.
 
-Concrete walls. A single table. A reinforced glass pane humming faintly with containment fields. On one side, **Bruce Banner** stands with his hands at his sides. Beside him, **General Thaddeus Ross** watches silently.
+Concrete walls. A single table. A reinforced glass pane humming faintly with containment fields. On one side, **Bruce Banner** stands with his hands at his sides. Beside him, **General Ross** watches silently.
 
-On the other side of the glass-
+On the other side of the glass—
 
 A man sits, restrained, smiling.
 
@@ -2014,7 +2012,7 @@ A pause.
 
 Brian surges forward, rage breaking through.
 
-"How _dare_ you speak to me like that-"
+"How _dare_ you speak to me like that—"
 
 Bruce turns away.
 
@@ -2028,7 +2026,7 @@ Ross stands beside him for a moment.
 
 Bruce, "I will".
 
-As he turns to leave, Ross adds, quieter-
+As he turns to leave, Ross adds, quieter—
 
 "Also tell Betty… I love her. And I miss her."
 
@@ -2062,7 +2060,7 @@ Charles watches him carefully.
 
 Bruce thinks.
 
-"I'll go back," he says. "Live with Betty. Apply for a professor role. Try to have… a normal life."
+"I'll go back," he says. "Live with Betty. Apply for a professor role. Try to have… a normal life. Learn about my potential."
 
 Charles nods.
 
@@ -2076,7 +2074,7 @@ Charles smiles.
 
 Bruce walk the ground one last time.
 
-The X-Men nod as he passes. Children wave. Some smile. Some just watch-knowing they're looking at someone who chose restraint when power begged for more.
+The X-Men nod as he passes. Children wave. Some smile. Some just watch—knowing they're looking at someone who chose restraint when power begged for more.
 
 Bruce raises a hand in farewell.
 
@@ -2092,7 +2090,7 @@ No pursuit.
 
 Just a road forward.
 
-For the first time-
+For the first time—
 
 Bruce Banner chooses his life.
 
