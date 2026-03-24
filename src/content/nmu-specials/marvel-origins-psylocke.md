@@ -3,7 +3,7 @@ title: "Marvel Origins: Psylocke – A Quite Edge"
 description: "Explore the story of Betsy Braddock, a young girl who discovers her telepathic abilities and becomes a powerful mutant."
 pubDate: 'Feb 14, 2026'
 heroImage: '@/assets/nmu-specials/marvel-origins-psylocke.jpg'
-published: true
+published: false
 order: 5
 ---
 
