@@ -2189,7 +2189,7 @@ Not scattered.
 
 **Formed.**
 
-Cyclops at the center. Storm on the right. Logan on the left, weight low. Jean closes her eyes for a fraction of a second, steadying herself on Logan's left. Beast adjusts his stance on Storm's right. Rogue rolls her shoulders on Jean's left. Nightcrawler crouches on the Beast's right. Morph shifts fluidly on the end of the left. Mimic mirrors readiness without copying anyone at the end on the right.
+Cyclops at the center, everyone stands in a formation, preparing for the biggest fight of their life.
 
 They face the Sentinel.
 
