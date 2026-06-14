@@ -9,9 +9,9 @@ order: 5
 
 ## Chapter 1
 
-The X-Men move on Wolverine’s information.
+The X-Men move on Wolverine's information.
 
-Silvio Moretti’s operation is buried deep—layers of concrete, steel, and men who believe secrecy equals safety. A fixer. Old money muscle. The kind of gangster who doesn’t run the city, but keeps it breathing.
+Silvio Moretti's operation is buried deep—layers of concrete, steel, and men who believe secrecy equals safety. A fixer. Old money muscle. The kind of gangster who doesn't run the city, but keeps it breathing.
 
 The team splits before reaching the perimeter, each unit peeling away into the night with practiced ease.
 
@@ -19,21 +19,21 @@ Cyclops leads the strike team toward the base itself. Morph and Nightcrawler fol
 
 Across the city, Jean, Rogue, and Storm approach an open warehouse where money and weapons change hands in plain sight. No walls. No cover. Just greed exposed under harsh industrial lights.
 
-Logan remains behind at the school, assigned to night duty alongside Mimic. It wasn’t his call, and he didn’t argue, though the irritation sits quietly beneath his skin.
+Logan remains behind at the school, assigned to night duty alongside Mimic. It wasn't his call, and he didn't argue, though the irritation sits quietly beneath his skin.
 
-Back at the base, Nightcrawler scouts ahead, mapping every ledge, beam, and blind spot—every place he might need to disappear from, or reappear into, if things go wrong.
+Back at the base, Nightcrawler scouts ahead, mapping every ledge, beam, and blind spot, every place he might need to disappear from, or reappear into, if things go wrong.
 
-The signal comes through Scott’s visor.
+The signal comes through Scott's visor.
 
 Two sharp clicks.
 
 Morph moves first.
 
-He steps in close, drops the guard with a precise strike to the throat, and catches the body before it hits the floor. In the same breath, his features ripple and settle. The same jawline. The same scar. The same tired, bored expression. He adjusts the helmet, exhales once, and walks forward like he’s always belonged there.
+He steps in close, drops the guard with a precise strike to the throat, and catches the body before it hits the floor. In the same breath, his features ripple and settle. The same jawline. The same scar. The same tired, bored expression. He adjusts the helmet, exhales once, and walks forward like he's always belonged there.
 
 Nightcrawler is already gone.
 
-A soft crack splits the air as Kurt reappears upside down on a steel beam, tail coiled, eyes scanning the corridor below. He blinks and vanishes again. Another crack. Now he’s behind a mounted security camera. A gentle tap. A precise twist.
+A soft crack splits the air as he reappears upside down on a steel beam, tail coiled, eyes scanning the corridor below. He blinks and vanishes again. Another crack. Now he's behind a mounted security camera. A gentle tap. A precise twist.
 
 The feed goes dead.
 
@@ -43,11 +43,11 @@ Cyclops advances last.
 
 Measured. Controlled.
 
-His hand hovers near his visor—not as a threat, but as a promise.
+His hand hovers near his visor; not as a threat, but as a promise.
 
-Inside the base, Moretti’s men move with careless confidence. They laugh quietly. They argue. They pace their routes like the night belongs to them.
+Inside the base, Moretti's men move with careless confidence. They laugh quietly. They argue. They pace their routes like the night belongs to them.
 
-They don’t realize they’ve already lost the room.
+They don't realize they've already lost the room.
 
 Morph passes through a checkpoint, nodding casually to another guard. The guard nods back, uninterested, already forgetting him.
 
@@ -59,21 +59,21 @@ Across the city, the warehouse breathes with noise, forklifts whining, crates sc
 
 A voice cuts through the chaos.
 
-“Shipment clears tonight,” a lieutenant says into a phone. “Yeah. Same buyer. Pays clean.”
+"Shipment clears tonight," a lieutenant says into a phone. "Yeah. Same buyer. Pays clean."
 
 Then the fog rolls in.
 
-At first, it seems natural. Cold air creeping along the floor, curling around boots and pallet stacks. Then it thickens. Visibility collapses to arm’s length. Shadows stretch, distort. Voices rise. Panic takes hold.
+At first, it seems natural. Cold air creeping along the floor, curling around boots and pallet stacks. Then it thickens. Visibility collapses to arm's length. Shadows stretch, distort. Voices rise. Panic takes hold.
 
-Storm stands elevated on a steel platform, eyes glowing white, perfectly still—calm as the sky in the moment before it breaks. The fog responds to her with surgical precision, flowing around her allies without ever touching them.
+Storm stands elevated on a steel platform, eyes glowing white, perfectly still, calm as the sky in the moment before it breaks. The fog responds to her with surgical precision, flowing around her allies without ever touching them.
 
 Jean taps her comm once.
 
-“Visuals compromised. Moving.”
+"Visuals compromised. Moving."
 
 Rogue cracks her knuckles, a grin spreading across her face.
 
-“Finally.”
+"Finally."
 
 They move through the haze behind specialized lenses, clear-eyed where everyone else sees only ghosts. To the men inside the warehouse, they are silhouettes—shapes in motion, impossible to track.
 
@@ -87,7 +87,7 @@ Storm raises one hand.
 
 The air answers.
 
-A sudden gust slams a group of men into the far wall—not lethal, just decisive. The fight ends before it can truly begin.
+A sudden gust slams a group of men into the far wall, not lethal, just decisive. The fight ends before it can truly begin.
 
 Crates burst open under the impact. Weapons spill out. Cash. Ledgers. Data drives.
 
@@ -99,21 +99,21 @@ Evidence secured.
 
 Back at the base, the trap snaps shut.
 
-Cyclops steps into Moretti’s office just as the man reaches for a hidden weapon.
+Cyclops steps into Moretti's office just as the man reaches for a hidden weapon.
 
-“Don’t.”
+"Don't."
 
 The word lands heavy. Final.
 
 Moretti laughs; slow, dismissive.
 
-“You brought three people?”
+"You brought three people?"
 
 The air cracks.
 
 Nightcrawler appears behind him, boots silent on the floor.
 
-“So far,” Kurt says softly.
+"So far," Kurt says softly.
 
 Moretti turns—
 
@@ -129,7 +129,7 @@ Too late.
 
 Moretti struggles, but Nightcrawler has him pinned, tail wrapped tight around his arm, leverage perfect. Cyclops stands over him, visor glowing, unshaken.
 
-“Your buyers are exposed,” Scott says calmly. “Your routes are burned. This ends now.”
+"Your buyers are exposed," Scott says calmly. "Your routes are burned. This ends now."
 
 Outside, sirens cut through the night, an anonymous tip, perfectly timed.
 
@@ -141,15 +141,15 @@ Moretti is bound, furious, and very aware that his usefulness has expired. He st
 
 Jean hands Scott the case.
 
-“Everything,” she says. “Money trails. Suppliers. Buyers.”
+"Everything," she says. "Money trails. Suppliers. Buyers."
 
 Storm lowers her hand, and the fog begins to thin. Below them, flashing police lights cut through the streets, too late to change anything, right on time to collect what remains.
 
-“They’ll replace him,” Storm says quietly.
+"They'll replace him," Storm says quietly.
 
 Cyclops nods.
 
-“But not tonight.”
+"But not tonight."
 
 No cheers. No celebration.
 
@@ -179,7 +179,7 @@ Logan sits up.
 
 Something's wrong.
 
-Not loud. Not obvious. Just… off. A wrongness in the air. Too many unfamiliar scents. Too controlled. Too careful.
+Not loud. Not obvious. Just... off. A wrongness in the air. Too many unfamiliar scents. Too controlled. Too careful.
 
 He swings his legs off the bed just as hundreds of boots cross the perimeter of the property, unheard, unseen, moving with military precision.
 
@@ -215,7 +215,7 @@ The man on the phone doesn't even finish his sentence.
 
 Logan's voice cuts through the night like a blade through bone.
 
-"Aren't you forgetting someone, pretty boy?"
+"You forgettin' somebody, bub?"
 
 The line goes dead.
 
@@ -409,7 +409,7 @@ Logan exhales and turns back toward the screen, the fight leaving him all at onc
 
 Charles continues, his voice thoughtful now meant for all of them.
 
-"If we truly want acceptance… then we must stop living as though we're still hiding from torch bearing mobs. Mutant-kind does not live in the dark ages anymore."
+"If we truly want acceptance... then we must stop living as though we're still hiding from torch bearing mobs. Mutant-kind does not live in the dark ages anymore."
 
 Storm's gaze tightens. Cyclops listens carefully.
 
@@ -489,7 +489,7 @@ They declared open season.
 
 The Cerebro chamber hums softly, a low mechanical breath filling the space.
 
-Charles sits at the center, hands resting lightly on the armrests, the helmet already in place. The room is dim, bathed in cold blue light and red lights which represent adult mutants. Hank stands near the console; eyes moving across the readouts faster than any human could follow.
+Charles sits at the center, hands resting lightly on the armrests, the helmet already in place. The room is dim, bathed in cold blue light and red lights which represent mutants. Hank stands near the console; eyes moving across the readouts faster than any human could follow.
 
 The X-Men watch in silence.
 
@@ -501,7 +501,7 @@ Then more.
 
 Then dozens.
 
-Small lights scattered across the country, each one a faint attempt to locate a mutant signature that has simply… stopped responding.
+Small lights scattered across the country, each one a faint attempt to locate a mutant signature that has simply... stopped responding.
 
 They cannot be found.
 
@@ -525,7 +525,7 @@ More data scrolls past cities, rural towns, suburban neighborhoods. Places where
 
 Nightcrawler swallows.
 
-"They have been vanished…."
+"They have been vanished...."
 
 Hank nods grimly.
 
@@ -985,7 +985,7 @@ Logan snorts.
 
 Hank allows himself a thin smile.
 
-"Second, cloaking," he continues. "Not invisibility. Just perceptual blending. Cameras see you as static. Sensors tag you as environmental variance. Personnel… simply don't _notice_ you unless they're looking directly at you."
+"Second, cloaking," he continues. "Not invisibility. Just perceptual blending. Cameras see you as static. Sensors tag you as environmental variance. Personnel... simply don't _notice_ you unless they're looking directly at you."
 
 "Hidden in plain sight," Rogue murmurs.
 
@@ -1183,7 +1183,7 @@ As the teams move, data begins to come in, quiet, measured.
 
 Logan murmurs into his comm.
 
-"Smell's wrong," he says. "Too many people for a research facility. Counting… at least forty soldiers on rotation. Light armor. Non-lethal loadouts near medical zones."
+"Smell's wrong," he says. "Too many people for a research facility. Counting... at least forty soldiers on rotation. Light armor. Non-lethal loadouts near medical zones."
 
 Storm adds,
 
@@ -1197,7 +1197,7 @@ Logan stops abruptly.
 
 His head tilts.
 
-"…Found him."
+"...Found him."
 
 Cyclops's voice is immediate.
 
@@ -1223,7 +1223,7 @@ He closes his eyes, focusing.
 
 A beat.
 
-"…Trask."
+"...Trask."
 
 Silence on the line.
 
@@ -1371,7 +1371,7 @@ The room doesn't explode.
 
 It **hesitates**.
 
-Lights dim, not out, just… uncertain. The constant hum of the facility drops half a register, like something exhaling without permission. Status monitors flicker, recalculating.
+Lights dim, not out, just... uncertain. The constant hum of the facility drops half a register, like something exhaling without permission. Status monitors flicker, recalculating.
 
 Far away, systems stutter.
 
@@ -1393,7 +1393,7 @@ Just a silence that shouldn't exist.
 
 Back in the systems room, Beast scans the data.
 
-"I'm in," he says. "But… there's nothing here."
+"I'm in," he says. "But... there's nothing here."
 
 Cyclops turns.
 
@@ -1887,7 +1887,7 @@ Smiles.
 
 Cyclops freezes.
 
-"…What?"
+"...What?"
 
 The ground shakes.
 
@@ -1919,11 +1919,11 @@ Silence fills the cabin.
 
 Rogue stares, jaw slack.
 
-"Holy… hell."
+"Holy... hell."
 
 Nightcrawler's tail coils tight around his leg, eyes wide with something close to prayer.
 
-"Gott im Himmel…"
+"Gott im Himmel..."
 
 Beast's hands tremble as he grips the console, eyes racing, not with fear, but calculation already failing to keep up.
 
@@ -2009,7 +2009,7 @@ Near Westchester.
 
 His breath catches.
 
-"…More than one?" Charles asks.
+"...More than one?" Charles asks.
 
 The answer is not comforting.
 
@@ -2037,7 +2037,7 @@ Erik steps closer, voice lower now.
 
 Charles meets his eyes.
 
-"…Thank you, old friend."
+"...Thank you, old friend."
 
 Erik nods once.
 
@@ -2105,7 +2105,7 @@ The image shakes as the Sentinel rises, tearing free from the earth like somethi
 
 May's hand flies to her mouth.
 
-"My God…"
+"My God..."
 
 Harry leans forward, eyes wide.
 
@@ -2205,21 +2205,21 @@ Cyclops doesn't raise his voice.
 
 The Sentinel's chest plates begin to open.
 
-"We can't save everyone," he continues. "And we can't fight everything."
+"We might not be able to save everyone," he continues. "And we can't fight everything."
 
 The first hatches disengage.
 
-"Our objective is the big one," Cyclops says. "That's the mission. Whatever it costs."
+"Our objective is to avoid the big one to come near the city," Cyclops says. "That's the mission. Whatever it costs."
 
 Hundreds of smaller Sentinels deploy human-sized, fast, coordinated, falling like metal rain into the streets below.
 
-Scott’s voice remains steady. 
+Scott's voice remains steady. 
 
-“The others out there… they’ll stand. They have to. We hold this line so they can.” 
+"The others out there... they'll stand. They have to. We hold this line so they can." 
 
 He lowers his visor. 
 
-“That’s how we win.” 
+"That's how we win." 
 
 Lightning crawls across Storm's arms.
 
@@ -2435,7 +2435,7 @@ The Sentinel explodes backward.
 
 Bobby exhales, shaking his hands.
 
-"…Okay. That one was scary."
+"...Okay. That one was scary."
 
 Colossus places a massive hand on his shoulder.
 
@@ -2691,7 +2691,7 @@ Not strength.
 
 **Structure**.
 
-"It's layered," she says, strained. "Mental shielding. Feedback dampeners. It's… built to expect me."
+"It's layered," she says, strained. "Mental shielding. Feedback dampeners. It's... built to expect me."
 
 The Sentinel turns toward her.
 
@@ -2715,7 +2715,7 @@ Nothing.
 
 She gasps; recoiling.
 
-"I can't get a grip," she says. "It's not just power, it's… empty. Like it's already spent."
+"I can't get a grip," she says. "It's not just power, it's... empty. Like it's already spent."
 
 Beast lands beside her, eyes racing over the machine's movements.
 
@@ -2925,7 +2925,7 @@ Storm nods slowly.
 
 Jean focuses, eyes narrowing.
 
-"I can hold it open," she says. "Not destroy it. Just… stop it from closing."
+"I can hold it open," she says. "Not destroy it. Just... stop it from closing."
 
 Cyclops turns to Logan.
 
@@ -3005,7 +3005,7 @@ Smoke settles.
 
 Jubilee blinks.
 
-"…What?"
+"...What?"
 
 A figure skids to a stop in the center of the wreckage, dust spiraling around him as he straightens, hands on his hips.
 
@@ -3063,7 +3063,7 @@ Toward the kids.
 
 Bishop's jaw tightens.
 
-"No… no, no-"
+"No... no, no-"
 
 He tries to stand. His legs don't answer.
 
@@ -3077,7 +3077,7 @@ The first blast charges.
 
 Red energy flares in response. 
 
-The air distorts, not reality bending, but force colliding. Wanda’s hands snap upward, and the beam veers violently off course, dragged sideways by an opposing surge of telekinetic pressure. It slams into open water, detonating in steam. 
+The air distorts, not reality bending, but force colliding. Wanda's hands snap upward, and the beam veers violently off course, dragged sideways by an opposing surge of telekinetic pressure. It slams into open water, detonating in steam. 
 
 Every Sentinel pivot. 
 
@@ -3087,7 +3087,7 @@ Scarlet energy coils around her hands, not chaotic, controlled.
 
 The Sentinels fire again. 
 
-This time the bolts don’t misfire. 
+This time the bolts don't misfire. 
 
 They hit a wall. 
 
@@ -3097,7 +3097,7 @@ The missiles jerk mid-air, caught in opposing force fields. They rupture prematu
 
 Targeting systems flicker, not because math failed, but because their sensors are being saturated. Magnetic interference spikes. Guidance fails. 
 
-With a violent sweep of her arm, Wanda unleashes everything she’s holding. 
+With a violent sweep of her arm, Wanda unleashes everything she's holding. 
 
 The nearest Sentinels are ripped off their feet, not reality collapsing, but metal folding under immense telekinetic compression. Armor buckles. Limbs shear. Machines slam into each other in a storm of twisted steel. 
 
@@ -3133,7 +3133,7 @@ Every remaining Sentinel in the perimeter drops at once, cores rupturing, frames
 
 Bishop exhales, shoulders sagging as the glow fades.
 
-"…Thanks," he says, sincere and quiet.
+"...Thanks," he says, sincere and quiet.
 
 Wanda doesn't smile.
 
@@ -3229,7 +3229,7 @@ He throws Sentinels somewhere far away in the air upfront to avoid impact.
 
 He let's go.
 
-Both Sentinels explode in the family.
+Both Sentinels explode in the air.
 
 Debris rains down.
 
@@ -3263,7 +3263,7 @@ Warpath breaks free; eyes locked on the kid's retreat.
 
 Gambit exhales, shaking his head.
 
-"…That boy crazy," he says quietly. "And brave."
+"...That boy crazy," he says quietly. "And brave."
 
 The street finally goes quiet.
 
@@ -3277,7 +3277,7 @@ Gambit flicks a card into the air, lets it spark once, then pockets it.
 
 Spider-Man walk towards them, catching his breath for half a second longer than he wants anyone to notice.
 
-"Okay," he says, straightening. "Either I just jumped into the world's worst cosplay convention… or you guys are having a really bad day."
+"Okay," he says, straightening. "Either I just jumped into the world's worst cosplay convention... or you guys are having a really bad day."
 
 Sunspot snorts despite himself.
 
@@ -3289,7 +3289,7 @@ Warpath studies Spider-Man, head to toe, assessing.
 
 Spider-Man shrugs, suddenly a little less jokey.
 
-"Yeah," he says quietly. "Couldn't really do that."
+"Yeah," he says quietly. "Couldn't really let that happen."
 
 Gambit tilts his head, eyes sharp behind the grin.
 
@@ -3301,7 +3301,7 @@ Spider-Man points vaguely at the wreckage.
 
 Sunspot lets out a breath, then looks at Spider-Man properly.
 
-"Hey," he says. "Thanks. For… that."
+"Hey," he says. "Thanks. For... that."
 
 Spider-Man nods once.
 
@@ -3317,7 +3317,7 @@ Gambit smirks.
 
 Spider-Man perks up.
 
-"Oh, thank you," he says. "Been working on that. Took a while to figure out how to tie murder-bots together without… y'know, dying."
+"Oh, thank you," he says. "Been working on that. Took a while to figure out how to tie murder-bots together without... y'know, dying."
 
 They share a brief, tired laugh.
 
@@ -3419,7 +3419,7 @@ No banners.
 
 No permission.
 
-Just people, mutants, deciding that if the world is burning…
+Just people, mutants, deciding that if the world is burning...
 
 They won't stand aside and watch.
 
@@ -3449,7 +3449,7 @@ The plates seal again.
 
 Storm exhales sharply.
 
-"Damn it…"
+"Damn it..."
 
 Around them, the heavy hitters slow.
 
@@ -3523,7 +3523,7 @@ He sets them down.
 
 Cyclops' eyes widen slightly.
 
-"…You're the kid," he says to Spider-Man.
+"...You're the kid," he says to Spider-Man.
 
 Peter straightens, sheepish.
 
@@ -3631,7 +3631,7 @@ The recoil alone would have shattered bone.
 
 Wanda catches it.
 
-Scarlet energy flares around them, reinforcing his trajectory, tightening the beam’s spread, preventing dispersion.
+Scarlet energy flares around them, reinforcing his trajectory, tightening the beam's spread, preventing dispersion.
 
 The Sentinel screams.
 
@@ -3737,7 +3737,7 @@ Then-
 
 the sound of tires on gravel.
 
-Charles’s car enters the property.
+Charles's car enters the property.
 
 Scott is there before it fully stops. He opens the door carefully, steady hands already in place. Logan appears at the other side, unfolding the wheelchair without a word. Together, they help Charles out, practiced, respectful, unhurried.
 
@@ -3747,7 +3747,7 @@ A worried parent approaches instinctively.
 
 Charles looks up at them and smiles. Not forced. Not reassuring out of obligation.
 
-"They’re safe," he says gently. "They’re coming home."
+"They're safe," he says gently. "They're coming home."
 
 The parent exhales, nodding, holding onto the words like a lifeline.
 
@@ -3771,7 +3771,7 @@ Hugs crash together. Laughter breaks through tears. A father lifts his son into 
 
 For a moment, the world is only this.
 
-A little girl clutches her mother’s coat, eyes fixed past her shoulder-watching the figures standing near the mansion steps.
+A little girl clutches her mother's coat, eyes fixed past her shoulder-watching the figures standing near the mansion steps.
 
 "Was that the man with the claws?" she asks softly.
 
@@ -3779,7 +3779,7 @@ Her mother nods.
 
 A boy nearby raises his arm, mimicking a blast, eyes wide with awe.
 
-"They didn’t run," he says. "They stayed."
+"They didn't run," he says. "They stayed."
 
 One by one, parents approach-awkward, unsure-until someone finally says it out loud.
 
@@ -3801,15 +3801,15 @@ Pretending to fight.
 
 Pretending to stand in front of danger instead of behind it.
 
-Storm watches them go, a softness in her eyes she doesn’t try to hide.
+Storm watches them go, a softness in her eyes she doesn't try to hide.
 
-"Careful," Logan mutters beside her. "They’re gonna start copyin’ us."
+"Careful," Logan mutters beside her. "They're gonna start copyin' us."
 
 She smiles.
 
 "Let us hope," she says quietly, "they grow into something even better."
 
-And for the first time since the war began, the future doesn’t feel like a threat.
+And for the first time since the war began, the future doesn't feel like a threat.
 
 It feels like a promise.
 
@@ -3819,7 +3819,7 @@ Not celebratory.
 
 Measured.
 
-The President addresses the nation with a seriousness that hasn’t been rehearsed.
+The President addresses the nation with a seriousness that hasn't been rehearsed.
 
 He speaks of loss.
 
@@ -3827,7 +3827,7 @@ Of restraint.
 
 Of bravery.
 
-He speaks of mutants-not as threats, not as curiosities-but as people who stood between cities and annihilation.
+He speaks of mutants; not as threats, not as curiosities, but as people who stood between cities and annihilation.
 
 "We cannot ask those who protected us to remain in the shadows," he says. "Nor can we allow power without responsibility."
 
@@ -3885,7 +3885,7 @@ Scott taught Jean planned a surprise date; Jean taught Scott did.
 
 Scott Summers checks the reservation again, frowning slightly.
 
-"This… can't be right," he mutters.
+"This... can't be right," he mutters.
 
 The host smiles politely and slides a folded note across the table.
 
@@ -3995,7 +3995,7 @@ For the first time in a long while, he's not borrowing anyone else's strength.
 
 And he doesn't feel empty.
 
-He feels… _earned_.
+He feels... _earned_.
 
 In a quiet lab beneath the mansion, **Hank McCoy** adjusts his glasses and stares at a holographic projection.
 
@@ -4011,7 +4011,7 @@ To understand.
 
 A new file opens beside the data. Untitled. Unshared.
 
-He hesitates for half a second… then begins typing.
+He hesitates for half a second... then begins typing.
 
 "Better we ask these questions," he says quietly, "than leave them to someone else."
 
@@ -4061,7 +4061,7 @@ They are not martyrs.
 
 They are not warnings.
 
-They are simply… _done_.
+They are simply... _done_.
 
 And for the first time, the light outside moves on without them.
 
@@ -4113,7 +4113,7 @@ Not scheming.
 
 Not running.
 
-Just… listening.
+Just... listening.
 
 A nearby television replays footage of the battle. People talk over it, voices full of awe, disbelief.
 
@@ -4121,7 +4121,7 @@ A nearby television replays footage of the battle. People talk over it, voices f
 
 "They saved everybody."
 
-"Never thought I'd say this, but… I'm glad they were there."
+"Never thought I'd say this, but... I'm glad they were there."
 
 Gambit's hands still.
 
@@ -4163,7 +4163,7 @@ The noise is quieter now.
 
 Not gone.
 
-Just… distant.
+Just... distant.
 
 Once, he wore a uniform that didn't want him. Served under orders that never planned to keep him alive. When the world decided mutants were liabilities, they stripped him of rank and then, when things went wrong, they came back with upgrades and weapons and apologies that sounded like commands.
 
@@ -4201,7 +4201,7 @@ Curious.
 
 A group of students stop nearby.
 
-"Is it true you can… change density?" one asks.
+"Is it true you can... change density?" one asks.
 
 The boy blinks.
 
@@ -4231,7 +4231,7 @@ He pauses.
 
 A beat.
 
-"You'll already be one."
+"You'll already be one. The choice is up to you."
 
 The reaction is instant. Cheers. Tears. Disbelief.
 
@@ -4247,7 +4247,7 @@ Charles smiles knowingly.
 
 Wanda laughs softly.
 
-"He worries about you," she says. "He just… doesn't show it the way people expect."
+"He worries about you," she says. "He just... doesn't show it the way people expect."
 
 Pietro nods.
 
