@@ -845,83 +845,379 @@ Bruce exhales, shaking.
 
 Charles steps closer.
 
-"You are," he says softly. "You've just been hiding."
-
-He places one hand gently on Bruce's forehead.
+He places one hand gently against Bruce's forehead.
 
 The other rests against his own temple.
 
-Bruce feels the pull immediately.
+Bruce feels it immediately.
 
-Not violent. Not invasive.
+A pull.
+
+Not violent.
+
+Not invasive.
 
 Like a door opening somewhere deep inside him.
 
-The lab fades.
+The laboratory dissolves.
 
-Bruce is small again.
+The lights fade.
 
-A house. Dim. Heavy air.
+The voices disappear.
 
-A man's voice, sharp, cruel.
+Bruce is falling.
 
-A glass shattering.
+Not through space.
 
-Bruce sees himself hiding behind a doorway, hands over his ears. His father looms, rage uncontrolled, words cutting deeper than fists ever could.
+Through himself.
 
-Then his mother.
+A house emerges from the darkness.
 
-Standing between them.
+Dim.
+
+Silent.
+
+Heavy.
+
+The air feels wrong.
+
+A man's voice erupts from another room.
+
+Sharp.
+
+Cruel.
+
+A glass shatters.
+
+Down a hallway.
+
+Past broken furniture.
+
+Bruce is a little boy again.
+
+His hands cover his ears.
+
+His eyes are squeezed shut.
+
+His father stands in the center of the room, consumed by rage.
+
+Every word strikes harder than a fist.
+
+Then—
+
+His mother.
+
+Stepping between them.
+
+Protecting him.
 
 Screaming.
 
+A struggle.
+
+A fall.
+
 Silence.
 
-Her body on the floor.
+The world freezes.
 
 Bruce's breath catches.
 
-He never remembered this _clearly_. He never let himself.
+For years he remembered fragments.
 
-The anger.
+Never this clearly.
+
+Never all at once.
 
 The fear.
 
-The vow he made without words, to never feel anything that deeply again.
+The anger.
+
+The grief.
+
+The vow made by a terrified child.
+
+Never again.
+
+Never again feel this much pain.
 
 The mind didn't break.
 
-It _sealed itself_.
+It sealed itself.
 
-Next he is at the Walters.
+The scene fractures.
 
-Playing with her cousin Jennifer, going school, Bruce hasn't been this happy for a long time.
+Shards of memory drift away.
 
-He is curious about the universe, and endless pursuit of understanding it leads him to graduate high school and college with flying colors.
+The pull returns.
 
-Then he continues his education at Virginia, where he meets Betty. They connect instantly, long hours of study, conversations, and eventually falling in love, promises to stay together.
+Stronger.
 
-One day, while working late in the laboratory, Bruce receives a call from Betty.
+The darkness gives way to sunlight.
 
-She sounds excited.
+A backyard.
 
-"I spoke to my father," she says.
+Green grass.
+
+Summer air.
+
+A young girl runs across the lawn laughing.
+
+"Bruce!"
+
+Jennifer Walters.
+
+She tackles a skinny boy carrying three books under one arm.
+
+The books spill everywhere.
+
+Bruce laughs.
+
+The sound surprises him.
+
+The pull carries him onward.
+
+A school hallway.
+
+Jennifer waiting by his locker.
+
+A library on a rainy afternoon.
+
+Bruce sits buried beneath astronomy books.
+
+Jennifer lies across the table, completely bored.
+
+Bruce barely notices.
+
+His eyes are fixed on a picture of a spiral galaxy.
+
+The universe.
+
+Infinite.
+
+Mysterious.
+
+Beautiful.
+
+The pull continues.
+
+A summer evening.
+
+Two children sitting on a curb.
+
+Melting popsicles in their hands.
+
+Jennifer talking endlessly.
+
+Bruce staring upward.
+
+Past the trees.
+
+Past the clouds.
+
+Into the stars.
+
+Questions filling his mind faster than the universe could answer them.
+
+The years accelerate.
+
+Books become textbooks.
+
+Textbooks become research papers.
+
+Science fairs.
+
+Classrooms.
+
+Graduation stages.
+
+Diplomas.
+
+Bruce grow older with every step.
+
+The frightened child becoming a brilliant young man.
+
+Always searching.
+
+Always learning.
+
+The darkness shifts again.
+
+A university campus appears.
+
+Autumn leaves drift through the air.
+
+Students move between classes.
+
+The pull slows.
+
+Someone turns a corner.
+
+A young woman carrying too many books.
+
+She collides directly into Bruce.
+
+Pages scatter everywhere.
+
+Both kneel to gather them.
+
+Their hands touch.
+
+They look up.
+
+And neither looks away.
+
+Betty.
+
+The world softens.
+
+The years unfold around them.
+
+Late-night study sessions.
+
+Coffee-stained notebooks.
+
+Conversations that begin after sunset and somehow last until sunrise.
+
+Shared dreams.
+
+Shared ambitions.
+
+Laughter.
+
+Love.
+
+For the first time in his life, Bruce isn't running from his past.
+
+He's building a future.
+
+The pull continues.
+
+A laboratory.
+
+Bright lights.
+
+Research equipment.
+
+Bruce works alone late into the night.
+
+A phone rings.
+
+He answers.
+
+Betty's voice bursts through the receiver.
+
+Excited.
+
+Breathless.
+
+"I spoke to my father."
+
+Bruce straightens.
+
+"What happened?"
 
 "He approved it."
 
-Bruce straightens.
+A beat.
 
 "Approved what?"
 
 Betty laughs.
 
-"You, Bruce. He wants you leading the Super Soldier Program."
+"You, Bruce."
 
-Then the experiment, he injects the super soldier serum and begins consuming gamma rays slowly as the team monitors, until the malfunctions begins and the gamma overloads.
+Bruce blinks.
 
-The green light consumes everything.
+"What?"
+
+"He wants you leading the Super Soldier Program."
+
+For a moment, the entire world seems to stop.
+
+Everything he worked for.
+
+Every late night.
+
+Every sacrifice.
+
+Every dream.
+
+Finally within reach.
+
+The pull surges forward.
+
+The laboratory changes.
+
+Scientists move around him.
+
+Machines hum.
+
+Technicians monitor screens.
+
+A syringe descends.
+
+The serum enters his bloodstream.
+
+Numbers climb steadily across glowing displays.
+
+Gamma exposure begins.
+
+Controlled.
+
+Measured.
+
+Safe.
+
+At first.
+
+Then alarms.
+
+One warning light.
+
+Then another.
+
+Technicians begin shouting.
+
+Readings spike.
+
+The chamber trembles.
+
+Bruce turns.
+
+Too late.
+
+Gamma levels explode beyond containment.
+
+The room vanishes beneath a storm of green light.
+
+The scientist screams.
+
+The child screams.
+
+The monster screams.
+
+Everything becomes green.
+
+Everything becomes pain.
+
+Everything becomes change.
+
+Then—
+
+Silence.
+
+Darkness.
+
+The pull finally stops.
+
+Bruce stands alone.
+
+Around him float fragments of a life.
 
 The terrified child.
+
+The curious student.
 
 The brilliant scientist.
 
@@ -931,15 +1227,39 @@ The monster.
 
 For years they existed as separate pieces.
 
-Now they stood together.
+Separate rooms.
 
-Not broken.
+Separate wounds.
 
-Not divided.
+Separate truths.
 
-Whole.
+Now they begin moving toward one another.
 
-The pull reverses.
+Slowly.
+
+Inevitably.
+
+The pieces connect.
+
+The child.
+
+The scientist.
+
+The lover.
+
+The Hulk.
+
+Not enemies.
+
+Not strangers.
+
+Not separate people.
+
+One life.
+
+One story.
+
+One man.
 
 The darkness collapses inward.
 
@@ -953,13 +1273,15 @@ Every mistake.
 
 Every loss.
 
-One life.
+Nothing hidden.
 
-His life.
+Nothing denied.
 
-Bruce exhales.
+Nothing buried.
 
-And wakes.
+Whole.
+
+Bruce exhales, and wakes.
 
 He sits up suddenly, too fast.
 
@@ -1890,7 +2212,7 @@ Not blinding.
 
 Cold.
 
-The rage doesn’t vanish.
+The rage doesn't vanish.
 
 It condenses.
 
