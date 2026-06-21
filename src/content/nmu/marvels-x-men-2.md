@@ -2393,7 +2393,7 @@ Because the real battle had never been against the X-Men.
 
 It had always been against Scott Summers.
 
-## Meanwhile — Xavier Institute
+### Meanwhile — Xavier Institute
 
 The lower laboratory remained active.
 
