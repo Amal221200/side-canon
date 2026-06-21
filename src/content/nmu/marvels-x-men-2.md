@@ -1455,7 +1455,7 @@ Scott held her gaze for one second longer than necessary — committing it to me
 
 No hesitation.
 
-"Logan. Storm. Rogue. Morph. Mimic. Nightcrawler. Me."
+"Logan. Storm. Rogue. Morph. Mimic. Me."
 
 Hank nodded.
 
@@ -1511,9 +1511,9 @@ Visor glinting faintly in the moonlight.
 
 Logan followed, along with Storm, Rogue, Morph and Mimic. 
 
-No one spoke. 
+No one spoke.
 
-They moved in formation toward the main industrial yard. 
+They moved in formation toward the main industrial yard.
 
 Wind carried salt and metal.
 
@@ -1603,8 +1603,6 @@ Crimson light flashed from every direction.
 
 The shadows around them began to move.
 
-⸻
-
 Figures emerged from the darkness.
 
 Humanoid.
@@ -1651,8 +1649,6 @@ His expression darkened.
 
 "Everybody spread out!"
 
-⸻
-
 The creatures attacked.
 
 A barrage of red energy erupted across the refinery.
@@ -1664,8 +1660,6 @@ Pipes burst.
 Metal screamed.
 
 The X-Men exploded into motion.
-
-⸻
 
 Logan charged first.
 
@@ -1705,8 +1699,6 @@ Logan growled.
 
 "They're the creepy kind."
 
-⸻
-
 Storm rose into the sky.
 
 Lightning flashed overhead.
@@ -1727,11 +1719,9 @@ Storm's eyes narrowed.
 
 "They are regenerating."
 
-⸻
-
 "Yeah, well," Rogue muttered.
 
-"Let's see how they regenerate THIS."
+"Let's see how they regenerate **THIS**."
 
 She launched herself into a cluster of five.
 
@@ -1746,8 +1736,6 @@ Redirected the blast upward.
 The beam sliced through an observation platform.
 
 The entire structure collapsed onto the attackers.
-
-⸻
 
 Morph shifted mid-run.
 
@@ -1770,8 +1758,6 @@ The metal exploded.
 Morph immediately shifted into something smaller and dove for cover.
 
 "Never mind!"
-
-⸻
 
 Mimic flew upward.
 
@@ -1797,8 +1783,6 @@ Darker.
 
 Wrong.
 
-⸻
-
 Scott fired.
 
 A controlled optic burst cut through a line of advancing creatures.
@@ -1823,8 +1807,6 @@ Testing.
 
 Learning.
 
-⸻
-
 Then everything stopped.
 
 Not gradually.
@@ -1842,8 +1824,6 @@ Only the sound of crashing waves remained.
 Scott lowered his visor slightly.
 
 "That's not good."
-
-⸻
 
 The shadows beneath their feet began to ripple.
 
@@ -1917,12 +1897,6 @@ Evaluating.
 
 Then settling back on Cyclops.
 
-"As always..."
-
-Sinister's smile sharpened.
-
-"...you brought exactly who I was hoping for."
-
 And somewhere beneath the refinery, hidden from every sensor, something began to wake up.
 
 ---
@@ -1931,7 +1905,7 @@ And somewhere beneath the refinery, hidden from every sensor, something began to
 
 The wind died.
 
-Sinister stood alone in the center of the refinery.
+Mr. Sinister stood alone in the center of the refinery.
 
 Perfect.
 
@@ -1975,13 +1949,9 @@ He slowly clasped his hands behind his back.
 
 The words landed heavily.
 
-"You specifically demanded Nathan."
-
 Scott's jaw tightened.
 
-"I decide who comes."
-
-"Clearly."
+"I am not giving my up my son."
 
 Sinister tilted his head.
 
@@ -2003,7 +1973,7 @@ Sinister merely smiled.
 
 Scott took another step.
 
-"We're enough."
+"We're enough for you."
 
 The smile widened.
 
@@ -2016,8 +1986,6 @@ A beat.
 Sinister raised one finger.
 
 The ground exploded.
-
-⸻
 
 Concrete ruptured throughout the refinery.
 
@@ -2043,10 +2011,6 @@ No commands needed.
 
 Everyone moved.
 
-⸻
-
-"GO!"
-
 Scott fired first.
 
 A massive optic beam tore through the front ranks.
@@ -2056,8 +2020,6 @@ Bodies vaporized.
 Steel support columns collapsed.
 
 The battle erupted.
-
-⸻
 
 Sinister vanished.
 
@@ -2081,8 +2043,6 @@ The impact launched Cyclops through three concrete barriers.
 
 The entire refinery shook.
 
-⸻
-
 Logan attacked instantly.
 
 Claws slashing.
@@ -2099,17 +2059,13 @@ The sound echoed.
 
 Logan crashed through a storage tower.
 
-⸻
-
 "Interesting."
 
 Sinister examined Logan's claws.
 
-"Still adamantium."
+"Still Adamantium."
 
 Then he vanished again.
-
-⸻
 
 Storm rose higher.
 
@@ -2136,8 +2092,6 @@ Steel melted.
 Concrete vaporized.
 
 The battlefield vanished beneath the storm.
-
-⸻
 
 Rogue hit the survivors.
 
@@ -2179,8 +2133,6 @@ Rogue caught the attacker's head.
 
 Crushed it against a refinery wall.
 
-⸻
-
 "Still got it."
 
 Morph grinned.
@@ -2188,8 +2140,6 @@ Morph grinned.
 "Never lost it."
 
 Rogue replied.
-
-⸻
 
 Mimic became the center of the battlefield.
 
@@ -2239,8 +2189,6 @@ He wasn't just powerful.
 
 He knew how to fight.
 
-⸻
-
 Above them—
 
 Sinister reappeared.
@@ -2252,8 +2200,6 @@ Telekinetic force erupted outward.
 Entire refinery structures ripped free.
 
 Hundreds of tons of steel launched toward the team.
-
-⸻
 
 "STORM!"
 
@@ -2269,9 +2215,7 @@ Redirected it.
 
 Slowed it.
 
-Saving dozens of lives in a single motion.
-
-⸻
+Saving everyone's life in a single motion.
 
 Sinister smiled.
 
@@ -2282,8 +2226,6 @@ Then he raised both hands.
 The steel reversed direction.
 
 Back toward Storm.
-
-⸻
 
 Before it could hit—
 
@@ -2307,8 +2249,6 @@ Acknowledgment.
 
 Then returned to the storm.
 
-⸻
-
 Lightning struck again.
 
 Again.
@@ -2322,8 +2262,6 @@ Entire battalions of creatures disappeared.
 The storm wasn't supporting the X-Men anymore.
 
 It was winning the war.
-
-⸻
 
 Sinister finally looked upward.
 
@@ -2343,8 +2281,6 @@ The blast pierced the clouds.
 
 For a moment the storm faltered.
 
-⸻
-
 And then—
 
 A familiar voice.
@@ -2363,8 +2299,6 @@ No.
 
 No.
 
-⸻
-
 A figure stepped from the darkness.
 
 Red diamond on his forehead.
@@ -2379,8 +2313,6 @@ Alex Summers.
 
 Havok.
 
-⸻
-
 Scott's face went pale.
 
 "Alex..."
@@ -2392,8 +2324,6 @@ No recognition.
 No emotion.
 
 Nothing.
-
-⸻
 
 Sinister appeared beside him.
 
@@ -2412,8 +2342,6 @@ Scott took a step forward.
 "Alex."
 
 Nothing.
-
-⸻
 
 Then Alex's chest began to glow.
 
@@ -2465,7 +2393,7 @@ Because the real battle had never been against the X-Men.
 
 It had always been against Scott Summers.
 
-Meanwhile — Xavier Institute
+## Meanwhile — Xavier Institute
 
 The lower laboratory remained active.
 
@@ -2477,7 +2405,7 @@ Charles maintained quiet telepathic awareness of the battlefield.
 
 On the main screen, Scott's optic blast collided with Alex's plasma wave.
 
-The impact shook the refinery.
+The impact dissolved each other due to energy symmetry.
 
 Hank frowned.
 
@@ -2527,11 +2455,9 @@ His expression changed.
 
 "Charles."
 
-The older mutant turned.
+Charles turned.
 
-The medical chair beside them was empty.
-
-Jean was gone.
+Jean was gone, along with the medical chair she was sitting.
 
 Both men looked toward the open laboratory doorway.
 
@@ -2629,13 +2555,7 @@ Confusion.
 
 Pain.
 
-Recognition.
-
-"Scott...?"
-
-The word barely escaped his lips.
-
-Then he collapsed.
+He looked at Scott, then he collapsed.
 
 Scott lunged forward.
 
@@ -2683,7 +2603,7 @@ His eyes lifted toward the sky.
 
 Toward someone hundreds of miles away.
 
-"...that I would fall for the same trick twice?"
+"...that I would fall for a small trick?"
 
 ### Cerebro
 
@@ -2745,7 +2665,7 @@ The psychic network collapsed.
 
 And Jean Grey went still.
 
-### X-Mansion Lab
+### Lab
 
 The chamber doors burst open.
 
@@ -2871,7 +2791,7 @@ Because the battle was finally becoming interesting.
 
 ## Chapter Seven — Ascension to Phoenix
 
-### Xavier Institute
+### Xavier Mansion Lab
 
 The lower laboratory had become a crisis ward.
 
@@ -2923,7 +2843,7 @@ Another shock.
 
 Nothing.
 
-Across the room, Nathan Summers cried.
+Across the room, Nathan is crying.
 
 The sound cut through the lab.
 
@@ -2941,7 +2861,7 @@ The baby continued crying.
 
 As though he knew something was wrong.
 
-Meanwhile, Somewhere Beyond
+### Meanwhile, Somewhere Beyond
 
 There was no floor.
 
@@ -2977,9 +2897,7 @@ All distant.
 
 All fading.
 
-Jean tried to answer.
-
-Nothing happened.
+Jean is trying to answer, nothing is happened.
 
 She reached.
 
@@ -3091,17 +3009,9 @@ A warmth settled around her.
 
 The light intensified.
 
-"We are linked."
+"I heard your cry for help, let me lend you my power."
 
 The memory returned.
-
-The white room.
-
-The promise.
-
-Remember me.
-
-I will be there.
 
 Jean looked up.
 
@@ -3120,8 +3030,6 @@ Waiting.
 The Phoenix extended a hand.
 
 "Rise."
-
-⸻
 
 Far Beyond Earth—
 
@@ -3153,7 +3061,7 @@ A single life.
 
 Jean Grey.
 
-### Xavier Institute
+### Xavier Mansion
 
 The laboratory remained silent except for medical alarms.
 
@@ -3211,7 +3119,7 @@ The light simply existed.
 
 As though it had always been there.
 
-Charles slowly rose to his feet.
+Charles looked at this unnatural phenomenon.
 
 The glow expanded.
 
@@ -3435,7 +3343,7 @@ The experiment complete.
 
 "You never had enough."
 
-Scott stared at the ground.
+Scott stared at him, wiping the blood on his face.
 
 Helpless.
 
@@ -3543,14 +3451,6 @@ Mimic simply stood frozen.
 
 Trying to process what he was seeing.
 
-Even Alex stirred faintly.
-
-As though some part of him recognized the energy surrounding her.
-
-Only Charles had ever felt power remotely comparable.
-
-And Charles wasn't here.
-
 The battlefield itself seemed to acknowledge her presence.
 
 The fire no longer spread.
@@ -3616,8 +3516,6 @@ The night brightened.
 And for the first time—
 
 Mr. Sinister understood scale.
-
-⸻
 
 Jean hovered above fractured concrete.
 
@@ -3685,8 +3583,6 @@ For the first time—
 
 Sinister frowned.
 
-⸻
-
 He vanished.
 
 Teleportation.
@@ -3725,8 +3621,6 @@ The clouds.
 
 As though reality itself refused to let them touch her.
 
-⸻
-
 Storm watched from below.
 
 Lightning still dancing around her fingertips.
@@ -3742,8 +3636,6 @@ For perhaps the first time all night—
 There was uncertainty in his voice.
 
 "She's deciding."
-
-⸻
 
 Sinister appeared directly in front of her.
 
@@ -3785,10 +3677,6 @@ Time to think.
 
 Time to adapt.
 
-Always adapt.
-
-⸻
-
 His eyes glowed crimson.
 
 Energy erupted from his hands.
@@ -3827,8 +3715,6 @@ She wasn't attacking.
 
 She was refusing.
 
-⸻
-
 Below, Scott slowly stood.
 
 Still holding Alex.
@@ -3836,8 +3722,6 @@ Still holding Alex.
 Unable to look away.
 
 Jean had fought before.
-
-He had seen her move mountains.
 
 Lift aircraft.
 
@@ -3848,8 +3732,6 @@ This felt different.
 This wasn't power.
 
 It was certainty.
-
-⸻
 
 Sinister's breathing sharpened.
 
@@ -3885,10 +3767,6 @@ Jean opened her eyes.
 
 Golden light illuminated the battlefield.
 
-"A mother."
-
-⸻
-
 Then she moved.
 
 For the first time.
@@ -3922,8 +3800,6 @@ Before crashing into the cliffs overlooking the ocean.
 The shockwave reached the water seconds later.
 
 Waves exploded upward.
-
-⸻
 
 Silence followed.
 
@@ -3965,8 +3841,6 @@ Her voice echoed across the coast.
 
 "You searched for control."
 
-⸻
-
 The words struck harder than any attack.
 
 Because they were true.
@@ -3980,8 +3854,6 @@ At last.
 Anger.
 
 Real anger.
-
-⸻
 
 The entire refinery shook.
 
@@ -4017,8 +3889,6 @@ Morph blinked.
 
 "That's a lot."
 
-⸻
-
 Jean glanced at them once.
 
 Only once.
@@ -4039,8 +3909,6 @@ The entire army became statues.
 
 The battle ended before it began.
 
-⸻
-
 Sinister stared.
 
 Years of work.
@@ -4052,8 +3920,6 @@ Neutralized with a glance.
 For the first time—
 
 He looked small.
-
-⸻
 
 Jean walked forward.
 
@@ -4087,8 +3953,6 @@ Every stolen mutation.
 
 Meaningless.
 
-⸻
-
 "Enough."
 
 The word echoed like judgment.
@@ -4098,8 +3962,6 @@ The team felt it.
 The ocean felt it.
 
 The night itself seemed to listen.
-
-⸻
 
 Jean reached forward.
 
@@ -4151,8 +4013,6 @@ Because he understood.
 
 Everything he had built was being taken away.
 
-⸻
-
 "You devil—"
 
 The words barely escaped him.
@@ -4164,8 +4024,6 @@ Jean's eyes remained calm.
 She looked directly into his soul.
 
 "I am the consequence."
-
-⸻
 
 The refinery roared.
 
@@ -4185,8 +4043,6 @@ Every atrocity.
 
 Gone.
 
-⸻
-
 Sinister's body fractured.
 
 Cracks spread across him.
@@ -4204,8 +4060,6 @@ Still trying to control.
 Then he became ash.
 
 And the wind carried him away.
-
-⸻
 
 Deep beneath the collapsing facility—
 
@@ -4237,8 +4091,6 @@ Protecting it.
 
 Saving it.
 
-⸻
-
 The refinery collapsed into silence.
 
 The battle was over.
@@ -4249,7 +4101,7 @@ There was peace.
 
 ---
 
-## Chapter Eight - AfterMath
+## Chapter Eight - Aftermath
 
 The refinery fell silent.
 
@@ -4281,8 +4133,6 @@ Mimic lowered himself from the air.
 
 Morph remained unusually quiet.
 
-Even Alex, still weak from Sinister's control, had begun to stir nearby.
-
 No one spoke.
 
 No one quite knew what to say.
@@ -4304,8 +4154,6 @@ Making sure she was real.
 Still here.
 
 Still alive.
-
-⸻
 
 The fire surrounding Jean shifted gently.
 
@@ -4357,8 +4205,6 @@ He didn't understand.
 
 Not yet.
 
-⸻
-
 The others barely noticed.
 
 Their attention remained fixed on Jean.
@@ -4389,8 +4235,6 @@ Not broken.
 
 Human.
 
-⸻
-
 Scott took a step forward.
 
 "Jean."
@@ -4417,8 +4261,6 @@ The way she had held everyone else.
 
 Countless times.
 
-⸻
-
 For the first time since waking—
 
 Jean truly saw him.
@@ -4438,8 +4280,6 @@ The father of her son.
 Safe.
 
 Alive.
-
-⸻
 
 A tear slipped down her cheek.
 
@@ -4479,8 +4319,6 @@ From release.
 
 From knowing the nightmare was over.
 
-⸻
-
 Scott rested his forehead against hers.
 
 For a moment neither spoke.
@@ -4488,8 +4326,6 @@ For a moment neither spoke.
 Neither needed to.
 
 Everything that mattered had already been said.
-
-⸻
 
 Around them, the team quietly looked away.
 
@@ -4505,11 +4341,7 @@ A faint grin hidden beneath his beard.
 
 Mimic looked between them and simply nodded.
 
-Alex watched in silence.
-
 Still trying to understand everything that had happened.
-
-⸻
 
 Jean's eyes began to close.
 
@@ -4532,8 +4364,6 @@ She squeezed once.
 Then rested against him.
 
 Safe.
-
-⸻
 
 Above them, the clouds finally began to part.
 
@@ -4561,12 +4391,11 @@ _It's time for me to go_
 
 Jean, "What if I need you again?"
 
-_We are linked now. I will be there in you desparate times._
+_We are linked now. I will be there when you need me._
 
 _For now, rest child._
 
 The Pheonix dissapears but the room is still illuminous. Jean is assured.
-
 
 ### Lab: Xaviers's Mansion
 
@@ -4629,8 +4458,6 @@ Then he corrected himself.
 Scott nodded.
 
 Accepting it immediately.
-
-⸻
 
 Hank changed the display.
 
@@ -4704,15 +4531,9 @@ He enlarged the refinery footage.
 
 "It appeared limitless."
 
-Storm looked at the projection.
+Storm looked at the projection, "You've never seen anything like it."
 
-"You've never seen anything like it."
-
-"No."
-
-Hank shook his head slowly.
-
-"And I don't believe anyone on Earth has."
+"No,", Hank shook his head slowly, "and I don't believe anyone on Earth has."
 
 His eyes drifted toward Charles.
 
@@ -4728,7 +4549,7 @@ For once—
 
 The scientist had reached the edge of science.
 
-And knew it.
+And he knew it.
 
 Hank changed the display once more.
 
@@ -4736,7 +4557,7 @@ The golden image of the Phoenix disappeared.
 
 A new file appeared.
 
-Subject: X-23
+**Subject: X-23**
 
 The holographic image resolved into the young girl recovered from the refinery.
 
@@ -4824,15 +4645,9 @@ Skeletal scans.
 
 The room immediately noticed the difference.
 
-Storm stepped closer.
+Storm stepped closer, "That isn't Adamantium."
 
-"That isn't adamantium."
-
-"No."
-
-Hank nodded.
-
-"It isn't."
+"No,", Hank nodded, "it isn't."
 
 The skeleton shimmered with metallic patterns woven directly into the bone itself.
 
@@ -4854,13 +4669,7 @@ Rogue frowned.
 
 Hank zoomed further.
 
-"The material grows with her."
-
-Adapts.
-
-Repairs.
-
-Responds to biological changes."
+"The material grows with her. Adapts, repairs, responds to biological changes."
 
 Logan folded his arms.
 
@@ -4882,11 +4691,9 @@ She wasn't modified.
 
 She was created that way.
 
-⸻
-
 The image shifted toward her hands.
 
-Three claws appeared.
+Six claws appeared, two from each hands and one from each leg.
 
 Smaller.
 
@@ -4910,8 +4717,6 @@ It disturbed him.
 
 Because someone had spent years perfecting what had been done to him.
 
-⸻
-
 Storm broke the silence.
 
 "A weapon."
@@ -4923,8 +4728,6 @@ Hank nodded slowly.
 Then he looked toward the sleeping girl displayed on the monitor.
 
 "But not by choice."
-
-⸻
 
 Charles had remained unusually quiet throughout the discussion.
 
@@ -4946,8 +4749,6 @@ Not a weapon.
 
 A child.
 
-⸻
-
 Scott looked toward the recovery wing.
 
 "Jean protected her."
@@ -4963,8 +4764,6 @@ The moment Jean spared the chamber.
 The certainty of it.
 
 "She sensed something worth saving."
-
-⸻
 
 Logan's eyes never left the image.
 
@@ -5007,8 +4806,6 @@ Slowly.
 No one pressed further.
 
 They didn't need to.
-
-⸻
 
 Hank closed the file.
 
@@ -5108,8 +4905,6 @@ Nobody needed to say the name.
 
 Sinister.
 
-⸻
-
 Hank highlighted the difference.
 
 Before.
@@ -5144,8 +4939,6 @@ Even Logan.
 
 Slightly.
 
-⸻
-
 Hank continued.
 
 "Your mutation remains extraordinarily complex."
@@ -5168,8 +4961,6 @@ The word sounded foreign.
 
 As though he wasn't sure he had ever possessed one.
 
-⸻
-
 Charles watched him carefully.
 
 "You always had one."
@@ -5179,8 +4970,6 @@ Morph glanced toward him.
 Charles' expression remained gentle.
 
 "Someone simply tried to take it from you."
-
-⸻
 
 Silence followed.
 
@@ -5224,8 +5013,6 @@ Without effort.
 
 The room became very quiet.
 
-⸻
-
 Storm smiled first.
 
 Softly.
@@ -5244,8 +5031,6 @@ Nothing more.
 
 Nothing needed.
 
-⸻
-
 Morph touched his face carefully.
 
 As though expecting it to disappear.
@@ -5260,8 +5045,6 @@ Nothing fought back.
 
 Nothing slipped away.
 
-⸻
-
 His voice was quieter when he finally spoke.
 
 "This is me."
@@ -5275,8 +5058,6 @@ Because they understood.
 This wasn't a new form.
 
 It was the first form that had truly been his in a very long time.
-
-⸻
 
 Charles smiled.
 
@@ -5308,7 +5089,7 @@ And for the first time since the refinery—
 
 Hope felt a little easier to hold.
 
-### Scott's Room 
+### Scott's Room (3 days later)
 
 Scott's room was dim.
 
@@ -5518,237 +5299,237 @@ And something new had begun.
 
 ### Alex's Room 
 
-The mansion was quiet. 
+The mansion was quiet.
 
-Most of the lights had dimmed. 
+Most of the lights had dimmed.
 
-The hallway outside the guest wing carried only the faint hum of night ventilation. 
+The hallway outside the guest wing carried only the faint hum of night ventilation.
 
-Alex stood near the open window of a temporary recovery room. 
+Alex stood near the open window of a temporary recovery room.
 
-Dressed in borrowed clothes. 
+Dressed in borrowed clothes.
 
-Bag packed. 
+Bag packed.
 
-Cleared medically. 
+Cleared medically.
 
-Not emotionally. 
+Not emotionally.
 
-Scott paused outside the door before entering. 
+Scott paused outside the door before entering.
 
-He knocked lightly. 
+He knocked lightly.
 
-Alex didn't turn. 
+Alex didn't turn.
 
-"You don't have to knock." 
+"You don't have to knock."
 
-Scott stepped inside. 
+Scott stepped inside.
 
-For a moment, neither spoke. 
+For a moment, neither spoke.
 
-"You are leaving tonight?" Scott asked. 
+"You are leaving tonight?" Scott asked.
 
-"Yeah." 
+"Yeah."
 
-Alex nodded once. 
+Alex nodded once.
 
-"Figured it's easier before it gets... complicated." 
+"Figured it's easier before it gets... complicated."
 
-Scott folded his arms loosely. 
+Scott folded his arms loosely.
 
-"You don't have to go." 
+"You don't have to go."
 
-Alex finally turned toward him. 
+Alex finally turned toward him.
 
-"I know." 
+"I know."
 
-A beat. 
+A beat.
 
-"But I need to." 
+"But I need to."
 
-Silence again. 
+Silence again.
 
-Alex's eyes dropped briefly. 
+Alex's eyes dropped briefly.
 
-"I don't remember much about our family," he said quietly. "Just pieces. Faces. Noise." 
+"I don't really remember our family," he said quietly. "Besides the knowledge."
 
-Scott nodded. 
+Scott nodded.
 
-"You were young." 
+"You were young."
 
-"I don't remember you." 
+"I don't remember you."
 
-The words weren't cruel. 
+The words weren't cruel.
 
-Just honest. 
+Just honest.
 
-Scott absorbed them without flinching. 
+Scott absorbed them without flinching.
 
-"That's not your fault." 
+"That's not your fault."
 
-Alex stepped closer. 
+Alex stepped closer.
 
-"I felt something, though. When we were fighting. Like I knew you weren't trying to hurt me." 
+"I felt something, though. When we were fighting. Like I knew you weren't trying to hurt me."
 
-Scott's jaw tightened slightly. 
+Scott's jaw tightened slightly.
 
-"I wasn't." 
+"I wasn't."
 
-"I know." 
+"I know."
 
-Another pause. 
+Another pause.
 
-The distance between them felt heavier than the room. 
+The distance between them felt heavier than the room.
 
-"Sinister said we were symmetrical," Alex muttered. 
+"Sinister said we were symmetrical," Alex muttered.
 
-Scott gave a faint half-smile. 
+Scott gave a faint half-smile.
 
-"Guess he was right about one thing." 
+"Guess he was right about one thing."
 
-Alex studied him. 
+Alex studied him.
 
-"You could've hit me." 
+"You could've hit me."
 
-Scott didn't hesitate. 
+Scott didn't hesitate.
 
-"I won't fight my brother." 
+"I won't fight my brother."
 
-The word hung there. 
+The word hung there.
 
-Brother. 
+Brother.
 
-Alex exhaled slowly. 
+Alex exhaled slowly.
 
-"That's gonna take some getting used to." 
+"That's gonna take some getting used to."
 
-Scott allowed the smallest nod. 
+Scott allowed the smallest nod.
 
-"We don't have to fix everything tonight." 
+"We don't have to fix everything tonight."
 
-Alex picked up his bag. 
+Alex picked up his bag.
 
-"I've got a life back home. People who think I've just been... busy." 
+"I've got a life back home. People who think I've just been... busy."
 
-Scott stepped closer. 
+Scott stepped closer.
 
-"You'll call?" 
+"You'll call?"
 
-Alex met his eyes. 
+Alex met his eyes.
 
-"Yeah." 
+"Yeah."
 
-"And if anything feels off—" 
+"And if anything feels off—"
 
-"I know where you are," Alex said. 
+"I know where you are," Alex said.
 
-A faint, almost smile passed between them. 
+A faint, almost smile passed between them.
 
-Alex moved toward the door. 
+Alex moved toward the door.
 
-He stopped beside Scott. 
+He stopped beside Scott.
 
-"Thanks," he said quietly. 
+"Thanks," he said quietly.
 
-"For not giving up." 
+"For not giving up."
 
-Scott didn't look at him immediately. 
+Scott didn't look at him immediately.
 
-When he did, it wasn't stern. 
+When he did, it wasn't stern.
 
-It wasn't commanding. 
+It wasn't commanding.
 
-It was simple. 
+It was simple.
 
-"I won't." 
+"I will never give up on my family."
 
-Alex nodded once. 
+Alex nodded once.
 
-Then he left. 
+Then he left.
 
-Scott stood in the doorway for a moment longer. 
+Scott stood in the doorway for a moment longer.
 
-The hall lights flickered faintly as Alex disappeared around the corner. 
+The hall lights flickered faintly as Alex disappeared around the corner.
 
-Brothers. 
+Brothers.
 
-Not fully repaired. 
+Not fully repaired.
 
-Not fully connected. 
+Not fully connected.
 
-But no longer strangers. 
+But no longer strangers.
 
-Scott closed the door gently. 
+Scott closed the door gently.
 
-And for the first time that night— 
+And for the first time that night—
 
 He allowed himself a breath he hadn't realized he was holding.
 
 ---
 
-## Chapter Seven — Resolution 
+## Chapter Nine — Resolution
 
-### Lab 
+### Lab
 
-The medical wing was dim. 
+The medical wing was dim.
 
-Morning light filtered through tall windows. 
+Morning light filtered through tall windows.
 
-The containment cylinder had been opened. 
+The containment cylinder had been opened.
 
-The fluid drained. 
+The fluid drained.
 
-The girl now lay on a recovery bed, wrapped in a simple blanket. 
+The girl now lay on a recovery bed, wrapped in a simple blanket.
 
-Small. 
+Small.
 
-Still. 
+Still.
 
-But awake. 
+But awake.
 
-Her eyes tracked every movement in the room. 
+Her eyes tracked every movement in the room.
 
-Sharp. 
+Sharp.
 
-Assessing. 
+Assessing.
 
-Logan stood near the doorway. 
+Logan stood near the doorway.
 
-Not moving. 
+Not moving.
 
-Charles sat beside the bed. 
+Charles sat beside the bed.
 
-His voice was calm. 
+His voice was calm.
 
-"You are safe here." 
+"You are safe here."
 
-The girl's gaze shifted to him. 
+The girl's gaze shifted to him.
 
-She didn't respond verbally. 
+She didn't respond verbally.
 
-But she understood. 
+But she understood.
 
-That much Charles could feel. 
+That much Charles could feel.
 
-"There is no pain here," he continued gently. "No one will hurt you." 
+"There is no pain here," he continued gently. "No one will hurt you."
 
-A flicker of confusion passed over her expression. 
+A flicker of confusion passed over her expression.
 
-As if that concept was unfamiliar. 
+As if that concept was unfamiliar.
 
-Logan shifted his weight. 
+Logan shifted his weight.
 
-Her eyes snapped towards him instantly. 
+Her eyes snapped towards him instantly.
 
-Recognition. 
+Recognition.
 
-Not memory. 
+Not memory.
 
-Instinct. 
+Instinct.
 
-Charles felt it too. 
+Charles felt it too.
 
-"Yes," he said softly. "He is your father." 
+"Yes," he said softly. "He is your father."
 
 Logan frowned slightly.
 
@@ -5762,19 +5543,19 @@ No sudden movements.
 
 "Hey."
 
-She tensed. 
+She tensed.
 
-Muscles coiled subtly beneath the blanket. 
+Muscles coiled subtly beneath the blanket.
 
-He stopped. 
+He stopped.
 
-"I'm not gonna hurt you." 
+"I'm not gonna hurt you."
 
-Her brow furrowed slightly. 
+Her brow furrowed slightly.
 
-Charles closed his eyes briefly. 
+Charles closed his eyes briefly.
 
-"She understands the words," he said. "But not the context." 
+"She understands the words," he said. "But not the context."
 
 Logan exhaled through his nose.
 
@@ -5782,19 +5563,19 @@ Logan exhaled through his nose.
 
 Silence.
 
-Her gaze flicked at Charles. 
+Her gaze flicked at Charles.
 
-He nodded gently. 
+He nodded gently.
 
-"You may speak." 
+"You may speak."
 
-Her lips parted slowly. 
+Her lips parted slowly.
 
-"...X-Twenty-Three." 
+"...X-Twenty-Three."
 
-Her voice was thin. 
+Her voice was thin.
 
-Unused. 
+Unused.
 
 Logan's jaw tightened.
 
@@ -5804,7 +5585,7 @@ A pause.
 
 "Laura."
 
-The word left his mouth before he fully thought about it. 
+The word left his mouth before he fully thought about it.
 
 The girl blinked.
 
@@ -5818,107 +5599,107 @@ The sound seemed foreign to her, but not unpleasant.
 
 Charles smiled faintly.
 
-"It suits you." 
+"It suits you."
 
-Laura's eyes returned to Logan. 
+Laura's eyes returned to Logan.
 
-There was no fear in them now. 
+There was no fear in them now.
 
-Only assessment. 
+Only assessment.
 
-Logan crouched slightly, so he wasn't towering over her. 
+Logan crouched slightly, so he wasn't towering over her.
 
-"You remember anything?" He asked. 
+"You remember anything?" He asked.
 
-Her expression shifted. 
+Her expression shifted.
 
-Images flickered behind her eyes — Charles felt flashes of: 
+Images flickered behind her eyes — Charles felt flashes of:
 
-Metal. 
+Metal.
 
-White rooms. 
+Dark rooms.
 
-Needles. 
+Needles.
 
-Commands. 
+Commands.
 
-She shook her head once. 
+She shook her head once.
 
-"Training," she said quietly. 
+"Lights, room," she said quietly.
 
 Logan's hands tightened into fists. 
 
-"Yeah," he muttered. "Figured." 
+"Yeah," he muttered. "Figured."
 
-Laura's gaze drifted into his hands. 
+Laura's gaze drifted into his hands.
 
-To the knuckles. 
+To the knuckles.
 
-To the bone structure beneath the skin. 
+To the bone structure beneath the skin.
 
-Her breathing changed. 
+Her breathing changed.
 
-Without thinking— 
+Without thinking—
 
-Two slim, razor-like claws extended from between her knuckles. 
+Two slim, razor-like claws extended from between her knuckles.
 
-Smooth. 
+Smooth.
 
-Clean. 
+Clean.
 
-Integrated. 
+Integrated.
 
-No tears. 
+No tears.
 
-No visible pain. 
+No visible pain.
 
-Logan's eyes widened slightly. 
+Logan's eyes widened slightly.
 
-"Two?" He asked. 
+"Two?" He asked.
 
-She flexed. 
+She flexed.
 
-Two claws extended from each hand. 
+Two claws extended from each hand.
 
-A third slid from her foot beneath the blanket, slicing fabric cleanly. 
+A third slid from her foot beneath the blanket, slicing fabric cleanly.
 
-Logan let out a quiet breath. 
+Logan let out a quiet breath.
 
-"Kid's efficient." 
+"Kid's efficient."
 
-Laura studied his reaction, looking for approval, or any correction. 
+Laura studied his reaction, looking for approval, or any correction.
 
-He extended his own claws slowly. 
+He extended his own claws slowly.
 
-Metal gleamed. 
+Metal gleamed.
 
-The sound was heavier. 
+The sound was heavier.
 
-Older. 
+Older.
 
-Her eyes widened slightly. 
+Her eyes widened slightly.
 
-Comparison. 
+Comparison.
 
-Recognition. 
+Recognition.
 
-Charles watched silently, allowing the moment to unfold. 
+Charles watched silently, allowing the moment to unfold.
 
-Laura retracted her claws first. 
+Laura retracted her claws first.
 
-Logan followed. 
+Logan followed.
 
-A silent agreement. 
+A silent agreement.
 
-"You're not a weapon here," he said carefully. 
+"You're not a weapon here," he said carefully.
 
-Her head tilted. 
+Her head tilted.
 
-He searched for the right words. 
+He searched for the right words.
 
-"You're a kid." 
+"You're a kid."
 
-She absorbed Logan's words. 
+She absorbed Logan's words.
 
 It meant nothing yet, but it will be.
 
@@ -5936,65 +5717,65 @@ Logan stood slowly.
 
 "We'll figure it out," he said gruffly.
 
-He started to step away— 
+He started to step away—
 
-"Logan", Laura called. 
+"Logan", Laura called.
 
-He stopped. 
+He stopped.
 
-Turned. 
+Turned.
 
-Laura's voice was quiet. 
+Laura's voice was quiet.
 
-"...Father?" 
+"...Father?"
 
-The word was uncertain. 
+The word was uncertain.
 
-Testing. 
+Testing.
 
-Logan froze. 
+Logan froze.
 
-The room held its breath. 
+The room held its breath.
 
-Charles did not intervene. 
+Charles did not intervene.
 
-Logan looked at her for a long time. 
+Logan looked at her for a long time.
 
-Then he shook his head slightly. 
+Then he shook his head slightly.
 
-"Not yet." 
+"Not yet."
 
 He stepped closer again.
 
-"But I'm not going anywhere." 
+"But I'm not going anywhere."
 
-Laura looked at him carefully. 
+Laura looked at him carefully.
 
-Evaluating. 
+Evaluating.
 
-Then — slowly — she nodded. 
+Then — slowly — she nodded.
 
-Not fully understanding. 
+Not fully understanding.
 
-But accepting. 
+But accepting.
 
-Charles allowed himself a small, hopeful smile. 
+Charles allowed himself a small, hopeful smile.
 
-Outside the window, the mansion grounds stirred with morning light. 
+Outside the window, the mansion grounds stirred with morning light.
 
-Inside, a new bond had begun. 
+Inside, a new bond had begun.
 
-Not forced. 
+Not forced.
 
-Not declared. 
+Not declared.
 
-But chosen. 
+But chosen.
 
-### North Headquarter 
+### North HQ
 
-Morning sunlight stretched across the North HQ. 
+Morning sunlight stretched across the North HQ.
 
-The rebuilt grounds no longer resembled a battlefield. 
+The rebuilt grounds no longer resembled a battlefield.
 
 Where the Sentinel once fell, open fields now rolled between modern training structures and glass-fronted halls. The memorial stone stood at the edge of the courtyard — simple, unpolished.
 
@@ -6008,17 +5789,17 @@ It felt alive.
 
 ### Jean 
 
-A semicircle of students gathered near the open training yard. 
+A semicircle of students gathered near the open training yard.
 
-Core team. 
+Core team.
 
-New X-Men. 
+New X-Men.
 
-X-Force. 
+X-Force.
 
-Scott stood beside Charles, holding Nate. 
+Scott stood beside Charles, holding Nate.
 
-Morph paced lightly; nervous energy contained. 
+Morph paced lightly; nervous energy contained.
 
 Jean stepped forward.
 
@@ -6030,7 +5811,7 @@ No cosmic glow.
 
 Just focus. 
 
-A faint shimmer formed in the air before her. 
+A faint shimmer formed in the air before her.
 
 At first invisible.
 
@@ -6048,7 +5829,7 @@ Expanded.
 
 Segmented.
 
-It became a shield. 
+It became a shield.
 
 Then a bridge.
 
@@ -6090,11 +5871,11 @@ Scott watched quietly.
 
 Pride without fear.
 
-### Morph 
+### Morph
 
-"Alright, my turn." 
+"Alright, my turn."
 
-Morph stepped into the yard. 
+Morph stepped into the yard.
 
 "Let's keep expectations reasonable," he added quickly.
 
@@ -6104,13 +5885,13 @@ Bones restructured.
 
 Hair silvered.
 
-He became Pietro. 
+He became Pietro.
 
 The real Pietro Maximoff stood nearby; arms crossed.
 
 Morph vanished in a blur—
 
-A gust of wind circled the courtyard. 
+A gust of wind circled the courtyard.
 
 Leaves spiraled upward.
 
@@ -6138,47 +5919,47 @@ Hank, observing from a tablet, nodded with satisfaction.
 
 Logan stepped into the yard with Laura beside him.
 
-She stayed half a step behind. 
+She stayed half a step behind.
 
-Watching everything. 
+Watching everything.
 
-Calculating. 
+Calculating.
 
-The crowd instinctively moved closer. 
+The crowd instinctively moved closer.
 
-Logan raised his hand. 
+Logan raised his hand.
 
-"Hey. Back off." 
+"Hey. Back off."
 
-The students immediately gave them space. 
+The students immediately gave them space.
 
-"You'll scare her." 
+"You'll scare her."
 
-Laura scanned faces. 
+Laura scanned faces.
 
-So many expressions. 
+So many expressions.
 
-Curiosity. 
+Curiosity.
 
-Excitement. 
+Excitement.
 
-Kindness. 
+Kindness.
 
-It was unfamiliar. 
+It was unfamiliar.
 
-Storm approached slowly. 
+Storm approached slowly.
 
-"You must be Laura. I am Ororo." 
+"You must be Laura. I am Ororo."
 
-Laura looked at Logan. 
+Laura looked at Logan.
 
-He gave Laura a subtle nod. 
+He gave Laura a subtle nod.
 
-Storm crouched slightly to meet her eye level. 
+Storm crouched slightly to meet her eye level.
 
 "Would you like to fly?"
 
-Laura blinked 
+Laura blinked
 
 "Fly?"
 
@@ -6192,7 +5973,7 @@ Then glanced back at Logan again.
 
 He gave a small, approving nod.
 
-"Go on." 
+"Go on."
 
 Laura stepped forward.
 
