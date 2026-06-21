@@ -59,7 +59,7 @@ _"_
 
 ---
 
-## CHAPTER 1: SURVIVAL
+## CHAPTER 1: SURVIVAL: 1986
 
 Ororo did not remember being found.
 

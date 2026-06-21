@@ -83,7 +83,7 @@ _I was trying to prevent further harm caused by me."_
 
 ## Chapter 1
 
-### **Quiet Before the Pulse**
+### **Quiet Before the Pulse: 2018**
 
 Fall comes early here.
 
