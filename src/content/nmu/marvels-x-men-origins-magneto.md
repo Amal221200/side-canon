@@ -83,13 +83,13 @@ But it was raising a child who would remember everything it tried so hard to for
 
 ### Childhood: Erik's Home, Vornavia
 
-Erik Magnus Lehnsherr was a Jewish boy, gifted with academic intelligence, born to a lower-class Jewish family in the heart of **Vornavia**, a cold industrial nation still nursing its wounds from the war. It was 1970, but in Vornavia, time felt trapped between eras; the ruins of old battles standing beside the walls of new factories.
+Erik Magnus Lehnsherr was a Jewish boy, gifted with academic intelligence, born to a lower-class Jewish family in the heart of Vornavia, a cold industrial nation still nursing its wounds from the war. It was 1970, but in Vornavia, time felt trapped between eras; the ruins of old battles standing beside the walls of new factories.
 
 Erik lived with his father, mother, and elder sister in a cramped ghetto apartment. His sister worked long hours at small jobs so they could afford Erik's education, their one fragile hope for a better life. But Erik despised school. Not because he lacked curiosity, but because every day there felt like a punishment. His classmates mocked him for his name, his accent, and his faith. Even the teachers seemed to carry quiet contempt in their eyes, always finding a reason to humiliate him; a wrong answer, a late paper, a missing uniform button.
 
 When he complained, his father would place a hand on his shoulder and say:
 
-"Listen, Erik... people are misguided. They don't know what they're doing. They're still living in the past. But that will change; it must. Don't throw your life away because of their ignorance. Education is the only power a man can claim for himself... and you, my son, have that power."
+"Listen, Erik... people are sometimes misguided. They don't know what they're doing. They're still living in the past. But that will change; it must. Don't throw your life away because of their ignorance. Education is the only power a man can claim for himself... and you, my son, have that power."
 
 Erik never argued with him again after that. He would simply nod and join his family for dinner, pretending for a moment that life was normal.
 
@@ -146,7 +146,7 @@ The boy who once dreamed of a peaceful life was gone.
 
 ### Lab in a remote island
 
-When Erik awoke, he was no longer in Vornavia.  
+When Erik woke, he was no longer in Vornavia.  
 Cold white lights burned above him, and the sound of waves echoed faintly through the concrete. Through a small, barred window he could see an endless horizon of water. Later he would learn this was **Falcon Island**, a secret research base off the coast of Malta. The Vornavian military had handed him over to scientists who studied "genetic abnormalities."
 
 They told him he was _lucky to be alive._  
@@ -195,7 +195,7 @@ On paper, it was a refugee medical center.
 
 In practice, it was a sorting ground.
 
-Rows of temporary housing stretched across a windswept plain, fenced but not imprisoned, guarded but not militarized. Families displaced by wars, sanctions, and collapsed states lived here while being "evaluated." Medical tents stood beside prefabricated laboratories. Surveillance towers overlooked everything, not aggressively, but persistently.
+Rows of temporary housing stretched across a windswept plain, fenced but not imprisoned, guarded but not militarized. Families displaced by wars, sanctions, and collapsed states lived here while being _evaluated_. Medical tents stood beside prefabricated laboratories. Surveillance towers overlooked everything, not aggressively, but persistently.
 
 Erik arrived at the dusk.
 
@@ -237,7 +237,7 @@ Erik stiffened.
 
 He turned slowly.
 
-The man standing in the doorway was about his age, mid-twenties, perhaps a little older. Bald. Well-dressed, but casually so. His posture was relaxed; his expression openly curious rather than suspicious.
+The man standing in the doorway was about his age, mid-twenties, perhaps a little older. Bald, well-dressed, but casually so. His posture was relaxed; his expression openly curious rather than suspicious.
 
 "I'm sorry," the man added, raising his hands slightly. "I was looking for a medical coordinator. Wrong room."
 
@@ -289,9 +289,9 @@ Blue fur. Enlarged hands. Intelligent eyes filled with disbelief.
 
 **Hank McCoy**
 
-In the next cell, a girl watched silently, her form flickering for just a fraction of a second, face shifting, then returning.
+In the next cell, a woman with a scaled blue skin watched silently, her form flickering for just a fraction of a second, face shifting, then returning.
 
-**Raven** **Darkhölme**
+**Raven Darkhölme**
 
 Erik reached for the lock.
 
@@ -335,7 +335,7 @@ Then it wasn't.
 
 Water parted silently as a sleek; angular vessel rose just enough to reveal a hatch. Its surface absorbed light unnaturally, contours shifting as cloaking systems disengaged.
 
-High-tech. Purpose-built. Hidden in plain sight.
+High-tech, purpose-built, hidden in plain sight.
 
 Erik paused.
 
@@ -349,7 +349,7 @@ Charles smiled faintly.
 
 "Someone who's been looking for people like you for a very long time."
 
-The mutants boarded and the hatch sealed behind them; the vessel submerged smoothly, engines whisper-quiet.
+The mutants boarded and the hatch sealed behind them; the vessel submerged smoothly, engines whisper, quiet.
 
 The vessel angled westward, disappearing beneath the dark sea, toward a continent neither of them yet called home.
 
@@ -363,13 +363,13 @@ For a while, no one spoke.
 
 Most of the rescued mutants sat where they had first settled, too tired to move, too alert to sleep. Freedom, it turned out, was disorienting when you didn't trust it yet.
 
-**Erik Lehnsherr** stood near the forward bulkhead; eyes fixed on a schematic scrolling across one of the displays. He could feel the vessel as much as see it, the alloy composition, the precise calibration of its systems, the intentional restraint in its design.
+Erik stood near the forward bulkhead; eyes fixed on a schematic scrolling across one of the displays. He could feel the vessel as much as see it, the alloy composition, the precise calibration of its systems, the intentional restraint in its design.
 
 This wasn't any stolen technology.
 
 "You were already here," Erik said finally, without turning. "At the camp. Planning the rescue."
 
-Behind him, **Charles Xavier** sat calmly, hands resting on the armrests of his chair.
+Behind him, Charles sat calmly, hands resting on the armrests of his chair.
 
 "You are not the only one who wants to save our kind," Charles replied. "I've been planning an extraction for several days. Watching how the camp operated. Following the money. Identifying who was in charge."
 
@@ -385,7 +385,7 @@ Hank lifted his hand awkwardly. "I volunteered. They talk more freely when they 
 
 "You let them cage you," Erik said.
 
-Hank shrugged. "I wanted to about the environment inside the change and the prisoners so I can share it to Charles."
+Hank shrugged. "I wanted to learn about the environment inside the change and the prisoners so I can share it to Charles."
 
 That answer seemed to be a bit odd.
 
@@ -401,7 +401,7 @@ Erik exhaled slowly. "My name isn't just Magnus," he said. "It's Erik Magnus Leh
 
 A few heads turned.
 
-"I can manipulate magnetic fields," Erik went on. "Metal. Energy. Infrastructure. It's… broad." A pause. "I'm looking for someone. Or rather, for the people responsible for what was done to me."
+"I can manipulate magnetic fields," Erik went on. "Metal. Energy. Infrastructure. It's... broad." A pause. "I'm looking for someone. Or rather, for the people responsible for what was done to me."
 
 He didn't explain it further.
 
@@ -411,7 +411,7 @@ One by one, others began to speak, not because they were prompted, but because s
 
 A young man near the center leaned forward, rubbing his hands together.
 
-"Calvin Rankin," he said. "People call me Mimic." He hesitated. "I… pick things up. From others. Strength. Reflexes. Sometimes more than that." His jaw tightened. "I don't always know what's mine anymore."
+"Calvin Rankin," he said. "People call me Mimic." He hesitated. "I... pick things up. From others. Strength. Reflexes. Sometimes more than that." His jaw tightened. "I don't always know what's mine anymore."
 
 Charles nodded slowly. Erik watched him with open caution.
 
@@ -427,9 +427,9 @@ Erik's eyes lingered on him for a moment longer than necessary.
 
 In the corner, someone shifted uneasily.
 
-His face… wasn't consistent.
+His face... wasn't consistent.
 
-"I-" The man stopped. Swallowed. "Morph," he said eventually, as if choosing the word carefully. "I change. More than just how I look." His hands twitched faintly. "I don't always remember who I was before they started."
+"I-" The man stopped. Swallowed. "Morph," he said eventually, as if choosing the word carefully. "I change. More than just how I look." His hands twitched faintly. "I don't remember who I was before they started it."
 
 Raven watched him quietly, saying nothing.
 
@@ -439,7 +439,7 @@ Finally, a low voice came from the reinforced section of the hull.
 
 Everyone felt it when he spoke.
 
-"I don't want anything from any of you," **Victor Creed** continued. "They locked me up because they were scared." A grin, sharp and humorless. "They were right."
+"I don't want anything from any of you," Victor continued. "They locked me up because they were scared." A grin, sharp and humorless. "They were right."
 
 Erik stiffened. Charles raised his hand gently, not as a command, but as a reminder.
 
@@ -477,11 +477,11 @@ One of the younger mutants laughed under his breath. "This is real?"
 
 Someone else reached down and pressed their palm into the grass, as if expecting it to disappear.
 
-**Calvin Rankin** stayed close to the others, shoulders tight. The closer they got to the house, the more unsettled he looked. Too many people. Too many presences. He rubbed his arms like he was cold.
+Calvin stayed close to the others, shoulders tight. The closer they got to the house, the more unsettled he looked. Too many people. Too many presences. He rubbed his arms like he was cold.
 
-**Fred Dukes** snorted. "Figures. If you're gonna hide a secret world, might as well make it pretty."
+Fred snorted. "Figures. If you're gonna hide a secret world, might as well make it pretty."
 
-At the back of the group, **Erik Lehnsherr** said nothing.
+At the back of the group, Erik said nothing.
 
 He wasn't looking at the garden.
 
@@ -489,7 +489,7 @@ He was looking at the house, measuring it. What it took to build something like 
 
 And what kind of man planned this far ahead.
 
-He glanced once at **Charles Xavier,** walking calmly beside him.
+He glanced once at Charles Xavier, walking calmly beside him.
 
 _Curious_, Erik realized. Not impressed. Curious.
 
@@ -497,17 +497,17 @@ _Curious_, Erik realized. Not impressed. Curious.
 
 The mansion smelled like wood polish and old books. Lived in. Not a facility. Not a bunker.
 
-Charles and **Hank McCoy** split naturally, guiding people through the halls.
+Charles and Hank split naturally, guiding people through the halls.
 
 "No locks," Charles said as he showed one of the rooms. "If you need space, take it."
 
-Hank lingered a moment longer with **Morph**, who stood in the doorway staring at his reflection in a mirror that didn't distort.
+Hank lingered a moment longer with Morph, who stood in the doorway staring at his reflection in a mirror that didn't distort.
 
-"If anything feels… unstable," Hank said gently, "come find me."
+"If anything feels... unstable," Hank said gently, "come find me."
 
 Morph nodded. Then he frowned. Then nodded again; like he wasn't sure which response belonged to him.
 
-Down the hall, **Raven Darkhölme** watched everything without comment. She clocked exits. Cameras. Lines of sight. When a maid passed, Raven's posture shifted just slightly; blending, already.
+Down the hall, Raven watched everything without comment. She clocked exits. Cameras. Lines of sight. When a maid passed, Raven's posture shifted just slightly; blending, already.
 
 Blob dropped his bag on a bed and didn't unpack.
 
@@ -535,7 +535,7 @@ They gathered loosely; not seated, not formal.
 
 Victor Creed arrived at last.
 
-**Creed** had somehow found a bottle of beer and a cigar. He leaned against a counter like he owned the place, smoke curling lazily toward the ceiling.
+Creed had somehow found a bottle of beer and a cigar. He leaned against a counter like he owned the place, smoke curling lazily toward the ceiling.
 
 "No offense, Professor," he said, cracking the bottle open, "but this feels like a lecture."
 
@@ -559,7 +559,7 @@ A name appeared.
 
 Mimic leaned forward. "He did the camp?"
 
-"He funded the people who funded it," Charles replied. "He prefers distance."
+"He funds the people who funds it," Charles replied. "He prefers distance."
 
 Victor laughed. "Smart."
 
@@ -635,7 +635,7 @@ He turned to leave.
 
 The lab emptied slowly.
 
-Victor Creed was the first to go. He didn't argue. Didn't linger. The cigar was gone; the beer bottle left behind like an afterthought. He laughed once on his way out, short, sharp, and disappeared down the corridor without looking back.
+Victor was the first to go. He didn't argue. Didn't linger. The cigar was gone; the beer bottle left behind like an afterthought. He laughed once on his way out, short, sharp, and disappeared down the corridor without looking back.
 
 Jason and the unnamed mutants followed in quieter ways. No confrontation. No speeches. Just exhaustion. A need to be anywhere that wasn't part of a plan.
 
@@ -675,19 +675,19 @@ If Shaw continued, more places would burn. More camps would fill. More children 
 
 Across the mansion, others lay awake.
 
-**Raven Darkhölme** sat on the edge of her bed; cataloging exits she didn't intend to use. She had seen men like Shaw before. Men who hid behind systems. Charles was different. That difference mattered.
+Raven sat on the edge of her bed; cataloging exits she didn't intend to use. She had seen men like Shaw before. Men who hid behind systems. Charles was different. That difference mattered.
 
-**Fred Dukes** stared at the ceiling; arms folded over his chest. He didn't believe in dreams. But he believed in fewer cages.
+Fred stared at the ceiling; arms folded over his chest. He didn't believe in dreams. But he believed in fewer cages.
 
-**Morph** caught his reflection in the mirror again, and this time it didn't turn away. The face looking back was tiring. But it was still _there_.
+Morph caught his reflection in the mirror again, and this time it didn't turn away. The face looking back was tiring. But it was still _there_.
 
-**Calvin Rankin** sat cross-legged on the floor, palms pressed against his knees, trying to feel where his own thoughts ended, and others didn't begin. For the first time, the noise was quieter.
+Calvin sat cross-legged on the floor, palms pressed against his knees, trying to feel where his own thoughts ended, and others didn't begin. For the first time, the noise was quieter.
 
 No one slept.
 
 ### **Morning**
 
-Sunlight filtered through the tall windows as **Charles Xavier** and **Hank McCoy** walked toward the lab.
+Sunlight filtered through the tall windows as Charles and Hank walked toward the lab.
 
 Neither spoke.
 
@@ -709,7 +709,7 @@ Charles listened.
 
 Erik paused, choosing his words carefully.
 
-"I don't trust the world," he said. "But I trust that this…" He gestured around them. "This might prevent it from breaking more people."
+"I don't trust the world," he said. "But I trust that this..." He gestured around them. "This might prevent it from breaking more people."
 
 He raised his hand; not demanding, not dramatic.
 
@@ -749,7 +749,7 @@ Erik walked around slowly.
 
 Charles nodded. "Trying to."
 
-Hank adjusted a panel on the side, fingers moving with familiarity. "Prototype is the right word. It's incomplete. Temperamental. And absolutely not ready for extended use."
+Hank adjusted a panel on the side, fingers moving with familiarity. "Prototype is the right word. It's incomplete, temperamental and absolutely not ready for extended use."
 
 Erik glanced at him. "That usually means you're close."
 
@@ -779,9 +779,9 @@ Light.
 
 Points of blue shimmered into existence above the platform, scattered like constellations. Some pulsed faintly. Others burned steadily and strong. They weren't static; they _moved_, responding to something unseen.
 
-Mimic's breath caught. "Those are… people?"
+Mimic's breath caught. "Those are... people?"
 
-Charles' voice came distant, strained, but controlled. "Mutants. Signatures. Everywhere."
+Charles' voice came distant, strained, but controlled. "These are brainwave frequencies from all the living beings nearby."
 
 Among the blue, flashes of red flickered.
 
@@ -855,21 +855,17 @@ Cerebro stood dormant at the center of the room, its metal surfaces cooling, its
 
 Charles paused near the doorway. "It won't take long."
 
-Hank shook his head. "That's what worries me." He glanced up at Charles. "You just reached farther than you ever have. I need to make sure nothing… lingers."
+Hank shook his head. "That's what worries me." He glanced up at Charles. "You just reached farther than you ever have. I need to make sure nothing... lingers."
 
-Charles nodded. He understood.
+"I'll have to stay," Hank said firmly. "If there's another feedback loop, I want to catch it before it becomes a pattern."
 
-"I'll stay," Hank said firmly. "If there's another feedback loop, I want to catch it before it becomes a pattern."
-
-Charles says before he leaves the room, "Thank you."
+Charles nodded. He understood. Before he leaves the room he says, "Thank you."
 
 Hank smiled faintly. "Just don't bring back another apocalypse before dinner."
 
 Charles exhaled; the closest he came to laughter.
 
-As Charles turned toward the outside door, Erik voice came from behind, as he followed him from the lab.
-
-"I'll come with you," **Erik Lehnsherr** said.
+As Charles turned toward the outside door, Erik voice came from behind, as he followed him from the lab, "I'll come with you," he said.
 
 Charles studied him for a moment. "You don't have to."
 
@@ -883,7 +879,7 @@ The car slowed as it turned onto a quiet residential street.
 
 No sirens. No crowds. Just trimmed hedges, a cracked sidewalk, and a house that looked like it had always been there. Ordinary in the way that made suffering invisible.
 
-**Erik Lehnsherr** watched the place through the windshield.
+Erik watched the place through the windshield.
 
 "She's here," Charles said softly.
 
@@ -897,13 +893,13 @@ A woman stood there, tired eyes, shoulders held too stiff. A man appeared behind
 
 "Yes?" the woman asked.
 
-"My name is Charles Xavier," Charles said gently. "This is Erik Lehnsherr. We're… friends." A pause. "We're here because we believe your daughter may need help."
+"My name is Charles Xavier," Charles said gently. "This is Erik Lehnsherr. We're... friends." A pause. "We're here because we believe your daughter may need help."
 
 The parents exchanged a look.
 
 "We know who you are," the man said quietly. "We were thinking of coming to see you."
 
-The woman stepped aside. "She hasn't spoken to anyone. She came home from school and just… stopped." Her voice broke slightly. "She's in her room."
+The woman stepped aside. "She hasn't spoken to anyone. She came home from school and just... stopped." Her voice broke slightly. "She's in her room."
 
 They led them down the hall.
 
@@ -937,7 +933,7 @@ Charles did.
 
 He moved slowly, making sure she saw him before he spoke.
 
-"Jean," Charles said softly. "We've… met before. Not like this." A faint smile. "You reached out. I heard you."
+"Jean," Charles said softly. "We've... met before. Not like this." A faint smile. "You reached out. I heard you."
 
 Her eyes didn't move.
 
@@ -955,11 +951,11 @@ Her eyes finally shifted, locking onto him.
 
 "You're not broken," Charles said gently. "You're gifted. And gifts can be overwhelming when they come too early."
 
-He placed a hand lightly over her head.
+He placed a hand lightly over her temple.
 
 "Breathe," he said. "Just for a moment. Focus on my voice."
 
-Then he placed his finger from his other hand on his own head.
+Then he placed his finger from his other hand on his own temple.
 
 The tension in her shoulders eased, just slightly.
 
@@ -999,7 +995,7 @@ But as a **practice**.
 
 Inside the lab, the damage still felt fresh, metal warped; glass fractured, the air carrying the faint hum of systems struggling to stay alive.
 
-Hank moved with purpose, barking quiet instructions as **Morph**, **Blob**, and **Mimic** ferried crates of components and tools, stacking them carefully near the sealed doors of Cerebro. Raven stayed close to Hank, watching the room with sharp, restless eyes.
+Hank moved with purpose, barking quiet instructions as Morph, Blob, and Mimic ferried crates of components and tools, stacking them carefully near the sealed doors of Cerebro. Raven stayed close to Hank, watching the room with sharp, restless eyes.
 
 When the doors opened again, the atmosphere shifted.
 
@@ -1043,7 +1039,7 @@ For the first time since Jean collapsed, he wasn't listening to thoughts.
 
 Only to structure.
 
-He raised his hand to touch his head, connecting the minds of Hank and Erik, eyes closed to focus.
+He raised his hand to touch his temple, connecting the minds of Hank and Erik, eyes closed to focus.
 
 "Begin with the neural dampeners," Hanks voices heard at last, inside Erik's mind. His voice was low, measured. "They're misaligned. If we rush them, the feedback loop will destabilize everything else."
 
@@ -1063,7 +1059,7 @@ What should have been mechanical became almost intimate.
 
 Hank spoke in fragments, measurements, angles, tolerances, but beneath them was something else: trust. He wasn't correcting Erik. He was thinking with him.
 
-Erik felt it. Not telepathy, coordination.
+Erik felt it. Not just telepathy, coordination.
 
 He reinforced a joint before Hank mentioned it, anticipating a correction before it was spoken. The room began to rebuild not as it was, but as it should have been.
 
@@ -1087,7 +1083,7 @@ Finally, only the console and helmet remained.
 
 Erik reconstructed the console piece by piece, tightening the last connection with surgical care. The helmet followed; polished, rebalanced, restored.
 
-When it was done, Erik lifted it gently and held it out.
+When it was done, Erik lifted the helmet gently and held it out.
 
 "Your turn."
 
@@ -1105,7 +1101,7 @@ The others entered quietly.
 
 Jean stepped forward; awe widened her eyes as Hank came forward and took her hands, grounding her.
 
-"That's… everyone?" She whispered.
+"That's... everyone?" She whispered.
 
 "Not just mutants," Hank said gently. "Potential. Connections. Life."
 
@@ -1123,49 +1119,299 @@ It was **listening**.
 
 ### **1\. Raven**
 
-The training room was empty when Raven arrived.
+The danger room was dark.
 
-She preferred it that way.
+By the time the lights came on, Raven was already gone.
 
-Mirrors lined up one wall, deliberate, unkind. Raven stood before them, shifting forms with ease: height, posture, face. A guard. A woman. A man. Someone unremarkable. Someone forgettable.
+Or so it seemed.
 
-She never stayed the same for long.
+A security officer stood near the exit.
 
-"You're fast," **Erik Lehnsherr** said from the doorway.
+A scientist worked at a terminal.
 
-Raven didn't turn. "Fast keeps you alive."
+A maintenance worker pushed a cart through the corridor.
 
-Erik crossed his arms. "So does commitment."
+Then all three became Raven.
 
-That made her pause.
+Charles smiled behind the observation glass.
 
-"You don't like holding a form," Erik continued. "It makes you predictable."
+"Thirty-seven seconds."
 
-She finally faced him. "It makes me _seen_."
+Hank looked impressed.
 
-Before Erik could reply, **Charles Xavier** spoke gently.
+"Three objectives completed. Zero detections."
 
-"Try something different," Charles said. "Don't become someone else. Stay as you are."
+Erik remained silent.
 
-Raven laughed softly. "That's not training. That's exposure."
+Raven dropped from the ceiling behind them.
 
-Charles nodded. "Exactly."
+"You wanted stealth training."
 
-She resisted. Her skin rippled instinctively, then stilled. For a moment, she stood in her true form, tense, waiting for something to break.
+"No," Erik said.
 
-Nothing did.
+"I wanted to see if you'd stop."
 
-Erik looked at her carefully.
+Raven frowned.
 
-"You're not weaker like this," he said. "You're choosing when to move."
+The room shifted.
 
-Raven exhaled slowly.
+New simulation.
 
-She didn't change again for the rest of the session.
+New mission.
+
+A heavily guarded compound.
+
+Raven moved immediately.
+
+A soldier.
+
+A commander.
+
+A civilian.
+
+Every door opened.
+
+Every checkpoint passed.
+
+Every obstacle disappeared.
+
+Perfect.
+
+Again.
+
+And again.
+
+Every scenario ended the same way.
+
+Not a single mistake.
+
+Not a single failure.
+
+Finally the simulation ended.
+
+Raven folded her arms.
+
+"Was there a point to this?"
+
+"There was," Charles said.
+
+"You never entered a room as yourself."
+
+The words landed harder than she expected.
+
+Raven looked away.
+
+"Because that would be stupid."
+
+"Would it?" Charles asked.
+
+"Your skills would remain."
+
+"My powers remain."
+
+"My experience remains."
+
+"Everything remains."
+
+Raven's expression hardened.
+
+"You don't understand."
+
+The room fell silent.
+
+For a moment, nobody spoke.
+
+Then Erik stepped forward.
+
+"Then help us understand."
+
+Something dangerous flickered behind her eyes.
+
+The kind of anger built from old wounds.
+
+"You want honesty?"
+
+Neither man interrupted.
+
+Raven laughed bitterly.
+
+"I learned a long time ago what happens when people see what I really am."
+
+The blue skin appeared for only a second before shifting away again.
+
+"You get stared at."
+
+Shift.
+
+"You get feared."
+
+Shift.
+
+"You get hunted."
+
+Shift.
+
+"You get told you're a mistake."
+
+Another face.
+
+Another voice.
+
+Another mask.
+
+Anything but her own.
+
+Charles watched quietly.
+
+Not reading her mind.
+
+Simply listening.
+
+Raven continued.
+
+"When people love the disguise and hate the person underneath..."
+
+Her voice faltered.
+
+"...eventually you stop showing them the person underneath."
+
+The room was completely silent now.
+
+For the first time, nobody was looking at the transformations.
+
+They were looking at her.
+
+The real her.
+
+Erik took a slow breath.
+
+"I know."
+
+Raven scoffed.
+
+"No. You don't."
+
+Erik was quiet for a moment.
+
+Then he nodded.
+
+"No."
+
+The admission caught her off guard.
+
+"I don't."
+
+He stepped closer.
+
+"I don't know what it's like to spend your life hiding behind someone else's face."
+
+Raven looked away.
+
+"Then don't pretend you understand."
+
+"I understand enough."
+
+She folded her arms.
+
+Erik continued.
+
+"I know what it's like to wake up every morning knowing the world would fear you if it knew what you were."
+
+His voice remained calm.
+
+"I know what it's like to spend years deciding whether survival is worth more than honesty."
+
+Raven didn't answer.
+
+"And I know what happens when fear starts making your decisions for you."
+
+The room became very still.
+
+"Fear doesn't just hide you from the world."
+
+Erik looked directly at her.
+
+"Eventually it hides you from yourself."
+
+Raven looked away.
+
+Charles finally spoke.
+
+"Raven."
+
+No Professor Xavier.
+
+No leader.
+
+Just Charles.
+
+"You have spent your entire life becoming whoever the world needed."
+
+She swallowed.
+
+"And?"
+
+"When was the last time you allowed yourself to be Raven?"
+
+No answer came.
+
+Because she didn't know.
+
+The silence stretched.
+
+Then slowly...
+
+The shifting stopped.
+
+Blue skin.
+
+Yellow eyes.
+
+Red hair.
+
+No disguise.
+
+No performance.
+
+No armor.
+
+Just Raven.
+
+The room remained exactly the same.
+
+Nobody recoiled.
+
+Nobody stared.
+
+Nobody turned away.
+
+Hank simply smiled.
+
+Charles looked proud.
+
+Erik nodded once.
+
+As though she had just completed the most difficult exercise of the day.
+
+Because she had.
+
+Raven stood there for several seconds.
+
+Waiting for rejection.
+
+Waiting for judgment.
+
+Waiting for history to repeat itself.
+
+It didn't.
+
+For the first time in years, she wasn't hiding.
+
+And for the first time in years, nobody asked her to.
 
 ### **2\. Blob**
 
-The reinforced platform groaned under **Fred Dukes**'s weight.
+The reinforced platform groaned under Fred Dukes's weight.
 
 "I'm telling you," Blob muttered, "this ends with something breaking."
 
@@ -1197,89 +1443,429 @@ For the first time, he smiled; not proud, but securely.
 
 ### **3\. Mimic**
 
-Calvin Rankin hated training alone.
+The training room looked more like a gym than a danger room.
 
-That's why Charles insisted on it.
+No energy blasts.
 
-The room was quiet. No one else was inside. Mimic stood at the center, hands clenched, feeling nothing to copy. No strength to borrow. No reflexes bleeding in.
+No giant robots.
 
-"I can't do anything," Mimic said, panic creeping in.
+Just mats.
 
-"You can," Charles replied from behind the glass. "You're just used to reacting."
+Calvin hated it.
 
-Mimic tried anyway. Nothing happened.
+"This is pointless," he muttered.
 
-Erik entered the room.
+Across from him, Mystique rolled her shoulders.
 
-"Hit me," Erik said.
+"Good," she said.
 
-Mimic blinked. "What?"
+"What?"
 
-"Don't copy," Erik clarified. "Decide."
+"If you hate it, it means we're finally working on the right thing."
 
-Mimic hesitated-then threw a punch. It was clumsy, human, and weak.
+Calvin groaned.
 
-Erik caught it easily.
+"How am I supposed to train? Nobody has powers turned on."
 
-"And again," Erik said. "Without apology."
+Behind the observation glass, Hank adjusted his glasses.
 
-Something clicked.
+"That is the point."
 
-Mimic didn't copy Erik's power; he adjusted. Stance improved. Balance shifted. Not borrowed. Learned.
+Charles sat beside him.
 
-Charles smiled faintly.
+"For years you've measured yourself by what other people gave you," Charles said through the speaker. "Today we're measuring what remains afterward."
 
-"You're not empty without others," Charles said. "You're unfinished."
+Calvin folded his arms.
 
-Mimic breathed hard, but steadily now.
+"Nothing remains afterward."
 
-For the first time, being alone didn't feel like disappearing.
+Mystique smirked.
+
+"We'll see."
+
+She attacked.
+
+No warning.
+
+One moment she was standing still.
+
+The next she was moving.
+
+A sweep.
+
+A feint.
+
+An elbow.
+
+Calvin barely blocked the first strike before landing hard on the mat.
+
+Again.
+
+And again.
+
+And again.
+
+For nearly an hour.
+
+Each time Mystique moved, Calvin felt his mutation react.
+
+Not powers.
+
+Patterns.
+
+Balance.
+
+Timing.
+
+The way her weight shifted before a kick.
+
+The angle of her shoulders before a throw.
+
+The rhythm of her breathing.
+
+His mind absorbed everything.
+
+At first unconsciously.
+
+Then deliberately.
+
+Eventually he stopped thinking.
+
+His body simply knew.
+
+The next attack came.
+
+Calvin slipped aside.
+
+Countered.
+
+Blocked.
+
+For the first time, Mystique actually had to work.
+
+She smiled.
+
+"There you are."
+
+Calvin stared.
+
+"What just happened?"
+
+"You learned."
+
+"No. I copied."
+
+Mystique shook her head.
+
+"If I walk out that door right now, can you still do it?"
+
+Calvin hesitated.
+
+Then repeated the movement.
+
+Perfectly.
+
+Mystique folded her arms.
+
+"That's not copying."
+
+Behind the glass, Hank grinned.
+
+"Your neural adaptation rate is extraordinary. Once your brain understands a skill, it retains it."
+
+Calvin looked confused.
+
+"So what?"
+
+"So," Erik's voice interrupted as he entered the room, "you've spent your entire life obsessing over powers."
+
+Everyone turned toward him.
+
+Erik stopped a few feet away.
+
+"You stand beside strong people and see yourself as less."
+
+Calvin looked away.
+
+"Because I am less."
+
+"No," Erik said firmly.
+
+"You stand beside masters."
+
+The room fell silent.
+
+Erik pointed toward Mystique.
+
+"She spent decades learning how to fight."
+
+Then toward Hank.
+
+"He spent years mastering science."
+
+Then toward Charles.
+
+"He spent a lifetime mastering his mind."
+
+Erik stepped closer.
+
+"And you can learn from all of them."
+
+Calvin frowned.
+
+"Temporarily."
+
+"Perhaps," Erik said.
+
+"But every lesson leaves a mark."
+
+Hank nodded.
+
+"The powers may fade. The knowledge doesn't."
+
+Charles smiled softly.
+
+"For most people, experience takes years. For you, it takes moments."
+
+The realization slowly settled over Calvin.
+
+He had always focused on what disappeared.
+
+The strength.
+
+The speed.
+
+The abilities.
+
+He had never considered what stayed.
+
+Skills.
+
+Techniques.
+
+Experience.
+
+Understanding.
+
+Mystique tossed him a practice baton.
+
+"Again."
+
+This time Calvin caught it cleanly.
+
+No hesitation.
+
+No self-doubt.
+
+Just instinct.
+
+Not borrowed.
+
+Earned.
+
+For the first time in his life, Calvin wasn't thinking about what he lacked.
+
+He was thinking about what he could become.
 
 ### **4\. Morph**
 
-Morph stood in the corner, half-shifted, uncertain which face to keep.
+The danger room became a stage.
 
-Every emotion in the room tugged at him, fear, resolve, irritation. His body reacted faster than his thoughts.
+"Again," Hank said.
 
-"Stop changing," Erik said sharply.
+Morph grinned.
 
-Morph flinched.
+His body twisted.
 
-"I didn't mean that," Erik corrected. "I mean stop _responding_."
+Erik.
 
-Charles approached slowly. "You don't need to prove adaptability," he said. "You already survived."
+Perfect posture.
 
-Morph's form flickered.
+Perfect expression.
 
-"Look at me," Charles said.
+Perfect voice.
 
-Morph tried. Failed. Then he tried again.
+A second later he became Raven.
 
-"You don't have to be useful," Charles continued. "You just have to be present."
+Then Charles.
 
-Erik watched, arms crossed, then spoke quietly. "Hold one form. Any form. Five seconds."
+Then Hank.
 
-Morph nodded shakily.
+The transitions were flawless.
 
-Five seconds passed.
+No hesitation.
 
-Then ten.
+No effort.
 
-His breathing slowed.
+"Remarkable," Hank admitted.
 
-Hank's voice cut-in soft. "That's stability."
+Morph bowed dramatically.
 
-Morph laughed once, short, disbelieving.
+"Thank you, thank you."
 
-"It didn't hurt," he said.
+His body shifted again.
 
-Erik nodded. "Discipline rarely does."
+A wolf.
 
-Charles met Morph's eyes. "You're still you. Even when you stop changing."
+A hawk.
 
-Morph didn't answer.
+A chair.
 
-But he didn't shift again.
+A metal crate.
+
+Back to human.
+
+The room applauded politely.
+
+Morph smiled.
+
+For a moment, he looked genuinely happy.
+
+Then Charles asked:
+
+"Can you show us Morph?"
+
+The smile vanished.
+
+Silence.
+
+Morph laughed nervously.
+
+"You just saw him."
+
+"No," Charles said gently.
+
+"I saw everyone else."
+
+The room became still.
+
+Morph's body flickered.
+
+Erik.
+
+Raven.
+
+A stranger.
+
+A child.
+
+Back again.
+
+Each form lasted less than a second.
+
+"Stop."
+
+Charles' voice wasn't harsh.
+
+It didn't need to be.
+
+Morph froze.
+
+His skin settled into its pale, featureless state.
+
+White eyes.
+
+Smooth skin.
+
+No hair.
+
+No identity.
+
+No history.
+
+Just the shape left behind.
+
+He looked away immediately.
+
+"There."
+
+Nobody spoke.
+
+Morph folded his arms.
+
+Unable to meet anyone's eyes.
+
+"Happy now?"
+
+The joke landed weakly.
+
+Nobody laughed.
+
+Charles stepped closer.
+
+"Why do you hate this form?"
+
+Morph swallowed.
+
+Because the answer came too quickly.
+
+"Because it isn't me."
+
+Charles tilted his head.
+
+"Then who is it?"
+
+No response.
+
+Morph stared at the floor.
+
+He genuinely didn't know.
+
+The silence stretched.
+
+Erik looked directly at him.
+
+"You think identity comes from appearance."
+
+A pause.
+
+"It doesn't."
+
+Morph looked down at his hands.
+
+His pale hands.
+
+The only ones that were truly his.
+
+Or perhaps not.
+
+He wasn't sure anymore.
+
+Charles stepped beside him.
+
+"Your face isn't missing."
+
+Morph looked up.
+
+"It isn't?"
+
+"No."
+
+Charles smiled softly.
+
+"You simply haven't finished discovering it."
+
+The words lingered.
+
+Not a solution.
+
+Not a miracle.
+
+Just a possibility.
+
+For the first time, Morph looked at his reflection.
+
+Not as a mistake.
+
+Not as a monster.
+
+Not as an unfinished copy.
+
+Just a question he hadn't answered yet.
+
+And somehow…
+
+That felt a little less frightening.
 
 ### **End Beat**
 
@@ -1301,15 +1887,15 @@ Cerebro hummed with a steadier rhythm now.
 
 Not calm, focused.
 
-**Charles Xavier** sat at the center of the platform, helmet lowered, posture relaxed but alert. Around him, the room glowed faintly with projected clusters; blue constellations scattered across the map, some pulsing gently, others flickering with urgency.
+Charles sat at the center of the platform, helmet lowered, posture relaxed but alert. Around him, the room glowed faintly with projected clusters; blue constellations scattered across the map, some pulsing gently, others flickering with urgency.
 
 They are trying to find heavy concentrations of red points; mutants held captives.
 
-**Hank McCoy** adjusted the readings on the side console. "Signal clarity is improving. Less bleed. You're not reaching blindly anymore."
+Hank adjusted the readings on the side console. "Signal clarity is improving. Less bleed. You're not reaching blindly anymore."
 
-Charles nodded. "They're… easier to hear."
+Charles nodded. "They're... easier to hear."
 
-At the far wall, **Erik Lehnsherr** studied the map like a battlefield. "These aren't random," he said. "They're grouped. Someone's moving assets."
+At the far wall, Erik studied the map like a battlefield. "These aren't random," he said. "They're grouped. Someone's moving assets."
 
 Charles exhaled. "Then we move faster."
 
@@ -1381,67 +1967,319 @@ But he followed them.
 
 The signal was wrong.
 
-Contained. Controlled. Almost… resigned.
+Contained.
 
-Charles hesitated. "This one's still inside."
+Controlled.
 
-Erik frowned. "Why wouldn't he run?"
+Almost… resigned.
 
-"Because he's choosing not to," Charles replied.
+Charles hesitated.
 
-The facility was smaller. Older. Purpose-built.
+"This one's still inside."
 
-They breached cleanly.
+Erik frowned.
 
-Inside a reinforced cell sat a man, scarred, armored in restraint gear that hummed with residual energy. He didn't look up when the door opened.
+"Why wouldn't he run?"
 
-"Extraction window is open," Erik said. "Move."
+The facility was smaller than the others.
 
-The man laughed once. "I'm not going anywhere."
+Older.
 
-Charles stepped forward, dismissing the others with a glance.
+Purpose-built.
 
-"Why stay?" Charles asked.
+They breached the final door.
 
-"Because I know what happens outside," the man said calmly. "You save ten. They catch twenty more."
+Inside sat a man in a reinforced chair.
+
+Restraints wrapped around his arms and chest. A metal housing was fused into his midsection; cables feeding into the walls around him.
+
+The machinery hummed steadily.
+
+Not containing him.
+
+Using him.
+
+The man didn't look up.
+
+"Extraction window is open," Erik said.
+
+"Move."
+
+A dry laugh escaped him.
+
+"Not happening."
+
+Charles stepped forward.
+
+The man finally raised his head.
+
+Scarred.
+
+Tired.
+
+Military posture despite everything.
+
+"Lucas Bishop."
+
+Charles nodded.
+
+"I'm Charles."
+
+"I know who you are."
+
+His eyes shifted briefly toward Erik.
+
+"And I know who he is."
 
 Silence.
 
-"I'm Lucas," he added. "They call me Bishop."
+Charles glanced at the machinery.
 
-**Lucas Bishop**.
+"They did this to you?"
 
-Charles felt the weight of him; not just pain, but endurance shaped into habit.
+Bishop looked down at the blaster attached to his body.
 
-"You don't owe them your suffering," Charles said.
+"They improved it."
 
-Bishop finally looked up. "You think I don't know that?"
+The bitterness in his voice answered the question.
 
-Charles held out his hand anyway.
+"Why stay?" Charles asked.
 
-Not pleading. Not commanding.
+Bishop was quiet for a moment.
 
-An offer.
+Then:
 
-Bishop stared at it for a long moment.
+"Because I already tried leaving."
 
-Then, slowly, he took it.
+Nobody spoke.
 
-### **Training Continues**
+"My family paid for it."
+
+That was all he said.
+
+It was enough.
+
+The room fell silent.
+
+Erik's expression hardened immediately.
+
+Charles looked at Bishop.
+
+"And now?"
+
+Bishop shrugged.
+
+"Now they get what they want."
+
+His hand tapped the metal housing attached to his torso.
+
+"A battery doesn't run away."
+
+Charles followed his gaze.
+
+Then shook his head.
+
+"No."
+
+Bishop frowned.
+
+"No?"
+
+Charles met his eyes.
+
+"A battery is a thing."
+
+A pause.
+
+"You're a man."
+
+For the first time, Bishop looked genuinely annoyed.
+
+"You think that's supposed to help?"
+
+"No."
+
+Charles answered honestly.
+
+"I think you've spent so long surviving this place that you've started describing yourself the way they do."
+
+The words landed.
+
+Not dramatically.
+
+Just enough.
+
+Charles extended a hand.
+
+"We're leaving."
+
+Bishop stared at it.
+
+Then at the cables.
+
+Then at the reinforced walls.
+
+The years.
+
+The guilt.
+
+The resignation.
+
+Finally he exhaled.
+
+"You're gonna need tools."
+
+Hank smiled through the comm.
+
+"Now that sounds like progress."
+
+For the first time, a faint smile crossed Bishop's face.
+
+Then he reached for Charles' hand.
+
+Training Continues
 
 Bishop didn't trust the mansion.
 
-Didn't unpack. Didn't sleep.
+Didn't unpack.
+
+Didn't sleep.
 
 Erik respected that immediately.
 
-They trained him differently, with short bursts. Hard boundaries. No promises.
+They trained him differently.
 
-"You absorb," Erik said. "That means you choose what hurts you."
+Short bursts.
 
-Bishop nodded. "About time someone said that."
+Hard boundaries.
 
-Banshee trained on the cliffs, learning to modulate instead of suppressing. Charles helped him find rhythm. Hank helped him map strain. Erik taught him when _not_ to fly.
+No promises.
+
+The first week was mostly observation.
+
+The second was frustration.
+
+The blaster attached to Bishop's torso had become part of him over the years. Not biologically, but practically. Removing it entirely would be dangerous.
+
+So Hank did the next best thing.
+
+He redesigned it.
+
+When Bishop entered the lab, the original unit sat disassembled across a workbench.
+
+"You took it apart?"
+
+Hank didn't look up.
+
+"It was offensive."
+
+Bishop raised an eyebrow.
+
+"It was a weapon."
+
+"Exactly."
+
+Several hours later, Hank handed him a replacement.
+
+Smaller.
+
+Cleaner.
+
+Detachable.
+
+The power couplings locked into a reinforced harness rather than directly into his body.
+
+Bishop turned it over in his hands.
+
+"You built this?"
+
+Hank adjusted his glasses.
+
+"I improved it."
+
+That sounded more like Hank.
+
+A few days later they tested it.
+
+The danger room shifted into a reinforced firing range.
+
+Bishop stood at one end.
+
+The new blaster mounted to his forearm.
+
+Across from him, a modified emitter constructed by Hank powered up.
+
+"Ready?" Hank asked.
+
+"No."
+
+"Excellent."
+
+The emitter fired.
+
+A concentrated energy bolt struck Bishop square in the chest.
+
+Instinctively he tensed.
+
+The energy disappeared into him.
+
+The room lights flickered.
+
+The power didn't vanish.
+
+It accumulated.
+
+Stored.
+
+Contained.
+
+Bishop's muscles tightened.
+
+His breathing changed.
+
+"Now," Erik said.
+
+Bishop raised the blaster.
+
+A beam erupted across the room.
+
+The target disintegrated instantly.
+
+Silence.
+
+Hank checked the readings.
+
+"Efficient transfer."
+
+Bishop stared at the weapon.
+
+Then at the empty space where the target used to be.
+
+For the first time since arriving at the mansion, he looked impressed.
+
+"Again," he said.
+
+Erik allowed himself a faint smile.
+
+"There he is."
+
+Over the following weeks, the exercises became harder.
+
+More energy.
+
+More control.
+
+More choice.
+
+"You absorb," Erik said during one session.
+
+"That means you choose what hurts you."
+
+Bishop nodded.
+
+"About time someone said that."
+
+Nearby, Banshee trained on the cliffs, learning to modulate instead of suppressing. Charles helped him find rhythm. Hank helped him map strain. Erik taught him when not to fly.
 
 Progress was uneven.
 
@@ -1541,15 +2379,15 @@ The screen went dark.
 
 Shaw turned toward the final display, a grid of holding facilities, each containing lives reduced to numbers.
 
-"So many variables," Shaw murmured. "And yet… so predictable."
+"So many variables," Shaw murmured. "And yet... so predictable."
 
 ### **The Mansion**
 
 Night fell quietly at Xavier's estate.
 
-The chessboard sat between **Charles Xavier** and **Erik Lehnsherr**. Pieces mid-game. No rush.
+The chessboard sat between Charles and Erik. Pieces mid-game. No rush.
 
-Across the room, **Hank McCoy** knelt beside **Jean Grey**, observing carefully as small objects floated above her hands, toys wobbling, responding to her focus.
+Across the room, Hank knelt beside Jean, observing carefully as small objects floated above her hands, toys wobbling, responding to her focus.
 
 "Very good," Hank said gently. "You're controlling direction now."
 
@@ -1563,11 +2401,11 @@ Not physically.
 
 Psychically.
 
-Charles' eyes unfocused as a presence pressed against his mind; precise, elegant, and invasive.
+Charles's eyes unfocused as a presence pressed against his mind; precise, elegant, and invasive.
 
 _Charles Xavier,_ a voice said.
 
-**Emma Frost** stood before him; not physically, but vividly.
+Emma Frost stood before him; not physically, but vividly.
 
 _Sebastian would like to speak with you._
 
@@ -1621,7 +2459,7 @@ Hank rushed forward. "Get him to the medical room now!"
 
 Charles lay on the stretcher moments later, oxygen mask hissing softly, body still but breathing.
 
-Hank checked vitals frantically. "Psychic shock. Severe. He's… withdrawn."
+Hank checked vitals frantically. "Psychic shock. Severe. He's... withdrawn."
 
 Erik stood over him, fists clenched, jaw tight.
 
@@ -1641,11 +2479,11 @@ And this time, he would not ask.
 
 ### Morning
 
-The lab was still half-dark when **Hank McCoy** entered.
+The lab was still half-dark when Hank entered.
 
 Cerebro stood dormant at the center of the room, its surface cold; lights dimmed to a low, steady glow. Papers were spread across one of the worktables; maps, signal clusters, timelines, and hand-marked notes.
 
-**Erik Lehnsherr** stood over them, folding the last sheet carefully, deliberately, before slipping it into the inside pocket of his jacket.
+Erik stood over them, folding the last sheet carefully, deliberately, before slipping it into the inside pocket of his jacket.
 
 Around him, the others moved with purpose.
 
@@ -1659,7 +2497,7 @@ Hank's eyes flicked to the papers. "That's Cerebro data."
 
 "Yes," Erik replied. "Everything we need."
 
-**Raven Darkhölme** fastened a blade at her wrist. "Shaw crossed a line," she said. "We're not letting it stand."
+Raven fastened a blade at her wrist. "Shaw crossed a line," she said. "We're not letting it stand."
 
 Hank took a step forward. "This isn't what Charles would want."
 
@@ -1675,7 +2513,7 @@ Hank's voice tightened. "If you do this, if you go in like this, you're not fixi
 
 A beat.
 
-**Lucas Bishop** looked up from loading his gear. "People like Shaw don't stop," he said flatly. "They adapt."
+Bishop looked up from loading his gear. "People like Shaw don't stop," he said flatly. "They adapt."
 
 Erik nodded once. "Exactly."
 
@@ -1711,11 +2549,11 @@ The lab doors closed behind them.
 
 They don't break in.
 
-They **walk in**.
+They walk in.
 
 The doors to Shaw's home open too easily as if they were always meant to.
 
-Waiting for them is **Emma Frost**, perfectly still, perfectly composed.
+Waiting for them is Emma Frost, perfectly still, perfectly composed.
 
 "You took your time," she says.
 
@@ -1747,13 +2585,13 @@ Not yet.
 
 Shaw stops halfway down the stairs. He doesn't rush. He never does it.
 
-He looks at **Magneto;** not with hatred, not with fear, but with _ownership_.
+He looks at Erik, not with hatred, not with fear, but with _ownership_.
 
 "Do you know how many futures I saw for you, Erik?"
 
 "This was the only one where you survived."
 
-He talks about **Vornavia;** not as tragedy, but as inevitability.
+He talks about Vornavia, not as tragedy, but as inevitability.
 
 Genocide framed as _policy_.
 
@@ -1763,15 +2601,11 @@ Then he goes lower.
 
 "Your childhood wasn't stolen," Shaw says calmly.
 
-"It was refined.
-
-Pain is the reason you're standing here instead of buried in a mass grave."
+"It was refined. Pain is the reason you're standing here instead of buried in a mass grave."
 
 He gestures to the house around them.
 
-"This is the new world order.
-
-Mutants at the top because we can endure what humans can't."
+"This is the new world order. Mutants at the top because we can endure what humans can't."
 
 A pause.
 
@@ -1823,11 +2657,11 @@ Shaw doesn't look back. He already knows where everyone will end up.
 
 ### Raven vs Azazel: Movement vs Memory
 
-**Mystique** recovers first; instinctively shifting, disappearing into color and shadow.
+Mystique recovers first; instinctively shifting, disappearing into color and shadow.
 
 Then space bends.
 
-**Azazel** appears behind her again. Too close. Always too close.
+Azazel appears behind her again. Too close. Always too close.
 
 This isn't a duel; it's a _dance_.
 
@@ -1846,31 +2680,167 @@ It's about **keeping Raven from helping anyone else**.
 
 And it works.
 
-### Mimic vs Creed: Adaptation vs Appetite
+### Mimic & Blob vs Creed: Adaptation vs Appetite
 
-Somewhere lower in the house, steel bends inward as **Sabretooth** lands hard' already grinning.
+Somewhere lower in the house, steel bent inward as Sabretooth landed hard, already grinning.
 
-Across from him, **Mimic** is shaking; not with fear, but overload.
+Across from him stood Mimic and Blob.
 
-Mimic copies:
+Creed cracked his neck.
 
-- Strength
-- Reflexes
-- Healing
+"Two for one."
 
-But Creed doesn't fight to win fast.
+Then he charged.
 
-He fights to **exhaust**.
+The first exchange was chaos.
 
-- Every blow forced Mimic to adapt again
-- Every adaptation cost stability
-- Every second makes Mimic less himself
+Claws.
 
-By the time Mimic realizes what's happening, he's already burning out.
+Concrete.
 
-Creed laughs.
+Blood.
 
-"You don't get to be me for free."
+Mimic copied instinctively; strength, reflexes, healing.
+
+For a moment he matched Creed blow for blow.
+
+Then the familiar pressure returned.
+
+Too much.
+
+Too many borrowed instincts fighting for space inside his head.
+
+Creed saw it immediately.
+
+He always did.
+
+A vicious slash sent Mimic stumbling backward.
+
+"You don’t get to be me for free."
+
+Creed lunged.
+
+Then stopped.
+
+Two massive arms wrapped around him from behind.
+
+Blob.
+
+Fred locked his hands together across Creed’s chest and squeezed.
+
+Sabretooth snarled.
+
+Elbows.
+
+Headbutts.
+
+Claws.
+
+Everything he had.
+
+Blob absorbed it all.
+
+The floor cracked beneath their feet.
+
+Fred refused to move.
+
+"Calvin!" he shouted.
+
+Mimic looked up.
+
+For a split second he almost reached for more powers.
+
+More strength.
+
+More speed.
+
+More anything.
+
+Then he remembered Mystique.
+
+The hours in the training room.
+
+The stance.
+
+The timing.
+
+The rhythm.
+
+Not power.
+
+Skill.
+
+Creed struggled violently.
+
+Blob tightened his grip.
+
+"Now!"
+
+Mimic moved.
+
+No hesitation.
+
+No copying.
+
+Just execution.
+
+He slipped into position.
+
+Pivoted.
+
+And drove a brutal kick directly into Creed’s jaw.
+
+The exact technique Mystique had drilled into him a hundred times.
+
+The impact snapped Sabretooth’s head sideways.
+
+His body went limp.
+
+Silence.
+
+Blob held him for another second.
+
+Just to be sure.
+
+Then released him.
+
+Creed collapsed heavily onto the floor.
+
+Neither man spoke.
+
+Finally Mimic looked at his hands.
+
+No borrowed claws.
+
+No borrowed healing.
+
+No borrowed instincts.
+
+Just him.
+
+Blob grinned.
+
+"Told you."
+
+Before Mimic could answer, the entire house shuddered.
+
+A distant explosion echoed through the walls.
+
+The fight wasn’t over.
+
+Mimic looked toward the sound.
+
+Blob followed his gaze.
+
+Elsewhere in the mansion, their friends were still fighting.
+
+Fred cracked his knuckles.
+
+"Let’s go help."
+
+This time Mimic smiled.
+
+And together they ran toward the battle.
 
 ### Morph vs Frost: Identity vs Intrusion
 
@@ -1912,7 +2882,7 @@ Floor plates humming with stored energy.
 
 Every surface designed to _feed_ him.
 
-**Magneto** enters with **Banshee** and **Bishop** backing him.
+Erik enters with Banshee and Bishop backing him.
 
 They attack together.
 
@@ -1922,10 +2892,7 @@ They attack together.
 
 For a moment; it works.
 
-Then Shaw steps forward.
-
-**Sebastian Shaw** absorbs:
-
+Then Shaw steps forward. He absorbs:
 - The sound
 - The energy
 - The impact
@@ -1939,9 +2906,7 @@ With a single release, he:
 
 Shaw looks at Erik again.
 
-"You brought friends," he says.
-
-"I brought infrastructure."
+"You brought friends," he says, "I brought infrastructure."
 
 The room hums louder.
 
@@ -1961,7 +2926,7 @@ Banshee's scream fades into a rasp, his throat burned raw by feedback he can't c
 
 Shaw hasn't moved.
 
-**Sebastian Shaw** takes a slow breath, and the room answers; lights dim, floor plates glow brighter, walls thrum like a living thing.
+Shaw takes a slow breath, and the room answers; lights dim, floor plates glow brighter, walls thrum like a living thing.
 
 "This is why you lose," Shaw says calmly.
 
@@ -1973,59 +2938,195 @@ Bishop is thrown back, hard, not unconscious, but _done_. His body refuses to co
 
 Erik is alone again.
 
-### **The house turns on the others**
+**The house turns on the others**
 
 Elsewhere, the cracks widen.
 
-### Raven vs Azazel: Fatigue sets in
+### Raven vs Azazel: Movement vs Memory
 
-**Mystique** lands awkwardly, her disguise slipping for half a second; long enough for Azazel to notice.
+Mystique rolled across the floor as Azazel appeared where she had been a fraction of a second earlier.
 
-**Azazel** stops smiling.
+The impact cratered the concrete.
 
-Now he's serious.
+Too close.
 
-He doesn't taunt anymore. He teleports her _into walls_, into ceilings, into narrow spaces where she can't shift fast enough. Every escape costs her breath. Every breath costs her time.
+Again.
 
-She's still fighting, but she's losing ground.
+Red smoke.
 
-### Mimic vs Creed: the body gives out
+A kick from nowhere.
 
-**Mimic** staggers.
+Raven blocked it and countered immediately, driving an elbow toward his ribs.
 
-Too many powers.
+Azazel vanished.
 
-Too many systems conflict each other.
+Her strike hit empty air.
 
-**Sabretooth** smells it immediately.
+For several minutes the fight became a brutal rhythm.
 
-He doesn't rush. He circles.
+Appear.
 
-One clean hit sends Mimic through a reinforced wall. Healing factor copied but imperfect. Slower. Sloppier.
+Strike.
 
-Creed leans in close.
+Disappear.
 
-"You're empty."
+Raven adapted.
 
-Mimic tries to stand. His legs don't listen to him.
+She stopped chasing him.
 
-### Morph vs Frost: the quiet defeat
+Started predicting him.
 
-**Morph** shifts again; Erik, Raven, someone stronger, but it's wrong. Emma already broke the rhythm.
+Watching patterns.
 
-**Emma Frost** doesn't raise her voice.
+Timing.
 
-She just steps forward.
+Distance.
 
-"You don't know who you are," she says softly.
+The same instincts that had kept her alive for years.
 
-"So how could you ever beat me?"
+Azazel noticed.
 
-Morph freezes; not because she stops him, but because he hesitates.
+His smile faded.
 
-That's enough.
+Now he was serious.
 
-The doors seal.
+He began teleporting her instead.
+
+Walls.
+
+Ceilings.
+
+Narrow maintenance shafts.
+
+Every relocation stole momentum.
+
+Every recovery cost energy.
+
+Raven landed hard against a support beam.
+
+Her disguise flickered briefly before stabilizing.
+
+For the first time all fight, she looked exhausted.
+
+Azazel appeared in front of her.
+
+"No more tricks?"
+
+Raven pushed herself upright.
+
+"No."
+
+She spat blood.
+
+"Just tired of yours."
+
+Azazel moved.
+
+Then suddenly a red flash erupted behind him.
+
+Mimic and Blob.
+
+The sudden teleport left Calvin visibly disoriented.
+
+"What took you so long?" Raven asked.
+
+Mimic grimaced.
+
+"Still getting used to it."
+
+During the split second where Azazel is still distracted by the teleportation, Mimic appears from behind and sends a drop kick to him directing to Blob. Blob grabs him and gives a monstorous belly-to-belly suplex and pins him down.
+
+While Azazel is still down and unable to move, Mystique jumps and lands a kick right on his throat, knocking him down.
+
+Silence.
+
+Blob released him.
+
+Raven leaned against the wall briefly.
+
+Breathing hard.
+
+"You alright?" Mimic asked.
+
+Raven nodded.
+
+Then immediately frowned.
+
+"Morph."
+
+The realization hit all three of them.
+
+Nobody had heard from him.
+
+Mimic looked toward the ceiling.
+
+Concentrated.
+
+For a second his eyes unfocused.
+
+Somewhere else in the mansion, Emma Frost felt something touch her mind.
+
+Small.
+
+Untrained.
+
+Gone almost immediately.
+
+She turned.
+
+That was all Calvin needed.
+
+His eyes snapped open.
+
+"I found her."
+
+Raven stared.
+
+"You can do that?"
+
+"No."
+
+Mimic answered honestly.
+
+A faint smile crossed his face.
+
+"But she can."
+
+Blob groaned.
+
+"Please tell me we’re not teleporting again."
+
+Red light engulfed them.
+
+"No promises."
+
+The room vanished.
+
+### Morph vs Emma: Identity vs Intrusion
+
+The teleport dropped them into a chamber lined with mirrors.
+
+Morph stood at the center.
+
+Frozen.
+
+Emma Frost circled him calmly.
+
+Diamond skin shimmering beneath the fractured light.
+
+She looked toward the newcomers.
+
+Not surprised.
+
+Just disappointed.
+
+"Well."
+
+Emma smiled faintly.
+
+"That explains the noise."
+
+For the first time all night, Morph wasn’t alone.
 
 ### **Back to Erik: And the truth lands**
 
@@ -2077,23 +3178,59 @@ The house is screaming around him; machines feeding Shaw, walls humming, metal g
 
 **Sebastian Shaw** thinks he's won.
 
-Then Erik remembers something **Professor X** once said, quietly, almost casually:
+Then Erik's eyes drifted toward the captives.
 
-_"Rage lets you lift mountains._
+Terrified.
 
-_But you can't hold them there."_
+Helpless.
 
-_"You need something between rage and serenity."_
+Waiting for someone to help them.
 
-Erik exhales.
+And suddenly—
 
-Not in anger.
+A different room.
 
-Not in grief.
+A small bedroom.
 
-He closes his eyes.
+A grieving child sitting on the edge of a bed.
 
-For the first time in this house, there is **focus**.
+Jean Grey.
+
+Charles kneeling in front of her.
+
+Not fighting.
+
+Not commanding.
+
+Helping.
+
+Listening.
+
+The memory felt absurdly small compared to everything happening around him.
+
+Yet it refused to leave.
+
+Shaw saw power as the ability to shape the world.
+
+Charles saw power as the ability to save one person.
+
+Erik finally understood.
+
+Neither man was wrong.
+
+But only one of them remembered why people mattered.
+
+Erik closed his eyes.
+
+The noise faded.
+
+The anger faded.
+
+Even the grief faded.
+
+For the first time since entering this house, there was only focus.
+
+When he opened his eyes again, the metal had already begun to move.
 
 ### **The house answers the wrong man**
 
@@ -2108,6 +3245,8 @@ The floor plates lose rhythm.
 Energy conduits overload not outward, but _inward_.
 
 "What are you doing?" Shaw asks; and this time, it's not rhetorical.
+
+Then Bishop knocked him down by rugby tackle.
 
 The entire property begins to **come apart at the seams**.
 
@@ -2139,17 +3278,37 @@ This is **judgment**.
 
 Everyone feels it.
 
-- Raven plants her feet; times Azazel's teleport, and _catches him_ mid-reentry
-- Mimic stabilizes, copies _only what he needs_, and drops Creed with his own momentum
-- Morph stops shifting, commits to one form and breaks Frost's control
-- Banshee finds his voice again
-- Bishop absorbs cleanly, redirects deliberately
+A tremor.
 
-They don't fight harder.
+Not through the floor.
 
-They fight **smarter;** lessons learned in blood, finally applied.
+Through the house.
 
-Shaw's house, his system, is gone.
+Through the fight.
+
+Emma feels it too.
+
+For the first time, her attention slips.
+
+Just for a second.
+
+Raven moves.
+
+Morph commits.
+
+Mimic follows.
+
+Blob closes the distance.
+
+They don’t overpower her.
+
+They hold her.
+
+Long enough.
+
+For a length of metal to whip across the room—
+
+And coil around Emma’s throat and lifts her.
 
 ### **The end of Shaw**
 
@@ -2157,7 +3316,7 @@ Erik descends.
 
 The metal settles behind him, obedient, waiting.
 
-He bound Victor, Azazel, and Emma in coils of steel, tightening just enough until they lost consciousness.
+He bound Victor, Azazel, and Emma in coils of steel, tightening just enough to make them unmovable.
 
 Shaw stands in front of him, still powerful, but **too late**.
 
@@ -2223,13 +3382,13 @@ Morning comes quietly.
 
 Too quiet.
 
-**Professor X** wakes up to the soft rhythm of machines; oxygen mask on his face, monitors, sterile light. For a moment, he didn't move. When he does, it's slow and deliberate. He removes the mask himself, as if refusing to be kept asleep any longer.
+Professor X wakes up to the soft rhythm of machines; oxygen mask on his face, monitors, sterile light. For a moment, he didn't move. When he does, it's slow and deliberate. He removes the mask himself, as if refusing to be kept asleep any longer.
 
 The hallway outside is empty.
 
 Then footsteps.
 
-**Hank McCoy** stands there, holding a newspaper. He doesn't speak. He doesn't need to.
+Hank McCoy stands there, holding a newspaper. He doesn't speak. He doesn't need to.
 
 Charles takes it.
 
@@ -2249,9 +3408,7 @@ Something heavy settles in Charles's chest; not shock, not anger, **grief withou
 
 Hank finally speaks, and voice low.
 
-"I'm sorry, Charles.
-
-I tried to stop them."
+"I'm sorry, Charles. I tried to stop them."
 
 Charles nods faintly, as if the words passed straight through him.
 
@@ -2261,7 +3418,7 @@ Charles tried to sense Erik, but he couldn't, due to the helmet.
 
 Hank continues; each sentence is another fracture.
 
-"Everything we tried to build… it's gone."
+"Everything we tried to build... it's gone."
 
 "Erik took the captives. Some of our own went with him."
 
@@ -2269,7 +3426,7 @@ A pause.
 
 "Morph, Mimic, Bishop, Cassidy; they refused."
 
-"They didn't return either. They're hiding now. After what happened… they don't have a choice."
+"They didn't return either. They're hiding now. After what happened... they don't have a choice."
 
 Hank looks at Charles, finally asking the question he's been avoiding.
 
@@ -2277,7 +3434,7 @@ Hank looks at Charles, finally asking the question he's been avoiding.
 
 Charles doesn't answer immediately.
 
-His face tightens; not with anger, but with the quiet devastation of someone who understands **why** things failed… and that understanding hurts more than ignorance ever could.
+His face tightens; not with anger, but with the quiet devastation of someone who understands **why** things failed... and that understanding hurts more than ignorance ever could.
 
 It looks like he might cry.
 
@@ -2309,7 +3466,7 @@ Charles turns; resolve returning, not loud, not triumphant, **earned**.
 
 He looks back at Jean.
 
-"We teach them to see people… not enemies."
+"We teach them to see people... not enemies."
 
 A beat.
 
@@ -2335,9 +3492,7 @@ Outside, the world is already changing.
 
 Somewhere beyond reach, **Magneto** is leading survivors into the unknown; not as a villain, not yet as a tyrant, but as a man who chose certainty over hope.
 
-Inside these walls, Charles chooses something harder.
-
-**Faith.**
+Inside these walls, Charles chooses something harder. **Faith.**
 
 The camera lingers on the empty halls; soon to be filled again.
 
@@ -2385,7 +3540,7 @@ Erik answers honestly.
 
 Wanda asks the question that matters most.
 
-"If you left… why does he still matter?"
+"If you left... why does he still matter?"
 
 Erik's smile lingers, bittersweet.
 
