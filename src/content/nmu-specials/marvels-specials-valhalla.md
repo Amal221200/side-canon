@@ -2,7 +2,7 @@
 title: "Marvels Specials - Valhalla"
 description: "Loki's journey in Valhalla after his death in the War of Asgard."
 heroImage: "@/assets/nmu-specials/marvel-specials-valhalla.webp"
-published: false
+published: true
 pubDate: "2026-03-22"
 order: 11
 ---
