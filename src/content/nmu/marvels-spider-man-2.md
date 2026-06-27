@@ -3,183 +3,291 @@ title: "Marvel's Spider-Man 2"
 description: "Explore the story of Peter Parker and his friends embarking their new journey as they join MIT."
 pubDate: 'Jan 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man-2.jpg'
-published: false
+published: true
 order: 7
 ---
 
 ## PRELUDE
 
-_“New York never really gets quieter._
+_New York never really gets quieter._
 
 _It just learns new ways to be loud._
 
-_The difference now is… I’m not the only one listening._
+_The difference now is... I'm not the only one listening._
 
-_When the X-Men started handling the bigger disasters, the skyline didn’t feel lighter exactly — but it felt shared. City-wide threats stopped landing squarely on my homework schedule. I didn’t have to sprint from calculus to catastrophe every other afternoon._
+_When the X-Men started responding to the bigger disasters, the city changed._
 
-_Turns out, having backup changes things._
+_Not because crime disappeared._
+
+_Because responsibility finally had somewhere else to go._
+
+_For the first time since becoming Spider-Man, every emergency didn't have to become mine._
+
+_Turns out... having backup changes you._
 
 _You breathe more._
 
 _You sleep more._
 
-_Sometimes._
+_You remember what a weekend feels like._
 
-_Senior year wasn’t cinematic._
+_Senior year wasn't cinematic._
 
 _It was coffee._
 
 _Deadlines._
 
-_Applications._
+_College applications._
 
-_Late-night study sessions where the printer jammed exactly when you needed it most._
+_Late-night study sessions that somehow ended with five exhausted teenagers arguing over whose turn it was to buy pizza._
 
-_MJ practically lived in the newsroom. She said she was “just covering school events,” but she was already thinking about how stories shape people. She doesn’t chase drama. She asks why it happens._
+_Life got louder in quieter ways._
 
-_Gwen treated chemistry like it was poetry written in molecular form. She didn’t just memorize equations — she understood them. That’s different._
+_And somewhere in all that noise... we grew._
 
-_Harry balanced boardroom expectations and physics exams like he’d been preparing his whole life. The scary part? He didn’t complain about it._
+_MJ started a blog because she wanted people to know the truth about Spider-Man. She refused to let rumors become history._
 
-_Flash… still tackled people like it was personal. But somewhere between practice and finals, he started asking questions about force distribution and structural integrity. I don’t think he realized when that shift happened. I did._
+_At first she just wanted a website._
 
-_As for me?_
+_Then she wanted to understand how websites worked._
+
+_HTML became JavaScript._
+
+_JavaScript became Python._
+
+_Then came automation. Databases. Backend systems._
+
+_One day I walked into the library and found her staring at lines of code with the same determination she used to reserve for interview notes._
+
+_"This is actually kind of fun," she admitted._
+
+_I don't think she realized she'd stopped learning software to support her writing._
+
+_She'd fallen in love with building things._
+
+_Gwen always looked at chemistry differently._
+
+_To everyone else, it was formulas._
+
+_To her, it was a language._
+
+_She never memorized reactions._
+
+_She wanted to understand why they happened._
+
+_Chemistry led to biology._
+
+_Biology led to genetics._
+
+_Our experiments became longer._
+
+_Safer._
+
+_Smarter._
+
+_Half my suit upgrades existed because Gwen kept asking questions I never thought to ask._
+
+_Harry somehow managed to spend mornings discussing Oscorp investments and afternoons solving physics problems without changing gears._
+
+_The scary part wasn't that he could do both._
+
+_It was that he genuinely enjoyed both._
+
+_I realized he wasn't preparing to inherit a company._
+
+_He was preparing to build one._
+
+_Flash still hit people like every tackle carried years of frustration._
+
+_Then one afternoon he asked why a bridge could support thousands of tons without collapsing._
+
+_The next week he wanted to understand force distribution._
+
+_After that it was structural integrity._
+
+_I don't think he noticed when football stopped being the only thing he wanted to master._
+
+_I did._
+
+_As for me..._
 
 _I learned balance._
 
-_Not perfectly. I still missed alarms. Still overcommitted. Still underestimated how long patrol would take._
+_Not perfect balance._
 
-_But I was better._
+_I still overslept._
+
+_Still underestimated patrol._
+
+_Still convinced myself I could fit twenty-six hours into a twenty-four-hour day._
+
+_But I got better._
 
 _The fights got smaller._
 
-_Or maybe I just got smarter about which ones mattered._
+_Or maybe I just got better at knowing which fights mattered._
 
-_I shut down an illegal tech pipeline running through Brooklyn docks. Broke up a weapons ring moving modified gear to low-level criminals. Helped dismantle Tombstone’s supply routes without turning it into a city-wide war._
+_An illegal technology pipeline through the Brooklyn docks._
 
-_Scorpion made things complicated for a week. Enhanced. Unstable. That wasn’t a solo job. Gwen analyzed toxin samples. Harry traced the funding. MJ followed rumor threads through community boards. Flash handled ground coordination when things got messy._
+_A modified weapons network supplying street gangs._
+
+_Tombstone quietly rebuilding his influence._
+
+_Nothing world-ending._
+
+_Just the kind of problems that grow into world-ending if nobody pays attention._
+
+_Scorpion nearly changed that._
+
+_His new enhancements made him faster._
+
+_Stronger._
+
+_More unstable._
+
+_I wasn't the only one fighting him._
+
+_Gwen identified the altered toxin before the hospitals could._
+
+_Harry followed the money financing the upgrades._
+
+_MJ tracked witness reports and neighborhood rumors until they formed a map._
+
+_Flash coordinated evacuations and kept civilians away from the worst of it._
 
 _I did the swinging._
 
-_They did the thinking._
+_They did everything else._
 
-_It wasn’t a miracle squad._
+_That's when I realized something._
 
-_It was friends who refused to stand still._
+_Spider-Man wasn't becoming part of a team._
 
-_Aunt May noticed I was home more._
+_Peter Parker already had one._
 
-_“You’re eating like a person again,” she said once._
+_Aunt May noticed before I did._
 
-_I told her that was progress._
+_"You're eating like a person again," she said one evening._
 
-_She asked if I was happy._
+_I laughed._
 
-_I didn’t answer right away._
+_Told her it was progress._
 
-_But I wasn’t drowning anymore._
+_She smiled._
 
-_That’s something._
+_"Are you happy?"_
 
-_MJ and I didn’t have epic rooftop confessions every week._
+_I didn't answer right away._
+
+_Because happiness wasn't something I'd thought about for a long time._
+
+_But I wasn't drowning anymore._
+
+_That counted._
+
+_MJ and I never needed grand declarations._
 
 _We had long walks._
 
-_Debates about responsibility._
+_Arguments about responsibility._
 
-_Shared fries at 1 a.m._
+_Shared fries at one in the morning after patrol._
 
-_Arguments about whether I push myself too hard._
+_She kept asking about the science behind my web-shooters._
 
-_She doesn’t want Spider-Man._
+_I kept pretending I wasn't impressed by how quickly she understood the answers._
+
+_She doesn't want Spider-Man._
 
 _She wants Peter._
 
-_That still scares me a little._
-
-_But in a good way._
+_Some days... that scares me more than any supervillain._
 
 _Acceptance letters arrived like quiet earthquakes._
 
-_Gwen’s._
+_Harry's._
 
-_Harry’s._
+_Gwen's._
 
-_MJ’s._
+_MJ's._
 
-_Flash’s — academic and athletic._
+_Flash's._
 
 _Mine came last._
 
 _MIT._
 
-_I stared at it long enough to convince myself it was real._
+_I stared at the envelope for so long Aunt May asked if I'd forgotten how to read._
 
-_Aunt May cried._
+_She cried._
 
-_I pretended not to._
+_I pretended I wasn't about to._
 
-_Graduation felt unreal in the most normal way possible._
+_Graduation came faster than any of us expected._
 
-_Caps flying._
+_Caps flew._
 
-_Parents cheering._
+_Parents cheered._
 
-_Flash pretending he wasn’t emotional._
+_Flash insisted something had gotten into his eyes._
 
-_MJ filming everything._
+_MJ recorded everything._
 
-_Harry shaking hands like he was already stepping into tomorrow._
+_Harry shook every teacher's hand._
 
-_Gwen smiling in that subtle way she does when she’s proud but won’t admit it._
+_Gwen smiled in that quiet way she does when she's proud but doesn't need anyone to notice._
 
-_I looked up at the stands._
+_I looked toward the stands._
 
 _Aunt May waved._
 
 _That was the loudest moment of the day._
 
-_We didn’t promise to stay the same._
+_We never promised we'd stay the same._
 
-_We promised to stay connected._
+_That would've been impossible._
 
-_Study groups._
+_We promised something better._
 
-_Shared ideas._
+_To keep growing._
 
-_Building something one day._
+_To keep building._
 
-_Not because we needed to._
+_To keep choosing each other._
 
-_Because we wanted to._
+_Whatever came next._
 
-_The night before leaving, I stood on a rooftop and looked at the skyline._
+_The night before leaving for Boston, I stood on a rooftop overlooking Manhattan._
 
-_The city didn’t look smaller._
+_The city looked exactly the same._
 
-_It looked familiar._
+_I wasn't._
 
-_The X-Men were responding to something uptown. Sirens echoed faintly across the river._
+_The X-Men were already responding to something uptown._
 
-_I didn’t feel replaced._
+_Police sirens echoed across the river._
 
-_I felt… supported._
+_For the first time... I didn't feel guilty for not being there._
 
-_MIT wasn’t an escape._
+_I felt supported._
 
-_It was a step._
+_Three years ago I thought becoming Spider-Man meant my world would get smaller._
 
-_For once, I wasn’t chasing my life from behind._
+_Somehow... it gave me a bigger one._
 
-_I was walking toward it._
+_MIT wasn't an escape._
+
+_It was the next step._
 
 _New city._
 
 _Same responsibility._
 
-_And this time, I wasn’t carrying it alone.”_
+_And this time..._
 
-_— Peter Parker_
+_I wasn't carrying it alone._
+
+— _**Peter Parker**_
 
 ---
 
@@ -187,9 +295,9 @@ _— Peter Parker_
 
 ### Cambridge
 
-The taxi barely stopped before Flash was already out, stretching like he’d just landed on another planet.
+The taxi barely stopped before Flash was already out, stretching like he'd just landed on another planet.
 
-“Okay,” he said, squinting up at the skyline of glass and steel. “This is not Midtown High.”
+"Okay," he said, squinting up at the skyline of glass and steel. "This is not Midtown High."
 
 Peter stepped out more slowly.
 
@@ -203,29 +311,29 @@ Click.
 
 The shutter snapped just as the drone tilted against the light.
 
-MJ leaned over his shoulder. “You’re photographing drones now?”
+MJ leaned over his shoulder. "You're photographing drones now?"
 
-“It’s the reflection,” Peter said. “See how the glass bends the sky?”
+"It's the reflection," Peter said. "See how the glass bends the sky?"
 
-She rolled her eyes but smiled. “We just got here and you’re already in love.”
+She rolled her eyes but smiled. "We just got here and you're already in love."
 
 Gwen was already halfway toward a nearby building, reading a banner stretching across the entrance.
 
-**Welcome to the MIT School of Engineering & Applied Sciences**
+**Welcome to Massachusetts Institute of Technology**
 
-“They updated the lab infrastructure again,” she murmured. “Look at the ventilation system. That’s new.”
+"They updated the lab infrastructure again," she murmured. "Look at the ventilation system. That's new."
 
 Harry stood a few steps behind them, looking up at the tallest building in view. Etched in brushed steel near the entrance:
 
 **The Stark Applied Fabrication Center**
 
-Flash let out a low whistle. “Okay. That’s cool.”
+Flash let out a low whistle. "Okay. That's cool."
 
-Peter followed Harry’s gaze. “They say he redesigned half the prototyping labs himself.”
+Peter followed Harry's gaze. "They say he redesigned half the prototyping labs himself."
 
-“Yeah,” Gwen added dryly, “and probably blew up the other half.”
+"Yeah," Gwen added dryly, "and probably blew up the other half."
 
-Harry smirked faintly. “He funded a lot more than that.”
+Harry smirked faintly. "He funded a lot more than that."
 
 They turned.
 
@@ -235,37 +343,37 @@ Across the quad, another building bore a quieter plaque:
 
 Peter glanced at Harry, unsure whether to say anything.
 
-Harry shrugged. “He believes in not opening boxes you don’t understand.”
+Harry shrugged. "He believes in not opening boxes you don't understand."
 
-Flash blinked. “That sounded ominous.”
+Flash blinked. "That sounded ominous."
 
-“It wasn’t,” Harry said lightly. “It was practical.”
+"It wasn't," Harry said lightly. "It was practical."
 
-MJ nudged Peter. “Relax. You don’t have to narrate everything in your head.”
+MJ nudged Peter. "Relax. You don't have to narrate everything in your head."
 
-“I don’t narrate—”
+"I don't narrate—"
 
-“You absolutely narrate.”
+"You absolutely narrate."
 
-Peter snapped another photo, pretending he didn’t.
+Peter snapped another photo, pretending he didn't.
 
 They moved through campus together, letting the place swallow them.
 
 A robotics cage hummed behind reinforced glass as a mechanical arm sorted scrap metal into perfect stacks. Down another corridor, students argued over lines of code projected onto a wall-sized display.
 
-“You’re off by three milliseconds,” one of them said.
+"You're off by three milliseconds," one of them said.
 
-“That’s impossible.”
+"That's impossible."
 
-“It’s not impossible. It’s math.”
+"It's not impossible. It's math."
 
-Gwen slowed, fascinated. “I’m going to like it here.”
+Gwen slowed, fascinated. "I'm going to like it here."
 
-“You say that now,” Flash said. “Wait until someone hands you a textbook thicker than my arm.”
+"You say that now," Flash said. "Wait until someone hands you a textbook thicker than my arm."
 
-“Flash,” MJ said, “your arm is not a unit of measurement.”
+"Flash," MJ said, "your arm is not a unit of measurement."
 
-“It should be.”
+"It should be."
 
 They passed a lecture hall where a professor was already writing equations across a whiteboard faster than anyone in the front row could copy.
 
@@ -275,55 +383,55 @@ Rows and rows of students. The scratch of markers. The low hum of air conditioni
 
 He lowered his camera.
 
-“Overwhelmed?” MJ asked softly.
+"Overwhelmed?" MJ asked softly.
 
-Peter shook his head. “No. Just… aware.”
+Peter shook his head. "No. Just... aware."
 
-“Of?”
+"Of?"
 
-“That it’s bigger than I thought.”
+"That it's bigger than I thought."
 
-Harry clapped him on the shoulder. “That’s the point.”
+Harry clapped him on the shoulder. "That's the point."
 
 By evening, the sun dipped low and the campus shifted into a softer rhythm.
 
 They hauled luggage into the dorms, less polished than the labs, more lived-in. Posters already lined hallway walls. Someone had propped a half-built drone outside a room marked _Prototype – Do Not Touch_.
 
-Flash dumped his bag on the floor. “All right. Logistics. Who’s in what?”
+Flash dumped his bag on the floor. "All right. Logistics. Who's in what?"
 
-“EECS,” Peter said. “Sensors and applied systems.”
+"EECS," Peter said. "Sensors and applied systems."
 
-“Chemical engineering,” Gwen replied. “And I’m auditing a materials course.”
+"Chemical-Biological engineering," Gwen replied. "And I'm auditing a materials course."
 
-“Sloan,” Harry said. “Systems management.”
+"SLOAN," Harry said. "Systems management."
 
-“Media Arts,” MJ added. “Narrative design and ethics.”
+"CS and Technology," MJ added.
 
-Flash nodded. “Mechanical engineering. And I’m joining the campus security auxiliary.”
+Flash nodded. "Mechanical engineering. And I'm joining the campus security auxiliary."
 
-Peter raised an eyebrow. “Of course you are.”
+Peter raised an eyebrow. "Of course you are."
 
-Flash grinned. “What? Somebody has to keep you nerds safe.”
+Flash grinned. "What? Somebody has to keep you nerds safe."
 
 They fell into an easy silence.
 
-Harry leaned back against the wall. “We’re going to be scattered.”
+Harry leaned back against the wall. "We're going to be scattered."
 
-“Different buildings,” Gwen said. “Different schedules.”
+"Different buildings," Gwen said. "Different schedules."
 
-MJ folded her arms. “So we don’t let that happen.”
+MJ folded her arms. "So we don't let that stop from regrouping."
 
-Flash looked between them. “What does that mean?”
+Flash looked between them. "What does that mean?"
 
-Peter hesitated for only a second. “End of the day.”
+Peter hesitated for only a second. "End of the day."
 
-Harry smiled faintly. “Same place.”
+Harry smiled faintly. "Same place."
 
-“We talk,” MJ said. “What we learned. What we’re building. What we’re breaking.”
+"We talk," MJ said. "What we learned. What we're building. What we're breaking."
 
-“And who failed first,” Flash added.
+"And who failed first," Flash added.
 
-Gwen exhaled softly. “Deal.”
+Gwen exhaled softly. "Deal."
 
 They stacked their hands together, not dramatic, not loud. Just agreement.
 
@@ -395,7 +503,7 @@ The building was farther than he expected.
 
 He adjusted midair, releasing early, redirecting to a church spire instead of a tower face.
 
-“Okay,” he muttered. “Not Manhattan.”
+"Okay," he muttered. "Not Manhattan."
 
 He swung again, this time angling lower, using lampposts, bridge supports, tighter arcs.
 
@@ -425,7 +533,7 @@ The siren echoed again.
 
 Closer now.
 
-A patrol car’s lights reflected faintly off dorm windows.
+A patrol car's lights reflected faintly off dorm windows.
 
 He pushed off.
 
@@ -443,7 +551,7 @@ Same job.
 
 Below, people hurried toward apartment doors, unaware of the red and blue blur adjusting to their skyline.
 
-Above, MIT’s lights glowed steady.
+Above, MIT's lights glowed steady.
 
 Peter Parker had arrived.
 
@@ -461,11 +569,13 @@ By eight, the quiet elegance of yesterday had dissolved into motion. Coffee cups
 
 Peter almost collided with someone arguing about Fourier transforms.
 
-“Sorry.”
+"Sorry."
 
-“You’re fine.”
+"You're fine."
 
 He adjusted his camera strap and ducked into Lecture Hall 4.
+
+### EECS 101
 
 Rows of students. Laptops open. A low electric buzz of anticipation.
 
@@ -479,83 +589,129 @@ Constraint defines innovation.
 
 Then he faced the class.
 
-“You are not here to build because you can. You are here to build because you must.”
+"You are not here to build because you can. You are here to test what you can do more than you know."
 
 Peter leaned forward.
 
 Octavius began outlining dynamic load distribution in adaptive systems. He moved fast but clearly. No wasted motion. No theatrics.
 
-“Strength without flexibility fails. Flexibility without structure collapses.”
+"Strength without flexibility fails. Flexibility without structure collapses."
 
-Peter’s pen moved quickly.
+Peter's pen moved quickly.
 
 That line stuck.
 
-Across campus, Gwen adjusted her lab goggles as Dr. Curt Connors walked between workstations. She noticed the missing right arm.
+### Chemical-Biological Engineering 101
 
-Connors’ voice carried calm authority.
+Across campus, Gwen adjusted her lab goggles as Dr. Curt Connors walked between workstations. She noticed the missing left arm.
 
-“Precision is not obsession. It is respect.”
+Connors' voice carried calm authority.
+
+"Precision is not obsession. It is respect."
 
 Students around her pipetted solutions into small vials. The lab smelled faintly metallic.
 
-Connors paused behind Gwen’s station.
+Connors paused behind Gwen's station.
 
-“Stability curve?”
+"Stability curve?"
 
-“Within acceptable variance,” she replied without looking up.
+"Within acceptable variance," she replied without looking up.
 
 He checked her screen.
 
-A small smile. “Acceptable is not optimal.”
+A small smile. "Acceptable is not optimal."
 
 She corrected the equation in silence.
 
 He nodded and moved on.
 
+### SLOAN 101
+
 Harry sat in a sleek Sloan lecture hall, sunlight cutting across polished tables.
 
 The professor paced.
 
-“Leadership is not charisma. It is architecture. If your system cannot function without you, you have failed.”
+"Leadership is not charisma. It is architecture. If your system cannot function without you, you have failed."
 
-Harry’s jaw tightened slightly.
+Harry's jaw tightened slightly.
 
 He wrote it down.
 
-MJ leaned back in her Media Studies seminar, camera on the table in front of her.
+### CS and Engineering: 101
 
-On screen, a news clip looped of a hero saving a burning building.
+MJ leaned back in her CS lecture, laptop on the table in front of her, notebook on the side.
 
-The professor asked, “Who controls the narrative?”
+She heard other students debating programming languages, compiler optimizations, and algorithmic complexity like they were continuing a conversation she’d walked into halfway through.
 
-Hands rose.
+She felt behind.
 
-MJ waited, then said quietly, “The first person with a camera.”
+The professor entered.
 
-Several students turned.
+"Before we write a single line of code," he said, "what is computer science?"
 
-The professor smiled. “Expand.”
+A hand went up immediately.
+
+"The study of computation," the student answered without hesitation. "Algorithms, information, and the limits of what computers can solve."
+
+Professor nodded.
+
+"Technically correct."
+
+Several students chuckled.
+
+"But incomplete."
+
+He looked around the room.
+
+"Anyone else?"
+
+MJ hesitated.
+
+Then raised her hand.
+
+"I think..." she began, "...it’s about solving problems."
+
+The professor nodded.
+
+“What kind of problems?”
+
+“The ones people have.”
+
+Professor smiled again, "Excellent."
+
+He started writing on board as he explains, "Programming languages change, hardware changes, but people still have problems, if you can understand the problem first, you can understand what you can offer to do."
+
+He finished writing, **CS 101: Problem Solving**
+
+The boy in the front scribbled notes without looking up.
+
+MJ noticed how quickly he wrote.
+
+Almost as if he’d heard the lecture before.
+
+She made a mental note to learn his name.
+
+### Mechanical Engineering 101
 
 Two buildings away, Flash sat in a lecture hall filled with diagrams of structural stress models.
 
 Professor Kaplan pointed to a projection of force vectors across a suspension frame.
 
-“Applied mechanics is not brute force,” Kaplan said. “It is controlled distribution. Quarterbacks should understand this better than most.”
+"Applied mechanics is not brute force," Kaplan said. "It is controlled distribution. Quarterbacks should understand this better than most."
 
 A few heads turned toward Flash.
 
-He didn’t flinch.
+He didn't flinch.
 
-Kaplan continued, “Force applied poorly collapses systems. Force applied intelligently stabilizes them.”
+Kaplan continued, "Force applied poorly collapses systems. Force applied intelligently stabilizes them."
 
 Flash raised a hand.
 
-“If the stress concentration builds at one node,” he said, nodding toward the diagram, “then reinforcing that point just shifts the failure somewhere else. You’d need redistribution, not reinforcement.”
+"If the stress concentration builds at one node," he said, nodding toward the diagram, "then reinforcing that point just shifts the failure somewhere else. You'd need redistribution, not reinforcement."
 
 Kaplan paused.
 
-Then nodded once. “Exactly.”
+Then nodded once. "Exactly."
 
 Flash wrote it down.
 
@@ -569,45 +725,45 @@ When he absorbed a hit, he thought about distribution.
 
 After practice, a teammate dropped beside him.
 
-“You’re thinking again, aren’t you?”
+"You're thinking again, aren't you?"
 
-Flash smirked. “Yeah. Apparently force without structure collapses.”
+Flash smirked. "Yeah. Apparently force without structure collapses."
 
-The teammate blinked. “You sound like a textbook.”
+The teammate blinked. "You sound like a textbook."
 
-Flash shrugged. “Maybe I read one.”
+Flash shrugged. "Maybe I read one."
 
 At lunch, Octavius and Connors sat near a window overlooking the quad.
 
 Two trays. No ceremony.
 
-“Your student,” Connors said, slicing into an apple, “Parker.”
+"Your student," Connors said, slicing into an apple, "Parker."
 
-Octavius did not look up from his tea. “He listens.”
+Octavius did not look up from his tea. "He listens."
 
-“He calculates before he speaks.”
+"He calculates before he speaks."
 
-Octavius nodded. “He adapts.”
+Octavius nodded. "He adapts."
 
-Connors allowed himself a small smile. “Stacy does not tolerate imprecision.”
+Connors allowed himself a small smile. "Stacy does not tolerate imprecision."
 
-“That will serve her well.”
+"That will serve her well."
 
-Connors gestured lightly toward the athletic fields outside. “Thompson is in my colleague’s mechanics lecture.”
+Connors gestured lightly toward the athletic fields outside. "Thompson is in my colleague's mechanics lecture."
 
-Octavius raised an eyebrow. “And?”
+Octavius raised an eyebrow. "And?"
 
-“He understands load redistribution instinctively.”
+"He understands load redistribution instinctively."
 
-Octavius looked mildly pleased. “Restraint and applied force. Interesting combination.”
+Octavius looked mildly pleased. "Restraint and applied force. Interesting combination."
 
 They ate in comfortable silence.
 
-Then Octavius added, almost casually, “You ever notice how students with the most restraint are often the most dangerous?”
+Then Octavius added, almost casually, "You ever notice how students with the most restraint are often the most dangerous?"
 
-Connors glanced at him. “To whom?”
+Connors glanced at him. "To whom?"
 
-Octavius looked out at the quad below. “To limitations.”
+Octavius looked out at the quad below. "To limitations."
 
 By late afternoon, the five regrouped in their dorm common room.
 
@@ -615,35 +771,31 @@ Backpacks dropped.
 
 Shoes kicked aside.
 
-Harry went first. “Systems management is less about profit and more about sustainability than I thought.”
+Harry went first. "Systems management is less about profit and more about sustainability than I thought."
 
-Gwen nodded. “Chemistry is about discipline.”
+Gwen nodded. "Chemistry is about discipline."
 
-“Media is about framing,” MJ added. “Truth doesn’t defend itself.”
+"Computer science is more about identifying patterns and solving problems," MJ added. "It's just as important as the tech stack."
 
-Flash leaned back. “Applied mechanics is about distribution. If you reinforce the wrong point, something else breaks.”
+Flash leaned back. "Applied mechanics is about distribution. If you reinforce the wrong point, something else breaks."
 
-Peter blinked. “Okay. When did you start saying things like that?”
+Peter blinked. "Okay. I never get over with you talking about force distribution?"
 
-Flash shrugged. “Three years ago.”
+Flash shrugged. "Thanks Parker, learned from the best."
 
 Gwen gave him a small approving nod.
 
-Peter hesitated.
+Peter, "You too MJ, you came a long way with Computer Science."
 
-Octavius’ words echoed in his mind.
+MJ, "Thanks, I even made some friends who I can learn more about algorithms and system programming, it's just small steps."
 
-_“Constraint defines innovation.”_
-
-“What?” Gwen asked.
-
-Peter blinked. “Nothing. Just… thinking.”
+Everyone appreciated it.
 
 That night, on a rooftop across the city, Peter tested a theory.
 
 He adjusted a small woven layer beneath the red panels of his suit. Conductive mesh interwoven with reinforced fabric.
 
-Below, Shocker’s gauntlets pulsed.
+Below, Shocker's gauntlets pulsed.
 
 Peter dropped.
 
@@ -653,9 +805,9 @@ Energy rippled across his chest, crackling outward instead of punching through. 
 
 Peter hit the pavement, rolled, sprang back up.
 
-Shocker blinked. “That’s new.”
+Shocker blinked. "That's new."
 
-“Upgrades,” Peter said.
+"Upgrades," Peter said.
 
 He fired a web.
 
@@ -683,11 +835,11 @@ He ran.
 
 Peter pushed himself up, flexing his left wrist. One shooter still operational.
 
-“Guess we’re doing this old school,” he muttered.
+"Guess we're doing this old school," he muttered.
 
 Shocker fired blindly behind him, blasting storefront glass as he sprinted down the block.
 
-Peter didn’t chase straight.
+Peter didn't chase straight.
 
 He ran up a wall, flipped over a streetlight, rebounded off a fire escape. His left web snapped him forward in tight arcs while his body did the rest.
 
@@ -711,7 +863,7 @@ Shocker groaned.
 
 Peter looked at his damaged wrist, then at the intact one.
 
-“Still counts.”
+"Still counts."
 
 He stood there for a moment, breathing steadily.
 
@@ -719,33 +871,33 @@ Constraint defines innovation.
 
 He stared at the cracked shooter.
 
-“Okay,” he murmured. “Now we fix the distribution.”
+"Okay," he murmured. "Now we fix the distribution."
 
 Saturday afternoon, the lab was nearly empty.
 
 Peter and Gwen stood over a dismantled web shooter spread across a stainless steel table.
 
-“You reinforced the suit before the delivery system,” Gwen said.
+"You reinforced the suit before the delivery system," Gwen said.
 
-“I thought electricity resistance was priority.”
+Peter, "I thought electricity resistance was priority."
 
-“It is. But you didn’t redistribute the stress.”
+Gwen, "It is. But you didn't redistribute the stress."
 
 Peter paused.
 
-Flash’s voice echoed in his memory.
+Flash's voice echoed in his memory.
 
 If you reinforce the wrong point, something else breaks.
 
-He looked at Gwen. “We need load redistribution in the casing.”
+He looked at Gwen. "We need load redistribution in the casing."
 
-She tilted her head. “Explain.”
+She tilted her head. "Explain."
 
-“Layered insulation, but flexible. Let the shock travel around the core, not into it.”
+"Layered insulation, but flexible. Let the shock travel around the core, not into it."
 
-Gwen’s eyes sharpened. “Like a suspension system.”
+Gwen's eyes sharpened. "Like a suspension system."
 
-He smiled. “Exactly.”
+He smiled. "Exactly."
 
 They worked quietly.
 
@@ -753,19 +905,19 @@ Weekend sunlight filtered through glass walls. The hum of distant equipment stea
 
 Peter held up a redesigned cartridge.
 
-“What about integrating micro-capacitors?”
+"What about integrating micro-capacitors?"
 
-Gwen raised an eyebrow. “For?”
+Gwen raised an eyebrow. "For?"
 
-He hesitated. “In case something isn’t… biological.”
+He hesitated. "In case something isn't... biological."
 
 She studied him for a moment.
 
-“Short discharge,” she said finally. “Enough to overload, not destroy.”
+"Short discharge," she said finally. "Enough to overload, not destroy."
 
-He smiled. “Exactly.”
+He smiled. "Exactly."
 
-They assembled the new web cartridge and slid it into a reinforced reservoir built into Peter’s belt.
+They assembled the new web cartridge and slid it into a reinforced reservoir built into Peter's belt.
 
 Compact. Secure.
 
@@ -773,23 +925,23 @@ Testable.
 
 Later that evening, as they walked back toward the dorms, Peter nudged Gwen lightly.
 
-“You and Flash,” he said. “Never pictured that.”
+"You and Flash," he said. "Never pictured that."
 
-She glanced at him. “We study together.”
+She glanced at him. "We study together."
 
-“You discuss stress redistribution over coffee?”
+"You discuss stress redistribution over coffee?"
 
-“He understands systems better than you think.”
+"He understands systems better than you think."
 
-Peter grinned. “Didn’t say he didn’t.”
+Peter grinned. "Didn't say he didn't."
 
 She stopped briefly.
 
-“People evolve, Peter.”
+"People evolve, Peter."
 
 He looked at her.
 
-She wasn’t just talking about Flash.
+She wasn't just talking about Flash.
 
 Night fell.
 
@@ -833,13 +985,13 @@ First-year students filled every row, conversations buzzing beneath the high cei
 
 **Undergraduate Research Opportunities Program – Global Cohort Briefing**
 
-Peter adjusted in his seat. “This feels important.”
+Peter adjusted in his seat. "This feels important."
 
-“It is,” Gwen said. “UROP is why half the students came here.”
+"It is," Gwen said. "UROP is why half the students came here."
 
 On stage, Dean stepped forward.
 
-“MIT is not a classroom institution. It is a research institution. You are not here to memorize. You are here to build.”
+"MIT is not a classroom institution. It is a research institution. You are not here to memorize. You are here to build."
 
 The screen behind him shifted.
 
@@ -847,27 +999,27 @@ A logo appeared.
 
 **AURORA DYNAMICS – Zurich, Switzerland**
 
-MJ leaned forward. “That looks expensive.”
+MJ leaned forward. "That looks expensive."
 
 Dean continued.
 
-“Aurora Dynamics leads in adaptive robotics, immersive simulation systems, and ethical AI architecture. This semester, selected teams will collaborate with their European facility.”
+"Aurora Dynamics leads in adaptive robotics, immersive simulation systems, and ethical AI architecture. This semester, selected teams will collaborate with their European facility."
 
-Harry’s posture changed subtly.
+Harry's posture changed subtly.
 
 Zurich.
 
-Peter glanced sideways. “You know them?”
+Peter glanced sideways. "You know them?"
 
-Harry nodded faintly. “They replaced several global simulation frameworks three years ago.”
+Harry nodded faintly. "They replaced several global simulation frameworks three years ago."
 
 Dean continued.
 
-“Teams will be formed today. Each team will design a scalable systems solution aligned with Aurora’s research verticals. You will submit your prototype by the end of the first semester. After final examinations, selected teams will travel to Zurich to observe real-world integration.”
+"Teams will be formed today. Each team will design a scalable systems solution aligned with Aurora's research verticals. You will submit your prototype by the end of the first semester. After final examinations, selected teams will travel to Zurich to observe real-world integration."
 
 A beat.
 
-“This is optional. But selection is competitive.”
+"This is optional. But selection is competitive."
 
 Now the hall was silent.
 
@@ -877,21 +1029,21 @@ Names began appearing on the screen in structured batches.
 
 Peter scanned quickly.
 
-“Parker. Stacy. Watson. Thompson.”
+"Parker. Stacy. Watson. Thompson."
 
-Flash leaned back. “Shocking.”
+Flash leaned back. "Shocking."
 
-Gwen folded her arms. “Urban response systems, that’s ours.”
+Gwen folded her arms. "Urban response systems, that's ours."
 
 Harry scanned separately.
 
 Then he saw it.
 
-“Osborn. Moon. Cho. Jaffrey.”
+"Osborn. Moon. Cho. Jaffrey."
 
 He blinked once.
 
-“Cho?” he murmured.
+"Cho?" he murmured.
 
 A few rows down, Amadeus Cho lifted his head immediately, sharp eyes already scanning the room as if ranking the competition.
 
@@ -919,7 +1071,7 @@ And looked away first.
 
 Professor Octavius stepped onto the stage.
 
-“Team Parker, you will design modular urban response systems. Infrastructure capable of real-time adaptation under stress. Your objective is to build a scalable prototype by the end of the semester. Field integration review will determine eligibility for the Zurich visit.”
+"Team Parker, you will design modular urban response systems. Infrastructure capable of real-time adaptation under stress. Your objective is to build a scalable prototype by the end of the semester. Field integration review will determine eligibility for the Zurich visit."
 
 Peter felt something settled into place.
 
@@ -927,23 +1079,23 @@ Adaptive systems.
 
 Distribution.
 
-“Think cities that think,” Octavius added. “Cities that redistribute force instead of collapsing under it.”
+"Think cities that think," Octavius added. "Cities that redistribute force instead of collapsing under it."
 
 His gaze lingered on Peter for half a second longer than necessary.
 
 Connors followed.
 
-“Team Osborn. Autonomous coordination architecture. Multi-agent communication in unstable environments. Your goal is decentralized intelligence without systemic fragility.”
+"Team Osborn. Autonomous coordination architecture. Multi-agent communication in unstable environments. Your goal is decentralized intelligence without systemic fragility."
 
-Cho’s lips curved faintly.
+Cho's lips curved faintly.
 
-“Swarm intelligence,” Connors clarified. “Without centralized collapse. And without ethical compromise.”
+"Swarm intelligence," Connors clarified. "Without centralized collapse. And without ethical compromise."
 
 Sajani Jaffrey leaned back slightly, eyes narrowing in quiet calculation.
 
-“Resilience through redundancy,” she murmured to herself.
+"Resilience through redundancy," she murmured to herself.
 
-Cindy’s pen paused mid-note.
+Cindy's pen paused mid-note.
 
 Swarm systems.
 
@@ -957,7 +1109,7 @@ Four minds.
 
 No single brain.
 
-“Remember,” Connors continued, “a system is only as strong as the assumptions it makes. Assume instability. Assume failure. Design anyway.”
+"Remember," Connors continued, "a system is only as strong as the assumptions it makes. Assume instability. Assume failure. Design anyway."
 
 Sajani nodded once.
 
@@ -973,7 +1125,7 @@ Trust.
 
 Harry straightened in his seat.
 
-This wasn’t just coding.
+This wasn't just coding.
 
 This was leadership under pressure.
 
@@ -987,57 +1139,57 @@ Harry stood, scanning the room for his team.
 
 Cho reached him first.
 
-“You’re Osborn,” Cho said plainly. “Good. That means funding won’t be a constraint.”
+"You're Osborn," Cho said plainly. "Good. That means funding won't be a constraint."
 
-Harry held his gaze evenly. “Funding isn’t the system.”
+Harry held his gaze evenly. "Funding isn't the system."
 
-Cho tilted his head slightly. “It usually is.”
+Cho tilted his head slightly. "It usually is."
 
 Before Harry could respond, a calm voice entered the space.
 
-“Only if the architecture is weak.”
+"Only if the architecture is weak."
 
 Sajani Jaffrey stepped beside them, tablet tucked under her arm.
 
-“Money accelerates bad design just as efficiently as good design,” she continued. “It doesn’t replace structure.”
+"Money accelerates bad design just as efficiently as good design," she continued. "It doesn't replace structure."
 
-Cho studied her for a second, then gave a small nod. “Fair.”
+Cho studied her for a second, then gave a small nod. "Fair."
 
 Cindy approached quietly.
 
-“Cindy Moon?” Harry asked gently.
+"Cindy Moon?" Harry asked gently.
 
 She nodded.
 
-“We were in middle school,” she said softly. “Renewable energy presentation. You forgot your slides.”
+"We were in middle school," she said softly. "Renewable energy presentation. You forgot your slides."
 
-Harry laughed, embarrassed but genuine. “That sounds accurate.”
+Harry laughed, embarrassed but genuine. "That sounds accurate."
 
-Cho looked between them. “Are we bonding over adolescence or designing distributed intelligence?”
+Cho looked between them. "Are we bonding over adolescence or designing distributed intelligence?"
 
-Harry didn’t bristle.
+Harry didn't bristle.
 
-“We’re designing trust,” he said calmly.
+"We're designing trust," he said calmly.
 
 Cho paused, reassessing him.
 
 Sajani watched Harry carefully, measuring tone rather than words.
 
-Cindy’s fingers tightened slightly around her notebook, but she did not retreat.
+Cindy's fingers tightened slightly around her notebook, but she did not retreat.
 
 Harry looked at all three of them.
 
-“Let’s start simple,” he said. “What’s the first assumption that breaks a swarm?”
+"Let's start simple," he said. "What's the first assumption that breaks a swarm?"
 
-Cho answered immediately. “Latency.”
+Cho answered immediately. "Latency."
 
-Sajani added, “Overconfidence in central nodes.”
+Sajani added, "Overconfidence in central nodes."
 
-Cindy spoke last, quieter but steady. “Human behavior.”
+Cindy spoke last, quieter but steady. "Human behavior."
 
 Harry nodded.
 
-“Good. Then we design for failure.”
+"Good. Then we design for failure."
 
 For the first time, the four of them were looking at the same problem instead of each other.
 
@@ -1045,9 +1197,9 @@ And that was enough.
 
 ### The Introduction
 
-Harry brought them toward Peter’s group.
+Harry brought them toward Peter's group.
 
-“Guys, this is Cindy, Cho and Jaffrey.”
+"Guys, this is Cindy, Cho and Jaffrey."
 
 Peter turned.
 
@@ -1075,41 +1227,41 @@ Not danger.
 
 Recognition.
 
-Cindy’s eyes lifted to meet his.
+Cindy's eyes lifted to meet his.
 
 The same confusion mirrored there.
 
-Cho glanced between them. “Did I miss something?”
+Cho glanced between them. "Did I miss something?"
 
 No one answered.
 
 Cindy took a small step back.
 
-“I have to go.”
+"I have to go."
 
-She didn’t run. She just turned and walked quickly toward the exit.
+She didn't run. She just turned and walked quickly toward the exit.
 
 The air felt normal again.
 
-Flash blinked. “Okay. That was… intense.”
+Flash blinked. "Okay. That was... intense."
 
-Harry looked at Peter. “Do you know her?”
+Harry looked at Peter. "Do you know her?"
 
-Peter shook his head slowly. “No.”
+Peter shook his head slowly. "No."
 
-MJ tilted her head. “You don’t usually short-circuit people.”
+MJ tilted her head. "You don't usually short-circuit people."
 
 Peter exhaled.
 
-“I didn’t do anything.”
+"I didn't do anything."
 
 Gwen watched him carefully.
 
 Peter looked down at his hands.
 
-Whatever that was… it wasn’t attraction.
+Whatever that was... it wasn't attraction.
 
-It wasn’t fear.
+It wasn't fear.
 
 It felt like his Spider-Sense had recognized something before he did.
 
@@ -1125,33 +1277,33 @@ Cho was brilliant.
 
 Also impatient.
 
-“If we centralize fallback nodes here,” Cho said one night in the lab, tapping the holographic model, “we eliminate cascade failure.”
+"If we centralize fallback nodes here," Cho said one night in the lab, tapping the holographic model, "we eliminate cascade failure."
 
-“That defeats decentralization,” Cindy said quietly.
+"That defeats decentralization," Cindy said quietly.
 
-Cho turned toward her. “Only if your trust model assumes bad actors.”
+Cho turned toward her. "Only if your trust model assumes bad actors."
 
-She met his gaze without flinching. “It should.”
+She met his gaze without flinching. "It should."
 
-Sajani, seated across from them, added evenly, “A resilient system anticipates misuse, not just malfunction.”
+Sajani, seated across from them, added evenly, "A resilient system anticipates misuse, not just malfunction."
 
 Harry watched the exchange.
 
-Then he nodded. “Cindy’s right. And Sajani’s. We design for instability, not ideal conditions.”
+Then he nodded. "Cindy's right. And Sajani's. We design for instability, not just the ideal conditions."
 
 Cho studied him for a moment.
 
-“You’re not fragile,” Cho observed.
+"You're not fragile," Cho observed.
 
-Harry didn’t take the bait.
+Harry didn't take the bait.
 
 He simply adjusted the schematic, redistributing the nodes across the model.
 
-“We’re not building something that works when everything goes right,” he said. “We’re building something that survives when it doesn’t.”
+"We're not building something that works when everything goes right," he said. "We're building something that survives when it doesn't."
 
 For the first time that night, no one argued.
 
-Across campus, Peter’s team iterated prototypes weekly.
+Across campus, Peter's team iterated prototypes weekly.
 
 The first version failed in under two minutes.
 
@@ -1159,17 +1311,17 @@ The second held for six.
 
 Flash stress-tested a modular brace system until it cracked under simulated load. The metal split with a sharp snap.
 
-“Good,” he said, wiping grease from his hands. “Now we know the limit.”
+"Good," he said, wiping grease from his hands. "Now we know the limit."
 
 Gwen adjusted the chemical stabilization compounds in the adjacent lab, recalibrating reaction timing so the material could deploy faster under environmental stress.
 
-“Your brace fails because it reacts late,” she called over.
+"Your brace fails because it reacts late," she called over.
 
-Flash grinned. “Then make it react sooner.”
+Flash grinned. "Then make it react sooner."
 
-MJ worked from a different corner of the lab, building a clean interface over Peter’s raw system data. Graphs became color-coded alerts. Structural stress turned into simple visual cues.
+MJ worked from a different corner of the lab, building a clean interface over Peter's raw system data. Graphs became color-coded alerts. Structural stress turned into simple visual cues.
 
-“If a firefighter looks at this and needs a manual,” she said, “we failed.”
+"If a firefighter looks at this and needs a manual," she said, "we failed."
 
 Peter moved between them, integrating hardware, chemistry, and interface into a single working model.
 
@@ -1219,19 +1371,19 @@ Cindy stayed.
 
 One evening, soft light pooling over their table, Cindy closed her laptop halfway.
 
-“Swarm systems fail without trust,” she said quietly. “Not technical trust. Behavioral trust.”
+"Swarm systems fail without trust," she said quietly. "Not technical trust. Behavioral trust."
 
-Harry leaned back slightly. “Then we build trust into the architecture.”
+Harry leaned back slightly. "Then we build trust into the architecture."
 
 She studied him.
 
-“You don’t try to dominate the room,” she said after a moment.
+"You don't try to dominate the room," she said after a moment.
 
-He gave a small shrug. “It doesn’t work.”
+He gave a small shrug. "It doesn't work."
 
-“Most people try anyway.”
+Cindy, "Most people try anyway."
 
-He smiled faintly. “Most people aren’t designing something that has to survive failure.”
+He smiled faintly. "Most people aren't designing something that has to survive failure."
 
 She almost smiled.
 
@@ -1247,7 +1399,7 @@ Harry adjusted the model.
 
 They worked in silence.
 
-But it wasn’t awkward.
+But it wasn't awkward.
 
 It was alignment.
 
@@ -1261,27 +1413,27 @@ Exams loomed.
 
 Cho snapped once when a simulation collapsed three hours before a review.
 
-“This wouldn’t happen if we centralized fallback control,” he muttered.
+"This wouldn't happen if we centralized fallback control," he muttered.
 
-Harry didn’t rise to it.
+Harry didn't rise to it.
 
-“We redesign the threshold. Not the philosophy,” he said evenly.
+"We redesign the threshold. Not the philosophy," he said evenly.
 
-Sajani recalculated failure tolerance without looking up. “Latency spike. Not structural weakness.”
+Sajani recalculated failure tolerance without looking up. "Latency spike. Not structural weakness."
 
 Cindy adjusted the model parameters and turned the screen toward them.
 
-“Increase behavioral variance here,” she said. “Assume panic response. Watch what happens.”
+"Increase behavioral variance here," she said. "Assume panic response. Watch what happens."
 
 The simulation stabilized.
 
 Later that week, during a faculty review, Connors challenged their architecture openly.
 
-“Your decentralization assumes cooperative nodes. What happens when they don’t cooperate?”
+"Your decentralization assumes cooperative nodes. What happens when they don't cooperate?"
 
 Cindy stepped forward before anyone else could answer.
 
-“Then the system isolates the disruption without collapsing the whole,” she said steadily. “Redundancy absorbs conflict.”
+"Then the system isolates the disruption without collapsing the whole," she said steadily. "Redundancy absorbs conflict."
 
 Connors held her gaze for a moment.
 
@@ -1301,25 +1453,25 @@ The notification hit all at once.
 
 Peter checked his phone first.
 
-“Selected.”
+"Selected."
 
-Flash leaned over his shoulder. “Obviously.”
+Flash leaned over his shoulder. "Obviously."
 
-Gwen refreshed her screen twice before letting herself smile. “We’re in.”
+Gwen refreshed her screen twice before letting herself smile. "We're in."
 
-MJ exhaled slowly. “Guess we’re packing.”
+MJ exhaled slowly. "Guess we're packing."
 
 Across the hall, Harry unlocked his phone.
 
-For a second, his expression didn’t change.
+For a second, his expression didn't change.
 
 Then—
 
-“Selected.”
+"Selected."
 
-Cho glanced down at his own screen and gave a small nod, as if the outcome had always been inevitable. “Statistically consistent.”
+Cho glanced down at his own screen and gave a small nod, as if the outcome had always been inevitable. "Statistically consistent."
 
-Sajani allowed herself the faintest upward curve of a smile. “Good. Now we test it under real conditions.”
+Sajani allowed herself the faintest upward curve of a smile. "Good. Now we test it under real conditions."
 
 Cindy read her screen without reacting.
 
@@ -1327,7 +1479,7 @@ But her fingers tightened slightly around the edge of her phone.
 
 Harry noticed.
 
-“Zurich,” he said gently.
+"Zurich," he said gently.
 
 She looked up at him.
 
@@ -1335,7 +1487,7 @@ A flicker of something passed through her eyes. Excitement. Nerves. Memory.
 
 She nodded once.
 
-“Yes.”
+"Yes."
 
 For the first time since the semester began, it felt real.
 
@@ -1355,17 +1507,17 @@ Connors stood at the front of the group, scanning documents with steady patience
 
 Harry checked his phone.
 
-“Our project hardware and fabrication units are coming separately,” he said. “MIT coordinated it with Aurora. Dedicated cargo manifest.”
+"Our project hardware and fabrication units are coming separately," he said. "MIT coordinated it with Aurora. Dedicated cargo manifest."
 
-Flash grinned. “So the smart stuff gets its own flight?”
+Flash grinned. "So the smart stuff gets its own flight?"
 
-“Insurance policy,” Gwen replied.
+"Insurance policy," Gwen replied.
 
-Sajani adjusted her carry-on strap. “That’s still a lot of equipment crossing borders.”
+Sajani adjusted her carry-on strap. "That's still a lot of equipment crossing borders."
 
-Cho didn’t look up from his tablet. “If customs asks, we tell them we’re improving civilization.”
+Cho didn't look up from his tablet. "If customs asks, we tell them we're improving civilization."
 
-A faint corner-smile from Sajani. “Let’s survive first.”
+A faint corner-smile from Sajani. "Let's survive first."
 
 Cindy stood a few feet away, passport in hand.
 
@@ -1379,7 +1531,7 @@ Just present.
 
 She sensed it too.
 
-She didn’t run.
+She didn't run.
 
 She met his eyes for a second.
 
@@ -1389,11 +1541,11 @@ Then she looked away first.
 
 Harry stepped closer to Peter under the noise of boarding announcements.
 
-Quietly, without looking at him, he added, “Dad sent a separate plane as well. Personal shipment.”
+Quietly, without looking at him, he added, "Dad sent a separate plane as well. Personal shipment."
 
 Peter glanced at him.
 
-Harry kept his tone casual. “Some contingency gear. And… something he said I might need for a long trip.”
+Harry kept his tone casual. "Some contingency gear. And... something he said I might need for a long trip."
 
 A beat.
 
@@ -1423,15 +1575,15 @@ She stared ahead at the runway lights lining the darkness.
 
 After a moment, she said quietly,
 
-“Swarm systems only work if every unit believes in the system.”
+"Swarm systems only work if every unit believes in the system."
 
 Harry glanced at her.
 
-“Then we build something worth believing in.”
+"Then we build something worth believing in."
 
-She didn’t respond.
+She didn't respond.
 
-But she didn’t look away either.
+But she didn't look away either.
 
 Outside the window, runway lights blurred into streaks.
 
@@ -1457,15 +1609,15 @@ Below them, Zurich unfolded in clean lines and quiet geometry. Glass. Steel. Wat
 
 Peter pressed his forehead lightly to the window.
 
-“It looks… calm,” MJ said.
+"It looks... calm," MJ said.
 
-Flash leaned over from across the aisle. “Give it time.”
+Flash leaned over from across the aisle. "Give it time."
 
-Harry gave a small smile. “Zurich runs on precision. Calm is part of the brand.”
+Harry gave a small smile. "Zurich runs on precision. Calm is part of the brand."
 
-Cho didn’t look up from his tablet. “Statistically one of the most stable cities in Europe.”
+Cho didn't look up from his tablet. "Statistically one of the most stable cities in Europe."
 
-Sajani added, “Stability is usually engineered.”
+Sajani added, "Stability is usually engineered."
 
 Cindy watched the skyline without speaking.
 
@@ -1487,27 +1639,27 @@ The hotel lobby was minimalist and immaculate. Light wood. Clean marble. Soft, i
 
 Connors gathered them briefly.
 
-“Tomorrow morning, Aurora Dynamics will host us at their primary research campus. Tonight, rest. Adjust to the time zone.”
+"Tomorrow morning, Aurora Dynamics will host us at their primary research campus. Tonight, rest. Adjust to the time zone."
 
-Flash stretched. “Define rest.”
+Flash stretched. "Define rest."
 
-Connors gave him a look. “Without causing an international incident.”
+Connors gave him a look. "Without causing an international incident."
 
 Laughter broke the stiffness.
 
 Room keys were distributed.
 
-As they dispersed toward the elevators, MJ tugged Peter’s sleeve.
+As they dispersed toward the elevators, MJ tugged Peter's sleeve.
 
-“Exploration?”
+"Exploration?"
 
-“Obviously,” Peter replied.
+"Obviously," Peter replied.
 
-Harry overheard. “We’ll meet in the lobby in twenty?”
+Harry overheard. "We'll meet in the lobby in twenty?"
 
-Gwen nodded. “I want to see the lake.”
+Gwen nodded. "I want to see the lake."
 
-Flash grinned. “And food.”
+Flash grinned. "And food."
 
 Cindy hesitated a moment before turning down her own hallway.
 
@@ -1521,31 +1673,31 @@ Lake Zurich shimmered under a pale sky. Trams hummed past without haste. Church 
 
 MJ pulled out her camera.
 
-“Okay,” she said, flipping it toward herself. “Zurich day one. We are officially international.”
+"Okay," she said, flipping it toward herself. "Zurich day one. We are officially international."
 
 Peter adjusted framing behind her.
 
-“And highly jet-lagged,” he added.
+"And highly jet-lagged," he added.
 
-MJ elbowed him lightly. “Energy.”
+MJ elbowed him lightly. "Energy."
 
 She turned back to the camera.
 
-“Today we’re exploring before our research visit to Aurora Dynamics. City of finance, robotics, and apparently very serious coffee.”
+"Today we're exploring before our research visit to Aurora Dynamics. City of finance, robotics, and apparently very serious coffee."
 
-Flash walked past with a pastry. “Worth it.”
+Flash walked past with a pastry. "Worth it."
 
 Gwen laughed softly.
 
-Harry stepped into frame. “Make sure you mention infrastructure efficiency.”
+Harry stepped into frame. "Make sure you mention infrastructure efficiency."
 
-MJ raised an eyebrow. “You want me to vlog traffic systems?”
+MJ raised an eyebrow. "You want me to vlog traffic systems?"
 
-“Always.”
+Harry, "Always."
 
 They walked along the lake as MJ continued narrating.
 
-“Zurich feels quiet,” she said thoughtfully. “But not passive. It feels like something is always working beneath the surface.”
+"Zurich feels quiet," she said thoughtfully. "But not passive. It feels like something is always working beneath the surface."
 
 Peter paused mid-step.
 
@@ -1559,13 +1711,13 @@ Tourists. Cyclists. A woman feeding birds.
 
 Nothing unusual.
 
-“You good?” Gwen asked quietly.
+"You good?" Gwen asked quietly.
 
-“Yeah,” Peter said. “Just… adjusting.”
+"Yeah," Peter said. "Just... adjusting."
 
 Across the street, partially obscured by a tram stop advertisement, Cindy lowered her gaze.
 
-She hadn’t meant to follow.
+She hadn't meant to follow.
 
 She just wanted to see the city first.
 
@@ -1581,25 +1733,25 @@ City lights reflected off the river like clean lines of circuitry.
 
 Cho stood near the elevator when they entered.
 
-“Parker,” he said without looking up. “Front desk left something for you.”
+"Parker," he said without looking up. "Front desk left something for you."
 
-Peter blinked. “For me?”
+Peter blinked. "For me?"
 
-“Signature required. Heavy.”
+Cho, "Signature required. Heavy."
 
-Harry’s eyes flicked briefly toward Peter.
+Harry's eyes flicked briefly toward Peter.
 
-“Probably delayed equipment,” he said casually.
+"Probably delayed equipment," he said casually.
 
 Peter walked to the reception desk.
 
 The clerk handed over a narrow reinforced case.
 
-“Delivery arrived this afternoon,” she said politely.
+"Delivery arrived this afternoon," she said politely.
 
 Peter nodded, lifting it carefully.
 
-He didn’t open it in the lobby.
+He didn't open it in the lobby.
 
 ### The Room
 
@@ -1707,7 +1859,7 @@ Professional.
 
 One of the local heroes glanced upward, scanning rooftops briefly.
 
-For half a second, Peter wondered if he’d been spotted.
+For half a second, Peter wondered if he'd been spotted.
 
 Then the hero moved on.
 
@@ -1719,9 +1871,9 @@ Just acknowledgment of territory.
 
 Peter exhaled slowly.
 
-“Okay,” he murmured.
+"Okay," he murmured.
 
-“You’ve got it handled.”
+"You've got it handled."
 
 He stood upright again, looking across the city.
 
@@ -1731,13 +1883,13 @@ Infrastructure.
 
 A system that worked.
 
-But the faint hum beneath his skin hadn’t gone away.
+But the faint hum beneath his skin hadn't gone away.
 
 Not danger.
 
-Just something… waiting.
+Just something... waiting.
 
-He leapt again, swinging across Zurich’s rooftops, careful not to interfere.
+He leapt again, swinging across Zurich's rooftops, careful not to interfere.
 
 Below him, the city moved with quiet competence.
 
@@ -1763,19 +1915,19 @@ Phones lifted instantly.
 
 Peter adjusted his camera lens.
 
-“Okay,” MJ said under her breath, smoothing her jacket. “This is not a vlog. This is history.”
+"Okay," MJ said under her breath, smoothing her jacket. "This is not a vlog. This is history."
 
-Flash leaned closer. “You say that every time.”
+Flash leaned closer. "You say that every time."
 
-“Because it is.”
+"Because it is."
 
 Connors gathered the group at the entrance plaza.
 
-“Aurora Dynamics was founded twenty-eight years ago,” he began, voice calm but measured. “They pioneered adaptive robotics before it was commercially viable. Their predictive swarm systems now coordinate infrastructure in twelve countries.”
+"Aurora Dynamics was founded twenty-eight years ago," he began, voice calm but measured. "They pioneered adaptive robotics before it was commercially viable. Their predictive swarm systems now coordinate infrastructure in twelve countries."
 
-Sajani scanned the building’s structural supports with open appreciation.
+Sajani scanned the building's structural supports with open appreciation.
 
-Cho’s eyes were already analyzing drone docking ports along the roofline.
+Cho's eyes were already analyzing drone docking ports along the roofline.
 
 Harry stood slightly straighter.
 
@@ -1791,95 +1943,95 @@ No clutter. No excess branding. Just one line on a wall of brushed steel:
 
 **Precision Through Trust.**
 
-MJ whispered, “That’s a confident slogan.”
+MJ whispered, "That's a confident slogan."
 
 Peter angled the camera to capture it.
 
 A senior operations director greeted them first, then guided them through glass corridors where autonomous drones moved silently along ceiling tracks.
 
-“Environmental stabilization systems,” the guide explained. “Used in emergency response.”
+"Environmental stabilization systems," the guide explained. "Used in emergency response."
 
-Peter’s interest sharpened.
+Peter's interest sharpened.
 
-Flash muttered, “We’re going to steal so many ideas.”
+Flash muttered, "We're going to steal so many ideas."
 
 Gwen elbowed him.
 
 Connors smiled faintly.
 
-“Observe,” he said. “Don’t absorb.”
+"Observe," he said. "Don't absorb."
 
 ### The Interview
 
 They were led into a conference hall overlooking the research floor.
 
-Aurora’s CEO entered without spectacle.
+Aurora's CEO entered without spectacle.
 
 Dr. Matthias Keller.
 
 Mid-fifties. Composed. Precise.
 
-He shook Connors’ hand warmly.
+He shook Connors' hand warmly.
 
-“Dr. Connors. We’ve followed your work closely.”
+"Dr. Connors. We've followed your work closely."
 
 Connors gestured to the students.
 
-“Our future.”
+"Our future."
 
 Dr. Keller nodded approvingly.
 
-“We’re honored to host you.”
+"We're honored to host you."
 
 Connors turned slightly.
 
-“One of our students specializes in media systems and narrative ethics. With your permission, she’d like to conduct a brief interview.”
+"One of our students specializes in media systems and narrative ethics. With your permission, she'd like to conduct a brief interview."
 
-Dr. Keller’s eyes shifted to MJ.
+Dr. Keller's eyes shifted to MJ.
 
-“Of course.”
+"Of course."
 
 MJ stepped forward, camera already framed by Peter behind her.
 
 She inhaled once.
 
-“Dr. Keller, thank you for hosting us. Aurora has become synonymous with adaptive infrastructure. What decision do you think most defined your current direction?”
+"Dr. Keller, thank you for hosting us. Aurora has become synonymous with adaptive infrastructure. What decision do you think most defined your current direction?"
 
 Dr. Keller did not hesitate.
 
-“Restraint.”
+"Restraint."
 
 Some of the students blinked.
 
-“We learned early that capability does not equal responsibility,” he continued. “We prioritize stability. Spectacle can be impressive. Stability saves lives.”
+"We learned early that capability does not equal responsibility," he continued. "We prioritize stability. Spectacle can be impressive. Stability saves lives."
 
-Peter’s eyes flickered slightly at that word.
+Peter's eyes flickered slightly at that word.
 
 MJ nodded thoughtfully.
 
-“You pivoted significantly five years ago. From immersive simulation architecture to predictive swarm systems. Why?”
+"You pivoted significantly five years ago. From immersive simulation architecture to predictive swarm systems. Why?"
 
 The room quieted subtly.
 
 Cho glanced up.
 
-Harry’s gaze sharpened.
+Harry's gaze sharpened.
 
 Dr. Keller did not deflect.
 
-“We had an Immersive Simulation Division led by a remarkable architect. Quentin Beck.”
+"We had an Immersive Simulation Division led by a remarkable architect. Quentin Beck."
 
 Peter kept the camera steady.
 
-“He was brilliant. Visionary. But our models showed the technology prioritized immersion over resilience. In defense and emergency systems, that imbalance becomes risk.”
+"He was brilliant. Visionary. But our models showed the technology prioritized immersion over resilience. In defense and emergency systems, that imbalance becomes risk."
 
-“Was it difficult?” MJ asked gently.
+"Was it difficult?" MJ asked gently.
 
-“Very,” Dr. Keller said. “Innovation requires courage. But so does saying no.”
+"Very," Dr. Keller said. "Innovation requires courage. But so does saying no."
 
 He folded his hands.
 
-“We chose stability. Mr. Beck disagreed.”
+"We chose stability. Mr. Beck disagreed."
 
 Not bitter.
 
@@ -1889,15 +2041,15 @@ Just factual.
 
 MJ nodded.
 
-“Thank you. That perspective matters.”
+"Thank you. That perspective matters."
 
 Dr. Keller allowed a small, genuine smile.
 
-“Most reporters prefer controversy. It’s refreshing to be asked about responsibility.”
+"Most reporters prefer controversy. It's refreshing to be asked about responsibility."
 
 Behind the camera, Flash leaned toward Peter and muttered,
 
-“Your girlfriend is slaying.”
+"Your girlfriend is slaying."
 
 Peter elbowed him without looking away from the lens.
 
@@ -1905,7 +2057,7 @@ Peter elbowed him without looking away from the lens.
 
 As a gesture of appreciation, Dr. Keller invited them down to the operations level.
 
-Rows of coordinated drone arrays hovered in silent synchronization.
+Rows of co-ordinated drone arrays hovered in silent synchronization.
 
 Swarm models adjusted in real-time to simulated city disasters projected across holographic maps.
 
@@ -1917,11 +2069,11 @@ Harry watched with concentrated admiration.
 
 Cindy stepped closer to one of the swarm simulations.
 
-“They’re decentralized,” she murmured.
+"They're decentralized," she murmured.
 
-Dr. Vogel nodded. “Yes. No single failure collapses the network. Each node adapts independently.”
+Dr. Vogel nodded. "Yes. No single failure collapses the network. Each node adapts independently."
 
-Cindy’s expression softened.
+Cindy's expression softened.
 
 For a second, she looked proud.
 
@@ -1935,11 +2087,11 @@ Sajani examined latency metrics with equal intensity.
 
 Flash tapped one of the reinforced modular braces on display.
 
-“Feels solid.”
+"Feels solid."
 
-“It adapts,” Dr. Vogel corrected calmly.
+"It adapts," Dr. Vogel corrected calmly.
 
-Flash grinned. “Even better.”
+Flash grinned. "Even better."
 
 Dr. Keller observed the exchange with quiet approval.
 
@@ -2019,15 +2171,15 @@ Arms extended.
 
 Voice amplified across Zurich.
 
-“Zurich.”
+"Zurich."
 
 The word rolled like thunder.
 
-“You built a world of precision.”
+"You built a world of precision."
 
 Another dragon tore through the clouds behind him.
 
-“Let me show you wonder.”
+"Let me show you wonder."
 
 People stared upward in disbelief.
 
@@ -2045,15 +2197,15 @@ Composed.
 
 Dr. Matthias Keller stood near the glass exit doors, hands clasped lightly.
 
-“Dr. Connors, it has been a privilege,” he said. “Your students ask better questions than most executives.”
+"Dr. Connors, it has been a privilege," he said. "Your students ask better questions than most executives."
 
-Connors inclined his head. “Curiosity is their advantage.”
+Connors inclined his head, "Curiosity is their advantage."
 
 Students gathered bags, phones, notes. Conversations overlapped with nervous excitement.
 
-Harry stepped toward Keller. “Thank you for the access, sir.”
+Harry stepped toward Keller. "Thank you for the access, sir."
 
-“You earned it,” Keller replied evenly.
+"You earned it," Keller replied evenly.
 
 Peter felt it then.
 
@@ -2069,7 +2221,7 @@ Through the glass facade, smoke curled unnaturally along the plaza. People were 
 
 A distant crash echoed from outside.
 
-Peter’s breathing slowed.
+Peter's breathing slowed.
 
 Something was coming.
 
@@ -2087,15 +2239,15 @@ It screeched and lunged at the nearest security desk.
 
 Students screamed.
 
-“Inside!” Connors shouted. “Move deeper into the building!”
+"Inside!" Connors shouted. "Move deeper into the building!"
 
-Keller’s voice cut through the panic. “Emergency protocol Delta. Secure internal corridors. Now.”
+Keller's voice cut through the panic. "Emergency protocol Delta. Secure internal corridors. Now."
 
 Another one crashed through the fractured entrance behind it.
 
 Peter stepped back instinctively, already calculating.
 
-He met Harry’s eyes for half a second.
+He met Harry's eyes for half a second.
 
 Then gave the smallest nod.
 
@@ -2131,9 +2283,9 @@ A woman in dark fabric, face half-covered by a scarf, eyes focused and sharp.
 
 She pivoted mid-fall, kicked the creature aside, and in one motion scooped Harry by the collar.
 
-“What—” Harry started.
+"What—" Harry started.
 
-She didn’t answer.
+She didn't answer.
 
 She launched upward, fingers firing organic webbing that latched onto the exposed steel beam above the shattered entry.
 
@@ -2151,15 +2303,15 @@ Green lightning cracked across tram lines.
 
 And through the chaos, armored figures dropped into formation.
 
-Helvetia Protocol.
+**Helvetia Protocol.**
 
-Vector landed first, kinetic energy dispersing outward as he absorbed the impact of falling debris.
+**Vector** landed first, kinetic energy dispersing outward as he absorbed the impact of falling debris.
 
-Aegis projected a barrier dome over a cluster of trapped civilians.
+**Aegis** projected a barrier dome over a cluster of trapped civilians.
 
-Pulse’s visor scanned frantically, readings spiking in erratic patterns.
+**Pulse**'s visor scanned frantically, readings spiking in erratic patterns.
 
-Zephyr cut through the air, redirecting falling wreckage away from the street.
+**Zephyr** cut through the air, redirecting falling wreckage away from the street.
 
 They moved with precision.
 
@@ -2169,7 +2321,7 @@ Trained.
 
 But this was not a bank robbery.
 
-A goblin-like creature dove toward Vector’s exposed flank.
+A goblin-like creature dove toward Vector's exposed flank.
 
 Vector pivoted too late.
 
@@ -2179,57 +2331,57 @@ The goblin slammed into a web net and stuck against a streetlight.
 
 Spider-Man landed beside Vector.
 
-“Hey,” he said quickly. “You guys do dragons often?”
+"Hey," he said quickly. "You guys do dragons often?"
 
 Vector assessed him in a fraction of a second.
 
-“Not in the standard rotation.”
+"Not in the standard rotation."
 
 Another creature lunged from behind a delivery truck.
 
-Spider-Man flipped over it, kicking it into Zephyr’s redirected gust.
+Spider-Man flipped over it, kicking it into Zephyr's redirected gust.
 
-Pulse’s voice crackled through the team’s comms.
+Pulse's voice crackled through the team's comms.
 
-“Thermal readings inconsistent. Biological signature negative.”
+"Thermal readings inconsistent. Biological signature negative."
 
 Spider-Man tilted his head slightly.
 
-“Yeah,” he muttered. “That tracks.”
+"Yeah," he muttered. "That tracks."
 
 Aegis reinforced her barrier as something massive slammed against it.
 
-“Entity above,” she said, eyes lifting toward the sky. “The one in the sphere. Is that yours?”
+"Entity above," she said, eyes lifting toward the sky. "The one in the sphere. Is that yours?"
 
 Spider-Man glanced up.
 
 The cloaked figure floated within the storm, glass dome gleaming.
 
-“Definitely not,” he replied.
+"Definitely not," he replied.
 
 Vector stepped forward, kinetic field pulsing around his arms.
 
-“Assessment?”
+"Assessment?"
 
 Spider-Man shot a web line upward, testing the air.
 
-“Feels like a bad game night,” he said. “But I don’t think we’re fighting monsters.”
+"Feels like a bad game night," he said. "But I don't think we're fighting monsters."
 
-Zephyr banked midair. “They bleed fire.”
+Zephyr banked midair. "They bleed fire."
 
-“They also glitch,” Spider-Man shot back.
+"They also glitch," Spider-Man shot back.
 
 Another dragon roared overhead, casting a massive shadow across the plaza.
 
-Vector met Spider-Man’s gaze.
+Vector met Spider-Man's gaze.
 
-“Then we adapt.”
+"Then we adapt."
 
 Spider-Man nodded once.
 
-“Good answer.”
+"Good answer."
 
-They didn’t speak again.
+They didn't speak again.
 
 There was no time.
 
@@ -2255,35 +2407,35 @@ Sirens wailed somewhere far behind them. Smoke bled between rooftops. The sky st
 
 He tapped the communicator.
 
-“I’m clear,” he said, still catching his breath. “I was pulled out. Some kind of… spider-woman.”
+"I'm clear," he said, still catching his breath. "I was pulled out. Some kind of... spider-woman."
 
 Static.
 
-Flash’s voice broke through. “You’re kidding.”
+Flash's voice broke through. "You're kidding."
 
-“Are you hurt?” Gwen asked immediately.
+"Are you hurt?" Gwen asked immediately.
 
-“I’m fine,” Harry said, eyes fixed on the figure a few feet away. “She saved me.”
+"I'm fine," Harry said, eyes fixed on the figure a few feet away. "She saved me."
 
-Peter’s voice came last.
+Peter's voice came last.
 
 Steady.
 
 Controlled.
 
-“Good. Stay put. Backup’s on the way.”
+"Good. Stay put. Backup's on the way."
 
 Harry swallowed.
 
-“Yeah. I’ll talk to you later. You guys be careful.”
+"Yeah. I'll talk to you later. You guys be careful."
 
 A small pause.
 
-“Harry,” Peter added quietly. “Take care of yourself.”
+"Harry," Peter added quietly. "Take care of yourself."
 
 Harry smiled faintly at that.
 
-“You too.”
+"You too."
 
 The line cut.
 
@@ -2293,13 +2445,13 @@ Only distant roars and trembling glass in the wind.
 
 Harry turned toward her.
 
-“Hey,” he said, softer now. “Thanks.”
+"Hey," he said, softer now. "Thanks."
 
 She adjusted the scarf slightly, still not meeting his eyes.
 
-“For saving my life,” he added.
+"For saving my life," he added.
 
-“Who are you?”
+"Who are you?"
 
 A long beat.
 
@@ -2311,19 +2463,19 @@ Harry blinked.
 
 The world shrank for a second.
 
-“Cindy?”
+"Cindy?"
 
 She looked almost caught.
 
-“You’re… you’re Spider—”
+"You're... you're Spider—"
 
-“No,” she said quickly, almost defensively. “I’m nobody.”
+"No," she said quickly, almost defensively. "I'm nobody."
 
 Harry looked at the web still retracting from her fingers.
 
-“You swung in, stopped that thing mid-air, and carried me out of a collapsing building,” he said gently. “In my book, you are not nobody, you are a hero.”
+"You swung in, stopped that thing mid-air, and carried me out of a collapsing building," he said gently. "In my book, you are not nobody, you are a hero."
 
-She didn’t answer.
+She didn't answer.
 
 The word hung there.
 
@@ -2331,21 +2483,21 @@ Hero.
 
 It seemed to weigh more than the storm.
 
-“I wish it was that simple,” she said quietly.
+"I wish it was that simple," she said quietly.
 
 A dragon roared somewhere across the skyline.
 
 Harry glanced toward the smoke.
 
-“I don’t know what that thing is,” he said. “But I’m not sitting here while people are getting hurt.”
+"I don't know what that thing is," he said. "But I'm not sitting here while people are getting hurt."
 
 He looked back at her.
 
-“My backup’s coming.”
+"My backup's coming."
 
 Then, with a small shrug that felt very him:
 
-“You coming?”
+"Are you?"
 
 For the first time, she smiled.
 
@@ -2353,27 +2505,27 @@ Not big.
 
 Not confident.
 
-Just… honest.
+Just... honest.
 
-“I’ve watched you since middle school,” she said.
+"I've watched you since middle school," she said.
 
 Harry froze slightly.
 
-“You were not like most of the privileged students; you stood up for people when no one else did.”
+"You were not like most of the privileged students; you stood up for people when no one else did."
 
 A small flash of memory crossed his face.
 
-“You even stepped in when Flash wouldn’t stop teasing me.”
+"You even stepped in when Flash wouldn't stop teasing me."
 
-Harry’s brows knit together.
+Harry's brows knit together.
 
 He remembered that hallway.
 
 The lockers.
 
-He hadn’t thought it mattered.
+He hadn't thought it mattered.
 
-“For me,” she said, voice softer now, “you were a hero long before today.”
+"For me," she said, voice softer now, "you were a hero long before today."
 
 It hit him.
 
@@ -2385,9 +2537,9 @@ Just deep.
 
 Harry looked down, almost embarrassed.
 
-“I’m sorry,” he said quietly. “I should’ve known. I wish I’d… I don’t know. I feel like I missed something important.”
+"I'm sorry," he said quietly. "I should've known. I wish I'd... I don't know. I feel like I missed something important."
 
-That’s when she saw it.
+That's when she saw it.
 
 The guilt.
 
@@ -2413,9 +2565,9 @@ Harry stiffened in surprise.
 
 Then slowly, carefully, he wrapped an arm around her.
 
-For a moment, the storm didn’t matter.
+For a moment, the storm didn't matter.
 
-“You didn’t miss anything,” she said against his shoulder. “You were already who you needed to be.”
+"You didn't miss anything," she said against his shoulder. "You were already who you needed to be."
 
 Harry smiles.
 
@@ -2429,7 +2581,7 @@ Harry exhaled.
 
 A half-laugh escaped him.
 
-“Well,” he said.
+"Well," he said.
 
 He looked at her again.
 
@@ -2439,11 +2591,11 @@ Not confused.
 
 Just steady.
 
-“So.”
+"So."
 
 A faint grin.
 
-“You coming?”
+"Are you coming?"
 
 Cindy looked toward the smoke-choked skyline.
 
@@ -2453,7 +2605,7 @@ No fear now.
 
 Just decision.
 
-“Yes.”
+"Yes."
 
 Another dragon roared.
 
@@ -2471,11 +2623,11 @@ Vector redirected falling debris.
 
 Aegis reinforced a barrier already cracking.
 
-Pulse’s visor flickered with inconsistent readings.
+Pulse's visor flickered with inconsistent readings.
 
 Spider-Man landed hard against a building facade, eyes narrowing.
 
-“They don’t move like animals,” he muttered.
+"They don't move like animals," he muttered.
 
 A blur cut across the skyline.
 
@@ -2485,17 +2637,17 @@ Goblin.
 
 Harry.
 
-He didn’t hesitate. He didn’t announce himself.
+He didn't hesitate. He didn't announce himself.
 
-He fired precision micro-drones that detonated in tight bursts around a dragon’s torso.
+He fired precision micro-drones that detonated in tight bursts around a dragon's torso.
 
 The creature howled—
 
 And flickered.
 
-Silk swung in from the opposite side, scarf trailing behind her mask.
+Silk (Cindy) swung in from the opposite side, scarf trailing behind her mask.
 
-She didn’t aim at the beast.
+She didn't aim at the beast.
 
 She aimed above it.
 
@@ -2509,25 +2661,25 @@ A metallic clang.
 
 A drone fell from the sky.
 
-The dragon’s wing glitched.
+The dragon's wing glitched.
 
 Vector noticed instantly.
 
-“Projection origin above target,” he said.
+"Projection origin above target," he said.
 
-Spider-Man’s head tilted.
+Spider-Man's head tilted.
 
-“Yeah. That’s what I thought.”
+"Yeah. That's what I thought."
 
-Goblin’s voice cut through the chaos.
+Goblin's voice cut through the chaos.
 
-“They’re not creatures. They’re layered projections. Hit the drones!”
+"They're not creatures. They're layered projections. Hit the drones!"
 
 Silk landed beside Spider-Man.
 
 Her voice was low but steady.
 
-“The bodies are light. The damage is not.”
+"The bodies are light. The damage is not."
 
 That was enough.
 
@@ -2559,9 +2711,9 @@ For half a second—
 
 The illusion broke.
 
-Pulse’s visor recalibrated.
+Pulse's visor recalibrated.
 
-“Multiple aerial units. Swarm architecture. Central coordination detected.”
+"Multiple aerial units. Swarm architecture. Central coordination detected."
 
 Aegis redirected her barrier upward.
 
@@ -2569,7 +2721,7 @@ Vector launched himself toward the new targets.
 
 Helvetia shifted tactics seamlessly.
 
-Now they weren’t fighting fantasy.
+Now they weren't fighting fantasy.
 
 They were dismantling infrastructure.
 
@@ -2581,19 +2733,19 @@ Smoke dragons flickered and dissolved.
 
 Civilians stared upward in confusion.
 
-“Keep pressure on the upper layer!” Goblin shouted.
+"Keep pressure on the upper layer!" Goblin shouted.
 
 Spider-Man swung higher, firing taser webs in rapid succession.
 
 Silk moved faster than before, targeting weak points with surgical precision.
 
-On a nearby rooftop, Gwen’s voice crackled through the comm.
+On a nearby rooftop, Gwen's voice crackled through the comm.
 
-“They’re running centralized signal bursts through something larger. This isn’t autonomous swarm. It’s controlled.”
+"They're running centralized signal bursts through something larger. This isn't autonomous swarm. It's controlled."
 
-Cho’s voice overlapped hers.
+Cho's voice overlapped hers.
 
-“Then break the controller.”
+"Then break the controller."
 
 For the first time since the storm began—
 
@@ -2607,11 +2759,11 @@ Green lightning weakened.
 
 Vector landed beside Spider-Man.
 
-“Your assessment was correct.”
+"Your assessment was correct."
 
 Spider-Man nodded.
 
-“Don’t congratulate me yet.”
+"Don't congratulate me yet."
 
 Above them, suspended in the storm, the cloaked figure remained.
 
@@ -2627,9 +2779,9 @@ He laughed.
 
 The sound rolled across the city like a second thunderstorm.
 
-“You learned quickly,” Mysterio’s amplified voice echoed.
+"You learned quickly," Mysterio's amplified voice echoed.
 
-“Good.”
+"Good."
 
 The remaining drones pulled back simultaneously.
 
@@ -2641,19 +2793,19 @@ The storm above tightened into a spiral.
 
 Clouds condensed unnaturally fast.
 
-Pulse’s visor flashed red.
+Pulse's visor flashed red.
 
-“Energy spike. Atmospheric pressure rising.”
+"Energy spike. Atmospheric pressure rising."
 
-Gwen’s voice sharpened over comms.
+Gwen's voice sharpened over comms.
 
-“He’s not projecting anymore. He’s feeding power into something else.”
+"He's not projecting anymore. He's feeding power into something else."
 
 The sky darkened again.
 
 But this time—
 
-It wasn’t theatrical.
+It wasn't theatrical.
 
 It was suffocating.
 
@@ -2663,7 +2815,7 @@ Communication signals flickered.
 
 Power grids overloaded in cascading bursts.
 
-The remaining drones didn’t form dragons.
+The remaining drones didn't form dragons.
 
 They formed a lattice.
 
@@ -2681,13 +2833,13 @@ Power stations.
 
 Structural junctions.
 
-Aegis’ barrier faltered under a direct strike.
+Aegis' barrier faltered under a direct strike.
 
 Vector absorbed impact energy and dropped to one knee.
 
 Silk looked up.
 
-“This is different.”
+"This is different."
 
 Spider-Man felt it too.
 
@@ -2695,25 +2847,25 @@ His Spider-Sense screamed. Not at creatures.
 
 At infrastructure collapse.
 
-Mysterio’s voice boomed again.
+Mysterio's voice boomed again.
 
-“You mistook spectacle for the threat.”
+"You mistook spectacle for the threat."
 
 The glass dome glowed brighter.
 
-“Wonder was only the invitation.”
+"Wonder was only the invitation."
 
 The lattice above pulsed.
 
-And Zurich’s skyline flickered like a failing circuit.
+And Zurich's skyline flickered like a failing circuit.
 
 Goblin hovered beside Spider-Man.
 
-“So what’s phase two?”
+"So what's phase two?"
 
-Spider-Man didn’t look away from the sky.
+Spider-Man didn't look away from the sky.
 
-“Control.”
+"Control."
 
 Another lightning strike tore through a nearby tower.
 
@@ -2721,7 +2873,7 @@ The city dimmed.
 
 And for the first time since the attack began—
 
-The heroes weren’t sure what to hit.
+The heroes weren't sure what to hit.
 
 ---
 
@@ -2735,51 +2887,49 @@ Above Zurich, the lattice of drones tightened into geometric precision. Lightnin
 
 Spider-Man landed beside Goblin on a fractured rooftop.
 
-“He’s rerouting through infrastructure,” Peter said. “Not just projecting.”
+"He's rerouting through infrastructure," Peter said. "Not just projecting."
 
-Goblin hovered steady. “So we shut down the grid he’s riding.”
+Goblin hovered steady. "So we shut down the grid he's riding."
 
 Below them, Aegis reinforced a barrier around a cluster of civilians as another surge cracked through the street. Vector absorbed the kinetic backlash and redirected it upward, scattering debris.
 
 Silk swung in, landing lightly.
 
-“It’s centralized,” she said. “But it’s layered.”
+"It's centralized," she said. "But it's layered."
 
-Peter nodded. “Yeah. And we need to peel it.”
+Peter nodded. "Yeah. And we need to peel it."
 
 ### Inside Aurora
 
 Emergency lighting washed the interior corridors in red.
 
-Dr. Matthias Keller stood over a holographic projection of the city grid, jaw tight but composed.
+Dr. Keller stood over a holographic projection of the city grid, jaw tight but composed.
 
-“That signal architecture,” Dr. Lena Vogel said, fingers moving rapidly over a console. “It’s built on the old immersive routing protocol.”
+"That signal architecture," Dr. Lena Vogel said, fingers moving rapidly over a console. "It's built on the old immersive routing protocol."
 
-Keller’s eyes darkened. “Beck.”
+Keller's eyes darkened. "Beck."
 
-Gwen leaned over Cho’s shoulder.
+Gwen leaned over Cho's shoulder.
 
-“It’s not random lightning,” Cho muttered. “It’s amplification. He’s using the lattice to route energy between nodes.”
+"It's not random lightning," Cho muttered. "It's amplification. He's using the lattice to route energy between nodes."
 
 Sajani highlighted three flashing points on the map.
 
-“These relays are anchoring the control mesh.”
+"These relays are anchoring the control mesh."
 
-Gwen’s eyes sharpened. “If those collapse simultaneously—”
+Gwen's eyes sharpened. "If those collapse simultaneously—"
 
-“The network destabilizes,” Cho finished.
+"The network destabilizes," Cho finished.
 
 Keller looked at Connors.
 
-“We can isolate their frequency signature. But someone has to physically overload those nodes.”
+"We can isolate their frequency signature. But someone has to physically overload those nodes."
 
-Connors didn’t hesitate.
-
-“They have someone.”
+Connors didn't hesitate, "They have someone."
 
 ### The Plaza
 
-Another surge hit Aurora’s facade.
+Another surge hit Aurora's facade.
 
 Glass shattered inward.
 
@@ -2787,17 +2937,17 @@ A section of the entry canopy collapsed, trapping two interns beneath twisted st
 
 Flash was the first to reach them.
 
-“Hold on!” he shouted, dropping to his knees.
+"Hold on!" he shouted, dropping to his knees.
 
 Security tried to pull him back.
 
-“It’s unstable!”
+"It's unstable!"
 
-“So are they!” Flash snapped.
+"So are they!" Flash snapped.
 
 He wedged his shoulder under the beam, muscles straining.
 
-“Move!” he barked to the trapped intern.
+"Move!" he barked to the trapped intern.
 
 The metal groaned.
 
@@ -2811,11 +2961,11 @@ Flash dragged both of them inside the reinforced corridor just as debris crashed
 
 Gwen reached him.
 
-“You’re bleeding.”
+"You're bleeding."
 
-“It’s fine,” Flash said, breath heavy. “Where’s MJ?”
+"It's fine," Flash said, breath heavy. "Where's MJ?"
 
-“I’m here,” MJ called from behind a reinforced column, camera abandoned, helping Dr. Vogel secure a portable terminal.
+"I'm here," MJ called from behind a reinforced column, camera abandoned, helping Dr. Vogel secure a portable terminal.
 
 Flash exhaled in relief.
 
@@ -2823,23 +2973,23 @@ Outside, another strike hit the plaza.
 
 Flash looked toward the sky.
 
-“Okay,” he muttered. “Now I’m mad.”
+"Okay," he muttered. "Now I'm mad."
 
 ### The Counter
 
-Peter’s comm crackled.
+Peter's comm crackled.
 
-“Three relay anchors,” Gwen’s voice said rapidly. “North tower, tram hub junction, and the financial district rooftop. They have to go down together.”
+"Three relay anchors," Gwen's voice said rapidly. "North tower, tram hub junction, and the financial district rooftop. They have to go down together."
 
 Vector heard it through shared frequency.
 
-“We split,” he said immediately.
+"We split," he said immediately.
 
-“Already on it,” Goblin replied.
+"Already on it," Goblin replied.
 
 Spider-Man looked at Silk.
 
-“North tower?”
+"North tower?"
 
 She nodded.
 
@@ -2847,11 +2997,11 @@ They launched simultaneously.
 
 ### Relay One – North Tower
 
-The tower’s upper levels flickered under drone interference.
+The tower's upper levels flickered under drone interference.
 
 Silk reached the rooftop first, landing amid a cluster of hovering units forming a rotating signal disc.
 
-She didn’t hesitate.
+She didn't hesitate.
 
 Organic webs shot upward, binding three drones together.
 
@@ -2861,13 +3011,13 @@ Electricity surged through the rotating lattice.
 
 The drones spasmed.
 
-But didn’t fall.
+But didn't fall.
 
-“They’re rerouting!” Peter shouted.
+"They're rerouting!" Peter shouted.
 
 Silk flipped over a strike, landing behind the emitter core.
 
-“It’s drawing from below!”
+"It's drawing from below!"
 
 Peter understood instantly.
 
@@ -2875,7 +3025,7 @@ He fired a webline down the side of the tower, yanking open a maintenance hatch 
 
 A secondary amplifier glowed inside.
 
-“Found you.”
+"Found you."
 
 He launched a taser web directly into the core.
 
@@ -2889,25 +3039,25 @@ One down.
 
 ### Relay Two – Tram Hub
 
-Vector absorbed the impact of a falling streetlight as Goblin’s hoverboard weaved between precision lightning strikes.
+Vector absorbed the impact of a falling streetlight as Goblin's hoverboard weaved between precision lightning strikes.
 
-“This one’s shielded!” Goblin called.
+"This one's shielded!" Goblin called.
 
-Pulse’s voice came through. “Shield oscillates every three seconds.”
+Pulse's voice came through. "Shield oscillates every three seconds."
 
 Vector planted his feet.
 
-“Time it.”
+"Time it."
 
-Goblin’s targeting visor tracked the oscillation.
+Goblin's targeting visor tracked the oscillation.
 
-“One. Two—”
+"One. Two—"
 
 Vector leapt, absorbing a direct surge and redirecting it into the shield perimeter.
 
 The barrier flickered.
 
-“Now!”
+"Now!"
 
 Goblin fired a concentrated burst directly into the exposed relay core.
 
@@ -2923,7 +3073,7 @@ Aegis extended a barrier dome as Zephyr lifted debris from trapped civilians bel
 
 Spider-Man landed beside them.
 
-“Last one,” he said.
+"Last one," he said.
 
 The rooftop emitter was larger.
 
@@ -2931,11 +3081,11 @@ More reinforced.
 
 Drones swarmed protectively around it.
 
-“Too dense,” Aegis warned.
+"Too dense," Aegis warned.
 
 Silk landed beside him.
 
-“We don’t hit the swarm,” she said quietly. “We hit the rhythm.”
+"We don't hit the swarm," she said quietly. "We hit the rhythm."
 
 Peter closed his eyes for a fraction of a second.
 
@@ -2947,7 +3097,7 @@ Not mystical.
 
 Mechanical.
 
-“There,” he said.
+"There," he said.
 
 They moved simultaneously.
 
@@ -2975,13 +3125,13 @@ Silence.
 
 ### The Retaliation
 
-Mysterio’s voice rolled across the skyline.
+Mysterio's voice rolled across the skyline.
 
-“You learned quickly.”
+"You learned quickly."
 
 The giant projection of him expanded again, looming over the financial district.
 
-“But you mistake survival for victory.”
+"But you mistake survival for victory."
 
 The remaining drones did not reform dragons.
 
@@ -2993,19 +3143,19 @@ Energy surged toward Aurora.
 
 Inside, alarms screamed.
 
-Dr. Vogel’s console flared red.
+Dr. Vogel's console flared red.
 
-“He’s targeting us!”
+"He's targeting us!"
 
 Keller stood unmoving.
 
-“Stabilize the grid. Now.”
+"Stabilize the grid. Now."
 
 Outside, Flash saw the surge building.
 
 Gwen and MJ were still near the shattered facade.
 
-“Move!” Flash shouted.
+"Move!" Flash shouted.
 
 He shoved both of them behind a reinforced column just as a concussive wave shattered the remaining glass.
 
@@ -3017,15 +3167,15 @@ The shockwave hit.
 
 Debris struck his back.
 
-He didn’t move.
+He didn't move.
 
 When the dust settled, Gwen pushed up slightly.
 
-“You okay?”
+"You okay?"
 
 Flash winced but nodded.
 
-“Still here.”
+"Still here."
 
 Above them, Aegis caught part of the redirected energy in a flickering shield.
 
@@ -3037,7 +3187,7 @@ Not stable anymore.
 
 ### **The Real Mysterio**
 
-Peter’s Spider-Sense didn’t scream at the sky.
+Peter's Spider-Sense didn't scream at the sky.
 
 It tugged downward.
 
@@ -3045,11 +3195,11 @@ Wrong direction.
 
 He looked at Silk.
 
-“He’s not up there.”
+"He's not up there."
 
 She nodded.
 
-“Below.”
+"Below."
 
 Peter followed the pull through shattered streets, into a side access tunnel leading beneath the financial district.
 
@@ -3067,13 +3217,13 @@ No giant projection.
 
 Just a man surrounded by flickering holographic feeds of a city he was trying to hold.
 
-“You found me,” Beck said without turning.
+"You found me," Beck said without turning.
 
-“You built something impressive,” Peter replied.
+"You built something impressive," Peter replied.
 
-“Impressive?” Beck’s voice cracked. “They erased me. They reduced vision to restraint.”
+"Impressive?" Beck's voice cracked. "They erased me. They reduced vision to restraint."
 
-“You chose control,” Peter said calmly.
+"You chose control," Peter said calmly.
 
 Beck turned.
 
@@ -3081,7 +3231,7 @@ Furious.
 
 Broken.
 
-“You chose small.”
+"You chose small."
 
 The machinery surged around him.
 
@@ -3095,7 +3245,7 @@ Illusion traps closed in.
 
 Peter dodged the first wave.
 
-“Not small,” he said, flipping over a distortion field. “Stable.”
+"Not small," he said, flipping over a distortion field. "Stable."
 
 Beck lunged toward the control core, trying to reroute power.
 
@@ -3105,9 +3255,9 @@ The system flickered violently.
 
 Beck screamed in frustration, slamming a hand into the console.
 
-“You don’t understand wonder!”
+"You don't understand wonder!"
 
-“Wonder doesn’t need control,” Peter shot back.
+"Wonder doesn't need control," Peter shot back.
 
 He fired a final taser web directly into the central power conduit.
 
@@ -3129,15 +3279,15 @@ Beck collapsed to his knees as the control core powered down.
 
 For a moment, he looked less furious.
 
-More… empty.
+More... empty.
 
 Peter approached slowly.
 
-“It didn’t have to end like this.”
+"It didn't have to end like this."
 
 Beck let out a bitter laugh.
 
-“It already had.”
+"It already had."
 
 Sirens approached in the distance.
 
@@ -3145,9 +3295,9 @@ Helvetia forces descended into the chamber.
 
 Vector nodded once to Spider-Man.
 
-“Control node secured.”
+"Control node secured."
 
-Peter stepped back.
+Spider-Man stepped back.
 
 Above them, the first clear patch of sky appeared over Zurich.
 
@@ -3159,7 +3309,7 @@ But standing.
 
 And this time—
 
-It wasn’t illusion holding it together.
+It wasn't illusion holding it together.
 
 It was resilience.
 
@@ -3187,19 +3337,19 @@ Members of Helvetia Protocol secured the perimeter with quiet efficiency.
 
 Vector stood near the transport vehicle, expression unreadable.
 
-Dr. Matthias Keller approached slowly.
+Dr. Keller approached slowly.
 
-He didn’t look angry.
+He didn't look angry.
 
 He looked tired.
 
-“You were brilliant,” Keller said quietly.
+"You were brilliant," Keller said quietly.
 
 Beck kept his eyes forward.
 
-“You chose safety,” Beck replied flatly.
+"You chose safety," Beck replied flatly.
 
-“We chose responsibility,” Keller corrected.
+"We chose responsibility," Keller corrected.
 
 Beck said nothing more.
 
@@ -3215,11 +3365,11 @@ But functional.
 
 Dr. Keller turned to Dr. Connors.
 
-“You brought exceptional students.”
+"You brought exceptional students."
 
 Connors allowed himself a small smile.
 
-“They brought themselves.”
+"They brought themselves."
 
 Keller looked toward where the MIT group had stood moments earlier.
 
@@ -3229,7 +3379,7 @@ Empty.
 
 He nodded once.
 
-“Of course.”
+"Of course."
 
 ### Behind Aurora
 
@@ -3239,31 +3389,31 @@ Harry disengaged his helmet, hair damp with sweat.
 
 Flash stared openly at the suit.
 
-“Okay,” he said slowly. “That is the coolest thing I have ever seen.”
+"Okay," he said slowly. "That is the coolest thing I have ever seen."
 
-Harry smirked. “You should see version one.”
+Harry smirked. "You should see version one."
 
 Peter removed his mask halfway, catching his breath.
 
-“You were awesome,” he said honestly.
+"You were awesome," he said honestly.
 
 Harry shrugged lightly, though the compliment clearly landed.
 
-“You weren’t terrible either.”
+"You weren't terrible either."
 
 Flash stepped forward and pulled Harry into a rough half-hug.
 
-“Goblin,” he muttered. “Unbelievable.”
+"Goblin," he muttered. "Unbelievable."
 
-“Careful,” Harry replied. “Branding isn’t finalized.”
+"Careful," Harry replied. "Branding isn't finalized."
 
 MJ laughed under her breath.
 
-Gwen shook her head. “You two almost went early on the tram hub.”
+Gwen shook her head. "You two almost went early on the tram hub."
 
-Flash pointed at Harry defensively. “We didn’t.”
+Flash pointed at Harry defensively. "We didn't."
 
-“Because Vector counted it,” Gwen replied.
+"Because Vector counted it," Gwen replied.
 
 They shared a brief, breathless laugh.
 
@@ -3277,23 +3427,19 @@ Suit intact.
 
 Scarf still loosely around her neck.
 
-She hadn’t stepped forward.
+She hadn't stepped forward.
 
-Hadn’t claimed anything.
+Hadn't claimed anything.
 
 Peter looked at her for a moment.
 
 Then stepped toward her.
 
-“I didn’t get to properly introduce myself,” he said.
+"I didn't get to properly introduce myself," he said.
 
-He pulled off the mask fully this time.
+He pulled off the mask fully this time, "My name is Peter Parker."
 
-“My name is Peter Parker.”
-
-He extended his hand.
-
-“And I’m Spider-Man.”
+He extended his hand, "And I'm Spider-Man."
 
 The others went quiet.
 
@@ -3309,35 +3455,35 @@ Just choice.
 
 A small smile curved across her face.
 
-“Cindy Moon,” she said.
+"Cindy Moon," she said.
 
 She shook his hand.
 
-“Still figuring out the rest.”
+"Still figuring out the rest."
 
-Flash blinked. “Wait. You’ve been doing that and you don’t even have a name yet?”
+Flash blinked. "Wait. You've been doing that and you don't even have a name yet?"
 
-Harry smiled at her gently. “We can workshop it.”
+Harry smiled at her gently. "We can workshop it."
 
-MJ stepped closer, eyes bright with curiosity. “Organic webs?”
+MJ stepped closer, eyes bright with curiosity. "Organic webs?"
 
 Cindy nodded slightly.
 
-Gwen leaned in. “Reflex latency?”
+Gwen leaned in. "Reflex latency?"
 
-“Faster than his,” Cindy said, glancing at Peter.
+"Faster than his," Cindy said, glancing at Peter.
 
-Peter feigned offense. “Unverified claim.”
+Peter feigned offense. "Unverified claim."
 
-Flash pointed between her and Peter. “Okay but explain the matching theme. Is that coincidence or—”
+Flash pointed between her and Peter. "Okay but explain the matching theme. Is that coincidence or—"
 
-“Flash,” Gwen warned.
+"Flash," Gwen warned.
 
-He raised his hands. “I’m just asking.”
+He raised his hands. "I'm just asking."
 
 Harry stepped closer to Cindy, voice softer.
 
-“You don’t have to explain anything.”
+"You don't have to explain anything."
 
 Cindy looked at all of them.
 
@@ -3345,11 +3491,11 @@ Not suspicious.
 
 Not defensive.
 
-Just… present.
+Just... present.
 
-For the first time since the storm began, she wasn’t hiding.
+For the first time since the storm began, she wasn't hiding.
 
-Behind them, emergency lights reflected off Aurora’s glass facade.
+Behind them, emergency lights reflected off Aurora's glass facade.
 
 The city was still healing.
 
@@ -3357,15 +3503,15 @@ But the sky above Zurich was clear.
 
 Peter pulled his mask back on halfway, glancing upward.
 
-“We should probably not stand here too long.”
+"We should probably not stand here too long."
 
-“Agreed,” Goblin replied.
+"Agreed," Harry replied.
 
-Flash nudged Harry. “Still calling it that.”
+Flash nudged Harry. "Still calling it that."
 
-“Temporary,” Harry insisted.
+"Temporary," Harry insisted.
 
-MJ grinned. “Sure.”
+MJ grinned. "Sure."
 
 They began moving toward the rooftop access ladder.
 
@@ -3403,11 +3549,11 @@ Peter leaned against a pillar, tired but lighter.
 
 Flash checked his phone.
 
-“Okay so,” he muttered, “what kind of ride are we expecting? Limo? Tactical SUV? Helicopter?”
+"Okay so," he muttered, "what kind of ride are we expecting? Limo? Tactical SUV? Helicopter?"
 
-“Car,” Gwen said. “Normal car.”
+"Car," Gwen said. "Normal car."
 
-Harry smiled slightly. “Define normal.”
+Harry smiled slightly. "Define normal."
 
 Headlights swept across the pickup lane.
 
@@ -3425,9 +3571,9 @@ Then the rear door opened.
 
 And Norman Osborn stepped onto the curb.
 
-Harry didn’t hesitate.
+Harry didn't hesitate.
 
-“Dad.”
+"Dad."
 
 He crossed the distance in seconds.
 
@@ -3439,53 +3585,53 @@ Not restrained.
 
 Real.
 
-“I’m glad you’re safe,” Norman said quietly.
+"I'm glad you're safe," Norman said quietly.
 
-Harry nodded against his shoulder. “Yeah.”
+Harry nodded against his shoulder. "Yeah."
 
-Norman pulled back, hands on his son’s shoulders, studying him carefully.
+Norman pulled back, hands on his son's shoulders, studying him carefully.
 
-“You handled yourself.”
+"You handled yourself."
 
-Harry blinked slightly. “You saw?”
+Harry blinked slightly. "You saw?"
 
-Norman gave a faint smile. “I make it a habit to know when my son is in a European crisis.”
+Norman gave a faint smile. "I make it a habit to know when my son is in a European crisis."
 
 Harry exhaled.
 
 Norman turned toward the others.
 
-He shook Peter’s hand first.
+He shook Peter's hand first.
 
-“Peter Parker.”
+"Peter Parker."
 
-“Sir.”
+"Sir."
 
-“Glad to see you in one piece.”
+"Glad to see you in one piece."
 
 Then MJ.
 
-“MJ. Your questions made their way across several internal reports.”
+"MJ. Harry told me your questions made them impressed your Media Skills."
 
-MJ blinked. “Already?”
+MJ blinked. "Thanks Mr. Osborn."
 
-Norman’s expression didn’t change. “Good questions travel fast.”
+Norman's expression didn't change.
 
 Gwen next.
 
-“Stacy.”
+"Stacy."
 
 She nodded respectfully.
 
-“Sir.”
+"Sir."
 
 Flash stepped forward.
 
 Norman looked him over briefly, noticing the small bandage on his wrist.
 
-“Mr. Thompson.”
+"Mr. Thompson."
 
-Flash straightened instinctively. “Sir.”
+Flash straightened instinctively. "Sir."
 
 Norman gave a small approving nod.
 
@@ -3495,37 +3641,37 @@ Cindy stood slightly behind the group.
 
 Norman stepped toward her without hesitation and extended his hand.
 
-“Ms. Moon.”
+"Ms. Moon."
 
 Cindy hesitated only half a second before shaking it.
 
-“You don’t have to worry,” Norman said calmly. “Your secret is safe with me.”
+"You don't have to worry," Norman said calmly. "Your secret is safe with me."
 
 The group went still.
 
-Harry looked between them. “Wait—”
+Harry looked between them. "Wait—"
 
 Norman continued smoothly.
 
-“I learned about Peter’s extracurricular activities when my son once informed me that Peter had suffered an accident and required immediate access to our medical team.”
+"I learned about Peter's extracurricular activities when my son once informed me that Peter had suffered an accident and required immediate access to our medical team."
 
 Everyone turned to Harry.
 
-Harry raised his hands defensively. “I panicked. It was either that or ‘giant rhino.’”
+Harry raised his hands defensively. "I panicked. It was either that or 'giant rhino.'"
 
-Peter winced. “You said accident?”
+Peter winced. "You said accident?"
 
-“I couldn’t think of anything else!”
+Harry said, "I couldn't think of anything else!"
 
-Norman’s lips twitched slightly.
+Norman's lips twitched slightly.
 
-“I also learned,” he added mildly, turning back to Cindy, “that scarves are charming but not particularly strategic disguises.”
+"I also learned," he added mildly, turning back to Cindy, "that scarves are charming but not particularly strategic disguises."
 
 Cindy blinked.
 
 Norman continued gently.
 
-“It is not difficult to identify one Asian student among a group of American undergraduates.”
+"It is not difficult to identify one Asian student among a group of American undergraduates."
 
 There was no mockery in his tone.
 
@@ -3533,33 +3679,29 @@ Just matter-of-fact observation.
 
 Cindy let out a small breath of laughter.
 
-“Noted,” she said quietly.
+"Noted," she said quietly.
 
 Norman gave a short nod.
 
-“I respect courage,” he added. “But I respect discretion more.”
+"I respect courage," he added. "But I respect discretion more."
 
 He stepped back and gestured toward the vehicle.
 
-“Come. Your families must be waiting at your dorms. And I imagine you would prefer your stories told privately before the media invents them.”
+"Come. Your families must be waiting at your dorms. And I imagine you would prefer your stories told privately before the media invents them."
 
 They began loading their bags.
 
 As Harry moved toward the car, Norman placed a hand briefly on his shoulder.
 
-“And you,” he said, voice lower, “will tell me everything.”
+"And you," he said, voice lower, "will tell me everything."
 
-Harry smiled faintly. “Everything?”
+Harry smiled faintly. "Everything?"
 
-Norman’s eyes flickered with quiet amusement.
+Norman's eyes flickered with quiet amusement, "Start with the hoverboard."
 
-“Start with the hoverboard.”
+Harry blinked. "You knew?"
 
-Harry blinked. “You knew?”
-
-Norman opened the car door for him.
-
-“I sent it.”
+Norman opened the car door for him, "I sent it."
 
 Inside the vehicle, the tension eased slightly.
 
@@ -3593,11 +3735,11 @@ More intentional.
 
 Peter nodded in approval.
 
-“New version?”
+"New version?"
 
-Cindy glanced down at herself. “Feels more like me.”
+Cindy glanced down at herself. "Feels more like me."
 
-“That’s usually how you know it’s right.”
+"That's usually how you know it's right."
 
 The wind was cool but gentle.
 
@@ -3605,17 +3747,17 @@ Below them, a few early runners traced the sidewalks. Delivery trucks moved lazi
 
 Just morning.
 
-“You rely on tech,” Cindy said, stepping closer to the ledge.
+"You rely on tech," Cindy said, stepping closer to the ledge.
 
-Peter flexed his wrist slightly. “Web-shooters. Modular. Upgradeable.”
+Peter flexed his wrist slightly. "Web-shooters. Modular. Upgradeable."
 
 She raised her hand.
 
 A strand of organic silk shot cleanly into the air, catching a nearby antenna without effort.
 
-“I don’t reload.”
+"I don't reload."
 
-Peter smirked. “Must be nice.”
+Peter smirked. "Must be nice."
 
 They jumped at the same time.
 
@@ -3629,11 +3771,11 @@ Sharper turns. Faster directional shifts. No micro-delay between instinct and mo
 
 They landed on a higher academic building overlooking the river.
 
-Peter glanced at her. “Your reflex latency’s faster.”
+Peter glanced at her. "Your reflex latency's faster."
 
-“I don’t think about it,” she replied.
+"I don't think about it," she replied.
 
-“That’s why.”
+Peter, "That's why."
 
 They sat on the edge, feet dangling.
 
@@ -3643,37 +3785,37 @@ For a while, neither spoke.
 
 Then Cindy did.
 
-“My mom never wanted this.”
+"My mom never wanted this."
 
 Peter kept his eyes on the horizon.
 
-“She wanted school. Stability. No distractions. No risks.”
+"She wanted college, stability, no distractions, no risks."
 
 He nodded slightly.
 
-“She told me not to use my powers. Ever.” Cindy looked at her hands. “So I didn’t.”
+"She told me not to use my powers. Ever." Cindy looked at her hands. "So I didn't."
 
-Peter didn’t interrupt.
+Peter didn't interrupt.
 
-“I played ice hockey instead,” she continued. “The speed helped. The physical contact. It gave my instincts somewhere to go.”
+"I played ice hockey instead," she continued. "The speed helped. The physical contact. It gave my instincts somewhere to go."
 
-“Controlled chaos,” Peter said.
+"Controlled chaos," Peter said.
 
 She nodded.
 
-“Every game felt like I was holding something back.”
+"Every game felt like I was holding something back."
 
 Peter turned toward her.
 
-“You don’t have to do that anymore.”
+"You don't have to do that anymore."
 
 The sunlight caught the edge of her hood.
 
-She didn’t answer.
+She didn't answer.
 
 Instead, she stood.
 
-“Race you.”
+"Race you."
 
 She leapt before he finished smiling.
 
@@ -3683,85 +3825,83 @@ They swung across the river, sunlight flashing across glass buildings.
 
 Halfway through the arc, Peter spoke.
 
-“So… you like Harry, right?”
+"So... you like Harry, right?"
 
-Cindy’s next web shot came half a second late.
+Cindy's next web shot came half a second late.
 
-“What?”
+"What?"
 
 Peter laughed softly.
 
-“Subtle, I know.”
+"Subtle, I know."
 
 She landed against a vertical wall and turned toward him.
 
-“That’s not—”
+"That's not—"
 
-“It is,” Peter said gently. “From someone who’s spent years pretending not to notice things like that.”
+"It is," Peter said gently. "From someone who's spent years pretending not to open up his feelings, I can notice things like that."
 
 She looked away.
 
-“It’s complicated. I don’t even know what I want to do with my life, let alone confirming feelings for someone and being afraid it might not even be real.”
+"It's complicated. I don't even know what I want to do with my life, with my powers, let alone confirming feelings for someone and being afraid it might not even be real."
 
 Peter joined her, sticking to the wall beside her. They stood vertical, backs resting against brick, facing the skyline.
 
-“Harry’s not going to bite,” Peter said gently. “He already likes you. He’s just scared that saying the wrong thing might push you away. So, he overthinks it.”
+"Harry's not going to bite," Peter said gently. "He already likes you. He's just scared that saying the wrong thing might push you away. So, he overthinks it."
 
-Cindy let out a small breath she didn’t realize she was holding.
+Cindy let out a small breath she didn't realize she was holding.
 
 A brief pause.
 
-“Now about the other thing,” Peter continued, “I used to think being Spider-Man was something that happened to me. Like it was an accident I had to manage.”
+"Now about the other thing," Peter continued, "I used to think being Spider-Man was something that happened to me. Like it was an accident I had to manage."
 
 The river shimmered below.
 
-“But it wasn’t.”
+"But it wasn't."
 
 Cindy listened.
 
-“It’s a choice. Every day. Every time I put the mask on.”
+"It's a choice. Every day. Every time I put the mask on."
 
 He tapped the spider emblem on his chest.
 
-“The question that helped was simple.”
+"The question that helped was simple."
 
 He looked at her.
 
-“Who do you want to be?”
+"Who do you want to be?"
 
-She didn’t answer immediately.
+She didn't answer immediately.
 
-“For me,” he continued, “it was someone who fights for people who can’t fight for themselves. Someone who shows up when things fall apart.”
+"For me," he continued, "it was someone who fights for people who can't fight for themselves. Someone who shows up when things fall apart."
 
 He gestured lightly toward the spider sigil on her suit.
 
-“You don’t have to be anyone’s version of this.”
+"You don't have to be anyone's version of this."
 
 The wind lifted the edge of her hood slightly.
 
-“When you get the answer,” he said quietly, “you’ll be your own Spider-Woman.”
+"When you get the answer," he said quietly, "you'll be your own Spider-Woman."
 
 A small pause.
 
-A revelation in Cindy’s eyes.
+A revelation in Cindy's eyes.
 
-“And if that answer is yes… if you still choose to be a hero…”
+"And if that answer is yes... if you still choose to be a hero..."
 
 He met her eyes.
 
-“I know someone who helps people like us. Registers heroes legally. Protects their identity. Makes sure they’re not treated like vigilantes.”
+"I know someone who helps people like us. Registers heroes legally. Protects their identity. Makes sure they're not treated like vigilantes."
 
-Cindy studied him carefully.
-
-“Someone you trust?”
+Cindy studied him carefully, "Someone you trust?"
 
 Peter nodded.
 
-“Yeah.”
+"Yeah."
 
-He didn’t elaborate.
+He didn't elaborate.
 
-He didn’t need to.
+He didn't need to.
 
 There was weight behind that trust.
 
@@ -3777,19 +3917,19 @@ A choice.
 
 Her shoulders relaxed slightly.
 
-For the first time, the path in front of her didn’t feel forbidden.
+For the first time, the path in front of her didn't feel forbidden.
 
 It felt available.
 
-Cindy’s eyes followed the river below, sunlight stretching across the water.
+Cindy's eyes followed the river below, sunlight stretching across the water.
 
 She exhaled slowly.
 
-“Race you back,” she said.
+"Race you back," she said.
 
 Peter grinned beneath the mask.
 
-“You’re on.”
+"You're on."
 
 They pushed off the wall together.
 
@@ -3811,11 +3951,11 @@ The football stadium lights were on, casting golden beams across the field. Stri
 
 A modest stage stood near midfield. Not extravagant. Just clean lighting rigs and a live band setting up equipment.
 
-This wasn’t a rave.
+This wasn't a rave.
 
-It wasn’t formal either.
+It wasn't formal either.
 
-It was MIT’s version of celebration:
+It was MIT's version of celebration.
 
 Food trucks parked along the perimeter.
 
@@ -3845,31 +3985,31 @@ Near the entrance tunnel, MJ, Gwen, Flash, and Harry stood together.
 
 Harry kept glancing at his phone.
 
-“She’ll come,” MJ said calmly.
+"She'll come," MJ said calmly.
 
-Harry exhaled. “You don’t know that.”
+Harry exhaled. "You don't know that."
 
-“She hugged you in a burning city,” MJ replied. “She’ll come.”
+"She hugged you in a burning city," MJ replied. "She'll come."
 
-Flash nudged him. “Relax, man.”
+Flash nudged him. "Relax, man."
 
-Gwen folded her arms but smiled faintly. “You look worse than before midterms.”
+Gwen folded her arms but smiled faintly. "You look worse than before midterms."
 
 Before Harry could respond—
 
-“Why does everyone look like they’re waiting for a verdict?”
+"Why does everyone look like they're waiting for a verdict?"
 
 Peter approached, slightly out of breath.
 
-Flash pointed. “Late, Parker.”
+Flash pointed. "Late, Parker."
 
-Peter adjusted his jacket. “Testing new variables took longer than expected.”
+Peter adjusted his jacket. "Testing new variables took longer than expected."
 
-MJ raised an eyebrow. “That’s one way to phrase it.”
+MJ raised an eyebrow. "That's one way to phrase it."
 
 Peter leaned closer to Harry.
 
-“Someone’s looking for you.”
+"Someone's looking for you."
 
 Harry froze.
 
@@ -3881,19 +4021,19 @@ Cindy stood near the outer lights of the stadium, simple but elegant. Hair down.
 
 Harry forgot how to breathe.
 
-Flash shoved him lightly. “Go.”
+Flash shoved him lightly. "Go."
 
 Harry walked toward her, trying not to look like he was walking toward her.
 
 They stopped a few steps apart.
 
-“Hi,” Cindy said.
+"Hi," Cindy said.
 
-“Hi.”
+Cindy, "Hi."
 
 Harry rubbed the back of his neck slightly.
 
-“You didn’t have to come if you don’t like these kinds of things. We could—”
+"You didn't have to come if you don't like these kinds of things. We could—"
 
 She stepped forward.
 
@@ -3903,21 +4043,21 @@ Slow.
 
 Certain.
 
-“Peter told me everything,” she said softly.
+"Peter told me everything," she said softly.
 
-Harry blinked. “Of course he did.”
+Harry blinked. "Of course he did."
 
-“You don’t have to hide how you feel,” she added.
+"You don't have to hide how you feel," she added.
 
-Harry’s nervous tension melted.
+Harry's nervous tension melted.
 
-“I wasn’t hiding,” he said quietly. “I was… catastrophizing.”
+"I wasn't hiding," he said quietly. "I was... catastrophizing."
 
 She laughed lightly.
 
 They pulled back just enough to look at each other.
 
-Across the field, Peter caught Otto Octavius’ eye.
+Across the field, Peter caught Otto Octavius' eye.
 
 Peter gave a small nod.
 
@@ -3935,7 +4075,7 @@ The atmosphere shifted.
 
 Harry looked at Cindy.
 
-“Shall we?”
+"Shall we?"
 
 She nodded.
 
@@ -3945,9 +4085,9 @@ Behind them, MJ watched with satisfaction.
 
 Peter turned to her, extending his hand.
 
-“Dance?”
+"Dance?"
 
-MJ didn’t hesitate.
+MJ didn't hesitate.
 
 She placed her hand in his.
 
@@ -3959,27 +4099,27 @@ An awkward beat passed.
 
 Gwen looked at him.
 
-“Thanks,” she said.
+"Thanks," she said.
 
-“For what?”
+"For what?"
 
-“For getting us out of that building.”
+"For getting us out of that building."
 
-Flash shrugged. “Yeah. Well.”
+Flash shrugged. "Yeah. Well."
 
 Another pause.
 
 He looked at the field.
 
-“You know,” he said carefully, “I’ve wanted to ask you to dance for years.”
+"You know," he said carefully, "I've wanted to ask you to dance for years."
 
-Gwen raised an eyebrow. “Years?”
+Gwen raised an eyebrow. "Years?"
 
-“The timing was never right.”
+"The timing was never right."
 
 She stepped closer, raising her hand—
 
-“What’s stopping you now?”
+"What's stopping you now?"
 
 Flash smiled.
 
