@@ -4,7 +4,7 @@ description: "Helvetia Protocol is a government-supported, semi-independent rapi
 pubDate: 'Feb 14, 2026'
 heroImage: '@/assets/nmu-specials/zurich.jpg'
 published: true
-order: 8
+order: 9
 ---
 
 **Classification: Restricted – Urban Defense Coordination**

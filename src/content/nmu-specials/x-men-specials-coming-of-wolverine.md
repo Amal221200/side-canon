@@ -4,7 +4,7 @@ description: "This special issue details the arrival of Wolverine in the X-Men u
 pubDate: 'Feb 21, 2026'
 heroImage: '@/assets/nmu-specials/wolverine.jpg'
 published: true
-order: 10
+order: 8
 ---
 
 ## Chapter One — Bringing the Animal
