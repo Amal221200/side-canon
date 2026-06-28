@@ -2,7 +2,7 @@
 title: "Marvel Specials – Captain America"
 description: "This is the story of how a weak man from Brooklyn became the first superhero who saved the world from Hydra."
 pubDate: 'Jun 28, 2026'
-heroImage: '@/assets/nmu-specials/marvel-specials-captain-america.jpeg'
+heroImage: '@/assets/nmu-specials/marvel-specials-captain-america.webp'
 published: true
 order: 12
 ---
