@@ -1,7 +1,7 @@
 ---
 title: "Marvel Specials – Iron Man"
 description: "This is the story of how an eccentric and selfish tech monger became the hero using his own technology to fight terrorists."
-pubDate: 'Feb 14, 2026'
+pubDate: 'Jun 28, 2026'
 heroImage: '@/assets/nmu-specials/marvel-specials-iron-man.jpg'
 published: true
 order: 13
