@@ -4,7 +4,7 @@ description: "This is the story of how a weak man from Brooklyn became the first
 pubDate: 'Feb 14, 2026'
 heroImage: '@/assets/nmu-specials/marvel-specials-captain-america.jpeg'
 published: true
-order: 13
+order: 12
 ---
 
 # Marvel Specials – Captain America
