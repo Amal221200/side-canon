@@ -3,7 +3,7 @@ title: "Marvel Specials – Origin of Spider-Man"
 description: "This is the story Peter Parker way before he became the friendly neighborhood Spider-Man."
 pubDate: 'Jun 28, 2026'
 heroImage: '@/assets/nmu-specials/marvel-specials-origin-of-spider-man.jpg'
-published: false
+published: true
 order: 14
 ---
 
@@ -163,9 +163,7 @@ May followed without hesitation.
 
 "We're bringing him home."
 
----
-
-Saint Gabriel Children's Home
+### Saint Gabriel Children's Home
 
 The building smelled faintly of disinfectant and baby powder.
 
@@ -317,7 +315,7 @@ Peter Parker wasn't alone.
 
 ## Chapter Two: Best Friends
 
-### Summer, 2006
+### Summer, 2007
 
 Queens had a way of announcing new neighbors.
 
@@ -677,7 +675,7 @@ The friendship never did.
 
 ---
 
-Spring, 2011.
+### Spring, 2013.
 
 The final day of elementary school.
 
@@ -741,7 +739,7 @@ Without needing to say another word.
 
 ## Chapter Three: New Beginnings
 
-### Autumn, 2012
+### Autumn, 2013
 
 Middle school felt enormous.
 
@@ -1487,7 +1485,7 @@ Peter nodded honestly.
 
 Norman removed his coat.
 
-"James."
+"Bernard."
 
 A middle-aged butler appeared almost instantly.
 
@@ -1569,15 +1567,17 @@ Perhaps...
 
 This friendship had arrived exactly when his son needed it.
 
+---
+
 ### The Next Morning
 
 Morning came bright and clear.
 
 The storm had washed the city clean.
 
-Peter thanked James for breakfast before gathering his things.
+Peter thanked Bernard for breakfast before gathering his things.
 
-He noticed a brand-new backpack waiting beside the front door.
+He noticed a brand-new backpack and a pair of glasses waiting beside the front door.
 
 "...Whose is that?"
 
@@ -1663,7 +1663,7 @@ He shook it firmly.
 
 The sedan pulled away toward school.
 
-Behind it, secured carefully on the carrier, rode Peter Parker's new bicycle.
+Behind it, secured carefully inside the trunck, Peter Parker's new bicycle was placed.
 
 He couldn't stop looking at it through the rear window.
 
@@ -1682,6 +1682,8 @@ Harry grinned.
 Neither of them realized it then.
 
 But the ride to school that morning was the beginning of a friendship that would shape both of their lives for years to come.
+
+---
 
 The school parking lot had never seen a car quite like the Osborn sedan.
 
@@ -1703,7 +1705,7 @@ Immediately drawing confused looks.
 
 Peter barely noticed.
 
-He was too busy staring at his new bicycle as the chauffeur carefully unloaded it from the carrier.
+He was too busy staring at his new bicycle as the chauffeur carefully unloaded it from the trunck.
 
 Harry smiled.
 
@@ -1939,15 +1941,9 @@ Harry smiled politely.
 
 She hugged the books tightly.
 
-"My name's Cindy."
+Before she could introduce herself, the bell rang.
 
-"I'm Harry."
-
-She nodded once.
-
-Then hurried toward class.
-
-Harry didn't think about the moment again.
+Harry hurried toward class, he didn't think about the moment again.
 
 For him...
 
@@ -2201,7 +2197,7 @@ None of them knew how quickly that would change.
 
 ## Chapter Five: The Bite
 
-### Spring, 2014
+### Spring, 2015
 
 The final year of middle school brought new opportunities.
 
@@ -2313,15 +2309,13 @@ Gwen laughed softly.
 
 Peter smiled.
 
-"What about you?"
-
-"I want to work in genetics someday."
+"You must be pretty excited today?"
 
 She looked toward the university now appearing between skyscrapers.
 
-"Which is why..."
+"Yes..."
 
-"...I'm really excited today."
+"...Very much."
 
 ---
 
@@ -2471,7 +2465,7 @@ Its fangs pierced the skin beneath Peter's collar.
 
 Peter instinctively slapped the back of his neck.
 
-The spider fell onto the floor.
+The spider fell into his clothing.
 
 Crushed instantly beneath his hand.
 
@@ -2485,19 +2479,11 @@ Peter rubbed the sore spot.
 
 "Something bit me."
 
-She looked down.
-
-Only the remains of a tiny spider remained.
-
 "Huh."
 
 Peter shrugged.
 
-"Guess it didn't like being photographed."
-
-Gwen laughed.
-
-"Probably not."
+Gwen looking at the bite mark, "Wonder what would it be."
 
 The instructor called everyone together.
 
@@ -2698,6 +2684,8 @@ Unaware...
 That inside one small bedroom...
 
 A fourteen-year-old boy's life had just changed forever.
+
+---
 
 ### The Morning After
 
@@ -3399,7 +3387,7 @@ Twice.
 
 Then—
 
-"Hey, Parker!"
+"Hey, Parker! Catch this!"
 
 He threw it.
 
@@ -3747,6 +3735,8 @@ Today...
 
 New York suddenly looked much, much smaller.
 
+---
+
 ## Chapter Six: The Engineer
 
 Peter didn't come home until after sunset.
@@ -3861,15 +3851,11 @@ He paused.
 
 Then began writing.
 
----
-
 **Observation 1**
 
 Vision completely restored.
 
 Corrective lenses no longer required.
-
----
 
 **Observation 2**
 
@@ -3879,8 +3865,6 @@ Unknown upper limit.
 
 Requires testing.
 
----
-
 **Observation 3**
 
 Hands and feet adhere to nearly every surface.
@@ -3888,8 +3872,6 @@ Hands and feet adhere to nearly every surface.
 Mechanism unknown.
 
 Not suction.
-
----
 
 **Observation 4**
 
@@ -4793,7 +4775,7 @@ Peter quietly opened his bedroom window.
 
 The shopping bag rested beside his bed.
 
-He pulled on the red compression shirt.
+He pulled on the red compression shirt with a giant white Spider painted on the chest.
 
 The blue athletic pants.
 
@@ -4828,6 +4810,8 @@ Disappearing into the New York night.
 Neither he nor Ben realized that the conversation they'd shared that afternoon would one day become the foundation of everything Spider-Man would stand for.
 
 ---
+
+### Local New York
 
 The rooftops gradually gave way to older neighborhoods.
 
@@ -4903,7 +4887,7 @@ Peter looked toward the arena.
 
 "Winner gets five grand?"
 
-"If he wins."
+"If you win."
 
 Peter nodded.
 
@@ -5045,7 +5029,7 @@ Then smiled.
 
 "I think we've just found ourselves..."
 
-He looked at the black spider stretching across Peter's chest.
+He looked at the white spider stretching across Peter's chest.
 
 "...Spider-Man!"
 
@@ -5215,7 +5199,7 @@ Ben Parker.
 
 Lying motionless on the pavement.
 
-Blood spread slowly beneath him.
+Blood losing a lot from his chest.
 
 "...No."
 
@@ -5285,25 +5269,15 @@ His voice cracked.
 
 "No!"
 
-He pressed both hands against Ben's chest.
-
-"Come on!"
-
-"Come on!"
-
-He began chest compressions.
-
-Again.
-
-Again.
-
-Again.
+He pressed both hands against Ben's chest, only for it to be covered on blood.
 
 "Please!"
 
 "PLEASE!"
 
-Nothing.
+"Don't go!"
+
+"Please!"
 
 An ambulance screeched to a stop.
 
@@ -5316,8 +5290,6 @@ Paramedics rushed forward.
 Peter refused.
 
 "We're trying to help him!"
-
-"He needs CPR!"
 
 One medic gently pulled Peter backward.
 
@@ -5404,6 +5376,8 @@ But as Spider-Man.
 For the first time...
 
 With a reason.
+
+---
 
 ## Chapter Eight: Consequences
 
@@ -5703,12 +5677,6 @@ Jonathan quietly looked away.
 
 Madeline rested a hand on May's shoulder.
 
-Mary Jane stood frozen.
-
-Harry lowered his eyes.
-
-Neither knew what words could possibly matter.
-
 A detective approached carefully.
 
 "Peter..."
@@ -5785,7 +5753,7 @@ Norman spoke gently.
 
 "Anything at all..."
 
-"My family will help."
+"We will help."
 
 "You won't have to ask twice."
 
@@ -5894,6 +5862,8 @@ Fresh flowers rested against the headstone.
 Peter didn't look back.
 
 He couldn't.
+
+---
 
 ### The Morning After
 
