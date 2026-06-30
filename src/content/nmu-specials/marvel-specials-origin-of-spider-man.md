@@ -163,6 +163,8 @@ May followed without hesitation.
 
 "We're bringing him home."
 
+---
+
 ### Saint Gabriel Children's Home
 
 The building smelled faintly of disinfectant and baby powder.
@@ -1663,7 +1665,7 @@ He shook it firmly.
 
 The sedan pulled away toward school.
 
-Behind it, secured carefully inside the trunck, Peter Parker's new bicycle was placed.
+Behind it, secured carefully inside the trunk, Peter Parker's new bicycle was placed.
 
 He couldn't stop looking at it through the rear window.
 
@@ -1705,7 +1707,7 @@ Immediately drawing confused looks.
 
 Peter barely noticed.
 
-He was too busy staring at his new bicycle as the chauffeur carefully unloaded it from the trunck.
+He was too busy staring at his new bicycle as the chauffeur carefully unloaded it from the trunk.
 
 Harry smiled.
 
