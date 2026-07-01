@@ -7,8 +7,6 @@ published: true
 order: 14
 ---
 
-# Marvel Specials – Origin of Spider-Man
-
 ## Chapter One: Chosen
 
 Queens, New York.

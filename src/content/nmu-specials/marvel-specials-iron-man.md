@@ -7,8 +7,6 @@ published: true
 order: 13
 ---
 
-# Marvel Specials – Iron Man
-
 ## Prelude
 
 The Stark name had helped shape the modern world.

@@ -7,8 +7,6 @@ published: true
 order: 12
 ---
 
-# Marvel Specials – Captain America
-
 ## Chapter 1 – Stubborn Kid From Brooklyn
 ### Brooklyn, New York – 1943
 
