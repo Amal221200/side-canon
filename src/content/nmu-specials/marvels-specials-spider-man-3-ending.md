@@ -310,3 +310,388 @@ The rain continued to fall.
 Inside...
 
 The laughter returned to the Parker home once more.
+
+
+### Late evening
+
+The front door opened.
+
+May stepped inside, letting out a tired sigh as she slipped off her shoes.
+
+"I'm home."
+
+Laughter drifted from the kitchen.
+
+She stopped.
+
+For a brief moment...
+
+She simply listened.
+
+The house hadn't sounded like this in a long time.
+
+It felt...
+
+Alive again.
+
+A small smile appeared on her face.
+
+She walked toward the kitchen carrying a paper bag.
+
+"I brought—"
+
+She stopped.
+
+Everyone looked toward her.
+
+Peter.
+
+Harry.
+
+Flash.
+
+Gwen.
+
+Cindy.
+
+Mary Jane.
+
+All gathered around the table.
+
+Peter immediately stood.
+
+"May!"
+
+He walked over and took the paper bag from her.
+
+"You didn't have to bring anything."
+
+May smiled.
+
+"I know."
+
+"But someone used to ask for cinnamon rolls every Saturday."
+
+Peter laughed.
+
+"I still do."
+
+"I know."
+
+Harry leaned over.
+
+"Wait..."
+
+"Cinnamon rolls?"
+
+May looked at him.
+
+"I only bought enough for people who behave."
+
+Flash immediately straightened in his chair.
+
+"I've been incredibly well-behaved."
+
+"That's debatable."
+
+Everyone laughed.
+
+May looked around the table warmly.
+
+Then...
+
+Her eyes settled on Mary Jane.
+
+Mary Jane was wearing an oversized gray hoodie.
+
+And a pair of jeans that were...
+
+Definitely too big.
+
+May tilted her head.
+
+"...Mary Jane?"
+
+MJ smiled innocently.
+
+"Yes?"
+
+May pointed gently toward the hoodie.
+
+"...Isn't that Peter's hoodie?"
+
+Silence.
+
+Peter froze.
+
+MJ looked down.
+
+"...Maybe."
+
+May then looked at the jeans.
+
+"...And those?"
+
+Another silence.
+
+Harry slowly lowered his mug.
+
+Flash bit his lip.
+
+Gwen quietly looked away.
+
+Cindy suddenly found the ceiling incredibly fascinating.
+
+Peter cleared his throat.
+
+"Well..."
+
+"It started raining."
+
+May nodded slowly.
+
+"I noticed."
+
+Peter continued.
+
+"And..."
+
+"MJ got soaked."
+
+"So..."
+
+"I gave her some dry clothes."
+
+May looked at Mary Jane.
+
+"You didn't have anything else to wear?"
+
+MJ smiled awkwardly.
+
+"...Not exactly."
+
+May looked at both of them.
+
+Then smiled knowingly.
+
+"Oh."
+
+"I see."
+
+Peter blinked.
+
+"...You do?"
+
+"I do."
+
+Another long silence.
+
+Peter and Mary Jane looked at each other.
+
+Neither knew what to say.
+
+May smiled a little wider.
+
+"I may be getting older..."
+
+"...but I'm not blind."
+
+Peter immediately panicked.
+
+"Nothing happened!"
+
+The room went completely silent.
+
+Peter realised what he'd just said.
+
+"...I mean..."
+
+"...something happened."
+
+Mary Jane's eyes widened.
+
+"Peter!"
+
+He buried his face in his hands.
+
+"...That came out wrong."
+
+Harry slowly lowered his mug.
+
+"...Pete..."
+
+Flash leaned forward.
+
+"What do you mean..."
+
+"...'something happened?'"
+
+Peter looked like he wanted the ground to open beneath him.
+
+He sighed.
+
+"...We..."
+
+He glanced toward Mary Jane.
+
+She had turned completely red.
+
+Peter scratched the back of his head awkwardly.
+
+"...We kissed."
+
+Another silence.
+
+Peter immediately raised both hands.
+
+"...In the rain."
+
+"...That's it."
+
+"...Nothing else happened."
+
+Mary Jane covered her face with both hands.
+
+"Oh my God..."
+
+Harry blinked once.
+
+Then twice.
+
+"...You..."
+
+"...WHAT?"
+
+Flash nearly spat out his hot chocolate.
+
+"PARKER?!"
+
+Gwen quietly scooted her chair a little closer to Mary Jane.
+
+She gently rubbed her shoulder.
+
+"It's okay."
+
+She whispered with a warm smile.
+
+"I think everyone figured it out."
+
+Mary Jane groaned behind her hands.
+
+"...Can somebody please change the topic?"
+
+Cindy tried and completely failed not to laugh.
+
+Harry looked between the two of them.
+
+"So..."
+
+"You two..."
+
+Peter nodded sheepishly.
+
+"...Yeah."
+
+Harry couldn’t help smiling. He had been waiting years to see his best friend finally find the courage to do what he’d wanted since middle school.
+
+Flash leaned back in disbelief.
+
+"I leave you alone for one afternoon..."
+
+"...and Parker kisses the girl he's liked since elementary school."
+
+Peter sighed.
+
+"...When you say it like that..."
+
+"...it sounds like a much bigger deal."
+
+Harry laughed.
+
+"Pete..."
+
+"It **is** a big deal."
+
+He shook his head with a grin.
+
+"It's about time."
+
+May watched the entire exchange quietly.
+
+Her smile softened.
+
+She looked at Peter.
+
+Then at Mary Jane.
+
+"I'm happy."
+
+The room gradually settled.
+
+May continued softly.
+
+"You've smiled more today..."
+
+"...than you have in a very long time."
+
+Her eyes moved to Mary Jane.
+
+Mary Jane slowly lowered her hands, still blushing.
+
+May stepped closer.
+
+Resting one hand gently on Peter's shoulder.
+
+Then another on Mary Jane's.
+
+"I think..."
+
+"...Ben would've been very happy."
+
+Peter smiled.
+
+"...I think so too."
+
+May nodded.
+
+"I know so."
+
+She clapped her hands together.
+
+"Now..."
+
+"I'm not letting my cinnamon rolls get cold because you two finally figured out what everyone else has known for years."
+
+Harry frowned.
+
+"...Wait."
+
+"You knew?"
+
+May looked at him with amused disbelief.
+
+"They've been looking at each other like that since they were children."
+
+Flash slowly looked at Peter.
+
+Then at Mary Jane.
+
+Then back again.
+
+"...How did we all miss that?"
+
+Gwen smiled.
+
+"You boys really aren't very observant."
+
+Harry, "That's not fair, I already knew since mid-school..."
+
+The Parker house once again filled with voices.
+
+With laughter.
+
+With warmth.
+
+And for the first time in years...
+
+It truly felt like home.
