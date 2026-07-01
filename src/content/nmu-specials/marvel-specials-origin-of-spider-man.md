@@ -2935,7 +2935,7 @@ He shook his head.
 
 "That's ridiculous."
 
-"It was just a spider bite."
+"It was just a bite."
 
 Another pause.
 
@@ -3046,6 +3046,10 @@ Then another.
 Until gravity seemed to remember how it was supposed to work.
 
 He stood in the middle of his bedroom.
+
+Then he looked at the ground, saw the dead spider fell off from his clothing when he pulled it out last night.
+
+He picked it up, then he slowly hovered his other hand on the back of his neck to feel the bite area.
 
 Heart pounding.
 
@@ -3187,6 +3191,8 @@ He glanced down at his own hands.
 
 He wasn't so sure anymore.
 
+---
+
 ### Later That Morning
 
 Ben's pickup rolled to a stop outside Midtown Middle School.
@@ -3203,7 +3209,7 @@ Peter climbed out beside her.
 
 Ben smiled.
 
-"Try not to break anything today."
+"Try not to break anything else today."
 
 Peter froze for half a second.
 
@@ -3295,9 +3301,9 @@ Mary Jane smiled knowingly.
 
 ---
 
-Science Olympiad met before first period.
+Science Olympiad met before first period after the lunch.
 
-Gwen already had notebooks spread across the table.
+Gwen already had notebooks spread across the floor outside the basket ball court.
 
 Peter took his usual seat beside her.
 
@@ -3333,11 +3339,11 @@ Peter laughed softly.
 
 "I'll take it."
 
-The coach placed another engineering problem onto their table.
+The teacher placed them an engineering problem to solve before the class.
 
 "Bridge optimization."
 
-"You've got twenty minutes."
+"We have twenty minutes before the class."
 
 Peter immediately began sketching support structures.
 
@@ -3363,7 +3369,7 @@ Gym class.
 
 The afternoon sun warmed the outdoor basketball courts.
 
-Flash Thompson dribbled confidently through another game.
+Flash Thompson entered the court with the boys, dribbling the ball.
 
 He noticed something.
 
