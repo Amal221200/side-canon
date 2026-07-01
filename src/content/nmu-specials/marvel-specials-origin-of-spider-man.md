@@ -5515,7 +5515,7 @@ The same eyes.
 
 The same jacket.
 
-The same man he had watched run past only an hour earlier.
+The same man he had watched run past not too long ago.
 
 Peter's grip loosened.
 
@@ -5825,7 +5825,7 @@ Watching Ben's grave.
 
 Norman looked toward Harry and Mary Jane.
 
-"Why don't the three of you come back to our place for a while?"
+"Why don't the three of you come to our place for a while?"
 
 "A change of scenery might help."
 
