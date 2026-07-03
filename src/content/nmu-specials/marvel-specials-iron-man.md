@@ -21,7 +21,7 @@ Saved lives.
 
 And stood beside legends who changed history.
 
-After the war...
+After him...
 
 His son, Howard Stark, inherited the company.
 
@@ -287,7 +287,7 @@ He just hadn't realized...
 
 The future he was building was already coming back to find him.
 
-### Afghanistan
+### Afghanistan (Next day)
 
 The desert stretched endlessly beneath a cloudless sky.
 
@@ -455,6 +455,14 @@ The terrain narrowed into a rocky valley.
 
 Everything seemed peaceful.
 
+Officers talking to each other.
+
+Tony having a glass of whiskey.
+
+Some even asks for a selfie.
+
+Everything looked peaceful.
+
 Then...
 
 The first explosion erupted beneath the lead vehicle.
@@ -526,6 +534,8 @@ Was a group of armed men approaching him.
 One carried a rifle manufactured by Stark Industries.
 
 Everything went dark.
+
+## Inside a cave
 
 Tony's eyes slowly opened.
 
@@ -1435,7 +1445,7 @@ Tony smashed through walls.
 
 Steel beams bent beneath his weight.
 
-Ten Rings terrorists fled before him.
+Terrorists fled before him.
 
 Outside...
 
@@ -1929,7 +1939,9 @@ Rhodey's frustration slowly faded, "What happened to you over there?"
 
 The room fell silent.
 
-Tony looked down at the Arc Reactor glowing beneath his shirt.
+Tony looked down at the Arc Reactor glowing beneath his shirt, he slowly showed it to them.
+
+Rhodey and Pepper saw it, they didn't need an answer.
 
 "There is someone inside Stark Industries..."
 
@@ -1939,7 +1951,7 @@ Tony looked down at the Arc Reactor glowing beneath his shirt.
 
 "I kept telling myself there had to be some mistake."
 
-He looked toward Rhodey.
+He looked toward Rhodey and stood up.
 
 "Then I watched people die because of my inventions."
 
@@ -3293,11 +3305,9 @@ Every terrorist was struck with surgical precision.
 
 Not a single civilian suffered so much as a scratch.
 
-Tony lowered his hand.
-
 The villagers remained unharmed.
 
-He surveyed the battlefield once more.
+Tony surveyed the battlefield once more.
 
 Most of the terrorists had already fled.
 
@@ -3447,6 +3457,8 @@ The man trembled.
 
 "He arranged everything!"
 
+"He even sold you to us!"
+
 Tony slowly released him.
 
 Silence.
@@ -3465,21 +3477,17 @@ He was wrong.
 
 He paused.
 
-"And every major news network."
+"Give the military a head start. As soon as they move in, make it public."
 
 "Transmission complete."
 
 Thousands of miles away...
 
-Newsrooms simultaneously received the same encrypted video.
+Military intelligence offices received the same encrypted video.
 
-Military intelligence offices.
+Rhodey immediately told them to play it.
 
-Government agencies.
-
-Journalists.
-
-Every screen began playing the same confession.
+Once they learned the truth, they prepared the arrest for Obadiah Stane
 
 ### New York
 
