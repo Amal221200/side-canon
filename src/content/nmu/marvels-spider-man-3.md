@@ -7,7 +7,7 @@ published: false
 order: 13
 ---
 
-## Chapter One: Home
+## Chapter One: Back To Campus
 
 **Massachusetts Institute of Technology**
 
@@ -33,7 +33,7 @@ He adjusted the strap of his backpack as he stepped through Killian Court, slowi
 
 Three years.
 
-Three years since he'd first walked onto this campus wondering whether he'd made the right decision.
+Three years since he'd first walked onto this campus with his friends, wondering what it looks like coming to a very prestigious institue.
 
 Back then everything had been unfamiliar.
 
@@ -729,6 +729,8 @@ This wasn't just where he'd studied for four years.
 
 This was home.
 
+---
+
 ### Cafeteria
 
 The familiar chatter of the cafeteria washed over them long before they reached the entrance.
@@ -1377,7 +1379,7 @@ Peter shrugged.
 
 MJ took a sip of her coffee.
 
-"It actually was."
+Cindy, "It actually was."
 
 Harry pointed dramatically.
 
@@ -1485,7 +1487,7 @@ Flash looked down at his drink.
 
 For just a second...
 
-The old Flash Thompson—the teenager who always needed to prove he was the toughest person in the room—was gone.
+The old Flash Thompson, the teenager who always needed to prove he was the toughest person in the room was gone.
 
 In his place sat a young engineer who was quietly proud that someone had believed in his abilities.
 
@@ -4811,7 +4813,7 @@ One generation handing its knowledge to the next.
 
 Norman smiled warmly.
 
-"I've watched each of you grow these past four years."
+"I've watched each of you grow these past three years."
 
 "Harry talks about you more than he realizes."
 
