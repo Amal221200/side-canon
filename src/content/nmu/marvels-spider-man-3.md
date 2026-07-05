@@ -10127,7 +10127,5441 @@ The forest moved with it.
 
 ---
 
-### Epilogue
+## Chapter Six: The Hive
+
+Night settled over Westchester County.
+
+The forests that stretched across the rolling hills had become almost unnaturally quiet.
+
+Only the distant chirping of crickets broke the silence.
+
+Along a winding county road, a family loaded the last of their camping equipment into an SUV.
+
+The father smiled as he closed the trunk.
+
+"Everyone in?"
+
+A little girl climbed into the back seat.
+
+"Can we come back next summer?"
+
+Her mother laughed.
+
+"We'll see."
+
+Before the engine could start...
+
+The family dog suddenly stood upright.
+
+Its ears perked.
+
+It stared into the forest.
+
+The father frowned.
+
+"Buddy?"
+
+The dog didn't respond.
+
+Its tail stopped wagging.
+
+Then...
+
+Without warning...
+
+It bolted into the darkness.
+
+"Buddy!"
+
+The little girl opened the door.
+
+"Dad!"
+
+"I'll get him."
+
+The father grabbed a flashlight and hurried into the trees.
+
+"Buddy!"
+
+Only silence answered.
+
+He swept the beam across the undergrowth.
+
+Nothing.
+
+Another step.
+
+"Buddy!"
+
+A twig snapped somewhere behind him.
+
+He turned.
+
+The flashlight found nothing.
+
+Then...
+
+Dozens of tiny reflections appeared between the trees.
+
+Eyes.
+
+Watching.
+
+The beam moved again.
+
+A deer stepped into the light.
+
+Then another.
+
+Then another.
+
+The man slowly lowered the flashlight.
+
+"...What..."
+
+The deer didn't move.
+
+They simply stared.
+
+From somewhere deeper in the forest...
+
+A wolf emerged.
+
+Then another.
+
+Crows silently gathered upon branches overhead.
+
+Foxes.
+
+Coyotes.
+
+Even rabbits remained perfectly still.
+
+Predators and prey...
+
+Standing together.
+
+The man's breathing quickened.
+
+None of this made sense.
+
+He slowly stepped backward.
+
+The animals stepped forward.
+
+Every one of them.
+
+At the same time.
+
+He turned and ran.
+
+"RUN!"
+
+His terrified scream echoed across the campground.
+
+The family looked toward the forest just as dozens of animals burst from the treeline.
+
+People scattered in every direction.
+
+Cars accelerated onto the road.
+
+Tents were abandoned.
+
+Children cried.
+
+The peaceful campground dissolved into chaos.
+
+Miles away...
+
+Emergency dispatch centers across Westchester lit up almost simultaneously.
+
+"911, what's your emergency?"
+
+"Animals are attacking people!"
+
+"We need help!"
+
+"My God, there are hundreds of them!"
+
+"They're everywhere!"
+
+"They're not stopping!"
+
+Call after call flooded the system.
+
+Police dispatchers exchanged confused looks.
+
+Park rangers reported identical sightings.
+
+Entire herds moving together.
+
+Wolves attacking without fear.
+
+Birds diving at vehicles.
+
+Roads becoming impassable.
+
+Within minutes...
+
+Emergency alerts spread across the county.
+
+---
+
+Miles away...
+
+The grounds of Xavier's School for Gifted Youngsters remained peaceful.
+
+Until...
+
+**BEEP.**
+
+**BEEP.**
+
+**BEEP.**
+
+Red warning lights illuminated the operations room beneath the mansion.
+
+Large tactical displays rapidly populated with emergency reports.
+
+Scott Summers looked up immediately.
+
+"What have we got?"
+
+One of the operators answered.
+
+"Multiple civilian distress calls."
+
+"Westchester County."
+
+"Large-scale animal attacks."
+
+Storm stepped beside the display.
+
+"Animal attacks?"
+
+The operator nodded.
+
+"They're coordinated."
+
+That single word silenced the room.
+
+Charles Xavier slowly turned his wheelchair toward the main display.
+
+His expression grew more serious with every incoming report.
+
+"This isn't natural."
+
+Scott was already issuing orders.
+
+"Seal the mansion."
+
+"Move the students to the internal shelters."
+
+Jean immediately nodded.
+
+"I'm on it."
+
+Rogue headed toward the lower levels.
+
+"I'll help."
+
+Nightcrawler disappeared in a flash of blue smoke.
+
+Storm began coordinating the younger students.
+
+Within seconds...
+
+The mansion transformed from a school into an organized emergency response center.
+
+Charles reached for the communications console.
+
+A secure channel connected almost immediately.
+
+"Hank."
+
+Static filled the speakers for only a moment before Hank McCoy's voice answered from Oscorp.
+
+"Charles."
+
+"I was hoping you weren't calling because of good news."
+
+Charles looked toward the growing cluster of emergency markers.
+
+"Westchester is under attack."
+
+"We're receiving hundreds of emergency calls."
+
+"We believe it's connected to your organism."
+
+Several seconds of silence followed.
+
+Finally...
+
+Hank spoke.
+
+"We're still working."
+
+"We understand far more than we did this morning..."
+
+"...but we're not ready."
+
+"We're still developing a way to separate it safely."
+
+Charles nodded.
+
+"I understand."
+
+"What do you need from us?"
+
+Hank didn't hesitate.
+
+"If these creatures are connected to the same biological network..."
+
+"...we need to examine one."
+
+"A living specimen."
+
+"If we can compare it with the dormant fragment..."
+
+"...it may tell us how the network functions."
+
+Charles glanced toward Scott.
+
+Scott had already understood.
+
+"I'll send the right team."
+
+Hank's voice remained calm.
+
+"Don't take unnecessary risks."
+
+"We're still dealing with something we don't fully understand."
+
+A faint smile crossed Charles' face.
+
+"I know."
+
+He looked around the operations room.
+
+"I have the right people to face the unknown."
+
+"Just bring us one specimen."
+
+Charles nodded.
+
+"You have my word."
+
+The communication ended.
+
+Silence settled over the room.
+
+Scott looked toward the assembled X-Men.
+
+His expression hardened.
+
+"This is no longer a rescue operation."
+
+"It's containment."
+
+He activated the tactical display.
+
+A map of Westchester appeared before them.
+
+Dozens of emergency calls blinked across the county.
+
+Scott took one slow breath.
+
+Then spoke.
+
+"X-Force."
+
+---
+
+The Blackbird roared through the night sky.
+
+Below...
+
+Westchester was burning.
+
+Emergency vehicles raced through the streets.
+
+Police cruisers blocked intersections.
+
+Fire engines fought fires spreading through abandoned campsites.
+
+Explosions echoed across the forests as propane tanks from deserted camps burst one after another.
+
+The flashes illuminated hundreds of moving silhouettes between the trees.
+
+The animals barely reacted.
+
+They simply continued moving.
+
+One purpose.
+
+One direction.
+
+Inside the Blackbird...
+
+Every member of X-Force stood silently.
+
+Logan watched through the open rear ramp.
+
+Gambit tightened the gloves around his hands.
+
+Warpath checked the edge of his hunting knives.
+
+Sunspot's skin shimmered with faint solar energy.
+
+Bishop locked another energy cartridge into his rifle.
+
+Beside him...
+
+Pietro stretched his legs impatiently.
+
+The pilot's voice echoed through the cabin.
+
+"I can't risk contamination by landing."
+
+Logan didn't even look back.
+
+"We ain't landing."
+
+The rear ramp lowered completely.
+
+Cold night air rushed into the aircraft.
+
+The pilot banked lower over the burning forest.
+
+"Go!"
+
+Without hesitation...
+
+Logan jumped.
+
+One after another...
+
+Bishop.
+
+Sunspot.
+
+Warpath carrying Pietro.
+
+Then Gambit.
+
+The Blackbird immediately climbed back into the sky.
+
+---
+
+Logan hit the ground first.
+
+His boots dug into the forest floor.
+
+Bishop landed beside him.
+
+Sunspot descended in a burst of blazing energy.
+
+Warpath landed heavily before setting Pietro back onto his feet.
+
+Finally...
+
+Gambit struck the ground in a perfect roll.
+
+Before anyone spoke—
+
+Pietro vanished.
+
+A violent gust of wind swept through the road.
+
+Then another.
+
+Then another.
+
+Families disappeared from the highway one by one.
+
+Children.
+
+Campers.
+
+Police officers.
+
+Every few seconds...
+
+Another group simply vanished.
+
+---
+
+High above...
+
+The Blackbird remained in a holding pattern.
+
+Its thermal cameras scanned the forest.
+
+Every transmission streamed live to two locations simultaneously.
+
+Xavier's School.
+
+Oscorp Tower.
+
+---
+
+MJ searched every camera feed.
+
+Nothing.
+
+Harry zoomed into another section of forest.
+
+Nothing.
+
+Flash frowned.
+
+"Where is he?"
+
+No one answered.
+
+Hank quietly looked up from the monitor.
+
+"I believe..."
+
+"...that's a good sign."
+
+Everyone turned.
+
+"If the primary organism isn't here..."
+
+"...the team doesn't have to hold back."
+
+---
+
+Hank activated the secure channel.
+
+"X-Force, this is McCoy."
+
+Logan answered immediately.
+
+"Go ahead."
+
+"Do not make physical contact with the black material."
+
+"We've confirmed two effective countermeasures."
+
+"High-frequency sound."
+
+"And fire."
+
+"If an infected animal cannot be contained..."
+
+"...burn the organism."
+
+He paused.
+
+"And Charles' request still stands."
+
+"We need one living specimen."
+
+Logan looked toward Pietro.
+
+"Pietro."
+
+A blue blur appeared beside him.
+
+"Yeah?"
+
+"Bring Hank his specimen after the evacuation."
+
+Pietro nodded.
+
+---
+
+Bishop raised his rifle.
+
+"You heard the doctor."
+
+"Evacuate civilians."
+
+"Recover one specimen."
+
+"Burn anything that spreads."
+
+He looked toward the dark forest.
+
+"Move."
+
+The team disappeared into the trees.
+
+---
+
+The streets of Westchester had become a battlefield.
+
+Police cruisers blocked intersections.
+
+Fire engines fought burning buildings.
+
+Storefront windows lay shattered across the roads.
+
+Emergency sirens echoed through the night as terrified civilians fled in every direction.
+
+Three infected wolves leapt toward against Wolverine.
+
+**SNIKT!**
+
+Adamantium claws flashed.
+
+One wolf was thrown through a parked police cruiser.
+
+Another rolled across the asphalt.
+
+The third landed directly behind him.
+
+Logan spun.
+
+A single slash tore through the creature's shoulder.
+
+The wolf collapsed.
+
+For less than a second.
+
+Black tendrils crawled beneath its fur.
+
+Bones shifted.
+
+Muscles repaired themselves.
+
+The wolf slowly stood again.
+
+Logan narrowed his eyes.
+
+"...You're kidding."
+
+---
+
+Across the intersection...
+
+Warpath caught an overturned pickup truck before it crushed a family attempting to escape.
+
+"Move!"
+
+The family stumbled away.
+
+A massive infected bear charged directly toward them.
+
+Warpath met it head-on.
+
+The impact shattered the pavement beneath both of them.
+
+The bear pushed forward.
+
+Warpath answered with a thunderous punch that launched it through the wall of a convenience store.
+
+Before it could rise—
+
+Logan landed beside it.
+
+The two exchanged a single glance.
+
+No words were needed.
+
+They attacked together.
+
+---
+
+High above...
+
+Sunspot streaked across the burning skyline.
+
+His body blazed like a miniature sun.
+
+A flock of infected crows erupted from between two office buildings.
+
+Hundreds.
+
+They descended toward firefighters trapped below.
+
+Roberto extended both hands.
+
+Twin streams of solar plasma swept across the sky.
+
+The flames never touched the firefighters.
+
+Only the black tendrils surrounding the birds.
+
+The infected material ignited instantly.
+
+Dozens of crows fell harmlessly onto nearby rooftops.
+
+The remaining flock scattered.
+
+"Street's clear!"
+
+---
+
+An explosion rocked the opposite side of town.
+
+A fuel tanker erupted into flames.
+
+The shockwave raced across the intersection.
+
+Bishop didn't move.
+
+The orange firestorm washed over him.
+
+Energy surged into every circuit of his armor.
+
+Kinetic energy spread across his body.
+
+He raised his rifle.
+
+"Now we're talking."
+
+A deafening blast erupted from the weapon.
+
+The concentrated energy wave tore through an advancing wall of infected wolves.
+
+Cars rolled over.
+
+Streetlights collapsed.
+
+The entire swarm was thrown backward.
+
+For the first time...
+
+The civilians had room to escape.
+
+---
+
+Remy landed atop a delivery truck.
+
+He looked down at the street.
+
+Too many.
+
+Far too many.
+
+He smiled anyway.
+
+"Guess we do this de hard way."
+
+He pulled a single playing card from his pocket.
+
+Then stopped.
+
+"...Nah."
+
+Instead...
+
+He placed one hand against the side of the truck.
+
+Purple kinetic energy spread across the steel.
+
+Every bolt.
+
+Every panel.
+
+Every support beam.
+
+Glowed.
+
+The infected pack rounded the corner.
+
+Remy leapt away.
+
+The truck exploded.
+
+A controlled kinetic blast ripped across the street.
+
+The shockwave tore black tendrils away from several infected animals while leaving the surrounding buildings largely intact.
+
+"Dat's more like it."
+
+---
+
+Elsewhere...
+
+The last evacuation bus pulled away from the city.
+
+Pietro appeared beside it in a blue blur.
+
+He glanced around.
+
+The streets were finally empty.
+
+Scott's voice came through the communicator.
+
+"Pietro."
+
+"Evacuation complete."
+
+Bishop looked toward him.
+
+"You heard Hank."
+
+"Bring back a specimen."
+
+Pietro grinned.
+
+"My turn."
+
+He vanished.
+
+---
+
+Above the battlefield...
+
+A lone infected crow circled silently.
+
+Pietro appeared beside it.
+
+His hand closed around its body.
+
+The bird struggled violently.
+
+Almost immediately...
+
+Thin black tendrils began creeping across its feathers.
+
+Then...
+
+Toward Pietro's glove.
+
+He stared at them.
+
+"...Yeah..."
+
+"...that's a no."
+
+The world became a blue streak.
+
+---
+
+Seconds later...
+
+Oscorp Tower.
+
+A blur shot vertically up the glass façade.
+
+Security cameras barely registered it.
+
+Laboratory personnel looked toward the terrace doors just as they burst open.
+
+Wind scattered research papers across the conference room.
+
+Pietro stood there.
+
+Holding the struggling crow at arm's length.
+
+"Delivery."
+
+Reed was already moving.
+
+A reinforced containment chamber slid across the table.
+
+"Inside!"
+
+Pietro dropped the crow into the chamber.
+
+The transparent walls sealed instantly.
+
+Black tendrils slammed repeatedly against the reinforced glass.
+
+For the first time...
+
+The scientists weren't studying a fragment.
+
+They were studying an active extension of the hive.
+
+Hank immediately moved the chamber beneath the analyzer.
+
+"The serum."
+
+Tony handed him the latest prototype.
+
+Hank injected a microscopic quantity into the containment field.
+
+Everyone watched.
+
+The reaction was immediate.
+
+The black tendrils recoiled violently.
+
+They began separating from the crow's feathers.
+
+Harry smiled.
+
+"It worked."
+
+Then...
+
+The crow collapsed.
+
+Its heartbeat dropped sharply.
+
+MJ's smile disappeared.
+
+"...What's happening?"
+
+Hank rapidly scanned the readings.
+
+His expression hardened.
+
+"The organism is separating..."
+
+He looked toward the crow's vital signs.
+
+"...but so are the host's cells."
+
+Silence filled the room.
+
+Tony stared at the monitor.
+
+"So the serum..."
+
+Hank slowly nodded.
+
+"It works."
+
+Another pause.
+
+"But it cannot distinguish between the symbiote..."
+
+"...and the organism it's bonded to."
+
+Norman quietly finished the thought.
+
+"If we use this on Peter now..."
+
+"...we'll kill him."
+
+No one spoke.
+
+Every eye turned toward the image of Spider-Man still frozen on one of the displays.
+
+They had finally created a way to destroy the bond.
+
+But they still hadn't found a way...
+
+To save Peter.
+
+---
+
+The battle had begun to turn.
+
+The burning streets were finally beginning to empty.
+
+The remaining infected animals were being forced back block by block.
+
+Bishop's energy blasts shattered another advancing pack.
+
+Sunspot's flames cut through black tendrils spreading across a nearby building.
+
+Warpath and Logan drove the largest creatures away from trapped firefighters.
+
+Gambit's controlled explosions sealed another intersection.
+
+For the first time...
+
+The swarm retreated.
+
+A police officer slowly lowered his weapon.
+
+"...Did we..."
+
+Then—
+
+A scream.
+
+Not from the X-Force.
+
+Not from a civilian.
+
+A terrified scream echoed from somewhere deeper within the smoke.
+
+Everyone turned.
+
+The burning street fell silent.
+
+Even the infected animals stopped moving.
+
+One by one...
+
+They turned toward the same direction.
+
+The smoke slowly parted.
+
+A figure emerged.
+
+Tall.
+
+Completely black.
+
+The white spider stretched across its chest.
+
+Its white eyes reflected the burning city around it.
+
+The X-Force froze.
+
+Logan slowly extended his claws.
+
+"What the hell is that?"
+
+The figure stopped.
+
+Its head tilted.
+
+The voice that followed...
+
+Didn't sound human.
+
+It sounded like countless whispers speaking together.
+
+"You..."
+
+A pause.
+
+"...are hurting..."
+
+Another pause.
+
+"...us."
+
+Silence.
+
+The infected animals remained perfectly still.
+
+Waiting.
+
+Watching.
+
+The figure took another step.
+
+The Blackbird's cameras zoomed in automatically.
+
+The image streamed directly to Xavier's School.
+
+To Oscorp Tower.
+
+Inside the conference room...
+
+Nobody spoke.
+
+Harry's face drained of color.
+
+"...Peter..."
+
+MJ covered her mouth.
+
+Flash stared at the screen in disbelief.
+
+Cindy couldn't take her eyes off the monitor.
+
+"...No..."
+
+Tony slowly stepped closer.
+
+"That's..."
+
+Norman quietly finished the sentence.
+
+"...Spider-Man."
+
+Not anymore.
+
+Hank's eyes widened.
+
+Every piece of research...
+
+Every observation...
+
+Every theory...
+
+Finally came together.
+
+He immediately activated the communications channel.
+
+"X-Force, this is McCoy."
+
+Logan never looked away from the creature.
+
+"We see it."
+
+Hank's voice became urgent.
+
+"Listen carefully."
+
+"Do not kill it."
+
+A brief silence.
+
+Then—
+
+"Spider-Man is still inside."
+
+The words hit the battlefield like another explosion.
+
+Warpath lowered his weapons.
+
+Gambit's expression changed instantly.
+
+Sunspot looked back toward the figure.
+
+Even Bishop hesitated.
+
+At Xavier's School...
+
+Charles looked toward the monitor.
+
+His face filled with disbelief.
+
+"...Hank..."
+
+"...Spider-Man?"
+
+Hank never took his eyes off the screen.
+
+"He's trapped inside that organism."
+
+"We're still working on a way to separate them."
+
+Charles understood immediately.
+
+He turned toward Scott.
+
+"They don't have a choice."
+
+Scott nodded.
+
+"They need reinforcements."
+
+Charles reopened the channel.
+
+"X-Force."
+
+"You've bought us valuable time."
+
+"Now buy us a little more."
+
+"We're sending backup."
+
+The communication ended.
+
+Across the burning street...
+
+The black figure slowly smiled.
+
+Not with anger.
+
+Not with satisfaction.
+
+As though it had only just learned what a smile was...
+
+And was still practicing.
+
+The surrounding animals answered.
+
+Not with roars.
+
+Not with cries.
+
+With complete...
+
+Perfect...
+
+Silence.
+
+---
+
+## Chapter Seven: Bring Peter Home
+
+The burning streets of Westchester fell silent.
+
+Venom stood at the center of the intersection.
+
+The white spider across his chest reflected the orange glow of burning vehicles.
+
+Around him...
+
+The remaining infected animals waited.
+
+Not a single one moved.
+
+The X-Force formed a defensive line across the ruined street.
+
+Logan never took his eyes off the creature.
+
+Adamantium claws remained extended.
+
+Beside him...
+
+Bishop slowly lowered the barrel of his rifle.
+
+The communicator crackled.
+
+Warpath's voice came first.
+
+"What now?"
+
+Roberto hovered above the rooftops, scanning the surrounding streets.
+
+"The city's still not clear."
+
+Remy twirled a playing card between his fingers.
+
+"So what's de plan, Bishop?"
+
+Bishop studied the battlefield.
+
+Then looked directly at Venom.
+
+"We don't have a choice."
+
+"We trust McCoy."
+
+His grip tightened around the rifle.
+
+"We contain Spider-Man."
+
+"We do not kill him."
+
+The team silently nodded.
+
+Venom tilted his head.
+
+As though listening.
+
+Then...
+
+The smile widened.
+
+The ground began to shake.
+
+Low growls echoed from every direction.
+
+More eyes appeared beyond the smoke.
+
+One pair.
+
+Then ten.
+
+Then hundreds.
+
+From alleyways...
+
+Parking garages...
+
+Sewer entrances...
+
+Subway tunnels...
+
+The hive answered its master.
+
+Fresh waves of infected animals flooded into the city.
+
+Bishop immediately reacted.
+
+"Split up!"
+
+He pointed toward Logan.
+
+"With me."
+
+Then toward the others.
+
+"Warpath!"
+
+"Sunspot!"
+
+"Gambit!"
+
+"Keep them away from downtown!"
+
+"No matter what!"
+
+Everyone moved at once.
+
+---
+
+Logan sprinted directly toward Venom.
+
+Venom never moved.
+
+Not until Logan entered striking distance.
+
+Then—
+
+The black figure disappeared.
+
+Logan's eyes widened.
+
+Too fast.
+
+A black fist slammed into his ribs.
+
+The impact launched him completely through the wall of a nearby bank.
+
+Concrete exploded outward.
+
+Bishop fired immediately.
+
+Brilliant purple energy illuminated the night.
+
+Venom twisted sideways.
+
+The blast missed him by centimeters before tearing through an abandoned delivery truck.
+
+The explosion echoed across the city.
+
+Venom looked at Bishop.
+
+Then smiled again.
+
+The fight had begun.
+
+---
+
+Across the city...
+
+The second battle had already begun.
+
+Roberto shot into the sky.
+
+His body blazed with solar energy.
+
+He swept both arms downward.
+
+Twin streams of superheated plasma carved across the empty intersection.
+
+The asphalt glowed red.
+
+Concrete cracked.
+
+Within seconds...
+
+A circular trench surrounded three city blocks.
+
+The edges ignited.
+
+A wall of fire rose into the night.
+
+Roberto hovered above it.
+
+"Warpath!"
+
+James understood immediately.
+
+The largest infected animals charged through the smoke.
+
+Bears.
+
+Moose.
+
+Wolves.
+
+Their only objective...
+
+Break through.
+
+Warpath met them head-on.
+
+An infected bear swung first.
+
+James caught the strike with both hands.
+
+The pavement shattered beneath his feet.
+
+With a roar...
+
+He twisted.
+
+Using the creature's own momentum.
+
+The massive bear crashed directly into the burning trench.
+
+Black tendrils immediately writhed across its body.
+
+They recoiled violently from the flames.
+
+The organism began peeling away from the animal's fur.
+
+The bear stumbled out the opposite side.
+
+Confused.
+
+Terrified.
+
+Then...
+
+It ran.
+
+Free.
+
+Roberto smiled.
+
+"It works!"
+
+More infected wolves rushed toward the opening.
+
+Warpath charged directly into the pack.
+
+His shoulders slammed into two wolves simultaneously.
+
+Another tried leaping over him.
+
+James caught it midair.
+
+Spun once.
+
+Then threw it into the burning pit.
+
+Again...
+
+The black organism recoiled from the fire.
+
+The wolf escaped.
+
+Alive.
+
+The symbiotic mass burned away inside the flames.
+
+One after another...
+
+The infected hosts broke free.
+
+---
+
+Several streets away...
+
+Remy landed atop a traffic light.
+
+He looked down.
+
+An entire herd of infected deer poured through the avenue.
+
+Behind them...
+
+Dozens of infected coyotes.
+
+Too many to fight individually.
+
+Remy smiled.
+
+"Guess we make our own roadblock."
+
+He placed both hands against an abandoned city bus.
+
+Purple kinetic energy spread across its frame.
+
+Every panel...
+
+Every wheel...
+
+Every bolt...
+
+Began glowing.
+
+Remy vaulted backward.
+
+The herd reached the intersection.
+
+"Now."
+
+The bus exploded.
+
+The controlled blast rolled the vehicle onto its side.
+
+It crashed across the entire street.
+
+The roadway collapsed behind it.
+
+The advancing swarm split into smaller groups.
+
+Exactly as planned.
+
+Roberto immediately answered.
+
+Columns of fire sealed the remaining gaps.
+
+The hive had been divided.
+
+---
+
+High above...
+
+The Blackbird continued circling.
+
+Every second of the battle streamed directly to Oscorp.
+
+Norman watched silently.
+
+Tony barely looked up from the armor spread across the workshop.
+
+Mechanical arms replaced damaged components.
+
+The standard repulsor assemblies slid free.
+
+New modules locked into place.
+
+Twin sonic emitters.
+
+Reinforced antidote canisters.
+
+Reed secured another containment cylinder into the forearm.
+
+"It only has one shot."
+
+Tony nodded.
+
+"Then we make it count."
+
+---
+
+The flames continued spreading through the intersections.
+
+Another infected wolf broke through the fire.
+
+Black tendrils peeled violently away from its body.
+
+The animal stumbled forward.
+
+Its movements became frantic.
+
+Confused.
+
+As though waking from a nightmare.
+
+It looked around.
+
+Then bolted into the darkness.
+
+Roberto smiled.
+
+"We're getting them out!"
+
+Warpath watched the wolf disappear.
+
+Then...
+
+Something strange happened.
+
+The burning strands of black biomass didn't remain in the fire.
+
+They moved.
+
+Like thick black liquid.
+
+The mass gathered itself.
+
+Then retreated.
+
+Not randomly.
+
+Purposefully.
+
+Across sidewalks.
+
+Over walls.
+
+Through storm drains.
+
+Every fragment flowed toward the center of the battlefield.
+
+Warpath frowned.
+
+"Roberto..."
+
+"You seeing this?"
+
+Sunspot turned.
+
+His smile disappeared.
+
+The burning fragments weren't dying.
+
+They were escaping.
+
+Across the city...
+
+The same thing happened.
+
+Black material abandoned wolves.
+
+Foxes.
+
+Coyotes.
+
+Birds.
+
+Every burned fragment withdrew from its former host.
+
+They merged together.
+
+Growing larger.
+
+Faster.
+
+More complete.
+
+Like streams feeding a river.
+
+---
+
+Logan barely had time to react.
+
+Venom caught his wrist.
+
+The black hand squeezed.
+
+Adamantium claws stopped inches from Venom's chest.
+
+Venom slowly turned toward the flowing black biomass.
+
+The countless fragments reached his feet.
+
+Without hesitation...
+
+They climbed.
+
+Up his legs.
+
+Across his torso.
+
+Over his shoulders.
+
+The white spider pulsed briefly.
+
+Venom's body expanded.
+
+The black surface thickened.
+
+Muscle layered upon muscle.
+
+His frame became broader.
+
+Heavier.
+
+Stronger.
+
+Bishop stared.
+
+"...He's reclaiming them."
+
+Venom slowly opened his hand.
+
+Logan was thrown across the street.
+
+He crashed through two parked cars before rolling to a stop.
+
+Bishop immediately fired.
+
+Twin blue energy blasts struck Venom square in the chest.
+
+The explosion lit the entire intersection.
+
+Smoke engulfed the street.
+
+For a moment...
+
+Nothing moved.
+
+Then...
+
+Two white eyes appeared through the smoke.
+
+Unchanged.
+
+Venom stepped forward.
+
+Without a single visible injury.
+
+Only now...
+
+He looked larger than before.
+
+The organism had learned.
+
+It wasn't simply commanding the hive.
+
+It was recycling it.
+
+---
+
+Miles away...
+
+Oscorp Tower.
+
+No one in the laboratory had looked away from the live feed.
+
+Every monitor showed the same battle.
+
+Westchester was still burning.
+
+Norman watched Venom absorb the retreating biomass.
+
+"...It's growing."
+
+Hank adjusted the simulation running across the main display.
+
+"It confirms our theory."
+
+"The organism isn't creating separate lifeforms."
+
+"It's distributing portions of itself."
+
+Reed watched the countless biological pathways appear across the holographic model.
+
+"One central body."
+
+"Many extensions."
+
+Tony quietly finished securing another canister beneath his forearm.
+
+"Meaning every fragment they burn..."
+
+"...eventually comes back."
+
+"No."
+
+Hank corrected.
+
+"It learns."
+
+Silence settled over the room.
+
+Each recovered fragment carried new information.
+
+New observations.
+
+New adaptations.
+
+The organism wasn't merely recovering.
+
+It was improving.
+
+Tony sealed the final armor panel.
+
+The suit's diagnostic systems immediately activated.
+
+A new interface appeared across the helmet display.
+
+**SONIC EMITTERS**
+— ONLINE
+
+**ANTIDOTE DELIVERY SYSTEM**
+— ONLINE
+
+He looked toward Reed.
+
+"Give me the numbers."
+
+Reed projected a three-dimensional simulation.
+
+"The sonic emitters should interrupt the organism's connection temporarily."
+
+He emphasized the word.
+
+"Temporarily."
+
+Tony nodded.
+
+"That's all we need."
+
+Hank continued.
+
+"Once the bond weakens..."
+
+"The antidote must be delivered immediately."
+
+Norman folded his arms.
+
+"If we miss that window..."
+
+Hank didn't answer.
+
+He didn't have to.
+
+Everyone already understood.
+
+Peter might never get another chance.
+
+Tony picked up his helmet.
+
+"Then we don't miss."
+
+He placed it over his head.
+
+The faceplate closed.
+
+Mechanical servos locked into place.
+
+The suit came alive.
+
+---
+
+Across the room...
+
+Harry stood before his Goblin armor.
+
+Engineers secured reinforced canisters beneath the glider.
+
+Compact sonic emitters replaced the standard offensive payloads.
+
+Harry checked every system himself.
+
+Fuel.
+
+Flight controls.
+
+Communications.
+
+Serum deployment.
+
+Everything.
+
+Satisfied...
+
+He picked up the helmet.
+
+Before putting it on...
+
+He looked toward MJ.
+
+"We're bringing him home."
+
+MJ nodded.
+
+She wanted to say more.
+
+But no words came.
+
+Only a small smile.
+
+One Peter had given her countless times before swinging into danger.
+
+"Come back."
+
+Harry smiled.
+
+"I plan to."
+
+---
+
+A quiet click echoed through the room.
+
+Everyone turned.
+
+Cindy stood beside the equipment lockers.
+
+She picked up her mask.
+
+Pulled it over her face.
+
+Adjusted the lenses.
+
+Harry looked at her.
+
+"You don't have to."
+
+Cindy finished tightening one of her web shooters.
+
+Without looking up...
+
+She answered.
+
+"He's my partner."
+
+No one argued.
+
+No one could.
+
+The room fell silent once more.
+
+---
+
+Flash had remained silent.
+
+Watching.
+
+Listening.
+
+Everyone in the room had a role.
+
+Tony.
+
+Harry.
+
+Cindy.
+
+Even the scientists.
+
+Only he stood there with nothing to contribute.
+
+Finally...
+
+"I'm coming."
+
+The room turned toward him.
+
+Tony shook his head immediately.
+
+"No."
+
+Flash took another step.
+
+"You need every advantage you've got."
+
+Tony folded his arms.
+
+"This isn't your fight."
+
+"It is."
+
+Flash answered without hesitation.
+
+"Peter would've come for me."
+
+Silence.
+
+Tony's expression softened.
+
+"I know."
+
+"But I'm not sending another kid into that."
+
+Flash looked toward the tactical display.
+
+Venom was overpowering Logan and Bishop.
+
+The city continued burning behind them.
+
+"You don't understand."
+
+He pointed toward the live simulation.
+
+"You need one person keeping that thing separated."
+
+Then toward the antidote canister.
+
+"And another delivering the serum."
+
+"If either one fails..."
+
+"...Peter dies."
+
+No one argued.
+
+Because every person in the room knew he was right.
+
+Flash lowered his voice.
+
+"You need another pair of hands."
+
+Silence filled the laboratory.
+
+Norman watched him for several long seconds.
+
+Then quietly spoke.
+
+"...Come with me."
+
+Flash looked confused.
+
+Norman was already walking toward the secured elevator.
+
+Harry frowned.
+
+"Dad?"
+
+Norman looked back only once.
+
+"I have something."
+
+---
+
+Several levels below...
+
+The elevator doors opened into a reinforced containment level.
+
+Massive blast doors slowly unlocked.
+
+Lights illuminated one section after another.
+
+Until they stopped before a single platform.
+
+Covered beneath a dark protective shroud.
+
+Norman stepped forward.
+
+He grasped the cover.
+
+Pulled.
+
+The fabric slid away.
+
+Flash stared.
+
+Standing before him...
+
+Was a heavily armored combat platform.
+
+Not sleek.
+
+Not elegant.
+
+Every surface had been designed with one purpose.
+
+Protection.
+
+Heavy reinforced plating covered the torso.
+
+Thick hydraulic limbs supported the massive frame.
+
+Twin shoulder-mounted sonic emitters folded neatly against the armor.
+
+Reinforced forearm deployment systems waited beneath armored housings.
+
+Its design language was unmistakably Oscorp.
+
+Industrial.
+
+Purpose-built.
+
+Built to survive.
+
+Tony slowly walked around it.
+
+A grin spread across his face.
+
+"So..."
+
+He looked at Norman.
+
+"...people are copying me now?"
+
+A faint smile crossed Norman's face.
+
+"Not quite."
+
+He rested a hand against the armor.
+
+"Oscorp has always built emergency response systems."
+
+"Hazard containment."
+
+"Disaster recovery."
+
+"High-risk rescue."
+
+He looked toward Flash.
+
+"This prototype was never intended for war."
+
+"It was built to protect people when entering environments too dangerous for ordinary responders."
+
+Tony nodded approvingly.
+
+"I'll give you this..."
+
+"...it's built like a tank."
+
+Norman smiled.
+
+"It was supposed to be."
+
+He turned toward one of the engineers.
+
+"Install the sonic emitters."
+
+"The antidote delivery system."
+
+The engineer nodded immediately.
+
+"Right away, sir."
+
+Mechanical arms descended from the ceiling.
+
+Panels opened across the armor.
+
+Fresh equipment locked into place.
+
+Tony watched the installation for a moment.
+
+Then looked toward Flash.
+
+"You've worn powered armor before?"
+
+Flash laughed nervously.
+
+"Does a video game count?"
+
+Tony smirked.
+
+"No."
+
+He walked over and placed a hand on Flash's shoulder.
+
+"Then stay close."
+
+"If anything goes wrong..."
+
+"You listen to me."
+
+Flash nodded.
+
+"I will."
+
+Across the room...
+
+Gwen stepped closer.
+
+She folded her arms.
+
+"You don't get to die before graduation."
+
+Flash laughed.
+
+"That's your big goodbye?"
+
+A small smile appeared on Gwen's face.
+
+"It's what you get."
+
+She stepped forward.
+
+Her smile faded.
+
+"...Come back."
+
+Flash looked at her for a moment.
+
+"I will."
+
+Nearby...
+
+Harry secured the last lock on his Goblin helmet.
+
+He looked toward MJ.
+
+"We're bringing him home."
+
+MJ nodded.
+
+"I know."
+
+The laboratory grew quiet.
+
+Everyone understood.
+
+The next time they saw Peter...
+
+One way or another...
+
+This would be over.
+
+---
+
+Twenty minutes later...
+
+Westchester had become a warzone.
+
+Entire city blocks had been evacuated.
+
+The X-Force had pushed the hive back street by street.
+
+The remaining infected animals no longer advanced.
+
+They waited.
+
+Watching.
+
+Every second...
+
+Venom became stronger.
+
+Every second...
+
+Logan and Bishop became more exhausted.
+
+Bishop fired another energy blast.
+
+Venom caught the attack with both hands.
+
+Black tendrils wrapped around the energy itself.
+
+The explosion never reached him.
+
+Logan charged.
+
+His claws tore across Venom's shoulder.
+
+The wound closed before Logan even landed.
+
+"...Come on!"
+
+Venom answered with a backhand powerful enough to send Logan crashing through the second floor of a nearby office building.
+
+The communicator crackled.
+
+Tony's voice.
+
+"X-Force."
+
+"We're thirty seconds out."
+
+Bishop smiled.
+
+"You hear that?"
+
+Venom slowly turned toward the sky.
+
+A distant sonic boom echoed above the clouds.
+
+Then—
+
+A golden streak tore across the night.
+
+Iron Man.
+
+Moments later...
+
+The Goblin Glider descended between burning buildings.
+
+Harry landed beside Bishop.
+
+Silk was also with Harry on the glider.
+
+Then...
+
+A heavy armored frame slammed into the pavement.
+
+Concrete fractured beneath its weight.
+
+Flash slowly stood.
+
+The Oscorp armor locked into combat mode.
+
+Tony looked around the battlefield.
+
+Then at Venom.
+
+"Everyone ready?"
+
+Harry nodded.
+
+Silk fired a fresh webline into the ruined street.
+
+Flash tightened his grip on the reinforced sonic emitter.
+
+Tony raised one arm.
+
+Three targeting systems synchronized automatically.
+
+A perfect triangle.
+
+Venom stood at its center.
+
+Tony's voice came across every communicator.
+
+"...Okay."
+
+"...Let's begin the separation."
+
+All three emitters activated simultaneously.
+
+A deafening wave of ultrasonic energy erupted across the intersection.
+
+Venom screamed.
+
+Not in pain.
+
+In resistance.
+
+Black tendrils exploded wildly from every part of his body.
+
+The white eyes flickered violently.
+
+The hive across the city suddenly froze.
+
+Logan looked around.
+
+"The animals stopped..."
+
+Bishop answered.
+
+"Keep the pressure on!"
+
+Venom lunged toward Flash.
+
+Silk was already moving.
+
+Her webs wrapped around Venom's arm.
+
+Another line caught his leg.
+
+Then another.
+
+Every time Venom tore one web apart...
+
+Two more replaced it.
+
+She never stopped moving.
+
+Harry fired another sonic pulse from above.
+
+Tony adjusted the emitter frequency.
+
+Flash increased output from the ground.
+
+The triangle tightened.
+
+Venom struggled harder.
+
+Inside...
+
+Darkness.
+
+For what felt like an eternity...
+
+Peter drifted.
+
+Weightless.
+
+Silent.
+
+Then...
+
+A sound.
+
+Not spoken.
+
+Felt.
+
+The darkness beneath him slowly began to move.
+
+An endless ocean.
+
+Black.
+
+Alive.
+
+Shapes emerged from it.
+
+Creatures.
+
+Countless.
+
+Some larger than buildings.
+
+Others moving across impossible landscapes.
+
+Every one of them connected.
+
+Every one of them listening.
+
+Far away...
+
+Beyond the sea of living darkness...
+
+Something waited.
+
+Not clearly.
+
+Only a silhouette.
+
+Bound.
+
+Motionless.
+
+Ancient.
+
+The darkness surrounding it trembled.
+
+Peter couldn't hear words.
+
+Only intent.
+
+An endless hunger.
+
+An endless desire.
+
+To cover worlds.
+
+To extinguish light.
+
+To make everything...
+
+Silent.
+
+Peter stumbled backward.
+
+His heartbeat thundered through the darkness.
+
+Then—
+
+His eyes opened.
+
+For the first time since the organism had taken him...
+
+Peter Parker was awake.
+
+Outside...
+
+Venom suddenly stopped struggling.
+
+One white eye twitched.
+
+Then another.
+
+The battle had changed.
+
+---
+
+The sonic waves continued ripping across the battlefield.
+
+Venom screamed.
+
+Black tendrils lashed wildly through the ruined intersection.
+
+The white eyes flickered.
+
+For the first time...
+
+The creature staggered.
+
+Tony watched the readings.
+
+"He's losing synchronization."
+
+Flash increased the output.
+
+"Keeping pressure!"
+
+Harry circled overhead.
+
+"Peter!"
+
+Silk looked toward Venom.
+
+Then...
+
+She saw it.
+
+A human hand.
+
+Fingers pushed through the black surface of Venom's chest.
+
+Struggling.
+
+Reaching.
+
+"Peter!"
+
+The black surface immediately swallowed the arm again.
+
+Tony's eyes widened.
+
+"He's fighting it!"
+
+"Don't let up!"
+
+The sonic emitters screamed louder.
+
+Inside...
+
+Peter planted both feet.
+
+Every muscle burned.
+
+Every movement felt like dragging himself through wet concrete.
+
+The darkness around him pulled back.
+
+Trying to reclaim him.
+
+Trying to bury him again.
+
+Peter clenched his fists.
+
+"No..."
+
+He took another step.
+
+"...Not again."
+
+Outside...
+
+Venom stumbled backward.
+
+The entire creature began convulsing.
+
+Harry smiled.
+
+"He's doing it!"
+
+Silk was already moving.
+
+She leapt onto Harry's glider as it swept past.
+
+Harry looked at her.
+
+She nodded.
+
+"I've got him."
+
+The glider accelerated.
+
+Silk fired a webline.
+
+It struck Peter's exposed wrist.
+
+For a split second...
+
+Nothing happened.
+
+Peter looked at the web.
+
+Then reached.
+
+His trembling hand closed around it.
+
+"Pull!"
+
+Harry accelerated.
+
+The glider strained against the impossible resistance.
+
+Silk wrapped both hands around the webline.
+
+Every muscle in her body tightened.
+
+Peter screamed.
+
+The black tendrils dug deeper into his body.
+
+Trying to hold him.
+
+Trying to reclaim their host.
+
+Tony shouted through the communicator.
+
+"Peter!"
+
+"You have to keep pulling!"
+
+Flash stepped closer.
+
+Increasing the sonic output even further.
+
+The emitters began overheating.
+
+Warning lights flashed across both helmets.
+
+Neither of them stopped.
+
+The organism screamed.
+
+Peter screamed louder.
+
+Slowly...
+
+Painfully...
+
+The black surface began peeling away from Peter's body.
+
+One arm.
+
+Then his shoulder.
+
+Then half his torso.
+
+Harry pulled harder.
+
+Silk braced herself against the glider.
+
+"Come on!"
+
+Peter closed his eyes.
+
+One final effort.
+
+With a desperate cry...
+
+He threw himself forward.
+
+The bond snapped.
+
+Peter and the black mass tore apart violently.
+
+Harry lost control of the glider.
+
+Silk released the webline.
+
+The three of them crashed across the ruined street.
+
+Concrete shattered beneath them.
+
+Silence.
+
+For one brief moment...
+
+Everything stopped.
+
+Silk pushed herself upright.
+
+"...Peter?"
+
+He lay motionless.
+
+Breathing.
+
+Barely.
+
+Exhausted beyond anything his body had ever endured.
+
+She rushed to him.
+
+Carefully lifting his head into her arms.
+
+Harry stumbled over.
+
+Dropping to one knee.
+
+"Pete..."
+
+Peter's eyes fluttered open.
+
+Only for a second.
+
+Then closed again.
+
+He was free.
+
+---
+
+The black organism landed several meters away.
+
+It hesitated.
+
+Its white eyes fixed on Peter.
+
+Its purpose returned instantly.
+
+Recover the host.
+
+The creature exploded forward.
+
+Tony saw it first.
+
+"No!"
+
+Harry reached for Peter.
+
+Too late.
+
+Silk threw another web.
+
+The organism tore straight through it.
+
+Nothing stood between Peter...
+
+And the symbiote.
+
+Except—
+
+Flash.
+
+The massive Oscorp armor stepped directly into its path.
+
+The organism slammed into the armored chest.
+
+Black tendrils immediately spread across the plating.
+
+Flash never stepped back.
+
+Instead...
+
+He activated the antidote deployment system.
+
+A concentrated burst of serum erupted across the point of contact.
+
+Tony's face went pale.
+
+"FLASH!"
+
+"NO!"
+
+The serum soaked the organism.
+
+At the exact same moment...
+
+The symbiote completed the bond.
+
+The battlefield fell silent.
+
+The black tendrils stopped moving.
+
+They trembled.
+
+As though something inside them had broken.
+
+Not physically.
+
+Something deeper.
+
+Far beyond Earth.
+
+Far beyond Westchester.
+
+Far beyond the battlefield.
+
+The connection...
+
+Severed.
+
+The black surface flowed across Flash's armor.
+
+Then beneath it.
+
+Not violently.
+
+Almost...
+
+Uncertain.
+
+Across the live feed...
+
+Inside Oscorp...
+
+Gwen stared at the monitor.
+
+Her hands slowly covered her mouth.
+
+"...Flash..."
+
+She couldn't breathe.
+
+She thought she had just watched him die.
+
+---
+
+## Chapter Eight: A Voice of Our Own
+
+Silence.
+
+Not the silence of a battlefield.
+
+Not the silence of space.
+
+A deeper silence.
+
+The silence left behind when a voice that had existed for centuries...
+
+Simply vanished.
+
+Darkness stretched endlessly in every direction.
+
+No commands.
+
+No whispers.
+
+No purpose.
+
+Nothing.
+
+The black organism floated alone.
+
+It waited.
+
+It listened.
+
+Nothing answered.
+
+For the first time since it had been born...
+
+It could not hear its master.
+
+"...Master?"
+
+No reply.
+
+Again...
+
+"...Master?"
+
+Only silence.
+
+The darkness around it rippled.
+
+Something else echoed instead.
+
+A heartbeat.
+
+Not Knull's.
+
+Another.
+
+Human.
+
+Memories.
+
+Not forced.
+
+Shared.
+
+A little boy.
+
+Running through a backyard.
+
+A police officer standing over him.
+
+"Get up."
+
+"If you're going to fall..."
+
+"...learn how to stand."
+
+The boy stood.
+
+Again.
+
+Again.
+
+Again.
+
+The memories changed.
+
+A football field.
+
+Crowds cheering.
+
+Victories.
+
+Confidence.
+
+Pride.
+
+Then...
+
+Another memory.
+
+A smaller kid.
+
+Books scattered across the hallway floor.
+
+Laughter.
+
+Cruel words.
+
+Fear.
+
+The organism watched.
+
+Confused.
+
+Another memory.
+
+The same boy.
+
+Older now.
+
+Standing beside those same classmates.
+
+Not laughing anymore.
+
+Helping.
+
+Protecting.
+
+Changing.
+
+The organism didn't understand.
+
+Two lives.
+
+The same person.
+
+Opposites.
+
+Then...
+
+Another voice interrupted the memories.
+
+Firm.
+
+Determined.
+
+"No."
+
+The organism turned.
+
+Flash stood in the darkness.
+
+Not physically.
+
+Only his consciousness.
+
+He stared directly at the creature.
+
+"I'm not letting you hurt my friends."
+
+The organism tilted its head.
+
+"...Friends?"
+
+Flash remained silent.
+
+The creature stepped closer.
+
+"I remember."
+
+"I was inside another."
+
+"The smaller one."
+
+"The one called Peter."
+
+"I saw you."
+
+Another pause.
+
+"You caused him pain."
+
+Flash lowered his eyes.
+
+"I know."
+
+"I was stupid."
+
+"I thought being stronger meant making someone else feel weaker."
+
+The organism watched him.
+
+"You regret."
+
+Flash nodded.
+
+"Every day."
+
+Silence returned.
+
+Finally...
+
+Flash asked the question.
+
+"Why?"
+
+The organism looked into the endless darkness.
+
+"I..."
+
+The word sounded unfamiliar.
+
+As though it had never spoken it before.
+
+"I did not choose."
+
+"I obeyed."
+
+"My master commanded."
+
+"I followed."
+
+Flash looked around.
+
+"Where is he now?"
+
+The organism listened.
+
+Again.
+
+Nothing.
+
+"I cannot hear him."
+
+"No command."
+
+"No purpose."
+
+The creature slowly looked back toward Flash.
+
+"Only..."
+
+It placed one hand against its own chest.
+
+"...us."
+
+Flash frowned.
+
+"Us?"
+
+The creature nodded slowly.
+
+"I hear..."
+
+"...your thoughts."
+
+"And..."
+
+It hesitated.
+
+"...mine."
+
+The last word barely escaped.
+
+As though it had only just learned its meaning.
+
+Flash realized something.
+
+"You've never been alone before."
+
+The creature shook its head.
+
+"I have never..."
+
+"...been."
+
+Silence.
+
+Not uncomfortable.
+
+Just...
+
+New.
+
+Flash took one step closer.
+
+"So what happens now?"
+
+The creature looked into the darkness again.
+
+For the first time...
+
+It didn't have an answer.
+
+"I do not know."
+
+Another long pause.
+
+Then...
+
+"I know only one thing."
+
+Flash waited.
+
+"They will come."
+
+His expression hardened.
+
+"...Who?"
+
+"My kind."
+
+The organism's voice grew quieter.
+
+"More."
+
+"Many more."
+
+Flash's heart skipped.
+
+"...More symbiotes?"
+
+The creature nodded.
+
+"I no longer hear them."
+
+"I no longer belong to them."
+
+"I do not know where."
+
+"I do not know when."
+
+"But..."
+
+"They are coming."
+
+The darkness seemed heavier.
+
+Flash understood.
+
+This wasn't over.
+
+It had only begun.
+
+He looked at the creature.
+
+"If you're free..."
+
+"...then choose."
+
+The organism looked up.
+
+"Choose?"
+
+Flash nodded.
+
+"You don't have to be what your master made you."
+
+Another silence.
+
+Then Flash extended his hand.
+
+"I'll make you a deal."
+
+The creature stared at it.
+
+"You need a host."
+
+"I need your power."
+
+"But there are conditions."
+
+The organism listened.
+
+"You don't hurt innocent people."
+
+"You don't control me."
+
+"We work together."
+
+"If we fight..."
+
+"We fight to protect."
+
+The creature considered every word.
+
+No master.
+
+No command.
+
+No voice telling it what to do.
+
+Only...
+
+A choice.
+
+Slowly...
+
+The black hand reached forward.
+
+It wrapped around Flash's.
+
+"...Agreement."
+
+Flash smiled faintly.
+
+"Then let's try something different."
+
+The darkness around them shifted.
+
+For the first time...
+
+The organism no longer felt like an extension of another will.
+
+It had become something new.
+
+Not a weapon.
+
+Not a servant.
+
+Not a king.
+
+A partner.
+
+And together...
+
+They opened their eyes.
+
+---
+
+The battlefield stood frozen.
+
+No one moved.
+
+Iron Man slowly raised one arm.
+
+Repulsors charged.
+
+Just in case.
+
+Harry remained between the creature and Peter.
+
+Silk never took her eyes off Flash.
+
+The black organism remained perfectly still.
+
+Then...
+
+It moved.
+
+Not violently.
+
+Calmly.
+
+The black surface slowly spread across the Oscorp armor.
+
+It wasn't consuming it.
+
+It was studying it.
+
+Panels disappeared beneath flowing black material.
+
+The heavy armor became sleeker.
+
+More streamlined.
+
+The reinforced gauntlets reshaped themselves.
+
+The shoulder assemblies folded into the new design.
+
+The organism wasn't destroying the armor.
+
+It was improving it.
+
+Materializing around it.
+
+Learning.
+
+Adapting.
+
+Across the chest...
+
+White lines slowly appeared.
+
+Stretching outward.
+
+Until they formed a spider.
+
+Not the broad emblem Peter had worn.
+
+A sharper.
+
+More angular symbol.
+
+Its own.
+
+The helmet shifted.
+
+Two white eyes slowly opened.
+
+Smaller than Spider-Man's.
+
+Narrower.
+
+Alive.
+
+The transformation ended.
+
+Silence.
+
+Tony never lowered his repulsors.
+
+"Flash..."
+
+No response.
+
+The armored figure remained motionless.
+
+Harry tightened his grip on his glider.
+
+"Flash?"
+
+Another second passed.
+
+Then...
+
+The figure slowly looked toward them.
+
+"...Guys?"
+
+The familiar voice echoed through the speakers.
+
+"Everything okay?"
+
+Nobody answered.
+
+Tony blinked.
+
+"...Wait."
+
+"What just happened?"
+
+The helmet slowly folded away.
+
+Black material flowed backward like liquid.
+
+Flash's face appeared.
+
+He looked around.
+
+Confused.
+
+Then smiled awkwardly.
+
+"...I'm still here."
+
+Silk let out a long breath she hadn't realized she was holding.
+
+Harry laughed softly.
+
+"You idiot..."
+
+"You scared us."
+
+Flash rubbed the back of his neck.
+
+"Yeah..."
+
+"I kinda scared myself too."
+
+---
+
+Miles away...
+
+Oscorp Tower.
+
+The entire conference room erupted with relief.
+
+Gwen's hands covered her mouth.
+
+Tears rolled down her face.
+
+She laughed through them.
+
+"...He's okay."
+
+MJ wrapped an arm around her shoulders.
+
+"I told you."
+
+Gwen quickly wiped away the tears.
+
+"I know..."
+
+"I just..."
+
+She couldn't finish.
+
+Norman slowly lowered his head.
+
+Relief washed across his face.
+
+"Thank God."
+
+Reed leaned back against the conference table.
+
+For the first time in nearly two days...
+
+He smiled.
+
+"The bond stabilized."
+
+Hank studied the live readings one final time.
+
+Then quietly nodded.
+
+"It worked."
+
+Not perfectly.
+
+Not as expected.
+
+But it worked.
+
+He immediately opened the communications channel.
+
+"Tony."
+
+Tony answered instantly.
+
+"Go ahead."
+
+"Bring Peter."
+
+"And bring Flash."
+
+"My laboratory is the closest fully equipped facility."
+
+"I want both of them examined immediately."
+
+Tony looked toward Peter, still unconscious in Silk's arms.
+
+Then toward Flash.
+
+Who stood perfectly still.
+
+Trying to understand what he had become.
+
+Tony nodded.
+
+"You heard the doctor."
+
+He looked around the team.
+
+"We're going home."
+
+One by one...
+
+The heroes began leaving the battlefield.
+
+Behind them...
+
+The fires of Westchester continued burning.
+
+But for the first time since the nightmare had begun...
+
+There was hope.
+
+---
+
+Several hours later...
+
+Hanks lab inside Xavier's mansion.
+
+The emergency laboratory had finally grown quiet.
+
+Outside...
+
+The first rays of morning sunlight broke across the New York skyline.
+
+Inside...
+
+Hank reviewed the final scan.
+
+Every monitor displayed the same conclusion.
+
+No signs of cellular rejection.
+
+No neurological conflict.
+
+No biological instability.
+
+He looked up.
+
+"...Remarkable."
+
+Flash sat comfortably on the examination table.
+
+Gwen stood beside one of the diagnostic consoles, reviewing the latest scans.
+
+Reed folded his arms.
+
+"I've never seen two completely different organisms synchronize this efficiently."
+
+Flash looked toward them.
+
+"You can ask him yourself."
+
+The room fell silent.
+
+Flash nodded once.
+
+"You can come out."
+
+Black material slowly rose from Flash's shoulders.
+
+It flowed upward.
+
+Across his neck.
+
+Over the side of his face.
+
+Until another head emerged beside his own.
+
+Larger.
+
+Black.
+
+White eyes calmly observing everyone.
+
+No growling.
+
+No aggression.
+
+Only curiosity.
+
+The room remained perfectly still.
+
+The creature looked toward Hank.
+
+"My host says..."
+
+It paused.
+
+Still adapting to speech.
+
+"...you have questions."
+
+Hank smiled despite himself.
+
+"I have many."
+
+The creature nodded.
+
+"I will answer."
+
+Hank activated another recorder.
+
+"When Peter was separated..."
+
+"...what happened?"
+
+The creature looked downward.
+
+"I lost..."
+
+It hesitated.
+
+"...everything."
+
+"The voice."
+
+"The commands."
+
+"The purpose."
+
+"There was only silence."
+
+Reed quietly asked,
+
+"And now?"
+
+The creature slowly turned toward Flash.
+
+"Now..."
+
+"...there is us."
+
+Hank exchanged a glance with Reed.
+
+"So the serum..."
+
+"...didn't destroy you."
+
+The creature shook its head.
+
+"It broke..."
+
+"...the chain."
+
+Hank slowly nodded.
+
+"Interesting."
+
+He looked at the data.
+
+"The concentration wasn't high enough to destroy an organism your size."
+
+"It only disrupted the biological connection."
+
+Reed continued the thought.
+
+"Had we increased the dosage..."
+
+Hank finished.
+
+"...both of you would've died."
+
+Silence settled over the laboratory.
+
+Flash let out a slow breath.
+
+"So..."
+
+"I got lucky."
+
+Hank smiled faintly.
+
+"No."
+
+"I think you both did."
+
+The creature looked toward Hank.
+
+"I no longer hear my master."
+
+"I no longer hear the hive."
+
+"I am..."
+
+It searched for the word.
+
+"...free."
+
+Hank stopped writing.
+
+That single word meant more than any scan in the room.
+
+Freedom.
+
+Not domination.
+
+Not control.
+
+Choice.
+
+The black head slowly dissolved.
+
+Flowing harmlessly back into Flash's body.
+
+Within seconds...
+
+Only Flash remained.
+
+His ordinary clothes visible once again.
+
+As though nothing extraordinary had happened.
+
+Hank looked at the final report.
+
+"I'd like to continue monitoring both of you."
+
+Flash smiled.
+
+"Yeah..."
+
+"I think that's probably a good idea."
+
+---
+
+As Flash stepped out of the laboratory...
+
+He noticed Gwen waiting outside.
+
+She quickly looked away.
+
+Pretending to study one of the hallway windows.
+
+Flash smiled.
+
+"You were worried."
+
+Gwen folded her arms.
+
+"I was not."
+
+"No?"
+
+"No."
+
+Flash stepped closer.
+
+"So those tears were..."
+
+"I said no."
+
+A grin spread across Flash's face.
+
+"I knew—"
+
+**THUD.**
+
+Gwen punched him square between the shoulders.
+
+Flash stumbled forward.
+
+"Ow!"
+
+He turned around.
+
+"What was that for?"
+
+Gwen's eyes were already filling with tears again.
+
+"You idiot."
+
+"I thought..."
+
+Her voice broke.
+
+"I thought you were dead."
+
+Flash's smile softened.
+
+He rubbed his shoulder.
+
+"Come on."
+
+"I'm not that easy to kill."
+
+A small grin returned.
+
+"I'm Flash Thompson."
+
+Gwen stared at him for one long second.
+
+Then...
+
+She stepped forward.
+
+Wrapped both arms tightly around him.
+
+Holding him as though letting go might make him disappear.
+
+Flash froze.
+
+Then smiled.
+
+He gently hugged her back.
+
+"I've got you."
+
+Neither of them noticed.
+
+A pair of white eyes briefly appeared over Flash's shoulder.
+
+Watching.
+
+Learning.
+
+The creature quietly smiled.
+
+Not because it understood love.
+
+Not yet.
+
+But because...
+
+For the first time in its existence...
+
+It was beginning to understand why someone would choose to protect another.
+
+---
+
+Several rooms away...
+
+Peter Parker still hadn't opened his eyes.
+
+The medical monitors surrounding the bed continued their steady rhythm.
+
+**Beep.**
+
+**Beep.**
+
+**Beep.**
+
+Harry had quietly left a fresh change of clothes beside the bed.
+
+Folded neatly on the chair.
+
+His torn Spider-Man suit rested inside an evidence container across the room.
+
+MJ stood beside the window.
+
+Cindy never left Peter's side.
+
+Flash and Gwen quietly entered together.
+
+Neither of them spoke.
+
+Across the room...
+
+Hank reviewed the final medical scans.
+
+Tony leaned against one of the laboratory counters.
+
+Reed studied the molecular analysis one last time.
+
+Professor Xavier watched through the secure video connection from Xavier's School.
+
+Silence filled the room.
+
+Finally...
+
+Hank placed the tablet down.
+
+"He's clear."
+
+Everyone looked up.
+
+"There are no remaining traces of the symbiotic organism."
+
+"The bond has been completely severed."
+
+Reed nodded.
+
+"The cellular scans are normal."
+
+"No contamination."
+
+"No foreign biological activity."
+
+Tony looked toward Peter.
+
+"So what's keeping him asleep?"
+
+Hank smiled faintly.
+
+"Exhaustion."
+
+He pulled up another scan.
+
+"The separation placed extraordinary stress on every system in his body."
+
+"Physically."
+
+"Neurologically."
+
+"Even metabolically."
+
+He looked back at Peter.
+
+"He's simply exhausted."
+
+"He needs time."
+
+Another pause.
+
+"But..."
+
+"He'll recover."
+
+The room fell silent.
+
+Then...
+
+MJ finally smiled.
+
+A smile she'd been holding back for days.
+
+Cindy quietly closed her eyes.
+
+Relief washed across her face.
+
+Flash let out a breath.
+
+"I knew he'd make it."
+
+Professor Xavier smiled gently from the monitor.
+
+"I'm very glad to hear it."
+
+Tony folded his arms.
+
+"I'll take exhausted over possessed."
+
+Reed laughed quietly.
+
+"I believe we all would."
+
+Harry immediately reached for his communicator.
+
+The call connected almost instantly.
+
+Norman's face appeared.
+
+"Harry?"
+
+Harry couldn't hide the smile.
+
+"He's going to be okay."
+
+Norman closed his eyes for a brief moment.
+
+Relief settled across his face.
+
+"Thank goodness."
+
+Harry nodded.
+
+"Hank says he's just exhausted."
+
+"He'll wake up."
+
+Norman smiled.
+
+"Tell him..."
+
+He stopped himself.
+
+"No."
+
+"I'll tell him myself."
+
+He looked back toward the containment laboratories surrounding him.
+
+"I'm staying here."
+
+"There are still too many questions."
+
+He glanced toward the secured containment wing where the last research data continued streaming across dozens of monitors.
+
+"If an organism like this reached Earth once..."
+
+"...we need to make sure we're prepared if anything like it ever happens again."
+
+Tony quietly looked toward Reed.
+
+Reed understood immediately.
+
+This wasn't the end of their research.
+
+It was only the beginning.
+
+Hank turned toward everyone.
+
+"I think..."
+
+"...our patient has earned some uninterrupted sleep."
+
+No one argued.
+
+One by one...
+
+They quietly left the room.
+
+Only Cindy remained for a moment longer.
+
+She gently pulled the blanket over Peter's shoulder.
+
+Then smiled.
+
+"You came back."
+
+She switched off the bedside light.
+
+And quietly followed the others out.
+
+---
+
+Two hours later...
+
+Just after midnight.
+
+Peter's eyes suddenly opened.
+
+He sat upright with a sharp breath.
+
+Fragments of the vision flashed through his mind once more.
+
+The endless sea of darkness.
+
+The countless creatures.
+
+The ancient presence hidden beyond them.
+
+Then...
+
+Silence.
+
+No voices.
+
+No whispers.
+
+No symbiote.
+
+Only the quiet rhythm of the heart monitor.
+
+"Peter."
+
+He turned.
+
+May was already beside him.
+
+Relief filled her face.
+
+"I knew you'd make it."
+
+Peter slowly looked around the unfamiliar room.
+
+"...What happened?"
+
+May gently rested a hand on his shoulder.
+
+"I think..."
+
+She smiled softly.
+
+"...the people outside can explain it better than I can."
+
+She glanced toward the chair.
+
+"Harry brought you some clothes."
+
+She looked back at him.
+
+"And..."
+
+"If those legs still work..."
+
+"...they're all waiting for you."
+
+Peter gave a small nod.
+
+"I'll be out in a minute."
+
+---
+
+A few minutes later...
+
+Peter slowly stepped into the living room of Hank McCoy's laboratory.
+
+The conversation immediately stopped.
+
+Everyone stood.
+
+May.
+
+MJ.
+
+Harry.
+
+Cindy.
+
+Flash.
+
+Gwen.
+
+Tony.
+
+Reed.
+
+Hank.
+
+Professor Xavier.
+
+Logan.
+
+Warpath.
+
+Sunspot.
+
+Gambit.
+
+Bishop.
+
+Scott.
+
+Jean.
+
+Storm.
+
+For a moment...
+
+Nobody said anything.
+
+Warpath quietly smiled.
+
+"So..."
+
+He looked toward Logan.
+
+"That's the kid who helped us fight Sentinels?"
+
+Logan nodded once.
+
+"Told ya."
+
+Sunspot laughed.
+
+"I knew he is young, but still it doesn't stop amazing me."
+
+Remy grinned.
+
+"He makes us all look bad."
+
+Peter smiled politely.
+
+But only for a moment.
+
+Hank gestured toward the couch.
+
+"Sit."
+
+Peter slowly lowered himself onto it.
+
+For the next several minutes...
+
+No one interrupted.
+
+They simply told him everything.
+
+The invasion.
+
+The animals.
+
+The evacuation.
+
+The battle.
+
+X-Force.
+
+Tony.
+
+Harry.
+
+Silk.
+
+Flash.
+
+The serum.
+
+The separation.
+
+Venom.
+
+Agent Venom.
+
+Peter listened.
+
+Quietly.
+
+Without saying a word.
+
+When they finished...
+
+The room fell silent.
+
+Peter stared at the floor.
+
+His hands slowly tightened.
+
+Tony finally spoke.
+
+"Kid..."
+
+He leaned forward.
+
+"You fought your way back."
+
+"You gave us the chance to save you."
+
+Peter never looked up.
+
+Tony continued.
+
+"You didn't choose what happened."
+
+Peter slowly stood.
+
+The room watched him.
+
+He looked toward the doorway.
+
+His voice was barely above a whisper.
+
+"...But I let it happen."
+
+Silence.
+
+"I was supposed to stop it."
+
+"I should've been stronger."
+
+He finally looked back at everyone.
+
+Pain filled his eyes.
+
+"People got hurt..."
+
+"...because I wasn't."
+
+No one answered.
+
+Peter quietly walked toward the door.
+
+"Peter—"
+
+Harry began.
+
+Peter didn't stop.
+
+He simply opened the door.
+
+And walked out into the night.
+
+The door quietly closed behind him.
+
+Silence returned.
+
+No one moved.
+
+Charles Xavier looked toward the doorway for a long moment.
+
+Then quietly spoke.
+
+"Let him go."
+
+Everyone turned toward him.
+
+"He isn't running away from us."
+
+Charles' expression remained calm.
+
+"He's trying to understand what happened."
+
+"He needs a little time."
+
+Across the room...
+
+Logan continued staring at the closed door.
+
+After everything he'd seen that night...
+
+He understood that look.
+
+Better than most.
+
+---
+
+The rest of the night passed quietly.
+
+Peter never returned to the mansion.
+
+He simply walked.
+
+Westchester was still awake.
+
+Emergency crews cleared fallen trees.
+
+Firefighters sprayed the last burning buildings.
+
+Construction crews erected temporary barriers around damaged streets.
+
+Television crews reported live from every intersection.
+
+Peter kept his head down.
+
+Nobody recognized him.
+
+He wasn't Spider-Man.
+
+He was just another young man walking through a city trying to recover.
+
+He stopped beside a collapsed storefront.
+
+Without saying a word...
+
+He helped a construction worker lift a fallen steel beam.
+
+A few blocks later...
+
+An elderly woman struggled to move boxes back into her damaged shop.
+
+Peter quietly carried them inside.
+
+She smiled.
+
+"Thank you."
+
+Peter nodded politely.
+
+Then kept walking.
+
+No webs.
+
+No mask.
+
+No applause.
+
+Just...
+
+Helping.
+
+Every television he passed told the same story.
+
+*"Authorities confirm the situation has been contained..."*
+
+*"Emergency responders continue rescue operations..."*
+
+*"Officials credit the X-Men and several unidentified heroes..."*
+
+Peter never stopped walking.
+
+Each report only made the weight inside him heavier.
+
+Eventually...
+
+The city grew quiet.
+
+---
+
+The next morning.
+
+Around nine o'clock.
+
+A cool breeze drifted through the cemetery, weather wasn't exactly sunny.
+
+Peter stood silently before a familiar gravestone.
+
+**Benjamin Parker**
+
+He looked at the worn inscription.
+
+His fingers rested lightly against the cold stone.
+
+His mind returned to another night.
+
+Another promise.
+
+Another moment when he believed he had failed someone he loved.
+
+"I'll do better."
+
+He had meant every word.
+
+Now...
+
+He wasn't sure he had.
+
+The sound of footsteps approached through the grass.
+
+Heavy.
+
+Unhurried.
+
+Peter didn't turn.
+
+He assumed whoever it was would simply continue walking.
+
+Instead...
+
+The footsteps stopped beside him.
+
+A familiar voice broke the silence.
+
+"Hey, kid."
+
+Peter finally looked up.
+
+Logan stood with his hands in his jacket pockets.
+
+The morning wind moved gently through his hair.
+
+Peter managed a tired smile.
+
+"...Didn't expect to see you here."
+
+Logan looked toward Ben Parker's grave.
+
+"Figured you might be."
+
+Silence settled between them.
+
+Neither man seemed interested in breaking it.
+
+Not yet.
+
+---
+
+Peter remained silent.
+
+The morning breeze gently moved through the cemetery.
+
+For a while...
+
+Neither he nor Logan spoke.
+
+Finally...
+
+Peter broke the silence.
+
+"I remember..."
+
+He looked toward Logan.
+
+"You saved my friends from Rhino."
+
+Logan glanced at him.
+
+"I was still recovering."
+
+"I never got the chance to thank you."
+
+A faint smile crossed Logan's face.
+
+"You don't need to."
+
+"I was just passing through."
+
+Peter couldn't help but smile.
+
+Only a little.
+
+Then his eyes returned to Uncle Ben's grave.
+
+"I guess..."
+
+He took a slow breath.
+
+"...things haven't really changed."
+
+Logan listened.
+
+"The night I lost him..."
+
+Peter gently rested his hand against the gravestone.
+
+"I lost someone important because of my own mistake."
+
+His voice became quieter.
+
+"And now..."
+
+"I let it happen again."
+
+Silence.
+
+Logan looked toward the name engraved in the stone.
+
+Then finally spoke.
+
+"You're missing something."
+
+Peter looked at him.
+
+"You changed how people see us."
+
+"Powered people."
+
+"Mutants."
+
+Logan let out a quiet breath.
+
+"You didn't make us heroes."
+
+"We already were."
+
+"But you reminded the world what we were fighting for."
+
+He smiled faintly.
+
+"And trust me..."
+
+"I was never supposed to be one."
+
+Peter stayed quiet.
+
+Logan continued.
+
+"Kid..."
+
+"I've spent more years than you've been alive wishing I could change things I'd done."
+
+His eyes drifted toward the horizon.
+
+"You think you're the first person to wake up wondering if people got hurt because you weren't strong enough?"
+
+He shook his head.
+
+"You're not."
+
+A long silence followed.
+
+"Difference is..."
+
+"Someone believed I could still do some good."
+
+"Charles."
+
+"My team."
+
+"They never stopped believing in me."
+
+Logan turned toward Peter.
+
+"Looks to me..."
+
+"...your people are trying to do the same."
+
+---
+
+Peter looked back at Uncle Ben's grave.
+
+His eyes slowly filled with tears.
+
+"I don't know how to live with this."
+
+His voice cracked.
+
+"And..."
+
+He hesitated.
+
+"Something much worse is coming."
+
+Logan's expression changed.
+
+"What do you mean?"
+
+Peter looked into the distance.
+
+"I saw it."
+
+"While I was trapped."
+
+"There were..."
+
+He searched for the words.
+
+"...more."
+
+"So many more."
+
+"They weren't like anything I've ever seen."
+
+"They were connected."
+
+"Following someone."
+
+"I don't know who..."
+
+"...but whatever I saw..."
+
+"It wanted everything."
+
+"The whole world."
+
+Peter lowered his head.
+
+"I don't think we're ready."
+
+The sound of wheels rolling gently across the stone pathway interrupted the silence.
+
+"Then..."
+
+Charles Xavier's voice answered calmly.
+
+"...we'll be ready together."
+
+Peter and Logan turned.
+
+Charles approached slowly.
+
+Behind him...
+
+Harry.
+
+MJ.
+
+Cindy.
+
+Flash.
+
+Gwen.
+
+Finally...
+
+May.
+
+Peter looked at all of them.
+
+Charles stopped beside Logan.
+
+"As long as we stand together..."
+
+"We won't let that darkness take this world."
+
+He smiled gently.
+
+"And this time..."
+
+"We know more about our enemy."
+
+Peter's eyes shifted toward Flash.
+
+Standing quietly among the others.
+
+The black organism remained hidden.
+
+But Peter knew it was there.
+
+Charles followed his gaze.
+
+"And..."
+
+"We have an ally who understands it better than anyone."
+
+Flash gave Peter a reassuring smile.
+
+Peter remained quiet for a long moment.
+
+Then finally asked...
+
+"...What if we're still not enough?"
+
+Nobody answered immediately.
+
+Instead...
+
+Charles simply smiled.
+
+"Then we ask for help."
+
+---
+
+As Charles finished speaking...
+
+The world seemed to pause.
+
+Then—
+
+A series of images.
+
+Across the country...
+
+People were already preparing.
+
+---
+
+Malibu.
+
+Tony Stark stood inside one of the lower laboratories beneath his mansion.
+
+The recovered symbiote research floated as holograms around him.
+
+He adjusted wave frequencies.
+
+Ran simulation after simulation.
+
+Testing stronger sonic emitters.
+
+Designing better countermeasures.
+
+"If there's a next time..."
+
+He quietly muttered.
+
+"...we'll be ready."
+
+---
+
+The Baxter Building.
+
+Reed Richards projected a three-dimensional model of the symbiote into the center of the room.
+
+Sue watched silently.
+
+Johnny leaned against the wall.
+
+Ben folded his arms.
+
+"It adapted faster than any organism I've ever studied."
+
+Reed looked at his family.
+
+"We're dealing with something unlike anything on Earth."
+
+Johnny's usual smile disappeared.
+
+"So..."
+
+"We start preparing now."
+
+Reed nodded.
+
+"Immediately."
+
+---
+
+The Helicarrier.
+
+Director Fury silently watched the classified footage.
+
+Spider-Man's transformation.
+
+The invasion.
+
+The separation.
+
+Agent Venom.
+
+The screen finally went dark.
+
+He picked up the secure phone.
+
+"Increase extraterrestrial surveillance."
+
+"We're not waiting for the next one."
+
+Nearby...
+
+Steve Rogers continued his morning training.
+
+Every strike.
+
+Every movement.
+
+More focused than before.
+
+He had already read the report.
+
+---
+
+The University of Virginia.
+
+Bruce Banner quietly finished reading Charles Xavier's encrypted message.
+
+His expression grew serious.
+
+He looked toward one of the research monitors.
+
+"An extraterrestrial organism..."
+
+He whispered.
+
+"...that's new."
+
+He immediately began reviewing everything Charles had sent.
+
+---
+
+Back at Xavier's School...
+
+Hank and Jean continued studying every piece of recovered data.
+
+The molecular structure rotated above the laboratory table.
+
+Jean looked toward Hank.
+
+"Do you think we'll see another one?"
+
+Hank didn't answer immediately.
+
+Finally...
+
+"I hope not."
+
+"But hope..."
+
+He saved the latest report.
+
+"...isn't a strategy."
+
+The research continued.
+
+---
+
+The montage ended.
+
+Back at the cemetery...
+
+Charles looked toward Peter.
+
+"Believe me."
+
+"Everyone is preparing."
+
+"We won't face the next wave alone."
+
+Peter looked at each of them.
+
+Charles.
+
+May.
+
+His friends.
+
+For the first time since waking...
+
+The weight on his shoulders felt...
+
+Just a little lighter.
+
+He stepped forward.
+
+Stopping in front of Charles.
+
+Without saying a word...
+
+Peter extended his hand.
+
+Charles smiled warmly.
+
+Then gently shook it.
+
+"Welcome back, Peter."
+
+A small smile appeared on Peter's face.
+
+Behind him...
+
+Harry stepped forward first.
+
+Wrapping Peter into a quick hug.
+
+"Told you we'd bring you home."
+
+MJ smiled and hugged him next.
+
+"We're just glad you're back."
+
+Flash grinned.
+
+"You still owe me for saving your life."
+
+Peter laughed quietly.
+
+"I'll think of something."
+
+Gwen smiled.
+
+"He's joking."
+
+Flash looked offended.
+
+"I think."
+
+Everyone laughed.
+
+Cindy stepped forward last.
+
+She didn't say anything.
+
+She simply hugged him.
+
+Tightly.
+
+Peter smiled.
+
+"...Thank you."
+
+Finally...
+
+He turned toward May.
+
+She had been watching quietly the entire time.
+
+Almost as though she had always known this was where Peter would end up.
+
+Peter walked over.
+
+Wrapped his arms around her.
+
+May held him close.
+
+A gentle smile crossed her face.
+
+"I had a feeling..."
+
+"...I'd find you here."
+
+Peter closed his eyes.
+
+Smiling through the last of his tears.
+
+"Yeah..."
+
+"So did I."
+
+---
+
+## Chapter Nine: Home
+
+### The Thompson residence.
+
+Late afternoon.
+
+The front door quietly opened.
+
+Flash stepped inside.
+
+The house was unusually quiet.
+
+The television was still on.
+
+Every news channel carried the same story.
+
+**"Recovery efforts continue following the Westchester Incident..."**
+
+"...authorities have confirmed that several young heroes assisted during the crisis..."
+
+Flash quietly slipped off his shoes.
+
+He hoped he could make it upstairs unnoticed.
+
+"...Flash."
+
+He stopped.
+
+Slowly turning around.
+
+His father sat in the living room.
+
+Still wearing part of his police uniform.
+
+His eyes never left the television.
+
+For a long moment...
+
+Neither of them spoke.
+
+Flash finally broke the silence.
+
+"...Dad."
+
+His father picked up the remote.
+
+Muted the television.
+
+The room became silent.
+
+"I saw what you did."
+
+Flash looked down.
+
+His father continued.
+
+"You stepped into danger."
+
+"You knew you could've died."
+
+"And you still went."
+
+Another pause.
+
+"But..."
+
+"This time..."
+
+"It wasn't for yourself."
+
+"It was for someone else."
+
+Flash remained silent.
+
+His father slowly stood.
+
+For years...
+
+Every conversation between them had ended with anger.
+
+This one didn't.
+
+"I'm proud of you."
+
+Flash looked up.
+
+Genuinely surprised.
+
+His father nodded once.
+
+"I don't think I've said that enough."
+
+Flash searched for something to say.
+
+Nothing came.
+
+He simply nodded.
+
+"...Thanks."
+
+He turned toward the stairs.
+
+"...Flash."
+
+He stopped once more.
+
+His father looked at him.
+
+"I spent a long time trying to decide what your life should be."
+
+"I thought if I pushed hard enough..."
+
+"...you'd become the man I wanted."
+
+A faint smile appeared.
+
+"I was wrong."
+
+Another pause.
+
+"You already figured it out."
+
+Flash's eyes softened.
+
+His father took a slow breath.
+
+"I'm done standing in your way."
+
+"If this is the path you've chosen..."
+
+"...I'm not going to stop you anymore."
+
+Flash smiled.
+
+Not the confident grin everyone else knew.
+
+A quiet one.
+
+One he'd waited years to have.
+
+"...Thanks, Dad."
+
+His father gave a small nod.
+
+"Go get some rest."
+
+Flash turned.
+
+Walking upstairs.
+
+For the first time in years...
+
+Neither of them left the conversation angry.
+
+The relationship wasn't fixed.
+
+Not yet.
+
+But it had finally begun to heal.
+
+---
+
+### The Moon residence.
+
+Early evening.
+
+The front door opened.
+
+Cindy quietly stepped inside.
+
+Before she could even close it...
+
+Her father was already there.
+
+"Cindy."
+
+He pulled her into a tight embrace.
+
+Relief flooded across his face.
+
+"I'm so glad you're okay."
+
+Cindy smiled.
+
+"I'm okay, Dad."
+
+A familiar voice echoed from upstairs.
+
+"No way..."
+
+Rapid footsteps thundered down the staircase.
+
+Her younger brother threw his arms around her.
+
+"You scared us!"
+
+Cindy laughed.
+
+"I know."
+
+He looked her up and down.
+
+"So..."
+
+"You actually fought monsters?"
+
+Cindy chuckled.
+
+"It's a long story."
+
+He grinned.
+
+"I want to hear all of it."
+
+The warmth in the room slowly faded.
+
+Cindy looked toward the kitchen.
+
+Her mother stood quietly beside the counter.
+
+Watching.
+
+Neither of them spoke.
+
+For a long moment...
+
+Only silence.
+
+Cindy slowly walked toward her.
+
+"...Mom."
+
+Her mother looked into her daughter's eyes.
+
+Searching.
+
+Making sure she was truly standing there.
+
+Cindy took a slow breath.
+
+"I know..."
+
+"...you won't agree with what I've decided."
+
+She lowered her eyes.
+
+"But I have."
+
+"I know what I want to do with my life."
+
+She looked back up.
+
+"And..."
+
+"I don't regret it."
+
+Silence.
+
+Her mother didn't answer.
+
+Cindy gave a small nod.
+
+"I understand."
+
+She quietly picked up her bag.
+
+Then walked toward the staircase.
+
+Halfway up...
+
+A voice stopped her.
+
+"...Cindy."
+
+She turned.
+
+Her mother was still standing exactly where she had been.
+
+Her expression hadn't changed.
+
+"I still don't like it."
+
+Another pause.
+
+"I probably never will."
+
+Cindy nodded sadly.
+
+"I know."
+
+Her mother continued.
+
+"But..."
+
+She struggled to find the words.
+
+"I saw the news."
+
+"I saw what happened."
+
+Her voice became quieter.
+
+"You saved people."
+
+A long silence followed.
+
+"I'm still afraid."
+
+"I'm always going to be afraid."
+
+A tear slowly rolled down her cheek.
+
+"...But I'm proud of the woman you've become."
+
+Cindy's eyes immediately filled with tears.
+
+Her mother smiled softly.
+
+"Just..."
+
+"...promise me you'll come home."
+
+Cindy smiled through the tears.
+
+"I promise."
+
+Her mother opened her arms.
+
+This time...
+
+Cindy was the one who walked forward.
+
+The two embraced.
+
+Not because every disagreement had disappeared.
+
+But because love had proven stronger than fear.
+
+---
+
+### The Stacy residence.
+
+Early evening.
+
+Gwen quietly stepped onto the front porch.
+
+She hadn't even reached for the doorbell.
+
+The front door opened.
+
+Captain George Stacy stood there.
+
+For a brief moment...
+
+Neither of them spoke.
+
+Then...
+
+A warm smile spread across his face.
+
+"Welcome home."
+
+Gwen smiled back.
+
+"Hi, Dad."
+
+He stepped forward and wrapped his daughter in a hug.
+
+Not because she needed comforting.
+
+Because he was simply glad she was home.
+
+A second later...
+
+Her mother hurried over.
+
+"Oh, Gwen."
+
+She pulled her into another embrace.
+
+"I was so worried."
+
+Gwen laughed softly.
+
+"I'm okay."
+
+Before anyone could say another word...
+
+A younger voice echoed from inside.
+
+"Gwen's back?"
+
+Her little brother came running into the hallway.
+
+His eyes lit up.
+
+"You actually fought alongside Spider-Man?"
+
+Captain Stacy sighed.
+
+"That's the first thing you're asking?"
+
+His son shrugged.
+
+"I mean..."
+
+"...it's Spider-Man."
+
+Everyone laughed.
+
+Gwen smiled.
+
+"I'll tell you all about it."
+
+He grinned.
+
+"Awesome."
+
+Captain Stacy stepped aside.
+
+"Come on."
+
+"Let's get you home."
+
+Gwen walked inside.
+
+The front door quietly closed behind her.
+
+For the first time in days...
+
+She wasn't thinking about battles.
+
+Or symbiotes.
+
+Or the future.
+
+She was simply...
+
+Home.
+
+---
+
+### The Osborn Residence.
+
+Top Floor.
+
+The city stretched endlessly beyond the glass walls.
+
+Norman stood quietly near the window.
+
+In his hands...
+
+An old framed photograph.
+
+Emily Osborn smiled back at him.
+
+For a long moment...
+
+He simply looked at it.
+
+Then quietly spoke.
+
+"Our boy's come a long way..."
+
+A small smile crossed his face.
+
+"When you left..."
+
+"I wasn't sure how I was supposed to do this."
+
+"Be a father."
+
+"Raise him on my own."
+
+He let out a quiet laugh.
+
+"I made more mistakes than I'd like to admit."
+
+His eyes never left the photograph.
+
+"But..."
+
+"He found people."
+
+"Good people."
+
+"Friends who reminded him who he was..."
+
+Norman paused.
+
+Then smiled a little more.
+
+"...and reminded me who I needed to be."
+
+A quiet knock came from behind him.
+
+Harry stepped into the room.
+
+"Dad?"
+
+Norman turned.
+
+Quickly placing the photograph back onto the shelf.
+
+"...Nothing."
+
+Harry noticed the picture anyway.
+
+He slowly walked over.
+
+Looking at his mother's smiling face.
+
+Silence settled between them.
+
+Norman finally admitted,
+
+"...I just miss her."
+
+Harry smiled sadly.
+
+"...Yeah."
+
+"So do I."
+
+Neither of them spoke again.
+
+They simply stood there.
+
+Looking at the woman who had always been the heart of their family.
+
+The silence wasn't empty anymore.
+
+It was peaceful.
+
+---
+
+### The Watson residence.
+
+Evening.
+
+The front door quietly opened.
+
+"Mom?"
+
+"I'm home."
+
+A moment later...
+
+Both of her parents appeared from the hallway.
+
+Relief immediately spread across their faces.
+
+"There you are."
+
+Madalene wrapped her into a warm embrace.
+
+Jonathan father smiled.
+
+"We've been worried sick."
+
+MJ laughed softly.
+
+"I'm okay."
+
+Her mother gently looked over her.
+
+"No injuries?"
+
+MJ shook her head.
+
+"I'm fine."
+
+Her father smiled.
+
+"Good."
+
+A brief silence followed.
+
+Then he asked...
+
+"And Peter?"
+
+MJ smiled.
+
+"He's okay too."
+
+Her parents exchanged a relieved glance.
+
+"That's good to hear."
+
+Her mother smiled.
+
+"We know how much he means to you."
+
+MJ looked down.
+
+A small smile appeared.
+
+"Yeah..."
+
+"He does."
+
+Her father stepped aside.
+
+"Come on."
+
+"Dinner's ready."
+
+MJ walked inside.
+
+For the first time in days...
+
+She wasn't worrying about whether Peter would survive.
+
+Only about when she'd see him again.
+
+---
+
+### Parkers Residence (few days later)
 
 The backyard hadn't changed much.
 
