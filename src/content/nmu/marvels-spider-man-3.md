@@ -9315,7 +9315,7 @@ Westchester.
 
 ---
 
-The conference room had become strangely quiet.
+The conference room had become strangely quiet in the evening.
 
 Everyone had returned to their work.
 
