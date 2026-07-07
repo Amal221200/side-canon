@@ -8909,7 +8909,7 @@ Every step had purpose.
 
 The forests stretched endlessly around it.
 
-Morning light filtered through the towering pines.
+Afternoon light filtered through the towering pines.
 
 Birds called to one another overhead.
 
@@ -9378,8 +9378,6 @@ Flash looked away.
 Norman replied immediately.
 
 "We're running out of time."
-
-"There is a difference."
 
 Flash exhaled.
 
@@ -9865,7 +9863,7 @@ Because everyone in the room knew exactly what he meant.
 
 ---
 
-The forest had grown unnaturally quiet.
+The forest had grown unnaturally quiet in the night.
 
 The organism continued toward the north.
 
