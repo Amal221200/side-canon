@@ -5135,7 +5135,7 @@ It came from farther down the corridor.
 
 Near the end.
 
-Containment Chamber Twelve.
+**Containment Chamber Twelve.**
 
 The same chamber the visiting students had paused beside the previous afternoon.
 
@@ -6121,8 +6121,6 @@ Peter slowly approached.
 
 No response.
 
-"You remember us?"
-
 Nothing.
 
 Cars continued stopping around the intersection.
@@ -6379,7 +6377,7 @@ One powerful shove sent Cindy sideways across the pavement.
 
 She never finished.
 
-The organism struck Peter square in the chest.
+The organism struck Spider-Man square in the chest.
 
 The impact knocked him backward.
 
@@ -6476,6 +6474,8 @@ Down his legs.
 Across his gloves.
 
 Across his chest.
+
+Across his mask.
 
 Until...
 
