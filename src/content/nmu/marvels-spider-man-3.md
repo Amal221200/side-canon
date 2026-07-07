@@ -6957,8 +6957,6 @@ Flowing water.
 
 Wind.
 
-Every sound entered Peter Parker's enhanced senses.
-
 Every sound entered the organism.
 
 It was...
@@ -6981,49 +6979,11 @@ Silence returned.
 
 Inside...
 
-Peter fought.
+Peter was unconscious, completely unaware of the surrounding, what the black creature was doing with him.
 
-His thoughts echoed through darkness.
+Black creature was in control of his host's body.
 
-His body refused to answer him.
-
-Move.
-
-Nothing.
-
-Speak.
-
-Nothing.
-
-Open your eyes.
-
-Nothing.
-
-It felt like drowning while remaining completely awake.
-
-He could hear.
-
-He could think.
-
-He could remember.
-
-But every command vanished before reaching his body.
-
-Somewhere...
-
-Very far away...
-
-He heard another heartbeat.
-
-Not his own.
-
-Slower.
-
-Older.
-
-Alien.
-
-The organism suddenly became perfectly still.
+Suddenly, The organism became perfectly still.
 
 Its attention shifted.
 
@@ -7127,7 +7087,7 @@ For now.
 
 ---
 
-The conference room overlooking Oscorp Tower had fallen completely silent.
+The conference room inside Oscorp Tower had fallen completely silent.
 
 No one moved.
 
@@ -7143,7 +7103,7 @@ The scientist.
 
 The black organism.
 
-Peter pushing Cindy out of the way.
+Spider-Man pushing Silk out of the way.
 
 The organism attaching itself to Spider-Man.
 
@@ -7199,7 +7159,7 @@ But everyone could see the weight on his shoulders.
 
 He looked toward the screen.
 
-Then toward the six students.
+Then toward the five students.
 
 Finally...
 
@@ -7355,7 +7315,7 @@ Standing beside him...
 
 Dr. Hank McCoy adjusted his glasses before immediately surveying the room.
 
-His eyes lingered on the worried students.
+His eyes lingered on the worried students. He looked at Gwen and gave a greetful nod.
 
 Then on Norman.
 
@@ -7415,7 +7375,7 @@ Three of the greatest scientific minds on Earth.
 
 And then...
 
-Six university students.
+Five university students.
 
 One frightened young woman.
 
@@ -7625,7 +7585,7 @@ Spectroscopy.
 
 Environmental testing.
 
-"We conducted only non-invasive studies."
+"We took a fragment of the oragism and conducted only non-invasive studies."
 
 "Light."
 
@@ -7681,7 +7641,7 @@ A security recording replaced the graph.
 
 Inside the containment chamber...
 
-A tiny detached fragment of the organism suddenly rippled violently.
+The fragment suddenly rippled violently.
 
 The movement lasted less than two seconds.
 
@@ -7897,7 +7857,7 @@ He looked toward Norman.
 
 "For how long?"
 
-"Three years."
+"Six years."
 
 Tony nodded slowly.
 
@@ -8258,18 +8218,6 @@ Spider.
 Host.
 
 Identity confirmed.
-
-Deep within the darkness of his own mind...
-
-Peter saw it.
-
-His own symbol.
-
-Being claimed by something else.
-
-He tried to scream.
-
-The darkness answered with silence.
 
 ---
 
