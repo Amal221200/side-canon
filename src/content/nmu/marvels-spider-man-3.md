@@ -10407,7 +10407,7 @@ Scott looked toward the assembled X-Men.
 
 His expression hardened.
 
-"This is no longer a rescue operation."
+"This is no longer just a rescue operation."
 
 "It's containment."
 
@@ -10451,7 +10451,7 @@ One direction.
 
 Inside the Blackbird...
 
-Every member of X-Force stood silently.
+Every member of X-Force stood silently, along with Wolvernine and Quicksilver.
 
 Logan watched through the open rear ramp.
 
@@ -10502,8 +10502,6 @@ The Blackbird immediately climbed back into the sky.
 ---
 
 Logan hit the ground first.
-
-His boots dug into the forest floor.
 
 Bishop landed beside him.
 
@@ -10607,20 +10605,6 @@ He paused.
 
 "We need one living specimen."
 
-Logan looked toward Pietro.
-
-"Pietro."
-
-A blue blur appeared beside him.
-
-"Yeah?"
-
-"Bring Hank his specimen after the evacuation."
-
-Pietro nodded.
-
----
-
 Bishop raised his rifle.
 
 "You heard the doctor."
@@ -10685,12 +10669,6 @@ Logan narrowed his eyes.
 
 Across the intersection...
 
-Warpath caught an overturned pickup truck before it crushed a family attempting to escape.
-
-"Move!"
-
-The family stumbled away.
-
 A massive infected bear charged directly toward them.
 
 Warpath met it head-on.
@@ -10715,11 +10693,11 @@ They attacked together.
 
 High above...
 
-Sunspot streaked across the burning skyline.
+Sunspot streaked across the night sky above a burning shopping district.
 
 His body blazed like a miniature sun.
 
-A flock of infected crows erupted from between two office buildings.
+A flock of infected crows erupted from the trees surrounding the commercial district.
 
 Hundreds.
 
@@ -10771,10 +10749,6 @@ Streetlights collapsed.
 
 The entire swarm was thrown backward.
 
-For the first time...
-
-The civilians had room to escape.
-
 ---
 
 Remy landed atop a delivery truck.
@@ -10825,11 +10799,9 @@ The shockwave tore black tendrils away from several infected animals while leavi
 
 Elsewhere...
 
-The last evacuation bus pulled away from the city.
+The last of the people have been brought safely to Xavier's property.
 
-Pietro appeared beside it in a blue blur.
-
-He glanced around.
+Pietro glanced around the town again to check for any civillians.
 
 The streets were finally empty.
 
@@ -11179,7 +11151,7 @@ Scott nodded.
 
 "They need reinforcements."
 
-Charles reopened the channel.
+Hank responded,
 
 "X-Force."
 
@@ -11699,7 +11671,7 @@ He crashed through two parked cars before rolling to a stop.
 
 Bishop immediately fired.
 
-Twin blue energy blasts struck Venom square in the chest.
+Twin purple energy blasts struck Venom square in the chest.
 
 The explosion lit the entire intersection.
 
@@ -12243,7 +12215,7 @@ The wound closed before Logan even landed.
 
 "...Come on!"
 
-Venom answered with a backhand powerful enough to send Logan crashing through the second floor of a nearby office building.
+Venom answered with a backhand powerful enough to send Logan crashing through the second floor of a nearby building.
 
 The communicator crackled.
 
@@ -12269,11 +12241,11 @@ Iron Man.
 
 Moments later...
 
-The Goblin Glider descended between burning buildings.
+The Goblin Glider descended between burning buildings also carrying Silk with him on it.
 
 Harry landed beside Bishop.
 
-Silk was also with Harry on the glider.
+Silk landed on the grounf.
 
 Then...
 
@@ -13465,12 +13437,6 @@ Hanks lab inside Xavier's mansion.
 
 The emergency laboratory had finally grown quiet.
 
-Outside...
-
-The first rays of morning sunlight broke across the New York skyline.
-
-Inside...
-
 Hank reviewed the final scan.
 
 Every monitor displayed the same conclusion.
@@ -14039,13 +14005,11 @@ Peter gave a small nod.
 
 A few minutes later...
 
-Peter slowly stepped into the living room of Hank McCoy's laboratory.
+Peter slowly stepped into the living room of the mansion with May.
 
 The conversation immediately stopped.
 
 Everyone stood.
-
-May.
 
 MJ.
 
@@ -14099,7 +14063,7 @@ Logan nodded once.
 
 Sunspot laughed.
 
-"I knew he is young, but still it doesn't stop amazing me."
+"I knew he was young, but still it doesn't stop amazing me."
 
 Remy grinned.
 
@@ -14433,7 +14397,7 @@ He took a slow breath.
 
 Logan listened.
 
-"The night I lost him..."
+"The night I lost my uncle..."
 
 Peter gently rested his hand against the gravestone.
 
