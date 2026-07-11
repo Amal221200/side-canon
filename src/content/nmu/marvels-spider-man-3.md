@@ -1,9 +1,9 @@
 ---
-title: "Marvel's Spider-Man 3"
-description: "We will see the first invasion of symbiotes and Venom takes over Spider-Man."
+title: "Marvel's Spider-Man 3 (This is still a very raw draft)"
+description: "We will see the first invasion of symbiote as Venom takes over Spider-Man"
 pubDate: 'Aug 26, 2026'
 heroImage: '@/assets/nmu/marvels-spider-man-3.jpg'
-published: false
+published: true
 order: 13
 ---
 
