@@ -741,57 +741,31 @@ Without needing to say another word.
 
 ### Autumn, 2013
 
-Middle school felt enormous.
-
-The hallways were longer.
-
-The lockers were taller.
-
-The teachers expected more.
-
-The students tried harder to look older than they really were.
-
-Peter Parker still wasn't convinced anyone had actually grown up.
-
-Some things changed.
-
-Some things never did.
-
-Peter was still the first student to raise his hand.
-
-Mary Jane still waited for him every morning outside the school gates.
-
-Flash Thompson was still the most popular boy in school.
-
-And Peter was still his favorite target.
-
----
-
-The morning before school began, Ben rolled an old bicycle out of the garage.
+The morning before middle school began, Ben rolled an old bicycle out of the garage.
 
 It wasn't new.
 
 The paint had faded years ago.
 
-The handlebars showed scratches from another child's adventures long before Peter.
+The handlebars carried scratches from another child's adventures long before Peter.
 
-Ben rubbed the seat proudly.
+Ben gave the frame one last wipe.
 
-"Took me two weekends to get her working again."
+"There."
 
 Peter's eyes widened.
 
 "For me?"
 
-Ben grinned.
+Ben smiled.
 
-"Middle school's farther away."
+"I finally took the training wheels off."
 
 Peter ran over, wrapping his arms around Ben before even looking at the bicycle properly.
 
 "It's perfect."
 
-Ben laughed.
+Ben chuckled.
 
 "I don't know about perfect."
 
@@ -799,31 +773,105 @@ Ben laughed.
 
 Peter meant it.
 
-Later that afternoon, Ben jogged behind him as Peter wobbled down the sidewalk.
+---
 
-"Don't look at the wheel!"
+That afternoon, Ben jogged behind him as Peter carefully pedaled down the sidewalk.
+
+"Keep your eyes ahead!"
 
 "I'm trying!"
 
-"Look where you want to go!"
+Peter leaned a little too far into a turn.
 
-Peter nearly rode into Mrs. Rodriguez's mailbox.
+The bicycle wobbled.
 
-Ben caught the bicycle before it fell.
+Then toppled onto the grass.
 
-"Almost."
+Ben hurried over.
 
-Peter laughed.
+"You alright?"
 
-"I almost got it."
+Peter rubbed his knee.
 
-"You'll get it."
+"...Yeah."
 
-Just like baseball.
+Ben smiled.
+
+"Good."
+
+Peter picked up the bicycle.
+
+"The mudguard's bent."
+
+The metal scraped lightly against the tire as he spun the wheel.
+
+"I broke it."
+
+Ben disappeared into the garage.
+
+A moment later, he returned with a small toolbox and set it on the driveway.
+
+Peter looked at him.
+
+"...Aren't you going to fix it?"
+
+Ben smiled.
+
+"No."
+
+"I'm going to help you fix it."
+
+Peter knelt beside the bicycle.
+
+He watched the wheel spin.
+
+Listened to where it scraped.
+
+Then gently bent the mudguard back into place.
+
+He spun the wheel again.
+
+Silence.
+
+A smile spread across his face.
+
+"It worked."
+
+Ben closed the toolbox.
+
+"It did."
+
+Peter looked up proudly.
+
+"I fixed it."
+
+Ben nodded.
+
+"You did."
+
+He rested a hand on Peter's shoulder.
+
+"Whenever something breaks..."
+
+"...don't be afraid of it."
+
+"Take your time."
+
+"Understand what's wrong."
+
+"Then fix it."
+
+Peter smiled.
+
+"I will."
+
+Ben smiled back.
+
+"I know you will."
 
 ---
 
-The first day of school arrived.
+The first day of middle school arrived.
 
 Peter and Mary Jane leaned their bicycles against the rack together.
 
@@ -837,11 +885,17 @@ Peter adjusted his backpack.
 
 They walked inside.
 
-Everything smelled like fresh paint and unopened textbooks.
+Middle school felt enormous.
 
-Different building.
+The hallways were longer.
 
-Same nerves.
+The lockers were taller.
+
+The teachers expected more.
+
+The students tried harder to look older than they really were.
+
+Peter Parker still wasn't convinced anyone had actually grown up.
 
 ---
 
@@ -946,8 +1000,6 @@ The first algebra unit test arrived.
 The room was silent except for pencils scratching paper.
 
 Peter finished early.
-
-He always did.
 
 Harry did not.
 
@@ -1115,7 +1167,7 @@ Almost home.
 
 Just a little—
 
-CLANK.
+_CLANK_
 
 The pedals suddenly spun free.
 
@@ -1793,7 +1845,7 @@ Mary Jane smiled.
 
 Harry laughed harder.
 
-For the first time in a long while...
+For the first time...
 
 The three of them walked into school together.
 
@@ -2195,7 +2247,7 @@ None of them knew how quickly that would change.
 
 ---
 
-## Chapter Five: The Bite
+## Chapter Five: The Spider Bite
 
 ### Spring, 2015
 
@@ -2231,7 +2283,7 @@ Even raindrops racing across the bus window.
 
 Everything seemed worth photographing.
 
-Beside him sat Gwen Stacy.
+Beside him sat his partner this year, Gwen Stacy.
 
 One of the few students who consistently challenged Peter's scores.
 
@@ -2867,7 +2919,7 @@ Nothing.
 
 He pulled harder.
 
-RRRIP!
+_RRRIP!_
 
 The denim tore straight across the waistband.
 
@@ -2957,7 +3009,7 @@ His feet left the floor.
 
 His body shot upward.
 
-THUNK.
+_THUNK._
 
 Silence.
 
@@ -3045,9 +3097,7 @@ Until gravity seemed to remember how it was supposed to work.
 
 He stood in the middle of his bedroom.
 
-Then he looked at the ground, saw the dead spider fell off from his clothing when he pulled it out last night.
-
-He picked it up, then he slowly hovered his other hand on the back of his neck to feel the bite area.
+Then he slowly hovered his other hand on the back of his neck to feel the bite area.
 
 Heart pounding.
 
@@ -3101,7 +3151,7 @@ He grabbed the handlebars.
 
 Lifted gently.
 
-CRACK.
+_CRACK._
 
 One side snapped clean off in his hand.
 
@@ -3299,7 +3349,7 @@ Mary Jane smiled knowingly.
 
 ---
 
-Science Olympiad met before first period after the lunch.
+Science Olympiad met after the school.
 
 Gwen already had notebooks spread across the floor outside the basket ball court.
 
@@ -3351,15 +3401,19 @@ Their ideas fit together naturally.
 
 "You always think mechanically," Gwen observed.
 
-Peter nodded.
+Peter shrugged.
 
-"You always think biologically."
+"I like building things."
+
+He glanced at her calculations.
+
+"You never miss the details."
+
+She smiled.
+
+"I try not to."
 
 "I guess that's why we make decent partners."
-
-Peter smiled.
-
-"I guess."
 
 ---
 
@@ -3399,8 +3453,6 @@ He threw it.
 
 Hard.
 
----
-
 Peter never heard it.
 
 He was still listening to Gwen explain enzyme interactions.
@@ -3433,7 +3485,7 @@ Peter turned.
 
 His arm moved on instinct.
 
-THUMP.
+_THUMP._
 
 The basketball stopped dead in his hand.
 
@@ -3475,7 +3527,7 @@ Without thinking.
 
 The ball exploded from his hand.
 
-WHAM!
+_WHAM!_
 
 Flash barely caught it before the force launched him backward.
 
@@ -3759,27 +3811,37 @@ He was waiting.
 
 Peter slowed as he walked up the driveway.
 
-"...Hey, Uncle Ben."
-
-Ben looked up.
-
 "Hey, kid."
 
 A moment of silence.
 
+"Hey, Uncle Ben."
+
+Peter forced a small smile.
+
+Ben studied him for a moment before speaking.
+
 "You know what time it is?"
 
-Peter glanced toward the street.
+Peter glanced toward the dark street behind him.
 
 "...Later than I thought."
 
-Ben nodded.
+"Much later."
+
+Peter nodded.
+
+The silence lingered.
+
+Ben wasn't angry.
+
+That almost made it worse.
 
 "Where were you?"
 
 Peter opened his mouth.
 
-Then closed it again.
+Then stopped.
 
 How could he possibly explain climbing buildings?
 
@@ -3787,41 +3849,61 @@ How could he possibly explain climbing buildings?
 
 "...Got lost."
 
-Ben studied him.
+Ben let out a slow breath.
 
-Not the words.
+He knew Peter well enough to hear the hesitation.
 
-The hesitation.
+"Peter."
 
-Peter almost never lied.
+"You've been acting strange since this morning."
 
-Which made him terrible at it.
+"No glasses."
 
-Ben sighed softly.
+"You've barely said a word all day."
 
-"May kept dinner warm."
+"And now you disappear after school."
 
-Peter looked down.
+He looked away for a moment.
+
+"I called the school."
+
+"The Watsons hadn't seen you."
+
+"Neither had Norman."
+
+Peter's stomach tightened.
+
+They had actually been looking for him.
 
 "I'm sorry."
 
 "I know."
 
-Ben stood, placing a hand gently on Peter's shoulder.
+Ben picked up his mug before setting it back down untouched.
 
-"When you're ready to tell us what's bothering you..."
+"I'm not asking because you're in trouble."
 
-"You don't have to carry it alone."
+"I'm asking because we were worried."
 
-Peter nodded.
+He met Peter's eyes.
 
-"...Okay."
+"If you're going to be late..."
 
-Ben smiled.
+"...just let us know."
+
+Peter nodded quietly.
+
+"...I will."
+
+Ben smiled faintly.
+
+"I know you will."
+
+He gave Peter a gentle pat on the shoulder.
 
 "Come on."
 
-"Your aunt made lasagna."
+"May's kept the lasagna warm long enough."
 
 ---
 
@@ -3903,9 +3985,9 @@ Several engineering books.
 
 Several biology books.
 
-His laptop.
+His desktop.
 
-He opened it.
+He turned it on.
 
 Typed a single word.
 
@@ -3941,7 +4023,7 @@ He stopped writing only when one thought finally formed.
 
 ---
 
-The following morning—
+The following day—
 
 Science Olympiad met before class.
 
@@ -4157,7 +4239,7 @@ Held his breath.
 
 Pressed the trigger.
 
-THWIP.
+_THWIP._
 
 A thin white strand shot across the room.
 
@@ -4205,7 +4287,7 @@ He raised one wrist.
 
 "...Please work."
 
-THWIP.
+_THWIP._
 
 The web shot outward.
 
@@ -4267,7 +4349,7 @@ Still swinging wildly—
 
 He aimed the other web-shooter.
 
-THWIP.
+_THWIP._
 
 The second web attached to another building.
 
@@ -4535,7 +4617,7 @@ Peter stopped walking.
 
 "...Uncle Ben?"
 
-Ben smiled gently.
+Ben firmly said-
 
 "Get in."
 
@@ -4781,9 +4863,11 @@ Peter quietly opened his bedroom window.
 
 The shopping bag rested beside his bed.
 
-He pulled on the red compression shirt with a giant white Spider painted on the chest.
+He pulled on the red compression shirt.
 
-The blue athletic pants.
+He painted a giant white Spider on the chest before wearing it.
+
+Then he put on the blue athletic pants.
 
 The gloves.
 
@@ -5065,6 +5149,8 @@ The promoter counted several bills.
 
 Then stopped.
 
+He gave Peter two thousand dollars.
+
 Peter frowned.
 
 "...That's not five thousand."
@@ -5129,19 +5215,13 @@ For a brief second...
 
 Their eyes met.
 
-Peter knew he could stop him.
+Peter saw the duffel bag overflowing with cash.
 
-One web.
+The robber kept running.
 
-One tackle.
+Within seconds, he disappeared into the night.
 
-Done.
-
-Instead...
-
-He stepped aside.
-
-The robber disappeared into the night.
+Peter simply kept walking, without a second thought.
 
 One of the security guards ran outside moments later.
 
@@ -5149,13 +5229,9 @@ One of the security guards ran outside moments later.
 
 Peter didn't even turn around.
 
-"...Not my problem."
-
 He kept walking.
 
----
-
-A single gunshot echoed through the night.
+After walking for a while, a single gunshot echoed through the night.
 
 Peter stopped.
 
@@ -5167,7 +5243,7 @@ People began running toward the next street.
 
 Peter frowned.
 
-"...What now?"
+The screams sounded closer than before.
 
 He followed.
 
@@ -5205,7 +5281,7 @@ Ben Parker.
 
 Lying motionless on the pavement.
 
-Blood losing a lot from his chest.
+Blood spread across his shirt.
 
 "...No."
 
@@ -5369,7 +5445,7 @@ Jumped.
 
 His hands caught the wall.
 
-He climbed without hesitation.
+He sprinted on it without hesitation.
 
 Disappearing into the night.
 
@@ -5389,7 +5465,7 @@ With a reason.
 
 Sirens echoed through Queens.
 
-Blue and red lights flashed across rain-soaked streets.
+Blue and red lights flashed across the streets.
 
 Benjamin Parker's pickup truck tore through an intersection, its tires screeching as the driver desperately tried to outrun the police.
 
@@ -5403,7 +5479,7 @@ Benjamin Parker's pickup truck tore through an intersection, its tires screechin
 
 High above the streets—
 
-Spider-Man ran.
+Peter ran.
 
 Not on the road.
 
@@ -5415,7 +5491,7 @@ Every web pulled him closer.
 
 His breathing remained uneven beneath the mask.
 
-He wasn't chasing a criminal anymore.
+He wasn't chasing just any criminal anymore.
 
 He was chasing the man who had taken Ben.
 
@@ -5425,15 +5501,15 @@ People scattered.
 
 A mother pulled her child away from the curb just in time.
 
-Spider-Man fired another web.
+Peter fired another web.
 
-THWIP.
+_THWIP._
 
 He swung ahead of the truck.
 
 Then—
 
-BANG!
+_BANG!_
 
 The front tire exploded.
 
@@ -5449,7 +5525,7 @@ Straight toward a fire hydrant standing beside a crowded sidewalk.
 
 "No..."
 
-Spider-Man launched himself.
+Peter launched himself.
 
 The truck slammed into him.
 
@@ -5485,7 +5561,7 @@ Peter's arms trembled from the effort.
 
 The driver's door burst open.
 
-Spider-Man ripped it completely off its hinges.
+Peter ripped it completely off its hinges.
 
 The thief stumbled onto the pavement.
 
@@ -5551,19 +5627,19 @@ Every nerve fired at once.
 
 Without thinking—
 
-THWIP!
+_THWIP!_
 
 A web struck the robber's wrist.
 
 The gun fired wildly into the air.
 
-BANG!
+_BANG!_
 
 Officers instinctively ducked for cover.
 
 The robber screamed as the web pinned his arm against the truck.
 
-Spider-Man reacted before anyone else recovered.
+Peter reacted before anyone else recovered.
 
 One web.
 
@@ -5917,7 +5993,7 @@ With one violent motion—
 
 He threw it across the room.
 
-CRASH.
+_CRASH!_
 
 Plastic shattered against the wall.
 
@@ -6093,7 +6169,7 @@ Peter opened his mouth.
 
 She continued.
 
-"Benjamin Parker knew you better than anyone."
+"Ben knew you better than anyone."
 
 "He knew exactly how old you were."
 
@@ -6149,7 +6225,7 @@ May gently lifted his chin.
 
 "You don't honor Ben by punishing yourself."
 
-"You honor him by becoming the man he already believed you could be."
+"You honor him by becoming the man he already believed you will be."
 
 Silence settled between them.
 
@@ -6225,8 +6301,6 @@ Near the bottom...
 
 The worn Captain America card.
 
-Its corners had faded even more with age.
-
 Peter smiled faintly.
 
 He remembered Ben's voice.
@@ -6263,8 +6337,6 @@ Peter still woke early for school.
 
 Still finished homework.
 
-Still won Science Olympiad competitions.
-
 Still walked home with Mary Jane and Harry whenever he could.
 
 Some things had changed.
@@ -6273,51 +6345,15 @@ Some things never would.
 
 ---
 
-One evening, Peter sat across from May at the kitchen table.
+For the past few months, Peter had also been volunteering at the Queens Community Foundation.
 
-"I've been thinking."
+Not for the money.
 
-May looked up from her coffee.
+He simply needed something to keep moving forward.
 
-"That's usually how your projects begin."
+The foundation became another classroom for him.
 
-Peter smiled faintly.
-
-"I want to volunteer."
-
-"At the Queens Community Foundation."
-
-May looked surprised.
-
-"They need help repairing equipment."
-
-"They can't really pay much."
-
-"I'm not doing it for money."
-
-Peter looked down.
-
-"I just..."
-
-"I need something to keep my mind busy."
-
-May understood immediately.
-
-She reached across the table and gently squeezed his hand.
-
-"I think Uncle Ben would've been proud."
-
-Peter smiled quietly.
-
-"So do I."
-
----
-
-The foundation became more than volunteer work.
-
-It became another classroom.
-
-Peter repaired broken electronics.
+He repaired broken electronics.
 
 Learned threading.
 
@@ -6521,35 +6557,63 @@ An elderly couple remained trapped behind a fallen beam.
 
 "I've got you."
 
-The man looked at the masked teenager.
+Spider-Man planted both hands beneath the beam.
+
+The wood groaned.
+
+Then slowly lifted.
+
+"Can you stand?"
+
+The old man nodded weakly.
+
+He helped his wife to her feet.
+
+Spider-Man kept the beam raised until both of them cleared it.
+
+"This way."
+
+He guided them through the smoke.
+
+One hand steadied the elderly woman whenever she stumbled.
+
+The other helped the old man over the broken floor.
+
+The shattered second-floor window came into view.
+
+Firefighters immediately spotted them.
+
+"We've got them!"
+
+Spider-Man helped the couple climb through the opening onto the rescue ladder outside.
+
+Firefighters took over from there.
+
+The old man looked back at the masked teenager.
 
 "...Spider-Man?"
 
-Peter smiled.
+Peter smiled beneath the mask.
 
 "...Yeah."
 
 "I guess so."
 
-He lifted the beam with both hands.
-
-Escorted them outside.
-
-Firefighters immediately took over.
-
-One of them looked toward the masked teenager.
+One firefighter looked at him.
 
 "You just saved their lives."
 
-Peter nodded awkwardly.
+Peter rubbed the back of his neck awkwardly.
 
 "...Happy to help."
 
-Then he was already gone.
+Before anyone could say another word—
+
+He disappeared back through the smoke.
 
 ---
 
-Only two blocks later—
+Two blocks later, after the fire rescue,—
 
 Construction workers shouted frantically.
 
@@ -6599,7 +6663,7 @@ A masked figure smiled down at them.
 
 The younger child nodded.
 
-"...Mister Spider-Man?"
+"...Yes, Mister Spider-Man?"
 
 Peter carefully lowered the bathtub onto the street.
 
@@ -6651,7 +6715,7 @@ Peter gave a small wave.
 
 Then fired another web.
 
-THWIP.
+_THWIP._
 
 He disappeared into the skyline.
 
@@ -6661,7 +6725,7 @@ Across the street—
 
 Flash Thompson stood outside a convenience store with two classmates.
 
-All three watched Spider-Man swing away between the buildings.
+All three watched Spider-Man swing away between the buildings after he saved the kids.
 
 One of Flash's friends laughed.
 
@@ -6705,9 +6769,9 @@ Peter no longer swung through New York to escape his grief.
 
 He swung toward the future.
 
-The same city that had taken everything from him...
+The same city that had taken so much from him...
 
-Would become the city he spent the rest of his life protecting.
+Would become the city he would spend the rest of his life protecting.
 
 **The End.**
 
