@@ -2535,7 +2535,9 @@ Peter rubbed the sore spot.
 
 Peter shrugged.
 
-Gwen looking at the bite mark, "Wonder what would it be."
+Gwen looking at the bite mark.
+
+"Wonder what bit you."
 
 The instructor called everyone together.
 
@@ -3349,7 +3351,7 @@ Mary Jane smiled knowingly.
 
 ---
 
-Science Olympiad met after the school.
+Science Olympiad met after school.
 
 Gwen already had notebooks spread across the floor outside the basket ball court.
 
@@ -6635,7 +6637,7 @@ One web.
 
 Another.
 
-He landed beneath the falling bathtub.
+He landed beneath the descending bathtub.
 
 Both hands reached upward.
 
