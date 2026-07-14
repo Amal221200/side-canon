@@ -881,7 +881,11 @@ Hank allowed himself a faint smile.
 
 "I prepared for a situation I hoped would never come."
 
-Charles, "I will contact the US Navy to deploy submarine that can carry children."
+Charles nodded.
+
+"I'll contact the U.S. Navy."
+
+"Once the children are secure, we'll need a submarine capable of bringing them home."
 
 Scott nodded.
 
