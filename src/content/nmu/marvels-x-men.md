@@ -163,7 +163,7 @@ The system is not.
 
 ---
 
-## Chapter 2
+## Chapter 2: Declaration
 
 Back at Xavier's mansion, the lights are off.
 
@@ -173,11 +173,11 @@ He scoffs quietly, takes a pull from the bottle.
 
 "Figures," he mutters into the dark. Scott's idea. Scott's plan. Scott gets the win, the press, the clean ending, while Logan plays babysitter with evidence everyone suddenly trusts because it worked.
 
-His jaw tightens.
+Suddenly, his jaw tightened.
 
 Then his nose wrinkles.
 
-Logan sits up.
+Logan sat up.
 
 Something's wrong.
 
@@ -185,13 +185,37 @@ Not loud. Not obvious. Just... off. A wrongness in the air. Too many unfamiliar 
 
 He swings his legs off the bed just as hundreds of boots cross the perimeter of the property, unheard, unseen, moving with military precision.
 
+Meanwhile inside the dorms, Betsy woke up. She saw Illyana watching from the window outside.
+
+Betsy reached towards her.
+
+"You felt it?"
+
+Illyana replied, "Yes."
+
+"Let's go and alert Professor."
+
+"Why, we can handle them."
+
+"If we reveal ourselves, they’ll stop seeing this as an attack on children and start calling it a battle. We don’t give them that."
+
+Illyana looked toward his brother and everyone else.
+
+Betsy understood the worry, "Don't worry. We won't let them take anyone. Logan and Ranklin will buy us some time."
+
+Illyana nodded.
+
+They both went somewhere dark, Illyana opened the limbo and they both vanished.
+
+---
+
 Stryker's men flow into the grounds like a shadow.
 
-They breach the school building silently. No alarms. No broken doors. Surgical teams peel toward the dormitories; weapons already loaded, not bullets, not blades.
+They breached the school building silently. No alarms. No broken doors. Surgical teams peeled toward the dormitories; weapons already loaded, not bullets, not blades.
 
 Tranquilizers.
 
-Inside the school, doors open soundlessly. Children sleep. Needles hiss. One by one, young mutants drift deeper into unconsciousness, unaware they are being chosen.
+Inside the school, doors opened soundlessly. Children sleeping, needle hiss, one by one, young mutants drift deeper into unconsciousness, unaware they are being chosen.
 
 Logan's heartbeat slows.
 
@@ -215,7 +239,7 @@ Logan stands there in the floodlights, beer bottle dangling loosely from his fin
 
 The man on the phone doesn't even finish his sentence.
 
-Logan's voice cuts through the night like a blade through bone.
+Logan's voice cut through the night like a blade through bone.
 
 "You forgettin' somebody, bub?"
 
@@ -225,19 +249,19 @@ Silence.
 
 Then the claws snap out, three steel promises per hand, gleaming beneath the parking lights.
 
-The first gunman turns.
+The first gunman turned.
 
 Too slow.
 
-Logan crosses the distance in a heartbeat, slamming him into the side of the van hard enough to dent the metal. A tranquilizer rifle fires point-blank.
+Logan crossed the distance in a heartbeat, slamming him into the side of the van hard enough to dent the metal. A tranquilizer rifle fired point-blank.
 
-Mimic moves.
+Mimic moved.
 
-He moves like Logan now. Same posture. Same feral speed. He catches the shooter's wrist, twists sharply, and drives an elbow into the man's throat. The dart fires harmlessly into the sky as the body crumples.
+He moved like Logan now. Same posture. Same feral speed. He caught the shooter's wrist, twisted sharply, and drove an elbow into the man's throat. The dart fired harmlessly into the sky as the body crumpled.
 
 "Van stays clean," Logan growls. "Got it?"
 
-Mimic nods. No fear. Just focus.
+Mimic nodded. No fear. Just focus.
 
 Then all hell breaks loose.
 
@@ -245,17 +269,17 @@ Stryker's men open fire.
 
 Mimic steps forward instinctively. His skin hardens, turning metallic as Colossus's power floods through him. Bullets and darts ricochet uselessly off his frame as he plants himself between Logan and the van.
 
-When the firing pauses, Mimic slams his hands into the ground.
+When the firing pauses, Mimic slammed his hands into the ground.
 
 Ice surges outward, Bobby Drake's power answering the proximity of the children inside the van. A solid barrier forms around it, thick and jagged, sealing it off from harm.
 
-Logan doesn't wait.
+Logan didn't wait.
 
-He vaults over Mimic's shoulder and charges straight into the line.
+He vaulted over Mimic's shoulder and charges straight into the line.
 
-He rips a rifle in half, using the broken stock to knock one man unconscious before the claws take over.
+He ripped a rifle in half, using the broken stock to knock one man unconscious before the claws take over.
 
-Metal flashes.
+Metal flashed.
 
 One slash, weapon gone.
 
@@ -263,23 +287,23 @@ Second, armor torn open.
 
 Third, concrete behind them redecorated.
 
-Mimic moves opposite him now, mirroring Logan's violence but adapting with precision. He borrows Logan's reflexes, then Cyclops' discipline, firing stolen weapons only to disarm, never toward the van.
+Mimic moved opposite him now, mirroring Logan's violence but adapting with precision. He borrowed Logan's reflexes, then Cyclops' discipline, firing stolen weapons only to disarm, never toward the van.
 
-A man rushes the ice barrier, striking it with a baton.
+A man rushed the ice barrier, striking it with a baton.
 
-Mimic tackles him mid-swing, rolling clear just as Logan lands beside them, claws embedding into the concrete inches from the van's tires.
+Mimic tackled him mid-swing, rolling clear just as Logan landed beside them, claws embedding into the concrete inches from the van's tires.
 
 "Eyes up!" Logan snaps.
 
 Floodlights blaze to life.
 
-More men pour in. Better gear. Smarter formation.
+More men poured in from the air. Better gear. Smarter formation.
 
 Logan grins.
 
 "Good," he mutters. "I was gettin' bored."
 
-A squad rushes from the entrance, fifteen soldiers, stun batons crackling as they close in.
+A squad rushed from the entrance, fifteen soldiers, stun batons crackling as they close in.
 
 Then-
 
@@ -293,11 +317,13 @@ It doesn't need to be.
 
 Everything stops.
 
-Logan freezes mid-step. Mimic locks in place. The soldiers stiffen like mannequins, fingers twitching but unable to move.
+Logan froze mid-step. Mimic locked in place. The soldiers stiffened like mannequins, fingers twitching but unable to move.
 
 Behind them, the mansion doors stand open. Warm light spills onto the lawn.
 
-Charles Xavier sits in his wheelchair at the threshold, hands resting calmly on the armrests. His eyes are focused. He isn't angry, he is devastated.
+Charles Xavier appeared on his wheelchair at the threshold, one hand on his temple, the other resting calmly on the armrest. His eyes are focused. He isn't angry, he is devastated.
+
+Betsy Braddock and Illyana Rasputin appeared alongside Charles.
 
 Logan exhales through his nose. His claws tremble.
 
@@ -305,9 +331,9 @@ Logan exhales through his nose. His claws tremble.
 
 "I know, I felt it the moment you did."
 
-One soldier screams as pressure spikes inside his skull, Charles clamps down reflexively, not to punish, but to stop. The man collapses instantly, unconscious, spared what Logan was seconds away from doing.
+One soldier screams as pressure spikes inside his skull, Charles clamped down reflexively, not to punish, but to stop. The men collapsed instantly, unconscious, spared what Logan was seconds away from doing.
 
-Silence returns.
+Silence returned.
 
 Logan turns, eyes burning.
 
@@ -317,11 +343,11 @@ Charles meets his gaze without flinching.
 
 "And you always make sure there's something left for me to save."
 
-Logan retracts his claws.
+Logan retracted his claws.
 
-Metal slides home.
+Metals sliding home.
 
-He turns away, jaw tight, knuckles white. Mimic watches quietly, shaken, not by the violence, but by the restraint.
+He turned away, jaw tight, knuckles white. Mimic watched quietly, shaken, not by the violence, but by the restraint.
 
 Charles wheels forward, surveying the damage: the torn earth, the shattered lights, the ice barrier protecting the van.
 
@@ -339,7 +365,11 @@ Safe.
 
 His shoulders sag, just slightly.
 
-"This was not a raid," Charles says. "It was a declaration."
+Charles moved away as Mimic brought down the ice barrier.
+
+Betsy and Illyana helped Mimic to carry the kids to their rooms.
+
+Charles came near Logan and said, "This was not a raid, it was a declaration."
 
 Logan finally looks at him.
 
@@ -347,7 +377,7 @@ Logan finally looks at him.
 
 Charles turns his gaze back to the mansion, to what it was, and what it has just endured.
 
-"I fear," he says quietly, "that it hasn't been just a school for some time now."
+"I fear," he says quietly, "that it hasn't been just a school from now on."
 
 Police lights wash over the grounds in red and blue.
 
@@ -359,67 +389,173 @@ Charles doesn't argue.
 
 He knows Logan is right.
 
-Morning light spills into the common room, thin and gray.
+---
 
-The television hums softly.
+Morning light spilled into the common room, thin and gray.
 
-"-last night, a coordinated strike by the X-Men resulted in the arrest of known crime figure Silvio Moretti. Authorities confirm-"
+The television hummed softly.
 
-Cyclops stands near the window, arms folded, wearing his normal glasses. Jean sits on the edge of the table, exhaustion still clinging to her. Storm watches the screen in silence, arms crossed. Rogue leans against the counter, helmet tossed aside. Nightcrawler perches near the staircase, tail wrapped loosely around his leg. Morph sprawls in a chair, pretending not to listen.
+"...last night, a coordinated strike by the X-Men resulted in the arrest of known crime figure Silvio Moretti. Authorities confirm the operation has exposed multiple criminal networks connected to the city's underworld..."
 
-Logan sits slouched on the couch, beer in hand, jaw locked.
+Cyclops stood near the window, arms folded, wearing his normal glasses.
 
-He doesn't blink. Doesn't comment. Just listens, as if daring the screen to say something that justifies everything that happened.
+Jean sat on the edge of the table, exhaustion still clinging to her.
 
-"-evidence seized may lead to further arrests-"
+Storm stood beside the television, arms crossed.
 
-Mimic leans against the doorway, arms crossed, smirking.
+Rogue leaned against the counter.
 
-"Well," he says lightly, "they get the headline. You get the clean-up."
+Nightcrawler perched near the staircase, tail wrapped loosely around his leg.
 
-A few glances shift toward Logan.
+Morph sprawled across an armchair, pretending not to listen.
 
-Logan snorts, eyes still on the screen.
+Mimic stood in the doorway.
 
-"Lucky me."
+Logan sat alone on the couch, beer in hand.
 
-Cyclops exhales through his nose, already bracing.
+"...evidence recovered by the X-Men may lead to further arrests..."
 
-Mimic tilts his head, pushing just enough to be honest.
+Scott reached for the remote and muted the television.
 
-"Maybe next time," he says, "don't just do whatever you want, huh?"
+Silence settled over the room.
 
-That gets everyone's attention.
+Scott looked around.
 
-Logan finally looks at him. His eyes are sharp. Tired. Older than the room.
+"Are the children safe?"
 
-"I saved a kid," he says flatly. "One takin' a beating so the others could sleep through it while we were busy discussin' priorities."
+Jean nodded first.
 
-The room goes quiet.
+"A few are still shaken."
 
-No one jumps in. No one deflects.
+"They're safe," Storm added quietly. "No one was taken."
 
-Jean looks down. Rogue shifts her weight. Nightcrawler's ears dip slightly.
+Charles closed his eyes for a brief moment.
 
-Charles, seated near the window, doesn't argue.
+"Good."
 
-He never does when Logan is right.
+Logan took another drink.
 
-"That is true," Charles says calmly. "And I won't pretend otherwise."
+Scott finally looked toward him.
 
-Logan exhales and turns back toward the screen, the fight leaving him all at once.
+"What happened a few weeks ago..."
 
-Charles continues, his voice thoughtful now meant for all of them.
+Logan didn't answer.
 
-"If we truly want acceptance... then we must stop living as though we're still hiding from torch bearing mobs. Mutant-kind does not live in the dark ages anymore."
+Scott continued.
 
-Storm's gaze tightens. Cyclops listens carefully.
+"You made that decision on your own."
 
-"And yet," Charles adds more quietly, "we continue to separate them. From the world. From one another. Not out of fear but habit."
+"And kids are alive because of it."
 
-A faint sound drifts in through the open windows.
+Logan's eyes remained fixed on the blank television.
 
-Shouting.
+Scott nodded once.
+
+"I know."
+
+"But after that..."
+
+"...everything changed."
+
+He gestured toward the muted news report.
+
+"Hammerhead."
+
+"Moretti."
+
+"We are not just cleaning up your decision."
+
+"We are trying to stay ahead of everything your decision set in motion."
+
+Mimic folded his arms.
+
+"Maybe next time," he said, "don't just do whatever you want."
+
+The room fell still.
+
+Logan slowly looked up.
+
+His expression wasn't angry.
+
+Just tired.
+
+"I saved a kid."
+
+His voice stayed low.
+
+"While the rest of you would have spent time discussin' priorities."
+
+Scott met his eyes.
+
+"It was never about priorities."
+
+"It was about making sure none of us had to stand alone."
+
+"And most importantly, it was about making sure we don’t jeopardize everything we’ve spent years building... so people can trust us."
+
+Neither man looked away.
+
+Neither one truly disagreed.
+
+They had simply reached the same destination by different roads.
+
+Silence settled over the room. No one felt qualified to step between them.
+
+Jean lowered her eyes.
+
+Nightcrawler's ears dipped.
+
+Rogue shifted uncomfortably.
+
+Storm remained silent.
+
+Morph leaned back in his chair, saying nothing.
+
+Some arguments weren’t meant to be won.
+
+Mimic looked between Scott and Logan.
+
+He had seen battles before.
+
+Some were fought with fists.
+
+Others with conviction.
+
+Charles finally broke the silence.
+
+"Both of you are right."
+
+Every eye turned toward him.
+
+"What Logan did saved lives."
+
+He looked toward Scott.
+
+"And what Scott is trying to protect is everything that allows us to keep saving lives."
+
+Charles folded his hands together.
+
+"If we truly seek acceptance..."
+
+"...then we cannot continue living as though we were still hiding from torch-bearing mobs."
+
+Storm listened carefully.
+
+Cyclops remained still.
+
+Charles' voice grew quieter.
+
+"And yet..."
+
+"...we continue separating ourselves from the world."
+
+"Not because we fear it."
+
+"But because we've grown accustomed to it."
+
+A faint sound drifted through the open windows.
+
+Voices.
 
 Not angry.
 
@@ -427,19 +563,19 @@ Not violent.
 
 Panicked.
 
-Jean stiffens first.
+Jean stiffened first.
 
-Logan is already on his feet.
+Logan was already on his feet.
 
-They move together, Logan, Charles, and the rest of the team following without a word.
+The rest followed without another word.
 
-The front lawn is filled.
+---
 
-Parents.
+The front lawn is filled with parents.
 
 Dozens of them.
 
-Some clutch photographs. Some grip their phones like lifelines. Others stand frozen, barely holding themselves together. Fear hangs in the air heavier than any fog Storm could ever summon.
+Some clutching photographs, some grip their phones like lifelines, some stand frozen, barely holding themselves together. Fear hangs in the air heavier than any fog Storm could ever summon.
 
 A woman steps forward, eyes red, voice shaking.
 
@@ -459,27 +595,25 @@ Charles listens.
 
 Every word. Every thought beneath them.
 
-Then it hits him.
+Then it hit him.
 
 All at once.
 
 He swallows.
 
-"One thing," a parent says, almost whispering now. "They all had one thing in common."
+They all had one thing in common.
 
 Charles closes his eyes.
 
-"They're gifted."
+**They're gifted.**
 
-The word lands like a verdict.
-
-No one moves.
+No one moved.
 
 Logan's claws don't come out.
 
-They don't need to.
+They didn't need to.
 
-Around them, the team understands at the same time.
+Around them, the team understood at the same time.
 
 Somewhere far away, someone didn't just attack a school.
 
