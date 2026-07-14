@@ -621,15 +621,15 @@ They declared open season.
 
 ---
 
-## Chapter 3
+## Chapter 3: Revelation
 
-The Cerebro chamber hums softly, a low mechanical breath filling the space.
+The Cerebro chamber hummed softly, a low mechanical breath filled the space.
 
-Charles sits at the center, hands resting lightly on the armrests, the helmet already in place. The room is dim, bathed in cold blue light and red lights which represent mutants. Hank stands near the console; eyes moving across the readouts faster than any human could follow.
+Charles sat at the center, hands resting lightly on the armrests, the helmet already in place. The room is dim, bathed in cold blue light and red lights. Hank stood near the console; eyes moving across the readouts faster than any human could follow.
 
-The X-Men watch in silence.
+The X-Men watched in silence.
 
-The projections flicker to life.
+The projections flickered to life.
 
 Dots appear.
 
@@ -643,235 +643,287 @@ They cannot be found.
 
 But the number alone is shocking.
 
-Jean's breath catches.
+Jean's breath caught.
 
-Storm straightens, her expression tightening.
+Storm straightened, her expression tightened.
 
-Rogue folds her arms, suddenly aware of how quiet the room has become.
+Rogue folded her arms, suddenly aware of how quiet the room has become.
 
 "These are children," Hank says at last, his voice steady but strained. "52 of them precise. Ages line up almost exactly with our students."
 
-Cyclops steps closer to the display.
+Scott stepped closer to the display.
 
 "Except they failed to take ours."
 
 "Yes," Charles says softly. "But they were not counting solely on us."
 
-More data scrolls past cities, rural towns, suburban neighborhoods. Places where mutant acceptance had only just begun to feel real.
+More data scrolled past cities, rural towns, suburban neighborhoods. Places where mutant acceptance had only just begun to feel real.
 
-Nightcrawler swallows.
+Nightcrawler swallowed.
 
 "They have been vanished...."
 
-Hank nods grimly.
+Hank nodded grimly.
 
 "Clean removals. No psychic residue. No panic spikes. Whoever did this planned for Cerebro."
 
-The implication lands hard.
+The implication landed hard.
 
-"They knew you would look," Jean says quietly.
+"They knew you would look," Jean said quietly.
 
-"Yes," Charles replies. "And they wanted me to understand how little I could do."
+"Yes," Charles replied. "And they wanted me to understand how little I could do."
 
-Logan shifts near the back of the room, arms crossed.
+Logan shifted near the back of the room, arms crossed.
 
 "Stryker."
 
-Storm steps forward, eyes sharp.
+Storm stepped forward, eyes sharp.
 
 "This is not fear," she says. "This is preparation."
 
-Charles lowers his head slightly.
+Charles lowered his head slightly.
 
-"They are building something," he says. "And these children are not prisoners."
+"They are building something," he said. "And these children are not prisoners."
 
 A pause.
 
 "They are components."
 
-No one speaks.
+No one spoke.
 
-Then Cyclops straightens.
+Then Cyclops straightened.
 
-"Okay," he says. "So we don't charge in blind. We figure out where they went, how they were moved, and who made it invisible."
+"Okay," he said. "So we don't charge in blind. We figure out where they went, how they were moved, and who made it invisible."
 
 He looks around the room.
 
 "Let's break it down."
 
+---
+
 ### Strategy
 
-Hank freezes the projection with a sharp tap of the console.
+Hank froze the projection with a sharp tap of the console.
 
-"First problem," he says. "Cerebro can detect mutants, but it can't isolate them if their signatures are fractured and redistributed. Whatever facility they're in is insulated. Heavily. Deliberately."
+"First problem," he said. "Cerebro can detect mutants, but it can't isolate them if their signatures are fractured and redistributed. Whatever facility they're in is insulated. Heavily. Deliberately."
 
-"So we don't look for the kids," Logan says from the back of the room. "We look for the hole."
+"So we don't look for the kids," Logan said from the back of the room. "We look for the hole."
 
-Hank's eyes light up.
+Hank's eyes lit up.
 
 "That's correct,"
 
-He pulls up a new tab.
+He pulled up a new tab.
 
-"Run a localized diagnostic," Hank says quickly, already moving. "Near coastal infrastructure. Power-dense zones. Anywhere civilian systems shouldn't overlap this cleanly.
+"Run a localized diagnostic," Hank said quickly, already moving. "Near coastal infrastructure. Power-dense zones. Anywhere civilian systems shouldn't overlap this cleanly.
 
-The room fills with cascading data, power grids, sonar interference, electromagnetic anomalies.
+The room filled with cascading data, power grids, sonar interference, electromagnetic anomalies.
 
-Lines blur.
+Lines blured.
 
 Then,
 
-One space stays wrong.
+One space stayed wrong.
 
 A blank pocket just off the eastern seaboard. Not dark. Not noisy.
 
 Silent.
 
-Jean frowns.
+Jean frowned.
 
-"That's not absence," she says. "That's suppression."
+"That's not absence," she said. "That's suppression."
 
-Storm leans in.
+Storm leaned in.
 
 "And it's contained."
 
-Hank magnifies the area.
+Hank magnified the area.
 
-"Psychic dampening layered with magnetic interference," he says slowly. "Same principle as Magneto's helmet, scaled up. Anchored to something underground."
+"Psychic dampening layered with magnetic interference," he said slowly. "Same principle as Magneto's helmet, scaled up. Anchored to something underground."
 
-Nightcrawler's tail coils.
+Nightcrawler's tail coiled.
 
-"Something built to stay hidden," he murmurs.
+"Something built to stay hidden," he murmured.
 
-Charles closes his eyes, feeling the edge of the silence, not the children, but the wall around them.
+Charles closed his eyes, feeling the edge of the silence, not the children, but the wall around them.
 
-"That," he says softly, "is where they are."
+"That," he said softly, "is where they are."
 
-### **The Plan Shifts**
+---
 
-Cyclops straightens immediately.
+### The Plan Shifts
 
-"Okay," he says. "That's our target. Now we talk extraction."
+Scott straightened immediately.
 
-Hank pulls up schematics, naval infrastructure, submarine access routes, pressure-lock chambers.
+"Okay," he said. "That's our target. Now we talk extraction."
 
-"They didn't move the children by air," he says. "Too traceable. They used electric military transports, then cargo transfer at the docks."
+Hank pulled up transportation maps, highway networks, shipping manifests, naval facilities, and satellite imagery.
 
-Logan nods.
+"They didn't move the children together," he said. "That would've been too obvious."
 
-"And from there, sub."
+Lines spread across the display, branching from dozens of towns and cities.
 
-Storm's eyes harden.
+"They were divided into small groups. Civilian vehicles. Different routes."
 
-"Which means the facility is accessed from below sea level."
+Scott studied the map.
 
-"Exactly," Hank says. "No surface entry. No visible footprint."
+"So nobody would notice a pattern."
 
-Rogue crosses her arms.
+Hank nodded.
 
-"So how do _we_ get in?"
+"Exactly."
 
-Morph grins faintly.
+"The convoy never existed."
+
+"Only ordinary traffic."
+
+Logan folded his arms.
+
+"Break the trail."
+
+"Yes," Hank replied. "But every trail has to end somewhere."
+
+The display shifted.
+
+Dozens of routes slowly converged toward the eastern coastline.
+
+Ports.
+
+Military docks.
+
+Restricted shipping zones.
+
+Storm's eyes narrowed.
+
+"They all lead to the sea."
+
+"They have to," Hank said. "An underwater facility can't receive aircraft. Every child eventually had to pass through a maritime transfer point."
+
+Logan nodded once.
+
+"And from there..."
+
+"...sub."
+
+Hank highlighted several naval facilities.
+
+"Electric transports reduce thermal signatures. Cargo transfers happen inside secured dockyards. From there, submersibles complete the journey beneath the surface."
+
+Storm's expression hardened.
+
+"So the facility is accessed from below sea level."
+
+"Exactly," Hank said. "No surface entrance. No visible footprint."
+
+Rogue crossed her arms.
+
+"So how do *we* get in?"
+
+Morph grinned faintly.
 
 "Quietly."
 
-All eyes turn.
+All eyes turned.
 
-"I can get us clearance," he continues. "Dock personnel. Naval contractors. Whatever face gets us through the first door."
+"I can get us through the first layer," he said. "Dock personnel. Naval contractors. Whatever face gets us past the checkpoints."
 
-Mimic steps forward beside him.
+Mimic stepped forward beside him.
 
-"And once we're inside, I can adapt to whatever they throw at us," he says. "Pressure. Cold. Firepower."
+"And once we're inside," he said, "I can adapt to whatever they throw at us. Pressure. Cold. Firepower."
 
-Cyclops nods once.
+Cyclops nodded once.
 
 "Good."
 
-Jean adds carefully,
+Jean spoke next.
 
-"I can shield the children once we reach them. Keep them calm. Keep them quiet."
+"I'll shield the children once we reach them. Keep them calm. Keep them quiet."
 
-Storm lifts her chin.
+Storm lifted her chin.
 
-"I'll control the environment," she says. "Water currents. Visibility. Extraction window."
+"I'll control the environment. Water currents. Visibility. Our extraction window."
 
-Nightcrawler smiles thinly.
+Nightcrawler smiled faintly.
 
-"And at the right timing, I will escort as many kids as possible at a time to the submarine."
+"And when the moment comes, I'll begin moving the children to the submarine. As many as I safely can."
 
-Logan cracks his knuckles.
+Logan cracked his knuckles.
 
-"And I'll deal with anyone who thought about this."
+"And I'll deal with everyone who built this place."
 
-Charles listens to all of it.
+Charles listened to every plan before finally speaking.
 
-Then he speaks.
+"This is not a raid," he said.
 
-"This is not a raid," he says. "It is a rescue. The children come first. Always."
+"It is a rescue."
 
-Cyclops meets his gaze.
+"The children come first."
+
+"Always."
+
+Scott met his gaze.
 
 "Understood."
 
-### **The Objective**
+---
 
-Hank highlights the final schematic.
+### The Objective
 
-"We deploy the Blackbird to a low-altitude maritime corridor," he says. "From there, we use a compact submersible, quiet, short-range, to reach the facility's lower dock."
+Hank highlighted the final schematic.
 
-Storm raises an eyebrow.
+"The Blackbird will take us beneath the surface and approach the facility through its lower access channel."
 
-"You've been planning this."
+Storm raised an eyebrow.
 
-Hank allows himself a thin smile.
+"The Blackbird can handle underwater pressure?"
 
-"I plan for things I hope never happen."
+Hank allowed himself a faint smile.
+
+"I prepared for a situation I hoped would never come."
 
 Charles, "I will contact the US Navy to deploy submarine that can carry children."
 
-Cyclops nods.
+Scott nodded.
 
 "Primary objective: retrieve the children."
 
-"Secondary," Logan adds, "shut this place down."
+"Secondary," Logan added, "shut this place down."
 
-Charles's expression darkens.
+Charles's expression darkened.
 
-"And if possible," he says, "ensure it cannot be rebuilt."
+"And if possible," he said, "ensure it cannot be rebuilt."
 
 No one argues.
 
-### **Assemble**
+---
 
-The plan locks into place.
+### Assemble
+
+The plan locked into place.
 
 This time, there are no disguises.
 
 No casual clothes.
 
-The team suits up fully, standing together as one.
+The team suited up fully, standing together as one.
 
-Morph adjusts his gloves.
+Morph adjusted his gloves.
 
 "Been a while since we flew out like this."
 
-Mimic smirks.
+Mimic smirked.
 
 "Let's make it count."
 
-Outside, the Blackbird waits on the garden grounds, engines humming softly, hidden in plain sight.
+Outside, the Blackbird waited on the garden grounds, engines humming softly, hidden in plain sight.
 
 The hangar doors slide open.
 
 Cyclops steps forward.
 
-"Let's save the kids," he says.
+"Let's save the kids," he said.
 
-A beat.
-
-"To me. My X-Men."
-
-They move as one, boarding the Blackbird as it lifts smoothly into the sky, banking toward the ocean.
+They moved as one, boarding the Blackbird as it lifted smoothly into the sky, banking toward the ocean.
 
 Somewhere beneath the waves, a system waits, confident it is still unseen.
 
