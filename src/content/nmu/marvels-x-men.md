@@ -1653,23 +1653,23 @@ Someone realised the board has just changed.
 
 ---
 
-## Chapter 5
+## Chapter 5: Emergence
 
-The facility doesn't scream when MADS destabilizes.
+The facility didn't scream when MADS destabilized.
 
-It listens.
+It listened.
 
-Lights dim, not out, just uncertain. Systems hesitate, recalculating priorities that no longer agree with one another. Doors pause half a second longer before responding. The hum of power drops, like a breath being held too long.
+Lights dimmed, not out, just uncertain. Systems hesitated, recalculated priorities that no longer agreed with one another. Doors paused half a second longer before responding. The hum of power dropped, like a breath being held too long.
 
 ### Team Jean
 
-Jean feels it immediately.
+Jean felt it immediately.
 
 Not panic.
 
 Expectation.
 
-"This is it," she whispers. "But we wait."
+"This is it," she whispered. "But we wait."
 
 One pod at a time.
 
@@ -1677,33 +1677,31 @@ No rushing.
 
 No panic.
 
-She opens her hands slowly, palms outward, not pushing, not pulling. Just steadying the space as Nightcrawler and Mimic move in together, working the containment seals manually, carefully, like surgeons.
+She opened her hands slowly, palms outward, not pushing, not pulling. Just steadying the space as Nightcrawler and Mimic moved in together, working the containment seals manually, carefully, like surgeons.
 
-The first pod unlocks with a soft release of pressure.
+The first pod unlocked with a soft release of pressure.
 
-The child inside stirs, eyes fluttering open in confusion.
+The child inside stirred, eyes fluttering open in confusion.
 
-Jean kneels instantly, voice low and warm.
+Jean kneeled instantly, voice low and warm.
 
-"It's alright," she says gently. "You're safe. We're not going anywhere."
+"It's alright," she said gently. "You're safe. We're not going anywhere."
 
-The child clings to her instinctively.
+The child clinged to her instinctively.
 
-Jean doesn't move.
+Jean didn't move.
 
-She stays.
+She stayed.
 
-Nightcrawler rises and takes position near the corridor, posture coiled and alert. No teleporting. Not yet. His eyes stay on the long sightline, measuring distance, counting seconds.
+Nightcrawler rose and took position near the corridor, posture coiled and alert. No teleporting. Not yet. His eyes stayed on the long sightline, measuring distance, counting seconds.
 
-Mimic steps forward beside him, body subtly shifting, muscle density adjusting, balance recalibrating, senses heightening to match the tightening space. He doesn't draw attention.
+Mimic stepped forward beside him, he used Jean's telepathic abilities to sense nearby disturbance, for any attention. He didn't drew any attention.
 
-He absorbs it.
+More pods opened. Quiet hands. Soft voices. Small movements.
 
-More pods open. Quiet hands. Soft voices. Small movements.
+Jean remained at the center of the group, anchoring them, keeping fear contained, keeping powers dormant, keeping the room from tipping into chaos.
 
-Jean remains at the center of the group, anchoring them, keeping fear contained, keeping powers dormant, keeping the room from tipping into chaos.
-
-Her comm crackles softly.
+Her comm crackled softly.
 
 No voices yet.
 
@@ -1717,63 +1715,65 @@ Holding soldiers.
 
 Closing in on Stryker and Trask.
 
-Jean looks at the children, fifty-two lives pressed into a moment that refuses to hurry.
+Jean looked at the children, fifty-two lives pressed into a moment that refuses to hurry.
 
-"We're going to stay right here," she tells them calmly. "Just a little longer."
+"We're going to stay right here," she told them calmly. "Just a little longer."
 
-Nightcrawler glances back at her.
+Nightcrawler glanced back at her.
 
-"You're sure?" he asks quietly.
+"You're sure?" he asked quietly.
 
-Jean nods.
+Jean nodded.
 
-"They need one thing to stay stable," she says. "Someone who isn't leaving."
+"They need one thing to stay stable," she said. "Someone who isn't leaving."
 
-Mimic shifts his stance, settling in.
+Mimic shifted his stance, settling in.
 
-"Then we hold the line," he says.
+"Then we hold the line," he said.
 
-Jean closes her eyes, not to reach outward, not to act, but to wait.
+Jean closed her eyes, not to reach outward, not to act, but to wait.
 
 And somewhere deeper in the facility, the board is still being cleared.
 
+---
+
 ### Team Logan
 
-The first soldier never sees Logan.
+The first soldier never saw Logan.
 
-He hears him.
+He heard him.
 
 A low growl. Too close. Too late.
 
-Logan comes out of the side corridor like a wrecking ball wrapped in restraint, shoulder-first, driving the man into the wall hard enough to rattle the lights. The rifle clatters to the floor. Logan kicks it down the hall before the second soldier can react.
+Logan came out of the side corridor like a wrecking ball wrapped in restraint, shoulder-first, driving the man into the wall hard enough to rattle the lights. The rifle clattered to the floor. Logan kicked it down the hall before the second soldier could react.
 
 "Formation!" someone shouts.
 
 Too slow.
 
-Rogue crashes into the line from the other side, sliding under a raised shield, grabbing a man by the vest and **using his own momentum** to slam him into two others. Bodies hit the floor in a heap of armor and breathless panic.
+Rogue crashed into the line from the other side, sliding under a raised shield, grabbing a man by the vest and **using his own momentum** to slam him into two others. Bodies hit the floor in a heap of armor and breathless panic.
 
-Storm steps forward, not raising her hands, not calling thunder.
+Storm stepped forward, not raising her hands, not calling thunder.
 
-She changes the room.
+She changed the room.
 
-The air thickens just enough to drag at movement. Boots lose traction. Breathing becomes work, enough to break rhythm.
+The air thickened just enough to drag at movement. Boots lose traction. Breathing becomes work, enough to break rhythm.
 
-"Advance broken," Cyclops' voice comes through the comm. "Keep them split."
+"Advance broken," Cyclops' voice came through the comm. "Keep them split."
 
-Logan grins.
+Logan grined.
 
 "Gladly."
 
-He charges again, this time **low**, sliding across the floor and taking a man's legs out from under him. Before the soldier hits the ground, Logan's fist connects, clean, precise, lights out.
+He charged again, this time **low**, sliding across the floor and taking a man's legs out from under him. Before the soldier hit the ground, Logan's fist connected, clean, precise, lights out.
 
 No claws.
 
 Not yet.
 
-The corridor fills with bodies and confusion.
+The corridor filled with bodies and confusion.
 
-Stryker hears it coming.
+Stryker heard it coming.
 
 The vibrations.
 
@@ -1781,39 +1781,39 @@ The shouting.
 
 The unmistakable sound of control slipping.
 
-"Move," he snaps, already heading for the auxiliary corridor. "Now."
+"Move," he snapped, already heading for the auxiliary corridor. "Now."
 
-Trask follows calmly, adjusting his glasses as they walk.
+Trask followed calmly, adjusting his glasses as they walk.
 
-"They're faster than expected," Trask says mildly. "Impressive discipline."
+"They're faster than expected," Trask said mildly. "Impressive discipline."
 
-"Shut up," Stryker growls. "This facility wasn't built for a fair fight."
+"Shut up," Stryker growled. "This facility wasn't built for a fair fight."
 
 "No," Trask agrees. "It was built for inevitability."
 
 Behind them, blast doors begin to cycle.
 
-Storm feels it immediately.
+Storm felt it immediately.
 
-"They're sealing sections," she says. "Trying to funnel us."
+"They're sealing sections," she said. "Trying to funnel us."
 
 Cyclops' voice is sharp now.
 
 _"Don't let them reach the command spine."_
 
-Rogue takes off at a sprint, boots hammering the floor.
+Rogue took off at a sprint, boots hammering the floor.
 
 _"I got this."_
 
-She hits the narrowing corridor at full speed, leaps, plants a foot on the closing blast door, and drives forward with everything she has.
+She hit the narrowing corridor at full speed, lept, planted a foot on the closing blast door, and drives forward with everything she had.
 
 Metal screams.
 
-The door jams half open.
+The door jammed half open.
 
-Logan doesn't hesitate.
+Logan didn't hesitate.
 
-He explodes.
+He exploded.
 
 Four strides.
 
@@ -1821,17 +1821,17 @@ No wasted motion.
 
 No buildup.
 
-Just a sudden, brutal acceleration that feels less like running and more like being fired from a cannon.
+Just a sudden, brutal acceleration that felt less like running and more like being fired from a cannon.
 
-He dives through the gap first, shoulder clipping the doorframe, rolls once, comes up already moving.
+He dived through the gap first, shoulder clipping the doorframe, rolled once, came up already moving.
 
-Storm is right behind him, breath controlled, eyes sharp. She doesn't summon wind, she redirects it. The pressure in the corridor spikes just enough to slam the pursuing soldiers backward, pinning them against the walls without breaking bones or triggering alarms.
+Storm is right behind him, breath controlled, eyes sharp. She didn't summon wind, she redirected it. The pressure in the corridor spiked just enough to slam the pursuing soldiers backward, pinning them against the walls without breaking bones or triggering alarms.
 
 "Keep moving!" Logan snaps.
 
 They do.
 
-Ahead, Trask and Stryker hear it.
+Ahead, Trask and Stryker heard it.
 
 Not footsteps.
 
@@ -1839,55 +1839,55 @@ Impact.
 
 The sound of something closing distance too fast.
 
-Trask turns first.
+Trask turned first.
 
 Ah.
 
-He smiles.
+He smiled.
 
-"William," he says calmly, "this would be the moment you should run faster."
+"William," he said calmly, "this would be the moment you should run faster."
 
-Stryker doesn't argue.
+Stryker didn't argue.
 
-He bolts.
+He bolted.
 
 Wrong move.
 
-Logan hits the corner at speed, plants one hand against the wall, and pivots, using the momentum to sling himself down the next corridor like a missile.
+Logan hit the corner at speed, planted one hand against the wall, and pivoted, using the momentum to sling himself down the next corridor like a missile.
 
-Trask barely has time to register it.
+Trask barely had time to register it.
 
-Logan clips him on the way past, a brutal shoulder, check that sends Trask spinning into the wall, glasses shattering, breath knocked clean out of him.
+Logan clipped him on the way past, a brutal shoulder, check that sent Trask spinning into the wall, glasses shattering, breath knocked clean out of him.
 
-Logan doesn't stop.
+Logan didn't stop.
 
-He doesn't even look back.
+He didn't even look back.
 
-Stryker raises his weapon.
+Stryker raised his weapon.
 
 Too slow.
 
-Logan slams into him from the side like a freight train before he can take a shot.
+Logan slammed into him from the side like a freight train before he could take a shot.
 
-They crash into a console. Glass explodes. Sparks rain down.
+They crashed into a console. Glass exploded. Sparks rained down.
 
-The fight leaves him all at once.
+The fight left him all at once.
 
-Stryker drops to his knees, gasping, arms trembling, suddenly aware of how heavy his own body is.
+Stryker dropped to his knees, gasping, arms trembling, suddenly aware of how heavy his own body is.
 
-Logan straightens.
+Logan straightened.
 
 His claws slide out with a familiar-
 
 _Snikt!_
 
-The sound echoes.
+The sound echoed.
 
 Too loud.
 
 Too final.
 
-He freezes.
+Stryker freezed.
 
 Cyclops' voice cuts through the chaos, iron calm.
 
@@ -1895,147 +1895,145 @@ Cyclops' voice cuts through the chaos, iron calm.
 
 A beat.
 
-Logan's jaw tightens.
+Logan's jaw tightened.
 
-He exhales sharply and retracts the claws.
+He exhales sharply and retracted the claws.
 
-Metal slides home.
+Metal slide home.
 
-"Yeah," he mutters. "Fine."
+"Yeah," he muttered. "Fine."
 
 Behind them, Trask groans, trying to push himself upright.
 
 Storm is there instantly, pinning him with a precise surge of pressure that drops him back against the wall, lungs burning but intact.
 
+---
+
 ### Team Cyclops
 
-The first warning isn't an alarm.
+The first warning wasn't an alarm.
 
-It's a shift.
+It was a shift.
 
-Cyclops feels it before he hears it, the subtle change in footfall cadence, the echo of boots moving _with purpose_. He raises a fist.
+Cyclops felt it before he heard it, the cadence of disciplined boots moving with purpose.
 
-Morph freezes mid-motion.
+He raised a fist.
 
-"They're coming," Cyclops says calmly. "Same route."
+Morph froze.
 
-Beast doesn't look up from the console.
+"They're coming," Scott said calmly. "Same route."
 
-"You must protect this system, or else the submarine cannot enter the facility."
+Beast never looked up from the console.
 
-"You can count on us" Cyclops replies.
+"You must protect this system. If it falls, the submarine cannot enter the facility."
 
-He lowers his visor a fraction.
+Cyclops nodded.
+
+"You can count on us."
+
+He lowered his visor slightly.
 
 "Morph."
 
-Morph's face smooths, posture straightening, not into anyone specific, but into **authority**. A senior security officer. The kind people obey before they question.
+Morph straightened, becoming authority itself. Not anyone specific. Just someone who belonged.
 
-The corridor ahead fills with soldiers, six of them, shields up, rifles angled forward. They stop short when they see Morph standing alone, blocking the access point.
+Six soldiers rounded the corner.
 
-"Hold," Morph snaps. "System instability. You move another step and you compromise containment."
+Shields up.
 
-The lead soldier hesitates.
+Weapons ready.
 
-Just long enough.
+They slowed the moment they saw Morph.
 
-Cyclops fires.
+"Hold," Morph barked.
 
-Not at them.
+"Containment instability. Another step and you'll compromise the entire sector."
 
-At the ceiling.
+The lead soldier hesitated.
 
-A controlled optic blast shatters the overhead conduit, sending a cascade of sparks and debris crashing down between the teams. Smoke blooms instantly, sensors scrambling.
+Scott moved.
 
-"Now," Cyclops says.
+A narrow optic blast shattered the conduit overhead.
 
-Morph moves _through_ the smoke.
+Sparks erupted.
 
-He drops the disguise mid-stride, becoming smaller, faster, sliding under the first soldier's raised shield, hooking an ankle and twisting. The man goes down hard.
+Smoke poured into the corridor.
 
-Cyclops steps into the opening and fires again, low power, wide dispersion. The blast slams into the floor, sending a shockwave through the soldiers' legs. Two stumble. One drops.
+"Now."
 
-The remaining three regroup fast.
+Morph disappeared into it.
 
-Too fast.
+The first soldier found Scott instead.
 
-"Left!" Morph shouts.
+Scott redirected the rifle aside, drove an elbow into the man's jaw, pivoted, and threw him into the shield behind him.
 
-Cyclops pivots without looking, firing a narrow beam that clips a rifle clean in half. Morph is already there, wrenching the weapon from the soldier's hands and using it to **jam another shield open**, exposing the man behind it.
+A second lunged.
 
-Cyclops doesn't hesitate.
+Scott swept his legs cleanly from under him.
 
-One precise blast.
+A third raised his weapon.
 
-Down.
+A precise optic burst knocked the rifle from his hands.
 
-Another squad appears at the far end of the corridor.
+Nothing more.
 
-Cyclops exhales slowly.
+Morph was already there.
 
-"Stack formation," he says. "They're adapting."
+He slid beneath a shield, twisted one soldier off balance, and used him to topple another.
 
-Morph grins.
+Within seconds, the formation had collapsed.
 
-"Then we change the rules."
+One soldier tried to break past.
 
-He turns and sprints toward the soldiers-
-
--and halfway there, **becomes one of them**.
-
-Same armor. Same stance. Same panic.
-
-The real soldiers falter, confused by the sudden extra body in their formation.
-
-Cyclops exploits it instantly.
-
-He fires a ricochet shot off the wall, into the floor, up into a shield. The energy disperses sideways, knocking two soldiers into each other.
-
-Morph drops the disguise and **takes them with him**, rolling, striking pressure points, disarming with brutal efficiency.
-
-One soldier tries to break past.
-
-Cyclops steps forward, visor flaring.
+Scott stepped in front of him.
 
 "Stop."
 
-The blast hits the floor in front of the man, throwing him backward without touching him.
+The man ignored him.
 
-The corridor is suddenly full of groaning bodies and dropped weapons.
+Scott lowered his visor a fraction.
 
-Cyclops and Morph reset instantly, backs to each other, eyes up, breathing steady.
+The blast struck the floor just ahead, the reflected force launching the soldier backward into the last two men.
 
-"You good?" Cyclops asks.
+Silence returned.
 
-Morph nods.
+Six soldiers.
+
+Down.
+
+Weapons scattered across the corridor.
+
+Scott and Morph reset instinctively, back-to-back.
+
+"You good?" Scott asked.
+
+Morph smirked.
 
 "Never better."
 
-Beast straightens.
+Beast finally looked up.
 
-"Sub's moving," he says, "it is entering the facility."
+"The submarine has entered the facility."
 
-Cyclops lowers his visor fully.
+Scott nodded once.
 
 "Then we hold."
 
-Footsteps echo again.
+More footsteps echoed deeper in the corridor.
 
-More coming.
+Neither of them moved.
 
-Morph cracks his neck.
+Morph cracked his neck.
 
 "Same dance?"
 
-Cyclops allows himself the smallest smile.
+Scott allowed himself the faintest smile.
 
 "Same dance."
 
-They step forward together, measured, controlled, unstoppable, not heroes chasing glory, but soldiers **holding the line so others can live**.
+---
 
-And they don't give an inch.
-
-### Rescue
+### Rescue (Few minutes later)
 
 The last of the soldiers hit the floor at the same time.
 
@@ -2043,7 +2041,9 @@ Not from fists.
 
 Not from blasts.
 
-Jean stands at the center of the corridor, eyes glowing faintly, jaw tight. She doesn't lash out. She **presses down**, a precise, overwhelming psychic wave that collapses resistance without shattering minds.
+Jean stood at the center of the corridor, eyes glowing faintly, jaw tight, protecting the kids with her telikinetic shield.
+
+Mimic didn't lash out. He **pressed down**, a precise, overwhelming psychic wave that collapses resistance without shattering minds.
 
 Men drop where they stand.
 
@@ -2051,41 +2051,43 @@ Weapons clatter.
 
 Silence follows.
 
-Jean exhales, the glow fading.
+Mimic exhaled, the glow fading.
 
-"That's it," she says quietly. "They're down."
+"That's it," he says quietly. "They're down."
 
-Logan lowers his stance, scanning once more before relaxing his shoulders. Rogue releases Stryker, who slumps unconscious at her feet. Trask watches it all with unsettling calm.
+Logan lowered his stance, scanning once more before relaxing his shoulders. Rogue released Stryker, who slumped unconscious at her feet. Trask watched it all with unsettling calm.
 
-"Move," Cyclops orders. "Evac now."
+"Move," Cyclops ordered. "Evac now."
+
+---
 
 ### Evacuation: Outside the Facility
 
-The containment wing becomes motion.
+The containment wing became in motion.
 
-Storm guides the children forward, air steady and warm, her presence calming in ways she never learned in combat. Nightcrawler moves among them, lifting, guiding, smiling softly despite the strain.
+Storm guided the children forward, air steady and warm, her presence calming in ways she never learned in combat. Nightcrawler moved among them, lifting, guiding, smiling softly despite the strain.
 
-Jean stays at the rear, one hand outstretched, maintaining a psychic buffer, holding fear, confusion, and flickers of awakening power in check.
+Jean stayed at the rear, one hand outstretched, maintaining a psychic buffer, holding fear, confusion, and flickers of awakening power in check.
 
-"You're safe," she keeps repeating. "You're safe."
+"You're safe," she kept repeating. "You're safe."
 
-The submarine waits in the open dock, dark, solid, real.
+The submarine waited in the open dock, dark, solid, real.
 
-Beast stands at the control panel, fingers dancing.
+Beast stood at the control panel, fingers dancing.
 
-"Pressure stable. Hatch open," he calls. "You have a window."
+"Pressure stable. Hatch open," he called. "You have a window."
 
-Children board. Then more. Then all of them.
+Children boarded. Then more. Then all of them.
 
-Storm pauses at the hatch, counting again. And again.
+Storm paused at the hatch, counting again. And again.
 
-"All aboard," she says at last.
+"All aboard," she said at last.
 
-The submarine seals and begins to withdraw.
+The submarine sealed and begins to withdraw.
 
-Water surges.
+Water surged.
 
-The massive door closes behind it.
+The massive door closed behind it.
 
 The kids are gone.
 
@@ -2093,31 +2095,33 @@ Safe.
 
 For now.
 
-The Blackbird lifts cleanly from the hidden hangar moments later, engines roaring as it punches up through the surface and into open sky.
+---
+
+The Blackbird lifted cleanly from the hidden hangar moments later, engines roared as it punches up through the surface and into open sky.
 
 Inside, Stryker is restrained, unconscious.
 
-Trask sits upright, hands bound, composed as ever.
+Trask sat upright, hands bound, composed as ever.
 
-Cyclops steps toward him slowly.
+Cyclops stepped toward him slowly.
 
-"You didn't kidnap children to play with them," Scott says, voice low and furious.
+"You didn't kidnap children to play with them," Scott said, voice low and furious.
 
 "Tell me what you did to them."
 
-Trask looks up.
+Trask looked up.
 
-Smiles.
+Smiled.
 
-"Glad you asked," he says evenly.
+"Glad you asked," he said evenly.
 
 "Mission parameter: _Annihilate Mutants_."
 
-Cyclops freezes.
+Cyclops freezed.
 
 "...What?"
 
-The ground shakes.
+The ground shook.
 
 Not turbulence.
 
@@ -2125,17 +2129,17 @@ Not engines.
 
 The _earth_.
 
-Storm feels it first.
+Storm felt it first.
 
-Her breath catches.
+Her breath caught.
 
-Jean turns sharply toward the viewport.
+Jean turned sharply toward the viewport.
 
-"No," she whispers.
+"No," she whispered.
 
 Outside, the land near Westchester **splits open**.
 
-Concrete fractures. Trees snap. Soil and stone are hurled skyward as something colossal forces itself upward, metal limbs unfolding, servos screaming, a massive faceless head rising into daylight.
+Concrete fractured, trees snapped, soil and stone hurled skyward as something colossal forces itself upward, metal limbs unfolding, servos screaming, a massive faceless head rising into daylight.
 
 A **Sentinel**.
 
@@ -2143,41 +2147,41 @@ Bigger than the mansion.
 
 Bigger than anything they've ever faced.
 
-Silence fills the cabin.
+Silence filled the cabin.
 
-Rogue stares, jaw slack.
+Rogue stared, jaw slack.
 
 "Holy... hell."
 
-Nightcrawler's tail coils tight around his leg, eyes wide with something close to prayer.
+Nightcrawler's tail coiled tight around his leg, eyes wide with something close to prayer.
 
 "Gott im Himmel..."
 
-Beast's hands tremble as he grips the console, eyes racing, not with fear, but calculation already failing to keep up.
+Beast's hands trembled as he gripped the console, eyes racing, not with fear, but calculation already failing to keep up.
 
-"It wasn't in the system," he murmurs. "It wasn't _anywhere_."
+"It wasn't in the system," he whispered. "It wasn't _anywhere_."
 
-Logan steps forward, claws half, unsheathed before he even realizes it.
+Logan stepped forward, claws half, unsheathed before he even realizes it.
 
-"They built it under our feet," he growls. "Right next to our home."
+"They built it under our feet," he growled. "Right next to our home."
 
-Storm closes her eyes for a fraction of a second.
+Storm closed her eyes for a fraction of a second.
 
-Then opens them, blazing.
+Then opened them, blazing.
 
 "This is an all-out war."
 
-Jean can't look away.
+Jean couldn't look away.
 
-She feels it, not thoughts, not intent, but **absence**. A machine designed to see mutants not as people, not even as enemies-
+She felt it, not thoughts, not intent, but **absence**. A machine designed to see mutants not as people, not even as enemies-
 
 -but as errors.
 
-Trask doesn't look away from the window.
+Trask didn't look away from the window.
 
-"This isn't an ordinary Sentinel," he says calmly. "It doesn't wait for commands. It doesn't report back. It _thinks_."
+"This isn't an ordinary Sentinel," he says calmly. "It does not wait for commands. It does not report back. It _thinks_."
 
-Cyclops turns slowly.
+Cyclops turned slowly.
 
 "What did you do?"
 
@@ -2185,7 +2189,7 @@ Trask finally meets his eyes.
 
 "I removed the chain of command," he says. "No oversight. No hesitation. I used the children's DNA to perfect the algorithm; every deviation, every early marker, every imperfect awakening."
 
-Jean stiffens.
+Jean stiffened.
 
 "It can find mutants," Trask continues, almost proud, "with the slightest meta-activity. Even the ones who don't know what they are yet."
 
@@ -2193,29 +2197,29 @@ A beat.
 
 "And it's not alone."
 
-Silence crashes into the cabin.
+Silence crashed into the cabin.
 
-Cyclops steps forward, voice steady but burning.
+Cyclops stepped forward, voice steady but burning.
 
-"X-Men," he says. "Our job isn't over. What happens next defines survival, not just for mutants, but for mankind."
+"X-Men," he said. "Our job isn't over. What happens next defines survival, not just for mutants, but for mankind."
 
-Trask laughs.
+Trask laughed.
 
-It's cut short.
+It cut short.
 
-Logan's fist snaps forward, clean and brutal. Trask collapses, unconscious before he hits the floor.
+Logan's fist snapped forward, clean and brutal. Trask collapsed, unconscious before he hits the floor.
 
-Logan doesn't look down.
+Logan didn't look down.
 
-Outside, the Sentinel takes its first step.
+Outside, the Sentinel took its first step.
 
-The ground trembles.
+The ground trembled.
 
-Cyclops lowers his visor.
+Cyclops lowered his visor.
 
-"Move," he says.
+"Move," he said.
 
-The X-Men advance toward the machine, toward the future, toward a war that has just stopped hiding.
+The X-Men advanced towards the machine, towards the future, towards a war that has just stopped hiding.
 
 ---
 
