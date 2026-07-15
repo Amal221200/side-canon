@@ -935,119 +935,119 @@ It is wrong.
 
 ---
 
-## Chapter 4
+## Chapter 4: Infiltration
 
-### Lab
+### X-Mansion's Lab
 
-A chessboard floats between two projections.
+A chessboard floated between two projections.
 
 One half, lit by the cool glow of Cerebro's chamber.
 
 The other framed by shadow, steel, and distance.
 
-Charles Xavier sits at the center of the room, posture composed, fingers resting lightly on the arm of his chair. Behind him, soft telemetry scrolls across translucent screens, altitude, velocity, signal strength. The Blackbird is already en route.
+Charles Xavier sat at the center of the room, posture composed, fingers resting lightly on the arm of his chair. Behind him, soft telemetry scrolled across translucent screens, altitude, velocity, signal strength. The Blackbird is already en route.
 
-Across from him, Erik Lehnsherr studies the board, one hand loosely guiding a piece into position.
+Across from him, Erik Lehnsherr studied the board, one hand loosely guiding a piece into position.
 
-A pawn advances.
+A pawn advanced.
 
-"You only call when you're anxious," Erik says, not looking up. "You never admit it, but you always call."
+"You only call when you're anxious," Erik says, not looking up.
 
-Charles allows himself a small breath.
+Charles allowed himself a small breath.
 
-"I find it helps," he replies. "Talking to you. Playing this."
+"I find it helps," he replied. "Talking to you. Playing this."
 
-Erik's mouth curves faintly.
+Erik's mouth curved faintly.
 
 "Of all people."
 
-"And yet," Charles says, eyes flicking briefly to a shifting readout, "you always answer."
+"And yet," Charles says, eyes flicked briefly to a shifting readout, "you always answer."
 
-Another piece moves. The board updates silently.
+Another piece moved. The board updated silently.
 
-"The world's been loud," Erik says. "Even from where I am."
+"The world's been loud," Erik said. "Even from where I am."
 
-"Yes," Charles agrees. "The disappearances. The silence afterward."
+"Yes," Charles agreed. "The disappearances. The silence afterward."
 
-Erik studies the board, then glances up, just long enough to see the tension Charles keeps carefully in check.
+Erik studied the board, then glances up, just long enough to see the tension Charles kept carefully in check.
 
-"They're not hiding anymore," Erik says. "They're harvesting."
+"They're not hiding anymore," Erik said. "They're harvesting."
 
-"That was always the endgame for men like Stryker," Charles replies.
+"That was always the endgame for men like Stryker," Charles replied.
 
-A knight slides into place.
+A knight slided into place.
 
-"You've sent them in," Erik says. "Your X-Men. Into a place designed to erase them."
+"You've sent them in," Erik said. "Your X-Men. Into a place designed to erase them."
 
-"They are no longer just my students," Charles answers evenly. "They are capable. Disciplined. And united."
+"They are no longer my students," Charles answered evenly. "They are capable, disciplined, and united."
 
-The telemetry shifts, minor course correction. Charles notes it without comment.
+The telemetry shifted, minor course correction. Charles noted it without comment.
 
-"You trust them," Erik says.
+"You trust them," Erik said.
 
-"With my life," Charles replies, without hesitation. "And with theirs."
+"With my life," Charles replied, without hesitation. "And with theirs."
 
-The chessboard updates again. No pause. No drama.
+The chessboard updated again. No pause. No drama.
 
-"And if you're wrong?" Erik asks.
+"And if you're wrong?" Erik asked.
 
 Charles doesn't look away from the board.
 
-"Then I will bear that," he says quietly. "But I will not let fear decide for me."
+"Then I will bear that," he said quietly. "But I will not let fear decide for me."
 
-He makes his move, precise, restrained.
+He made his move, precise, restrained.
 
-"They will stop Stryker," Charles continues. "Not because they are stronger, but because they are better than what he believes the world is."
+"They will stop Stryker," Charles continued. "Not because they are stronger, but because they are better than what he believes the world is."
 
-Erik leans back slightly, eyes moving between the board and the faint reflections of data in Charles's lenses.
+Erik leaned back slightly, eyes moving between the board and the faint reflections of data in Charles's lenses.
 
-"You know," Erik says, "you don't call for strategy."
+"You know," Erik said, "you don't call for strategy."
 
-"No," Charles says.
+"No," Charles said.
 
-"You call so you don't rush," Erik continues. "So you stay patient while others act."
+"You call so you don't rush," Erik continued. "So you stay patient while others act."
 
-Charles meets his gaze.
+Charles met his gaze.
 
 "Yes."
 
-A moment passes.
+A moment passed.
 
-Then Erik moves again.
+Then Erik moved again.
 
-"Good," he says. "Because impatience gets people killed."
+"Good," he said. "Because impatience gets people killed."
 
-The game continues.
+The game continued.
 
-So does the flight.
+So did the flight.
 
 Far above the ocean, the Blackbird cuts silently through the clouds.
 
 Far below the surface, something vast and deliberate waits.
 
-And between moves, Charles watches, steady, focused, trusting his team to finish what has already begun.
+And between moves, Charles watched, steady, focused, trusting his team to finish what has already begun.
+
+---
 
 ### Rescue
 
 The ocean is calm.
 
-That's the lie.
-
-Beneath the surface, the Blackbird skims low over the water, engines throttled down to a whisper, before banking hard and disappearing into cloud cover. A moment later, it re-emerges, already submerged, its hull sealed, lights dimmed, moving like something that was never meant to fly.
+Beneath the surface, the Blackbird skims low over the water, engines throttled down to a whisper, before banking hard and disappearing into cloud cover. A moment later, it re-emerged, already submerging, its hull sealed, lights dimmed, moving like something that was never meant to fly.
 
 Inside, no one speaks.
 
-Cyclops watches the depth gauge tick downward in steady increments. Storm feels the pressure shift long before the instruments register it, the water outside growing heavier, denser. Logan's knuckles flex once, then still. Mimic slows his breathing, his body unconsciously adjusting, lungs, muscles, circulation, learning the environment before it demands it.
+Cyclops watched the depth gauge tick downward in steady increments. Storm felt the pressure shift long before the instruments register it, the water outside grew heavier, denser. Wolverine's knuckles flexed once, then still. Mimic slowed his breathing, his body unconsciously adjusting, lungs, muscles, circulation, learning the environment before it demanded it.
 
-Nightcrawler closes his eyes, tail curling tight.
+Nightcrawler closed his eyes, tail curling tight.
 
-Jean reaches out, not to search, not to probe, but to feel the team. Present. Focused. Holding.
+Jean reached out, not to search for the children, but to steady the minds already beside her.
 
-At the forward console, Hank studies a cascade of encrypted signals scrolling across the screen.
+At the forward console, Hank studied a cascade of encrypted signals scrolling across the screen.
 
 "One window," he says quietly. "No retries. Once I do this, the system will assume the door is already open."
 
-Cyclops nods.
+Cyclops nodded.
 
 "Do it."
 
@@ -1059,15 +1059,15 @@ Not a structure, an absence.
 
 A vast recessed cavity carved into the ocean floor, invisible unless you know exactly where to look. No lights. No markings. Just a perfectly circular void where sonar refuses to behave.
 
-Storm's eyes narrow.
+Storm's eyes narrowed.
 
 "That's not natural."
 
-"No," Hank agrees. "That's intentional."
+"No," Hank agreed. "That's intentional."
 
-The Blackbird slows, hovering just outside the perimeter.
+The Blackbird slowed, hovering just outside the perimeter.
 
-Hank's fingers move faster now, not typing, but **timing**. He syncs the Blackbird's systems with the facility's external sensors, matching frequency, latency, and error tolerance. He isn't breaking encryption.
+Hank's fingers moved faster now, not typing, but **timing**. He synced the Blackbird's systems with the facility's external sensors, matching frequency, latency, and error tolerance. He isn't breaking encryption.
 
 He's impersonating _routine_.
 
@@ -1077,49 +1077,49 @@ A warning flashes.
 
 **ROUTE CONFIRMATION PENDING**
 
-Hank introduces a micro-delay, just enough to confuse the system into a grace state.
+Hank introduced a micro-delay, just enough to confuse the system into a grace state.
 
-The facility responds exactly as it was designed to.
+The facility responded exactly as it was designed to.
 
-It assumes the door is already opening.
+It assumed the door is already opened.
 
-Far below, massive hydraulic locks disengage.
+Far below, massive hydraulic locks disengaged.
 
-The ocean itself seems to pull back as a **submerged hangar aperture** irises open, slow, controlled, precise. Water floods inward, then drains away as internal pressure stabilizes.
+The ocean itself seemed to pull back as a **submerged hangar aperture** rised open, slow, controlled, precise. Water flooded inward, then drained away as internal pressure stabilized.
 
-The Blackbird glides forward.
+The Blackbird glided forward.
 
-Metal seals against metal.
+Metal sealed against metal.
 
-The hangar closes behind them.
+The hangar closed behind them.
 
-Inside the dock, the water recedes, leaving the jet resting on a reinforced platform deep beneath the earth. Industrial lights hum to life overhead, illuminating a cavernous space, part dock, part launch bay, all deliberate.
+Inside the dock, the water receded, leaving the jet resting on a reinforced platform deep beneath the earth. Industrial lights hummed to life overhead, illuminating a cavernous space, part dock, part launch bay, all deliberate.
 
 No alarms.
 
 No voices.
 
-Just the low, constant thrum of a facility that believes nothing is wrong.
+Just the low, constant thrum of a facility that believed nothing is wrong.
 
-Hank exhales.
+Hank exhaled.
 
 "We're in," he says. "But the system logged the anomaly. It knows _something_ happened. It just doesn't know what yet."
 
-Cyclops stands.
+Cyclops stood.
 
 "Then we move before it decides to care."
 
-The rear hatch opens.
+The rear hatch opened.
 
-Cold air rushes in.
+Cold air rushed in.
 
-Beyond it, a vertical access shaft rises toward the facility proper, steel rungs, maintenance lifts, pressure doors spaced at brutal intervals. This is not an entrance meant for people.
+Beyond it, a vertical access shaft rised toward the facility proper, steel rungs, maintenance lifts, pressure doors spaced at brutal intervals. This is not an entrance meant for people.
 
 It's a boundary.
 
 "We swim the rest," Storm says, already stepping forward.
 
-Nightcrawler swallows.
+Nightcrawler swallowed.
 
 "No jumping," Hank adds quickly. "Not yet. The space is saturated with sensors."
 
@@ -1127,27 +1127,41 @@ Kurt nods.
 
 "I walk."
 
-Jean goes first, steadying herself at a position where she can safely exit the ship underwater. Rogue follows, then Mimic, then Logan.
+Jean went first, steadying herself before slipping into the water. Rogue followed, then Mimic, then Logan.
 
-Cyclops and Hank follow later, once they close the door.
+Cyclops and Hank exited last, sealing the hatch behind them.
 
-Above them, unseen; the facility waits, confident, prepared, patient.
+Above them, unseen, the facility waited.
+
+Confident.
+
+Prepared.
+
+Patient.
 
 It was built to withstand intrusion.
 
 It did not account for intention.
 
-At first, nothing happens.
+One by one, they crossed the flooded docking channel.
 
-The corridor beyond is narrow and functional. White lighting. Reinforced flooring. No insignia. No decoration. It feels less like a hallway and more like a test, designed to measure how calmly you walk through it.
+Reaching the maintenance platform, Hank cycled the pressure lock.
+
+The inner hatch opened.
+
+At first, nothing happened.
+
+The corridor beyond was narrow and functional. White lighting. Reinforced flooring. No insignia. No decoration.
+
+It felt less like a hallway and more like a test, designed to measure how calmly you walked through it.
 
 "Still green," Hank says, eyes flicking across his wrist display. "MADS hasn't tripped."
 
-"Then we don't give it a reason," Cyclops replies.
+"Then we don't give it a reason," Cyclops replied.
 
-They pause just inside the threshold.
+They paused just inside the threshold.
 
-Hank raises a hand.
+Hank raised a hand.
 
 "Before we move any farther," he says quietly, "we need to be very clear about the rules in here."
 
@@ -1155,35 +1169,35 @@ Everyone turns toward him.
 
 "This facility doesn't look for _people_," Hank continues. "It looks for deviation. Energy spikes. Spatial distortion. Psychic amplification. Anything that says _this shouldn't be happening_."
 
-Storm's jaw tightens.
+Storm's jaw tightened.
 
 "So no powers."
 
-"Not unless we want the place to wake up," Hank says. "And once it does, it won't go back to sleep."
+"Not unless we want the place to wake up," Hank said. "And once it does, it won't go back to sleep."
 
-Jean glances down at her suit.
+Jean glanced down at her suit.
 
 "These will hold?" she asks.
 
-"For now," Hank replies. "The infiltration suits are doing three things simultaneously."
+"For now," Hank replied. "The infiltration suits are doing three things simultaneously."
 
-He taps his display, bringing up a schematic.
+He tapped his display, bringing up a schematic.
 
 "First, signature suppression. Your mutant markers are being masked, redistributed into background noise. To the system, you register as baseline human."
 
-Logan snorts.
+Logan snorted.
 
 "Never thought I'd hear that."
 
-Hank allows himself a thin smile.
+Hank allowed himself a thin smile.
 
 "Second, cloaking," he continues. "Not invisibility. Just perceptual blending. Cameras see you as static. Sensors tag you as environmental variance. Personnel... simply don't _notice_ you unless they're looking directly at you."
 
-"Hidden in plain sight," Rogue murmurs.
+"Hidden in plain sight," Rogue murmured.
 
-"Exactly," Hank says. "You walk like you belong here, the system assumes you do."
+"Exactly," Hank said. "You walk like you belong here, the system assumes you do."
 
-Nightcrawler shifts uneasily.
+Nightcrawler shifted uneasily.
 
 "And the third?"
 
@@ -1193,37 +1207,37 @@ Hank doesn't soften it.
 
 Silence.
 
-"Power use spikes your signature," Hank says. "The cloak drops. Suppression fails. MADS flags you as hostile."
+"Power use spikes your signature," Hank said. "The cloak drops. Suppression fails. MADS flags you as hostile."
 
-Cyclops meets everyone's eyes, one by one.
+Cyclops met everyone's eyes, one by one.
 
 "That means no shortcuts," he says. "No hero moments. We move slow. We scout. We confirm."
 
-"And if it goes loud?" Logan asks.
+"And if it goes loud?" Logan asked.
 
-Hank exhales.
+Hank exhaled.
 
 "Then the facility seals itself, teleportation destabilizes, and every soldier in this place starts moving toward us."
 
-Storm nods slowly.
+Storm nodded slowly.
 
 "So the suits buy us time."
 
-"Yes," Hank says. "Not safety. Time."
+"Yes," Hank said. "Not safety. Time."
 
 A beat.
 
-Jean steadies her breathing.
+Jean steadied her breathing.
 
 "Then we make it count."
 
-Cyclops gestures down the corridor.
+Cyclops gestured down the corridor.
 
-"Teams," he says. "Same assignments. Same objectives."
+"Teams," he said. "Same assignments. Same objectives."
 
-They split cleanly, the cloaking fields engaging with a soft, almost imperceptible hum.
+They split cleanly, the cloaking fields engaged with a soft, almost imperceptible hum.
 
-As they move, the corridor doesn't react.
+As they move, the corridor didn't react.
 
 No alarms.
 
@@ -1231,29 +1245,29 @@ No alerts.
 
 No recognition.
 
-The facility doesn't see intruders.
+The facility didn't saw intruders.
 
-It sees nothing worth worrying about.
+It saw nothing worth worrying about.
 
 For now.
 
-The corridor branches.
+The corridor branched.
 
-Not dramatically, no arrows, no warnings. Just subtle architectural intent. One route slopes upward toward heavier infrastructure. Another bends laterally, deeper into the facility's core. A third descends, air growing warmer, softer.
+Not dramatically, no arrows, no warnings. Just subtle architectural intent. One route sloped upward toward heavier infrastructure. Another bended laterally, deeper into the facility's core. A third descends, air growing warmer, softer.
 
-Cyclops raises a hand.
+Cyclops raised a hand.
 
-They stop.
+They stopped.
 
-Hank brings up a schematic on his wrist, partial, inferred, stitched together from sensor bleed and power routing.
+Hank brought up a schematic on his wrist, partial, inferred, stitched together from sensor bleed and power routing.
 
-"This is as close as we're getting to a map," he says quietly. "Everything beyond this adapts."
+"This is as close as we're getting to a map," he said quietly. "Everything beyond this, we have to adapt."
 
-Cyclops nods.
+Cyclops nodded.
 
 "Then we adapt faster."
 
-He looks at them steady, precise.
+He looked at the team, steady, precise.
 
 "Same rules. No powers. No improvising unless you have to."
 
@@ -1261,93 +1275,105 @@ A beat.
 
 "And if you _have_ to, don't hesitate."
 
+---
+
 ### Assignment One - System Control
 
-Cyclops turns to Hank and Morph.
+Cyclops turned to Hank and Morph.
 
 "You're with me."
 
-Hank nods, already scanning data.
+Hank nodded, already scanning data.
 
-"The main system will be elevated," he says. "Power convergence. Data density. I won't be able to take it down but I can destabilize MADS once I'm physically inside."
+"The main system will be elevated," he said. "Power convergence. Data density. I won't be able to take it down but I can destabilize MADS once I'm physically inside."
 
-Morph shifts, features already softening not changing yet, just preparing.
+Morph rolled his shoulders once.
 
-"I'll keep us moving," he says. "Maintenance tech. Security liaison. Whatever fits the room."
+"I'll keep us moving," he said. "Maintenance tech. Security liaison. Whatever fits the room."
 
-Cyclops meets his eyes.
+Cyclops met his eyes.
 
 "No names. No faces that matter."
 
-Morph smiles thinly.
+Morph smiled thinly.
 
 "Always the background guy."
 
-Their route angles upward, cleaner floors, tighter access points. The place where decisions are made.
+Their route angled upward, cleaner floors, tighter access points. The place where decisions are made.
 
 ### Assignment Two - Recon & Threat Assessment
 
-Cyclops turns next to Logan, Rogue, and Storm.
+Cyclops turned next to Logan, Rogue, and Storm.
 
-"You're eyes and pressure," he says. "I want numbers. Personnel density. Soldier rotation. And I want to know where Stryker is."
+"You're eyes and pressure," he said. "I want numbers. Personnel density. Soldier rotation. And I want to know where Stryker is."
 
-Logan's nostrils flare slightly as he breathes in.
+Logan tilted his head.
 
-"Already workin' on it," he mutters.
+Listened.
 
-Storm inclines her head.
+Watched.
 
-"We observe," she says. "We do not engage."
+The faint rhythm of boots.
+
+The distant hum of machinery.
+
+The uneven cadence of breathing.
+
+"Already workin' on it," he muttered.
+
+Storm inclined her head.
+
+"We observe," she said. "We do not engage."
 
 Rogue cracks her knuckles, then stills herself.
 
-"Don't worry," she says. "I'll behave."
+"Don't worry," she said. "I'll behave."
 
-Cyclops doesn't smile.
+Cyclops didn't smile.
 
-"You move laterally," he continues. "Labs. Barracks. Research wings. Count everyone."
+"You move laterally," he continued. "Labs. Barracks. Research wings. Count everyone."
 
-Hank adds quietly,
+Hank added quietly,
 
 "If Stryker's here, he'll be near command but insulated. Expect layers."
 
-Logan's jaw tightens.
+Logan's jaw tightened.
 
-"Good," he says. "Makes him easier to track."
+"Good," he said. "Makes him easier to track."
 
-They peel off into the wider sections of the facility, where the air smells faintly of antiseptic and metal.
+They peeled off into the wider sections of the facility, where the air smells faintly of antiseptic and metal.
 
 ### Assignment Three - Containment & Recovery
 
-Cyclops turns last to Jean, Mimic, and Nightcrawler.
+Cyclops turned last to Jean, Mimic, and Nightcrawler.
 
-"This is the most important part," he says. "You find the kids. You don't wake them. You don't move them."
+"This is the most important part," he said. "You find the kids. You don't wake them. You don't move them."
 
-Jean nods, already focused.
+Jean nodded, already focused.
 
-"We confirm location only," she says. "Nothing more."
+"We confirm location only," she said. "Nothing more."
 
-Nightcrawler swallows.
+Nightcrawler swallowed.
 
 "And if they are afraid?"
 
-Jean meets his eyes.
+Jean met his eyes.
 
 "I'll be there," she says. "Quietly."
 
-Mimic rolls his shoulders once.
+Mimic rolled his shoulders once.
 
-"I'll adapt if the environment turns hostile," he says. "But I won't trigger anything."
+"I'll adapt if the environment turns hostile," he said. "But I won't trigger anything."
 
-Cyclops's voice hardens.
+Cyclops's voice hardened.
 
 "You don't use your abilities unless I give the word."
 
-Mimic nods without argument.
+Mimic nodded without argument.
 
-"You find them," Cyclops finishes. "And you wait."
+"You find them," Cyclops finished. "And you wait."
 
-They take the downward corridor, the one that feels less like a facility and more like a hospital pretending it isn't.
+They took the downward corridor, the one that felt less like a facility and more like a hospital pretending it isn't.
 
 ### The Rules (Reinforced)
 
@@ -1359,33 +1385,35 @@ A pause.
 
 "Once I hear it from everyone, I will destabilizing the system. Not before."
 
-Cyclops acknowledges.
+Cyclops acknowledged.
 
 "So no one goes loud unless everyone's ready."
 
-"Yes," Hank says. "Because once we start pulling at that thread-"
+"Yes," Hank said. "Because once we start pulling at that thread-"
 
-"The whole place comes apart," Rogue finishes.
+"The whole place comes apart," Rogue finished.
 
-"Exactly," Hank replies.
+"Exactly," Hank replied.
+
+---
 
 ### First Discoveries
 
-As the teams move, data begins to come in, quiet, measured.
+As the teams moved, data began to come in, quiet, measured.
 
 Logan murmurs into his comm.
 
-"Smell's wrong," he says. "Too many people for a research facility. Counting... at least forty soldiers on rotation. Light armor. Non-lethal loadouts near medical zones."
+"Something's wrong," he says. "Too many people for a research facility. Counting... at least forty soldiers on rotation. Light armor. Non-lethal loadouts near medical zones."
 
-Storm adds,
+Storm added,
 
 "Personnel are segmented. Scientists don't cross into security. Everything is compartmentalized."
 
-Rogue glances at a passing group through her cloak.
+Rogue glanced at a passing group through her cloak.
 
-"Not scared," she says. "Organized."
+"Not scared," she said. "Organized."
 
-Logan stops abruptly.
+Logan stopped abruptly.
 
 His head tilts.
 
@@ -1401,17 +1429,17 @@ A pause.
 
 "And he's not alone."
 
-Storm stiffens.
+Storm stiffened.
 
 "What do you mean?"
 
 Logan exhales slowly.
 
-"Smell's different. Not military. Not medical."
+"Sound's different. Not military. Not medical."
 
 He closes his eyes, focusing.
 
-"Cold metal. Old circuitry. Arrogance."
+"They’re discussing the children’s data. Improving mutant tracking."
 
 A beat.
 
@@ -1421,15 +1449,15 @@ Silence on the line.
 
 Hank's voice is tight now.
 
-"That confirms it," he says. "This isn't containment."
+"That confirms it," he said. "This isn't containment."
 
 Jean's whisper comes through next.
 
 "We found the children."
 
-Everyone stills.
+Everyone stilled.
 
-Jean continues, carefully.
+Jean continued, carefully.
 
 "Multiple pods. Sedated. Stable. Shielded."
 
@@ -1437,17 +1465,17 @@ Nightcrawler's voice trembles but holds.
 
 "They're alive."
 
-Cyclops closes his eyes for half a second.
+Cyclops closed his eyes for half a second.
 
-"Good," he says.
+"Good," he said.
 
 Then,
 
-"No one moves," he orders. "No powers. No heroics."
+"No one moves," he ordered. "No powers. No heroics."
 
-He straightens.
+He straightened.
 
-"Hank," he says. "Stand by."
+"Hank," he said. "Stand by."
 
 The game has been mapped.
 
@@ -1461,95 +1489,99 @@ Not because they were careless.
 
 The corridor narrows as Cyclops, Beast, and Morph advance.
 
-This section of the facility is different, quieter, denser. The air hums faintly with power routed through walls too thick to hear what's happening on the other side. No windows. No markings. Just a single reinforced door set into the metal, its surface alive with dormant sensors.
+This section of the facility is different, quieter, denser. The air hummed faintly with power routed through walls too thick to hear what's happening on the other side. No windows. No markings. Just a single reinforced door set into the metal, its surface alive with dormant sensors.
 
 The **main systems room**.
 
-Morph slows.
+Morph slowed.
 
 "Movement," he murmurs.
 
-The door opens.
+The door opened.
 
 A technician steps out, mid-level clearance, unremarkable, already checking a tablet as he walks. He doesn't look up.
 
-Morph doesn't rush.
+Morph didn't rush.
 
 He lets the man pass him.
 
-Then smoothly, silently, his features begin to change. Bone structure shifts. Height adjusts. Posture recalibrates. Even the slight hunch from years at a console settles into his spine.
+Once the door closed, Cyclops caught the technician before he could cry out.
 
-By the time the door begins to close again, Morph is already him.
+Beast steadied the unconscious man as he guided the man back toward the scanner.
 
-He turns back.
+The system read him instantly.
 
-The door reads him instantly, retina, gait, pulse rhythm.
+Retina.
+
+Pulse.
+
+Gait.
 
 **ACCESS GRANTED**
 
 The door slides open.
 
-Inside, two technicians look up from their stations.
+Inside, two technicians looked up from their stations.
 
 Confusion flickers across one of their faces.
 
 "You just left," one of them says.
 
-Morph doesn't answer.
+But they didn't see anyone entering inside.
 
-The door starts to seal behind him.
+The door began to seal behind them.
 
-The first technician steps forward, frowning, moving toward the threshold.
+The first technician stepped forward, frowning, moving toward the threshold.
 
 Cyclops is already there.
 
 One precise punch. No wind-up. No wasted motion.
 
-The man collapses before his confusion can turn into alarm.
+The man collapsed before his confusion could turn into alarm.
 
-The second technician barely has time to gasp before Beast is on him, one arm around the shoulders, the other striking with surgical force. The man drops, unconscious, gently lowered to the floor.
+The second technician barely had time to gasp before Beast was on him, one arm around the shoulders, the other striking with surgical force. The man dropped, unconscious, gently lowered to the floor.
 
-The door seals.
+The door sealed completely.
 
 Silence.
 
-Beast exhales once.
+Beast exhaled once.
 
-"That," he says quietly, "was our margin."
+"That," he said quietly, "was our margin."
 
-Cyclops scans the room, banks of systems, cascading data, power-routing displays feeding the entire facility.
+Cyclops scanned the room, banks of systems, cascading data, power-routing displays feeding the entire facility.
 
-"Do it," he says.
+"Do it," he said.
 
-Beast moves.
+Beast moved.
 
 He doesn't rip anything out. He doesn't override authority. He works _within_ the system, rerouting, misaligning, introducing conflicts the architecture was never designed to resolve internally.
 
-"MADS is layered," Beast mutters. "Failsafes on failsafes. Designed to assume hostile interference."
+"MADS is layered," Beast muttered. "Failsafes on failsafes. Designed to assume hostile interference."
 
-He pauses, fingers hovering.
+He paused, fingers hovering.
 
-"I can destabilize it," he says. "But once I do, the system will _know_."
+"I can destabilize it," he said. "But once I do, the system will _know_."
 
 Cyclops nods.
 
 "That's fine."
 
-Beast looks up.
+Beast looked up.
 
-"I need confirmation," he says. "Everyone in position, Is everything all good?"
+"I need confirmation," he said. "Everyone in position, Is everything all good?"
 
-Cyclops activate the comm.
+Cyclops activated the comm.
 
-"Status check."
+"Status check. Systems in position."
 
-Jean's voice comes first. Calm. Controlled.
+Jean's voice came first. Calm. Controlled.
 
-"Children secured. Stable. Waiting."
+"Recovery team in position. Children secured. Stable. Waiting."
 
 Logan answers next, short, grounded.
 
-"Pressure held. Soldiers diverted. We're good."
+"Recon in position. Pressure held. Soldiers diverted. We're good."
 
 Cyclops, Jean and Logan,
 
@@ -1557,17 +1589,17 @@ Cyclops, Jean and Logan,
 
 There's a brief pause.
 
-Then Beast executes.
+Then Beast executed.
 
-The room doesn't explode.
+The room didn't explode.
 
-It **hesitates**.
+It **hesitated**.
 
-Lights dim, not out, just... uncertain. The constant hum of the facility drops half a register, like something exhaling without permission. Status monitors flicker, recalculating.
+Lights dimmed, not out, just... uncertain. The constant hum of the facility droped half a register, like something exhaled without permission. Status monitors flickered, recalculating.
 
-Far away, systems stutter.
+Far away, systems stuttered.
 
-MADS goes dark.
+MADS went dark.
 
 Not destroyed.
 
@@ -1583,7 +1615,7 @@ No alerts.
 
 Just a silence that shouldn't exist.
 
-Back in the systems room, Beast scans the data.
+Back in the systems room, Beast scanned the data.
 
 "I'm in," he says. "But... there's nothing here."
 
@@ -1593,27 +1625,31 @@ Cyclops turns.
 
 "No Sentinel schematics," Beast says. "No deployment protocols. No command trees."
 
-He looks unsettled.
+He looked unsettled.
 
 "This system was never meant to control them."
 
-Cyclops's jaw tightens.
+Cyclops' jaw tightened.
 
 "Then they're not controlled from here."
 
 A beat.
 
-"Which means," Cyclops continues, "we get our answers from the people who are."
+"Which means..."
 
-He taps his comm.
+"...we get our answers from the people who are."
 
-"X-Men," he says calmly, decisively.
+He activated the comm.
 
-"Dispatch."
+"X-Men."
+
+A brief silence.
+
+"Let's finish what we came here for."
 
 And somewhere deep beneath the facility.
 
-Someone realizes the board has just changed.
+Someone realised the board has just changed.
 
 ---
 
