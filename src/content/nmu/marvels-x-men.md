@@ -2227,11 +2227,11 @@ The X-Men advanced towards the machine, towards the future, towards a war that h
 
 ### Opening beats
 
-The lab is quiet when the call comes.
+The lab is quiet when the call came.
 
 Too quiet.
 
-Charles freezes the moment he hears the words on the other end. His hand tightens around the receiver, knuckles whitening, not from fear, but from calculation arriving too late.
+Charles froze the moment he heard the words on the other end. His hand tightened around the receiver, knuckles whitening, not from fear, but from calculation arriving too late.
 
 Sentinels.
 
@@ -2239,7 +2239,7 @@ Active.
 
 Near Westchester.
 
-His breath catches.
+His breath caught.
 
 "...More than one?" Charles asks.
 
@@ -2247,59 +2247,97 @@ The answer is not comforting.
 
 He closes his eyes.
 
-"Then we have no choice," he says at last. "X-Men are already engaged. The school will have to stand on its own."
+"Then we have no choice," he says at last. "You have a task. The school will have to stand on its own."
 
 The line goes dead.
 
-For a moment, Charles doesn't move.
+For a moment, Charles didn't move.
 
-Then he exhales slowly and turns.
+Then he exhaled slowly and turned.
 
-Erik is already watching him, expression unreadable.
+Erik is already watching him, expressions unreadable.
 
-"They anticipated this," Erik says calmly. "Which means your team succeeded."
+"Kids are safe," Erik says calmly. "Which means your team succeeded."
 
-Charles doesn't look relieved.
+Charles didn't look relieved.
 
-"It means I'm about to ask children to do what adults should have prevented."
+"It means I'm about to ask my children to do what adults should have prevented."
 
-Erik steps closer, voice lower now.
+Erik stepped closer, voice lower now.
 
-"Do not carry this alone," he says. "I'm sending my best people. Not soldiers. Guardians."
+"You are not alone in this fight," he says. "I'm sending my best people. Not soldiers. Guardians."
 
-Charles meets his eyes.
+Charles met his eyes.
 
 "...Thank you, old friend."
 
-Erik nods once.
+Erik nodded once.
 
-The connection ends.
+The connection ended.
 
-Charles reaches for Cerebro.
+Charles reached for Cerebro.
 
-The helmet settles into place as the system comes alive, threads of awareness spreading outward, not across the world, but across the school, the grounds, brushing the city beyond.
+The helmet settled into place as the system came alive, threads of awareness spreading outward, not across the world, but across the school, the ground, brushing the city beyond.
 
 "Listen to me."
 
-His voice carries, not as command, not as fear, but as truth.
+His voice carried, not as command, not as fear, but as truth.
 
 "This is important."
 
-Across classrooms and dormitories, across quiet hallways and restless minds, the noise softens. Attention turns inward.
+Across classrooms and dormitories, across quiet hallways and restless minds, the noise softened. Attention turned inward.
 
-_"Our school is in danger. The shield will_ _hold, but only for a short time. Our teachers are facing something larger than any one place."_
+_"Our school is in danger. The shield will hold, but only for a short time. Our teachers are facing something larger than any one place."_
 
 A pause.
 
 _"I will not order you to fight. This must be your choice. I am asking for capable individuals to lend your strength to protect our school."_
 
-Silence stretches.
+Silence stretched.
 
-Questions surface. Fear. Resolve.
+For a heartbeat...
 
-Then, one by one, minds step forward.
+Nothing.
 
-Around twenty senior students answered the call.
+Then one mind stepped forward.
+
+Illyana.
+
+"This time... we are going."
+
+Another followed.
+
+Betsy smiled faintly.
+
+"The Professor finally asked."
+
+A third.
+
+Bobby shrugged.
+
+"Guess we're up."
+
+Piotr stepped beside his sister without a word.
+
+Kitty glanced toward them, then nodded once.
+
+"I'm coming."
+
+Jubilee swallowed hard.
+
+"If you're going..."
+
+"...I'm going."
+
+One by one, the hesitation disappeared.
+
+Not because they wanted a fight.
+
+Because they refused to leave their friends standing alone.
+
+Soon...
+
+Seven senior students had answered.
 
 Not reckless.
 
@@ -2307,17 +2345,17 @@ Not eager.
 
 But resolute.
 
-They move through the halls without panic, exiting the grounds as the **plasma shield rises**, sealing the school behind them like a promise that cannot last forever.
+They moved through the halls without panic, left the grounds as the **plasma shield rised**, sealing the school behind them like a promise that cannot last forever.
 
-Among them are familiar figures:
+They are some familiar figures:
 
 Bobby Drake (Iceman), cold already gathering around his hands.
 
 Illyana Rasputin (Magik), eyes glowing faintly with arcane focus.
 
-Peter Rasputin (Colossus), metal skin shimmering into place.
+Piotr Rasputin (Colossus), metal skin shimmering into place.
 
-Kitty Pryde, jaw set, fingers flexing.
+Kitty Pryde, jaw set, flexing her fingers.
 
 Jubilation Lee (Jubilee), nervous energy crackling behind a forced grin.
 
@@ -2327,59 +2365,87 @@ Betsy Braddock (Psylocke), calm, lethal, ready.
 
 And others, unnamed, unseen, but strong enough to stand.
 
-They wait.
+They waited.
 
 Outside the shield.
 
+---
+
 In Queens, the television is on.
 
-The image shakes as the Sentinel rises, tearing free from the earth like something that was never meant to be buried.
+The image shaked as the Sentinel rised, tearing free from the earth like something that was never meant to be buried.
 
 May's hand flies to her mouth.
 
 "My God..."
 
-Harry leans forward, eyes wide.
+Harry leaned forward, eyes wide.
 
 "What _is_ that?"
 
-Gwen doesn't answer.
+Gwen didn't answer.
 
-Peter doesn't look away.
+Peter didn't look away.
 
-He's already made the decision.
+He already made the decision.
 
-"I have to go," he says quietly.
+"I have to go," he said quietly.
 
 MJ turns to him, alarmed. "Peter-"
 
-"They helped me," he says. "I'm not watching this like it's a show while they risk their lives for us."
+"They helped me," he said. "I'm not watching this like it's a show while they risk their lives for us."
 
-May searches his face.
+May searched his face.
 
 "You'll be careful?"
 
-Peter nods. Not because it's true but because it matters.
+Peter nodded. Not because it's true but because it mattered.
 
-Harry grabs his keys.
+Harry grabbed his keys.
 
-"I can get you close," he says. "Fast."
+"I can get you close," he said. "Fast."
 
-Peter pulls on his jacket.
+Peter pulled on his jacket.
 
-"Once you drop me near enough," he says, "you leave. Don't look back."
+"Once you drop me near enough," he said, "you leave. Don't look back."
 
-Harry hesitates, then nods.
+Harry hesitated, then nodded.
 
-Elsewhere-
+---
 
-Lucas Bishop watches the skyline from a loading dock, energy already building beneath his skin.
+Elsewhere—
 
-Remy LeBeau flicks a card between his fingers, eyes narrowing as sirens begin to wail.
+Lucas Bishop stood alone on a loading dock.
 
-Roberto da Costa stands alone in his room, shadows bending toward him as power stirs.
+Energy rippled beneath his skin.
 
-James Proudstar tightens his grip on a weapon that feels suddenly too small.
+His eyes stayed fixed on the skyline.
+
+No hesitation.
+
+Remy LeBeau caught a playing card between two fingers.
+
+Sirens echoed across the city.
+
+He smiled without humor.
+
+"Guess we're workin' today."
+
+In his apartment, Roberto da Costa looked out across the skyline.
+
+Darkness gathered around him instinctively.
+
+The room dimmed.
+
+So did his eyes.
+
+James Proudstar grabbed his knife that now feels too small.
+
+His grip tightened.
+
+Military training taught him to wait for orders.
+
+His instincts told him there wasn't time.
 
 The world has changed.
 
@@ -2389,83 +2455,87 @@ Not soon.
 
 Now.
 
-And across New York, as Sentinels rises and the sky darkens-
+And across Westchester, as Sentinels rised and the sky darkened-
 
-Mutants, heroes, and people who refuse to be spectators begin to move.
+Mutants, heroes, and people who refuse to be spectators began to move.
 
 The war has begun.
+
+---
 
 ### Battlefield
 
 The Sentinel finished rising.
 
-The earth around it is no longer ground, it's ruin. Asphalt split like bone. Trees torn out by the roots. Concrete crushed into dust beneath metal feet the size of buildings.
+The earth around it is no longer ground, it is ruins. Asphalt split like bone. Trees torn out by the roots. Concrete crushed into dust beneath metal feet the size of buildings.
 
-Sirens wail in every direction.
+Sirens wailed in every direction.
 
-Civilians run.
+Civilians ran.
 
-Military transports scream overhead, pulling people out of the blast radius as fast as they can. The Blackbird settles hard onto scorched ground nearby; engines still hot, still shaking.
+Military transports screamed overhead, pulling people out of the blast radius as fast as they can. The Blackbird settled hard onto scorched ground nearby; engines still hot, still shaking.
 
-The hatch opens.
+The hatch opened.
 
 The X-Men step out one by one.
 
-Stryker and Trask are inside the Bird; restrained, sedated, unconscious. Tranquilizers coursing through their veins.
+Stryker and Trask restrained inside the Bird, sedated, unconscious. Tranquilizers coursing through their veins.
 
-No one looks back.
+No one looked back.
 
-The team spreads out.
+The team spread out.
 
 Not scattered.
 
-**Formed.**
+In Formation.
 
-Cyclops at the center, everyone stands in a formation, preparing for the biggest fight of their life.
+Cyclops at the center, everyone else stood in their formation, preparing for the biggest fight of their life.
 
-They face the Sentinel.
+They faced the Sentinel.
 
-It turns.
+It turned.
 
-Its head pivots with a sound like grinding steel. Sensors ignite. Light sweeps across the battlefield, cataloguing heat signatures, power thresholds, genetic variance.
+The Sentinel's head pivoted with a sound like grinding steel. Sensors ignited. Light swept across the battlefield, cataloguing heat signatures, power thresholds, genetic variance.
 
 **TARGETS CONFIRMED.**
 
-Cyclops doesn't raise his voice.
+Cyclops didn't raise his voice.
 
 "X-Men," he says calmly. "This is a hard war."
 
-The Sentinel's chest plates begin to open.
+The Sentinel's chest plates began to open.
 
-"We might not be able to save everyone," he continues. "And we can't fight everything."
+"We might not be able to save everyone," he continues. "And we might not be able to fight everything."
 
-The first hatches disengage.
+The first hatch disengaged.
 
 "Our objective is to avoid the big one to come near the city," Cyclops says. "That's the mission. Whatever it costs."
 
 Hundreds of smaller Sentinels deploy human-sized, fast, coordinated, falling like metal rain into the streets below.
 
-Scott's voice remains steady. 
+Scott's voice remained steady.
 
-"The others out there... they'll stand. They have to. We hold this line so they can." 
+"Every Sentinel we stop buys someone else another chance."
 
-He lowers his visor. 
+"That's how we win."
 
-"That's how we win." 
+He lowered his visor.
 
-Lightning crawls across Storm's arms.
+"That's how we win."
 
-Logan's claws snap out with a metallic scream.
+Lightning crawled across Storm's arms.
 
-Jean's jaw tightens.
+Logan's claws snapped out with a metallic scream.
 
-Morph shifts.
+Jean's jaw tightened.
 
-Mimic locks in.
+Morph shifted into a large King Kong.
 
-The Sentinel's systems hum in unison.
+Mimic locked in.
 
-"This thing wants to erase us," Cyclops continues, "So, we don't hold back."
+The Sentinel's systems hummed in unison.
+
+"This thing wants to erase us," Cyclops continued, "So, we don't hold back."
 
 A beat.
 
@@ -2473,17 +2543,17 @@ A beat.
 
 They move.
 
-The Sentinel fires.
+The Sentinels fired.
 
 And the world explodes into motion.
 
-Storm **takes the sky**.
+Storm **took the sky**.
 
-Winds shear outward, ripping smaller Sentinels out of formation, slamming them into each other, into the ground hard enough to crumple steel.
+Winds shear outward, ripping smaller Sentinels out of formation, slamming them into each other, into the ground hard enough to crumple steel, pouring lightning, destroying several Sentinels in a single storm.
 
-Logan charges straight through incoming fire, claws tearing into machine joints, ripping servos apart as he climbs, leaps, lands again relentlessly.
+Logan charged straight through incoming fire, claws tearing into machine joints, ripping servos apart as he climbs, leaps, lands again relentlessly.
 
-Jean steps forward and **pushes**.
+Jean stepped forward and **pushes**.
 
 Not outward.
 
@@ -2491,25 +2561,41 @@ Downward.
 
 The smaller Sentinels falter mid-air, crushed by invisible force, snapping apart like toys caught in a vice.
 
-Cyclops fires, controlled, devastating blasts carving paths through metal ranks, clearing space, directing the fight.
+Cyclops fired, controlled, devastating blasts carving paths through metal ranks, clearing space, directing the fight.
 
-Beast moves constantly, dodging, striking, tearing limbs loose and using them as weapons.
+Beast moved constantly, dodging, striking, tearing limbs loose and using them as weapons.
 
-Rogue grabs a Sentinel mid-leap, drains its power core dry, and hurls the lifeless shell through two more.
+Rogue caught the Sentinel mid-leap.
 
-Nightcrawler bamfs in bursts; appearing everywhere the machines are, disarming them, reappearing where death would have been a second later.
+Twisted.
 
-Morph become confusion itself, turning into different mutants and fighting in their style.
+Metal screamed.
 
-Mimic becomes whatever the moment demands.
+She ripped the arm free and used it as a hammer.
 
-The battlefield burns.
+Nightcrawler bamfed in bursts; appearing everywhere the machines are, disarming them, reappearing where death would have been a second later.
+
+King Kong Morph hulked his way through the sentinels.
+
+Mimic never fought the same way twice.
+
+He crossed the first line with Logan's speed.
+
+Teleported behind another with Nightcrawler's precision.
+
+An optic blast shattered three more before they could recover.
+
+Lightning crashed from his hands.
+
+A heartbeat later...
+
+He was somewhere else entirely.
+
+The battlefield burned.
 
 But not all Sentinels stay.
 
-Some of them break away.
-
-They pivot.
+Some of them changed their course.
 
 Ten of them lock onto a new signal.
 
@@ -2517,343 +2603,387 @@ Ten of them lock onto a new signal.
 
 **LOW DEFENSIVE PERIMETER.**
 
+---
+
 ### The Docks
 
-Sentinels move fast.
+Sentinels moved fast.
 
 The submarine has barely cleared the water.
 
-Kids are being rushed towards safety. Navy personnel form a perimeter; weapons raised-but it won't be enough.
+Kids are being rushed towards safety. Navy personnel formed a perimeter; weapons raised but it won't be enough.
 
-The Sentinels arrive in seconds.
+The Sentinels arrived in seconds.
 
-Weapons charge.
+Weapons charged.
 
-A figure steps forward into the line of fire.
+A figure stepped forward into the line of fire.
 
-All Blasters fire at him.
+All Blasters fired at him.
 
-Every shot hits him.
+Every shot hit him.
 
-He doesn't fall.
+He didn't fall.
 
-He **absorbs** it.
+He **absorbed** it.
 
-Energy pours into his body, lighting him up like a living reactor. He roars, raw, furious and unleashes it back in a single, concussive blast through his blaster gun attached to his body.
+Energy flooded through him, veins burning with stolen power.
 
-The Sentinels disintegrate mid-air.
+The emitter mounted along his forearm unfolded.
 
-Metal rains into the land.
+Bishop roared...
 
-The figure lowers his weapon.
+...and released everything at once.
 
-It's Bishop.
+A single concussive beam tore across the docks.
+
+The lead Sentinels disappeared inside the blast.
+
+The rest came apart in the shockwave.
+
+The Sentinels disintegrated mid-air.
+
+Metal rained into the land.
+
+The figure lowered his weapon.
+
+It's Lucas Bishop.
 
 He turns to the stunned sailors and children.
 
 "Everyone alright?"
 
-They nod, shaken, alive.
+They nodded, shaken, alive.
 
-Bishop exhales.
+Bishop exhaled.
 
-"Good," he says. "Get them somewhere safe."
+"Good," he said. "Get them somewhere safe."
 
-He turns back toward the city; energy is already building again.
+He turned back toward the city; energy is already building again.
 
 "We've got work to do."
 
-### Xavier's Property - Outside the Shield
+---
 
-The plasma shield hums behind them.
+### Xavier's Property – Outside the Shield
 
-A curved wall of light protecting the school, the classrooms, the beds they slept in last night.
+The plasma shield hummed behind them.
 
-In front of it-
+A curved wall of light protected the school.
 
-The ground trembles.
+The classrooms.
 
-Twenty Sentinels march through the trees, metal feet crushing stone and root alike. Red optics sweep the clearing, locking onto mutant signatures like blood in water.
+The dormitories.
 
-The students don't run.
+Everything they called home.
 
-They spread out.
+Ahead...
 
-Bobby Drake steps forward first, breath fogging the air around him.
+Twenty Sentinels emerged from the tree line.
 
-"Well," he says, forcing a grin, "guess this counts as a final exam."
+Their red optics swept across the clearing.
 
-Peter Rasputin cracks his neck. Steel ripples across his skin.
+**TARGETS ACQUIRED.**
 
-"Stay behind me," he rumbles. "That is not a suggestion."
+Nobody moved.
 
-Illyana Rasputin twirls her blade once, eyes glowing faintly.
+Until Bobby smiled.
 
-"Let them come," she says flatly. "I'm bored."
+"Guess we're doing this."
 
-The Sentinels open fire.
+The Sentinels opened fire.
 
-The world erupts.
+Bobby slammed both hands into the earth.
 
-Bobby slams both hands into the ground.
+Ice erupted across the battlefield in an instant, racing beneath the machines before exploding upward into jagged pillars.
 
-Ice explodes outward in a widening wave, freezing Sentinel legs mid-stride, locking joints, turning momentum into liability.
+Several Sentinels lost their footing.
 
-"Slip and fall, tin cans!"
+Others found spears of ice punching through their joints.
 
-One Sentinel breaks free-
+Bobby laughed.
 
--and **Colossus** is already there, grabbing it by the torso and **suplexing it into the frozen earth**, shattering it on impact.
+"Try walking now!"
 
-Jubilee vaults off his shoulder, hands glowing.
+One machine broke free.
 
-"Fireworks now with purpose!"
+Piotr was already moving.
 
-She hurls a cluster of bright plasma bursts straight into a Sentinel's optic array. The machine staggers, sensors scrambling, targeting haywire.
+Steel covered his body as he charged, every footstep shaking the frozen ground.
 
-That's when Kitty Pryde phases through its chest, reappearing behind it.
+He caught the Sentinel head-on.
 
-"Hi," she says, yanking out its power core as she solidifies.
+The impact echoed across the clearing.
 
-The Sentinel collapses.
+Without slowing, Piotr lifted the machine overhead and drove it into the earth hard enough to shatter both the ice beneath it and the Sentinel itself.
 
-Archangel screams overhead, wings cutting the air like knives. He dives, stomping on the weapon arms, severing blasters before they can fire again.
+"Again!" Bobby shouted.
 
-Psylocke moves like a ghost, psychic blade flashing once, twice, three times. Each strike severs control pathways, leaving Sentinels standing but empty.
+"I like this plan."
 
-"Don't cluster," she calls out calmly. "They adapt faster when you do."
+Jubilee sprinted past them.
 
-Illyana grins.
+"Incoming!"
 
-"Then let's be unpredictable."
+Bright plasma streaked from her fingertips.
 
-A portal snap opens beneath two Sentinels.
+One burst blinded a Sentinel.
 
-They drop, screaming metal into Limbo; the gateway slamming shut behind them.
+The second detonated inside its open mouth.
 
-"Out of bounds," Illyana mutters.
+The third blew its head clean off.
 
-The **unnamed students** steps up.
+She landed in a crouch, grinning.
 
-A boy with glowing green veins slams his palms together, **sonic shockwaves** rippling outward, knocking Sentinels off balance.
+"That one counted."
 
-A girl with crystalline eyes raises her hands, forming **hard-light shields** just in time to block a barrage meant for Jubilee.
+A blast raced toward her.
 
-Another student, nervous, shaking, touches the ground and causes **roots and stone to surge upward**, tangling Sentinel legs long enough for Colossus to finish them.
+Kitty stepped directly into its path.
 
-A lanky kid with yellow sparks dancing along his arms laughs in disbelief as he **short-circuits a Sentinel mid-leap**.
+The beam passed harmlessly through her.
 
-"I can't believe that worked!"
+She continued walking through the Sentinel itself.
 
-"Focus!" Kitty yells. "Believe later!"
+When she emerged behind it, she was holding its power core.
 
-A Sentinel breaks through the line.
+The machine simply...
 
-Too close.
+stopped.
 
-Its cannon charges.
+Kitty tossed the core over her shoulder.
 
-Colossus steps forward without hesitation, bracing.
+"Cleanup."
 
-Before it fires,
+Jubilee caught it.
 
-Ice climbs the barrel.
+"Oh, now that's cheating."
 
-Bobby clenches his fists.
+She hurled it back.
 
-The cannon detonates internally.
+The explosion tore through two advancing Sentinels.
 
-The Sentinel explodes backward.
+Above them, Warren folded his wings.
 
-Bobby exhales, shaking his hands.
+He became a silver blur.
 
-"...Okay. That one was scary."
+He swept past one Sentinel, clipping its weapon arm clean off before climbing into the sky again.
 
-Colossus places a massive hand on his shoulder.
+Another machine tracked him.
 
-"You did well," he says simply.
+"Illyana!"
 
-The remaining Sentinels hesitate.
+A stepping disc opened directly in its flight path.
 
-Just for a second.
+The Sentinel fired.
 
-And in that second, they see it.
+Its own blast emerged from another portal behind it.
 
-Not chaos.
+The machine vanished in its own explosion.
 
-Not fear.
+Illyana didn't stop smiling.
 
-**Coordination.**
+"My turn."
 
-Students protecting each other. Covering weaknesses. Adjusting on the fly.
+She stepped through another portal.
 
-This isn't a mob.
+Appearing directly beside a Sentinel.
 
-It's a team.
+The Soulsword carved a glowing arc through its shoulder.
 
-Another wave advances.
+Before it could recover, she twisted, opened another stepping disc beneath its feet, and kicked it through.
 
-Illyana raises her sword.
+It disappeared into Limbo.
 
-Archangel banks overhead.
+Betsy appeared beside her almost effortlessly.
 
-Jubilee cracks her knuckles, grin returning.
-
-"Alright," she says. "Round two."
-
-Behind them, the shield hums.
-
-The school stands.
-
-And for the first time that day, the Sentinels learn something new.
-
-These aren't targets.
-
-These are defenders.
-
-And they fight like they belong to the world they're protecting.
-
-### Midtown: Evacuation Zone
-
-Sirens drown out screaming.
-
-Buses jam intersections. People run in every direction, clutching bags, children, and each other. Overhead, something metal shrieks as it lands, three human-sized Sentinels dropping into the street like executioners.
-
-They don't announce themselves.
-
-They scan.
-
-Weapons charge.
-
-A blast fire out of nowhere-
-
--and slams into a sudden wall of heat.
-
-Roberto da Costa stands in the middle of the street, skin glowing like banked coals, teeth clenched as the energy washes over him.
-
-"Move!" He shouts over his shoulder. "Get behind the trucks _now!_"
-
-The blast dissipates.
-
-Roberto throws it back.
-
-A wave of solar fire rips through the first Sentinel, melting armor, warping joints until it collapses into slag.
-
-The other two Sentinels adjust instantly.
-
-They split.
-
-One leaps.
-
-It never lands.
-
-James Proudstar hits it mid-air, tackling several tons of metal out of the sky and straight through a parked bus. The impact caves the vehicle in, glass exploding outward.
-
-Warpath rolls to his feet, breathing hard.
-
-"You're welcome," he mutters to the stunned civilians nearby. "Run."
-
-The third Sentinel raises its cannon-
-
--and a charged playing card slams into its optic array.
-
-Boom, Sentinels head explodes.
-
-Remy LeBeau vaults over a taxi, coat flaring, staff spinning in his hands.
-
-"Gentlemen," he says lightly, "next time we do introductions before the apocalypse."
-
-The Sentinel fires.
-
-Warpath steps in front of the blast without thinking, bracing, boots carving trenches into asphalt as he absorbs the hit.
-
-Roberto's eyes widen.
-
-"Hey big guy!"
-
-"I'm fine!" Warpath growls. "Just _end it!_"
-
-Roberto does.
-
-He surges forward, fists blazing, driving a superheated punch straight through the Sentinel's chest. Gambit flicks another card on his previous target, detonating what's left from the inside.
-
-The machine collapses.
-
-Silence rushes in.
-
-For half a second.
-
-Then another Sentinel drops at the far end of the block.
+A psychic blade flashed.
 
 Then another.
 
-Gambit exhales.
+She wasn't cutting steel.
 
-"Looks like we're popular."
+She was severing control pathways.
 
-Roberto glances between them, sweaty, shaken, and resolute.
+One Sentinel froze.
 
-"I don't know you," he says. "But I'm not leaving these people."
+Another turned its weapon toward empty air.
 
-Warpath nods once.
+A third simply shut down.
 
-"Good," he says. "Because they're not getting past us."
+"Left," Betsy said calmly.
 
-Gambit twirls his staff, grin fading into something sharper.
+"I know."
 
-"Then let's make this official."
+Illyana's portal appeared before the words had finished.
 
-They move together without planning it.
+The next Sentinel charged straight through it—
 
-Warpath charges first, drawing fire, absorbing blasts meant for civilians.
+—and reappeared fifty feet above the battlefield.
 
-Roberto follows, heat flaring brighter, targeting joints and power cores, keeping explosions away from crowds.
+Piotr looked up.
 
-Gambit dances through the chaos, tagging Sentinels with timed detonations, collapsing buildings _after_ evacuations clear.
+"...Mine."
 
-A Sentinel grabs for a fleeing woman.
+He caught the falling machine.
 
-Warpath tears its arm off.
+Turned once.
 
-Another locks onto Roberto.
+Twice.
 
-Gambit blinds it long enough for Roberto to finish the job.
+Then hurled it straight into another Sentinel.
 
-Roberto stumbles at one point, power flickering.
+Both disappeared into Bobby's waiting wall of ice.
 
-Warpath catches him without slowing.
+The clearing erupted.
 
-"Stay with me."
+For a moment, nobody could tell where one fight ended and another began.
 
-"I am," Roberto pants. "Just running hot."
+Bobby raised walls.
 
-"Good," Gambit says, already moving. "Because this ain't cooling down."
+Piotr shattered them with Sentinels.
 
-Above them, smoke and metal fill the sky.
+Jubilee turned every opening into an explosion.
 
-Around them, civilians start to realize something.
+Kitty removed anything too dangerous to explode.
 
-They aren't abandoned.
+Warren controlled the sky.
 
-They're being defended.
+Illyana controlled the battlefield.
 
-And three strangers, burning, bruised, uncoordinated, stand in the middle of it all, refusing to move.
+Betsy controlled the fight itself.
 
-As another wave of Sentinels closes in, Roberto squares his shoulders.
+No one fought alone.
 
-"After this," he says, "we should probably learn each other's names."
+Every attack created another opening.
 
-Warpath cracks his neck.
+Every opening became someone else's victory.
 
-"Survive first."
+Behind them, the plasma shield continued to hum.
 
-Gambit smirks, eyes blazing.
+The school still stood.
 
-"Always do."
+And for the first time...
 
-They charge back into the fire, no banners, no speeches, just resolve.
+the Sentinels began to lose ground.
 
-And for the people running past them, that's more than enough.
+---
+
+### Midtown: Evacuation Zone
+
+Sirens drowned out the screaming.
+
+Buses jammed intersections. People ran in every direction, clutching bags, children, and each other.
+
+Overhead, three human-sized Sentinels crashed into the street like executioners.
+
+They didn't announce themselves.
+
+They scanned.
+
+Weapons charged.
+
+A barrage of energy slammed into a wall of living fire.
+
+Roberto da Costa stood in the middle of the street, his body blazing with solar energy as he absorbed every blast.
+
+"Move!" he shouted over his shoulder.
+
+"Behind the trucks! Now!"
+
+The barrage stopped.
+
+Roberto surged forward.
+
+One blazing punch tore straight through the nearest Sentinel's chest, molten metal spraying across the pavement as the machine collapsed.
+
+The remaining two adapted instantly.
+
+One launched toward the fleeing civilians.
+
+James Proudstar's head snapped toward the sound before anyone else reacted.
+
+"There!"
+
+He met the Sentinel in mid-air, driving it through a parked bus. Metal buckled. Glass exploded.
+
+Warpath rolled to his feet first.
+
+"Run!" he barked.
+
+The civilians didn't hesitate.
+
+The last Sentinel swung its cannon toward Roberto—
+
+A glowing playing card struck its optic sensor.
+
+Boom.
+
+The head disappeared in an explosion of fire.
+
+Remy LeBeau vaulted over a taxi, staff spinning effortlessly.
+
+"Gentlemen," he said with a grin.
+
+"I think we're officially acquainted."
+
+The damaged Sentinel fired wildly.
+
+Warpath stepped into the blast without hesitation, boots carving through the asphalt as he absorbed the impact.
+
+"Now!" he shouted.
+
+Roberto needed no second invitation.
+
+He launched himself forward, wrapped in solar fire, driving both fists into the Sentinel and sending it crashing through the street in a trail of molten steel.
+
+Remy flicked one final charged card onto the wreckage.
+
+The explosion finished what Roberto started.
+
+Silence settled over the intersection.
+
+For half a second.
+
+Then more Sentinels descended from the sky.
+
+Roberto looked between the two men.
+
+"I don't know either of you..."
+
+"...but I'm not leaving these people."
+
+Warpath cracked his neck.
+
+"Good."
+
+"They're not getting past us."
+
+Remy rested his staff across his shoulders.
+
+"Names can wait."
+
+He looked toward the next wave.
+
+"Let's keep saving people."
+
+The three of them moved without another word.
+
+Warpath drew the machines toward himself.
+
+Roberto struck wherever James created an opening.
+
+Remy stayed in constant motion, collapsing Sentinels with perfectly timed explosions before they could threaten the civilians.
+
+They weren't a team.
+
+Not yet.
+
+But the people running past them couldn't tell the difference.
+
+---
+
+## Chapter 7
 
 ### The Battlefield
 
@@ -3941,7 +4071,7 @@ is over.
 
 ---
 
-## Chapter 7: Epilogue
+## Chapter 8: Epilogue
 
 The city gathers in silence.
 
