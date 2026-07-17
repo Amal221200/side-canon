@@ -2983,1095 +2983,1019 @@ But the people running past them couldn't tell the difference.
 
 ---
 
-## Chapter 7
+## Chapter 7: The Giant Sentinel
+### Phase I – First Contact
 
-### The Battlefield
+The battlefield was already scarred beyond recognition.
 
-The air changes.
+What had once been open ground had become a wasteland of shattered earth, twisted metal, and burning wreckage. Across the battlefield, the remaining Sentinels continued their relentless assault against the scattered mutant forces.
 
-Storm feels it first.
+The X-Men fought at the center of the chaos.
 
-Her eyes lift to the towering machine, lightning still crawling along her arms.
+Scott's optic blasts tore through another Sentinel.
 
-"It's stopped," she says. "No more deployment."
+Logan's claws ripped through steel.
 
-Cyclops tracks the giant Sentinel's chest. The last of the human-sized units finish dropping, then nothing. The internal hatches begin to seal; metal plates slid into place with a sound like a vault closing.
+Storm's winds hurled another machine across the battlefield.
 
-"Good," Cyclops says. "Let's keep its attention on us."
+Nightcrawler vanished and reappeared in flashes of blue smoke, rescuing mutants moments before death.
 
-The Sentinel doesn't respond.
+Then—
 
-It **recalculates**.
+_CLANG_
 
-The human-sized sentinels leave the battlefield to back up the others.
+The final deployment hatch beneath the Giant Sentinel sealed shut.
 
-The ground vibrates, not from movement, but from power being rerouted. Energy signatures spike through its frame, climbing far past anything the smaller units ever registered.
+The sound echoed across the battlefield.
 
-Jean's head snaps up.
+Every Sentinel froze.
 
-"It's focusing," she says. "All of it."
+For a brief moment...
 
-The Sentinel's head tilts.
+The battlefield became eerily still.
 
-Optics brighten from red to white.
+Without warning, every remaining Sentinel turned away from the X-Men.
 
-"MOVE!" Cyclops shout.
+Not in retreat.
 
-The optic blast fires.
+In perfect synchronization.
 
-Not a beam.
+A silent command had already reached them.
 
-A **column**.
+The machines scattered across the battlefield, sprinting toward the remaining mutant resistance.
 
-The ground where they were standing ceases to exist, molten rock exploding upward as the blast scours straight through the battlefield. Logan dives clear, rolling through heat and debris. Rogue is yanked sideways as Nightcrawler bamfs her out at the last possible second.
+The Giant Sentinel had reassigned them.
 
-Storm launches skyward, lightning exploding outward as she tries to deflect-
+It would handle the X-Men itself.
 
--and it passes through.
+Above the battlefield, the Blackbird's engines roared to life.
 
-The blast doesn't dissipate.
+Still operating under autopilot, the aircraft banked away from the battlefield, disappearing into the distance.
 
-It doesn't bend.
+Inside the cockpit, Bolivar Trask and William Stryker remained unconscious, oblivious to what was about to unfold.
 
-It ignores her.
+The Giant Sentinel slowly turned.
 
-Storm hits the ground hard, skidding across broken concrete.
+For the first time...
 
-"That didn't work," she gasps.
+Its entire attention settled upon the nine mutants standing before it.
 
-Cyclops fires back instantly; full output, controlled but devastating. The beam slams into the Sentinel's chest.
+Its crimson eyes narrowed.
 
-The light fades.
+A calm mechanical voice echoed across the battlefield.
 
-The machine doesn't even stagger.
-
-Jean reaches out, gripping invisible force around the Sentinel's head, trying to **crush**-
-
--and feels resistance.
-
-Not strength.
-
-**Structure**.
-
-"It's layered," she says, strained. "Mental shielding. Feedback dampeners. It's... built to expect me."
-
-The Sentinel turns toward her.
-
-Logan doesn't think.
-
-He sprints, leaping, claws digging into the machine's leg, climbing fast, tearing into armor seams as he goes.
-
-The metal **adapts**.
-
-Plates shift. Joints lock. The surface heats violently.
-
-Logan is thrown clear, crashing into the ground in a smoking heap.
-
-He groans, already healing.
-
-"Yeah," he mutters. "That's new."
-
-Rogue slams into the Sentinel's side, grabbing hold and draining with everything she has.
-
-Nothing.
-
-She gasps; recoiling.
-
-"I can't get a grip," she says. "It's not just power, it's... empty. Like it's already spent."
-
-Beast lands beside her, eyes racing over the machine's movements.
-
-"It's not fighting us," he realizes. "It's testing."
-
-Cyclops fires again, not at the body this time, but at the ground, collapsing terrain to slow it.
-
-The Sentinel steps through the debris without breaking stride.
-
-Every move is economical.
-
-Deliberate.
-
-Storm rises again, summoning the sky this time, not lightning, but pressure. Winds slam into the Sentinel from all sides; hurricane, force currents trying to destabilize its footing.
-
-For a moment,
-
-nothing.
-
-Then the Sentinel **anchors itself**, metal spines driving into the ground, stabilizers deploying with brutal efficiency.
-
-Storm stares.
-
-"It's learning," she says.
-
-Jean wipes blood from her upper lip.
-
-"No," she corrects. "It has already learned. This is iteration two."
-
-The Sentinel's head turns back to Cyclops.
-
-Target priority shifts.
-
-Optics flares are brighter than before.
-
-Cyclops raises his visor, jaw set.
-
-"Okay," he says calmly. "We stop trying to overpower it."
-
-He looks around at his team, bruised, breathing hard, still standing.
-
-"We find what it needs."
-
-Beast's eyes lock onto the machine's spine, where power conduits briefly glow during each blast.
-
-"There," he says. "Every time it fires, something routes upward."
-
-Jean nods slowly.
-
-"A bottleneck," she says. "Not a weakness."
-
-Storm clenches her fists.
-
-"But a limit."
-
-The Sentinel fires again.
-
-This time, the X-Men move together, dodging, deflecting, redirecting just enough to survive.
-
-They're not winning.
-
-Not yet.
-
-But now,
-
-they're **learning it back**.
-
-And for the first time since it rose, the Sentinel adjusts its stance.
-
-Because the machine has realized something.
-
-These targets are not fleeing.
-
-They're **studying**.
-
-And that changes everything.
-
-The Sentinel's head retracts slightly as internal systems reconfigure. Panels along its forearms slide open, revealing layered weapon arrays, rotating barrels, energy capacitors, kinetic accelerators humming to life.
-
-Storm feels it instantly.
-
-"It's shifting loadout," she warns. "Everyone, scatter!"
-
-The Sentinel moves.
-
-Not fast.
-
-**Certain.**
-
-Its arm swings, palm leveling toward the battlefield.
-
-From the Sentinel's hand, a **concussive shockwave** erupts, wide, brutal, not a beam but a surge of compressed energy that slams into the ground and ripples outward like an earthquake.
-
-Colossal force. Splitting the aerial assault of Storm, Jean and Mimic.
-
-Cyclops fires downward at the impact point, carving a trench just deep enough to break the wave's edge.
-
-Logan is thrown anyway, scrolling, skidding, digging claws into the ground to stop himself from being flung clear across the field.
-
-"Okay," he growls. "That one I felt."
-
-The Sentinel steps forward.
-
-Each footfall fractures the ground; seismic stabilizers deploying to keep it upright as Storm whips the air around its legs, tighter, faster and narrower this time, trying to destabilize it.
-
-The machine compensates instantly.
-
-Hydraulic anchors fire again.
-
-Storm's winds tear at it-
-
--and fail.
-
-"Adaptive grounding," Beast shouts. "It's countering environmental force in real time!"
-
-Jean reaches out, targeting the machine's internal command pathways, not crushing, not ripping, but **interrupting**.
-
-For a moment, the Sentinel hesitates.
-
-Then its head snaps toward her.
-
-A shoulder-mounted turret rotates into place.
-
-The shot fires.
-
-Nightcrawler bamfs Jean out of the way a heartbeat before impact, the blast tearing a crater where she stood.
-
-They reappear behind cover, Kurt breathing hard.
-
-"That was too close," he says.
-
-Jean nods grimly.
-
-"It's prioritizing threats," she says. "And I'm high on the list."
-
-Rogue charges anyway, leaping, grabbing onto the Sentinel's arm as it raises another weapon.
-
-She drains.
-
-Nothing.
-
-She grits her teeth, muscles straining as the arm **heats**, plates glowing red, hot to force her off.
-
-She screams as she's flung clear, landing hard but alive.
-
-"It's not just resisting," she gasps. "It's designed to deny contact."
-
-The Sentinel doesn't pursue her.
-
-Instead, its other arm transforms, segments unfolding, locking into a **heavy plasma cannon**.
-
-Cyclops sees it.
-
-"On me!" he shouts.
-
-He fires, not at the weapon, but at the Sentinel's elbow joint, forcing the cannon slightly off-angle.
-
-The blast fires anyway, shearing a building in half instead of vaporizing the team.
-
-Debris rains down.
-
-Beast leaps, barely clearing falling concrete.
-
-"This thing isn't trying to kill us fast," Beast realizes. "It's trying to survive us."
-
-Storm rises again; lightning crashes repeatedly, not in one massive strike, but **rhythmic**, hammering the same section of armor again and again.
-
-The metal blackens.
-
-Cracks begin to form.
-
-The Sentinel reacts.
-
-Armor layers rotate.
-
-The damaged section retracts beneath fresh plating.
-
-Jean exhales sharply.
-
-"It can shed damage," she says. "Like skin."
-
-Logan wipes blood from his mouth and grins anyway.
-
-"Then we just gotta hit it somewhere it can't swap out."
-
-Cyclops looks up, watching the pattern now.
-
-Every weapon cycle.
-
-Every step.
-
-Every blast.
-
-"There," he says quietly.
-
-Everyone looks.
-
-Along the Sentinel's upper back, where optic, arm, and core systems converge, a narrow band of armor briefly **separates and realigns** with every major action.
-
-Not a weakness.
-
-A **necessary articulation point**.
-
-Storm nods slowly.
-
-"Every system routes through it," she says. "It has to."
-
-Jean focuses, eyes narrowing.
-
-"I can hold it open," she says. "Not destroy it. Just... stop it from closing."
-
-Cyclops turns to Logan.
-
-"You get one shot."
-
-Logan cracks his neck, claws sliding out.
-
-"One's all I need."
-
-The Sentinel raises its arms again, multiple weapons charging simultaneously.
-
-The battlefield trembles.
-
-For the first time since it rose, the machine is no longer merely attacking.
-
-It's **committing**.
-
-And the X-Men move, not to overpower it, but to **force it to make a mistake**.
-
-Because even a perfect machine still has to move.
-
-And movement means exposure.
-
-### Xavier's Property: Outside the Shield
-
-The students are losing ground.
-
-Not because they're weak.
-
-Because there are **too many**.
-
-Sentinels press in from every direction, adapting faster than the kids can recover. Ice shatters. Shields crack. Jubilee drops to one knee, breathing hard. Colossus staggers under the weight of three machines grappling him at once.
-
-Kitty phases through one Sentinel, comes out too slow and barely avoids a blast.
-
-Illyana snarls, opening portal after portal, but even Limbo has limits.
-
-The shield behind them hums louder now.
-
-Strained.
-
-A Sentinel raises its cannon, locking onto the group.
-
-Time slows.
-
-Except for one thing.
-
-A **blur** cuts through the battlefield.
-
-No warning.
-
-No sound.
-
-Just a streak of silver-blue tearing straight through the first Sentinel.
-
-Then the second.
-
-Then the third.
-
-Metal explodes outward, not on fire, but in pieces, limbs and optics scattering mid-air as if reality itself forgot to keep up.
-
-The students freeze.
-
-The Sentinels don't even register the threat.
-
-They can't.
-
-Because by the time their sensors update, they're already gone.
-
-A circular shockwave ripples across the field as **every Sentinel in the swarm collapses at once**, dismantled down to inert scrap in less than a heartbeat.
-
-Silence crashes in.
-
-Ice melts.
-
-Smoke settles.
-
-Jubilee blinks.
-
-"...What?"
-
-A figure skids to a stop in the center of the wreckage, dust spiraling around him as he straightens, hands on his hips.
-
-Silver hair.
-
-Crooked grin.
-
-Not even out of breath.
-
-Quicksilver looks around at the stunned students, then at the destroyed Sentinels.
-
-"So," he says casually, tilting his head,
-
-"I guess they didn't see that coming."
-
-For the first time since the Sentinels arrived, the students laugh.
-
-And the shield hums a little softer.
-
-### **The Docks - Evacuation Perimeter**
-
-The harbor is on fire.
-
-Smoke rolls low over the water as naval guns thunder again and again, muzzle flashes tearing holes through the night. Shells slam into advancing Sentinels, armor buckling, joints snapping, yet they keep coming, stepping through explosions like the ocean itself is pushing them forward.
-
-"Ammo check!" a commander shouts.
-
-The answer is silence.
-
-Then,
-
-"Dry!"
-
-"Last rack!"
-
-"Out!"
-
-The guns fall quiet.
-
-The Sentinels do not.
-
-Energy lances tear through the nearest ship. Steel screams. A destroyer lists hard, flames licking up its superstructure before it breaks apart, collapsing into the water with a sound that feels too big to be real.
-
-On the pier, **Lucas Bishop** drops to one knee in despair.
-
-His rifle is humming, overcharged and dangerous. Energy bleeds off his armor in violent arcs. He's full, past full, and there's nowhere left to put it.
-
-Ahead, the Sentinels change course.
-
-Not toward him.
-
-Toward the inland facility.
-
-Toward the kids.
-
-Bishop's jaw tightens.
-
-"No... no, no-"
-
-He tries to stand. His legs don't answer.
-
-He watches as the machines lift their cannons in unison, targeting coordinates he knows by heart.
-
-"I'm sorry," he mutters, not to the soldiers, not to the ships-
-
-To the children he promised would be safe. 
-
-The first blast charges. 
-
-Red energy flares in response. 
-
-The air distorts, not reality bending, but force colliding. Wanda's hands snap upward, and the beam veers violently off course, dragged sideways by an opposing surge of telekinetic pressure. It slams into open water, detonating in steam. 
-
-Every Sentinel pivot. 
-
-A figure descends from above, slow, deliberate; boots touching down on the pier. 
-
-Scarlet energy coils around her hands, not chaotic, controlled. 
-
-The Sentinels fire again. 
-
-This time the bolts don't misfire. 
-
-They hit a wall. 
-
-A concussive red barrier absorbs the barrage, splintering under the strain. Wanda exhales sharply and twists her wrists— 
-
-The missiles jerk mid-air, caught in opposing force fields. They rupture prematurely, explosions blooming harmlessly above the dock. 
-
-Targeting systems flicker, not because math failed, but because their sensors are being saturated. Magnetic interference spikes. Guidance fails. 
-
-With a violent sweep of her arm, Wanda unleashes everything she's holding. 
-
-The nearest Sentinels are ripped off their feet, not reality collapsing, but metal folding under immense telekinetic compression. Armor buckles. Limbs shear. Machines slam into each other in a storm of twisted steel. 
-
-Metal crashes. 
-
-Water churns. 
-
-Silence returns. 
-
-Bishop stares. 
-
-Wanda turns to him, calm amid the wreckage.
-
-"You're not giving up now old man," she says gently. "Not today."
-
-Bishop plants his foot, forcing himself upright. The energy inside him stabilizes, focused, deadly, _ready_.
-
-"Not a chance," he growls.
-
-He raises the rifle.
-
-And fires.
-
-One shot.
-
-Not wide.
-
-Not loud.
-
-**Perfect.**
-
-Every remaining Sentinel in the perimeter drops at once, cores rupturing, frames locking, lifeless before they hit the ground.
-
-Bishop exhales, shoulders sagging as the glow fades.
-
-"...Thanks," he says, sincere and quiet.
-
-Wanda doesn't smile.
-
-She looks past him, toward the skyline.
-
-Toward the towering silhouette still moving through the city.
-
-"It's not over," she says.
-
-The ground trembles again.
-
-Somewhere inland, the giant Sentinel takes another step.
-
-And the war tightens its grip.
-
-### **Midtown - Evacuation Corridor**
-
-The street is choking.
-
-Smoke, sirens, screaming, too many people, nowhere left to run.
-
-Sunspot burns bright at the center of the chaos, hurling heat and light just to keep the Sentinels from closing in. Warpath is a living barricade, taking blast after blast meant for civilians. Gambit moves like a ghost between them, detonations timed to buy seconds, only seconds.
-
-It isn't enough.
-
-A cry cuts through the noise.
-
-Down the block, a **mutant kid** stumbles and falls hard, skidding across broken asphalt. He tries to get up.
-
-He can't.
-
-Two Sentinels pivot at once.
-
-Red optics lock.
-
-**TARGET CONFIRMED.**
-
-Sunspot sees it.
-
-"No!"
-
-He takes one step toward them-
-
--and a blast slams into his back, throwing him into a storefront. Warpath moves to charge, but another Sentinel crashes into him from the side, locking him down. Gambit throws a card-
-
--another Sentinel tackles him mid-air.
-
-They're trapped.
-
-The kid's parents reach him first.
-
-A mother drops to her knees, pulling her son close. The father turns, shielding them with his own body, no weapon, no power, just instinct.
-
-They don't scream.
-
-They don't run.
-
-They wait.
-
-The Sentinels raise their cannons.
-
-Time stretches.
-
-Someone shouts.
-
-Someone prays.
-
-Then,
-
-**THWIP.**
-
-Webbing slams into one Sentinel's arm mid-charge.
-
-**THWIP-THWIP.**
-
-More webbing, fast, precise, snapping across joints, binding wrists together. The second Sentinel fires-
-
--but its arm is yanked sideways at the last second.
-
-The blast hits the **other Sentinel** point-blank.
-
-Both machines stagger.
-
-A red-and-blue blur swings through the smoke, feet hitting a lamppost, then a truck, then **mid-air** between the two machines.
-
-"Hey!" a voice cracks through the chaos. "Time out!"
-
-Spider-Man twists, yanking both web-lines hard.
-
-He throws Sentinels somewhere far away in the air upfront to avoid impact.
-
-"Friendly fire's a killer, guys," Spidey mutters.
-
-He let's go.
-
-Both Sentinels explode in the air.
-
-Debris rains down.
-
-Spider-Man shields the family to avoid any debris fall on them.
-
-When the dust clears, the kid is staring at him, wide-eyed, shaking, alive.
-
-Spider-Man turns, crouches low.
-
-"You okay, champ?" he asks softly.
-
-The kid nods.
-
-Spider-Man looks up at the parents.
-
-"Run. Straight down the block. Don't stop."
-
-They don't hesitate.
-
-"Thank you," the mother gasps as they pass.
-
-Spider-Man gives a quick thumbs-up.
-
-"No problem."
-
-He straightens.
-
-Behind him, Sunspot pushes himself up, staring.
-
-Warpath breaks free; eyes locked on the kid's retreat.
-
-Gambit exhales, shaking his head.
-
-"...That boy crazy," he says quietly. "And brave."
-
-The street finally goes quiet.
-
-What's left of the Sentinels smolder in broken heaps; smoke curling up into the dark. Sirens echo farther away now, still too close but moving.
-
-Sunspot wipes sweat from his face; solar glow dimming just enough to breathe.
-
-Warpath rolls his shoulders, checking for injuries like it is muscle memory.
-
-Gambit flicks a card into the air, lets it spark once, then pockets it.
-
-Spider-Man walk towards them, catching his breath for half a second longer than he wants anyone to notice.
-
-"Okay," he says, straightening. "Either I just jumped into the world's worst cosplay convention... or you guys are having a really bad day."
-
-Sunspot snorts despite himself.
-
-"Yeah," he says. "That about sums it up."
-
-Warpath studies Spider-Man, head to toe, assessing.
-
-"You didn't hesitate," he says. "Kid was dead if you didn't step up."
-
-Spider-Man shrugs, suddenly a little less jokey.
-
-"Yeah," he says quietly. "Couldn't really let that happen."
-
-Gambit tilts his head, eyes sharp behind the grin.
-
-"You always swing in like that?" He asks. "Or we special?"
-
-Spider-Man points vaguely at the wreckage.
-
-"When robots start shooting kids," he says, "I stop asking questions."
-
-Sunspot lets out a breath, then looks at Spider-Man properly.
-
-"Hey," he says. "Thanks. For... that."
-
-Spider-Man nods once.
-
-"No problem," he says. Then, after a beat: "You guys did most of the heavy lifting."
-
-Warpath huffs.
-
-"Don't sell yourself short."
-
-Gambit smirks.
-
-"Yeah, mon ami," he adds. "That web trick? Très clever."
-
-Spider-Man perks up.
-
-"Oh, thank you," he says. "Been working on that. Took a while to figure out how to tie murder-bots together without... y'know, dying."
-
-They share a brief, tired laugh.
-
-It doesn't last.
-
-A distant **metallic boom** rolls through the city.
-
-Spider-sense tingling, stance shifting automatically.
-
-Sunspot's head snaps up.
-
-"That's not us."
-
-Warpath narrows his eyes.
-
-"More coming."
-
-Spider-Man's shoulders tense.
-
-"Cool," he says. "So-uh-quick check. Anyone here allergic to lightning, explosions, or bad ideas?"
-
-Gambit flicks another card into his palm, grin returning.
-
-"Only on weekends."
-
-Sunspot's hands glow brighter.
-
-"Then let's finish this."
-
-Warpath steps forward, planting himself between the next wave and the evac route.
-
-Spider-Man eyes locking onto the skyline.
-
-"Alright," he says. "Round two."
-
-They move together.
-
-This time,
-
-on purpose.
-
-### **Elsewhere - Across the City**
-
-The war ripples outward.
-
-In Harlem, a Sentinel corners a bus full of evacuees. The doors jam. Panic rises-
-
--and the asphalt **folds upward**, forming a wall of stone as a young girl plant both hands on the ground, eyes wide but steady.
-
-"Get out," she says. "Now."
-
-The bus clears just as the wall shatters.
-
-She doesn't run.
-
-In the Bronx, a fire escape collapses under fleeing civilians. A man jumps without thinking, his skin hardening into rough granite as he **catches the structure mid-fall**, holding it long enough for everyone to scramble to safety.
-
-When the weight finally drops him to one knee, he laughs breathlessly.
-
-"Still got it," he mutters.
-
-On a Queens rooftop, a pair of teenagers watch Sentinels advance down the street below.
-
-One looks terrified.
-
-The other clenches her fists and suddenly the streetlights **flare**, bursting in sequence, plunging the block into darkness.
-
-The Sentinels pause.
-
-Confused.
-
-The kids run.
-
-In a hospital parking lot, alarms blare as a Sentinel lock onto the building. A nurse steps forward, trembling-
-
--and a translucent figure appears beside her, hands raised.
-
-A **telekinetic shield** snaps into place, cracking under the first blast but holding just long enough for patients to be wheeled out.
-
-The shield shatters.
-
-The mutant collapses, smiling anyway.
-
-Back on the streets, a crowd huddles behind overturned cars.
-
-A man with glowing eyes steps to the front.
-
-"I don't know how long I can do this," he says.
-
-Someone behind him answers, "Long enough."
-
-He nods.
-
-And does.
-
-No speeches.
-
-No banners.
-
-No permission.
-
-Just people, mutants, deciding that if the world is burning...
-
-They won't stand aside and watch.
-
-And that choice spreads faster than fear.
-
-### **The Battlefield - Final Convergence**
-
-The Sentinel **will not fall**.
-
-Storm is still in the air, lightning ripping across the sky, sweat and blood streaking her face as she forces the atmosphere to obey her through sheer will. Thunder crashes again and again but the machine only adjusts, rerouting damage, shedding ruined plating like dead skin.
-
-Below, Beast grunts and hurls Wolverine skyward with everything he has.
-
-"NOW!"
-
-Logan spins like a missile, claws out, roaring-
-
--but the Sentinel's thigh plates **shift mid-flight**, reconfiguring.
-
-Logan slams into reinforced armor, skids, loses grip-
-
--and falls.
-
-He hits the ground hard.
-
-The plates seal again.
-
-Storm exhales sharply.
-
-"Damn it..."
-
-Around them, the heavy hitters slow.
-
-Jean's hands tremble.
-
-Storm's breathing falters.
-
-Logan pushes himself up, but slower now.
-
-Cyclops, Rogue, Morph, and Mimic regroup behind shattered cover, catching breath they don't have.
-
-Cyclops wipes blood from his nose.
-
-"We're out of time," he says quietly.
-
-Then,
-
-"Already tired?"
-
-The voice comes from above.
-
-Red chaos energy flickers across the clouds.
-
-Cyclops looks up.
-
-Wanda descends slowly; eyes glowing, not angry, not wild, but focused.
-
-Beside her, Bishop lands heavily, rifle humming, energy stabilized and ready.
-
-"We cleared the perimeter," Bishop says. "You look like you could use backup."
-
-Cyclops almost smile.
-
-Before he can respond,
-
-the ground **erupts with motion**.
-
-Portals flash.
-
-Ice surges.
-
-Metal crashes.
-
-The students arrive.
-
-Colossus lands like a meteor, fists already raised.
-
-Magik steps through Limbo, sword blazing.
-
-Iceman freezes the Sentinel's lower joints mid-stride.
-
-Psylocke's blade hums as she scans for neural pathways.
-
-Then,
-
-a blur.
-
-Quicksilver skids to a stop, dust spiraling outward.
-
-"Sorry I'm late," he says casually. "Had to make sure every other Sentinel wasn't ruining someone's day."
-
-Behind him, the sky darkens again.
-
-Sunspot descends in a flare of solar fire, hovering near Storm and Jean.
-
-Warpath drops hard, still airborne somehow-
-
--carrying **Spider-Man** under one arm and **Gambit** under the other.
-
-He sets them down.
-
-Cyclops' eyes widen slightly.
-
-"...You're the kid," he says to Spider-Man.
-
-Peter straightens, sheepish.
-
-"Uh, hi, sir."
-
-Logan snorts from the ground.
-
-"Told ya he was alright."
-
-Cyclops nods once.
-
-Then his voice hardens.
-
-"Okay," he says. "New plan."
-
-"Gambit," Cyclops says, turning. "You're our scalpel."
-
-Gambit grins, cards already glowing.
-
-"Been waitin' to hear that."
-
-"You tag the limbs," Cyclops continues. "One at a time. We break its mobility."
-
-Sunspot flares brighter, floating higher.
-
-"I'll keep the sky clear," he says. "Backing up Storm and Jean."
-
-Warpath rolls his shoulders.
-
-"Point me."
-
-Cyclops gestures upward.
-
-"Arms. Head. Anything that moves."
-
-Spider-Man raises a hand.
-
-"I can tangle it," he says quickly. "Joints, anchor points, buy seconds."
-
-Cyclops meet his eyes.
-
-"Do it."
-
-Wanda floats closer.
-
-"And me?" Wanda asks.
-
-Cyclops hesitate, then nods.
-
-"You're the override."
-
-They move.
-
-Together.
-
-Gambit charges first, leaping impossibly high, slapping a glowing card against the Sentinel's knee.
-
-**BOOM.**
-
-The joint explodes inward.
-
-Colossus grabs the damaged leg and **wrenches**, tearing servos apart as Iceman flash-freeze the fracture.
-
-Spider-Man webs across the torso, binding plates mid-shift, jamming articulation points.
-
-Warpath launches upward, slamming into the Sentinel's arm with bone-crushing force, ripping it free as Psylocke severs control pathways in a single, clean strike.
-
-Storm and Jean press together, wind and mind forcing the machine's balance to fail.
-
-The Sentinel stumbles.
-
-Bishop fires, blasting exposed conduits with stored energy.
-
-Sunspot hammers from above, melting armor layers faster than they can rotate.
-
-The articulation band along the Sentinel's back **locks open**.
-
-Jean shouts.
-
-"NOW!"
-
-Cyclops step forward, carried by Scarlet Witch.
-
-His hand is on his visor.
-
-"Are you ready?" She asks.
-
-Cyclops without hesitating,
-
-"Yes."
-
-He pulls.
-
-The visor comes free.
-
-Cyclops unleash everything.
-
-Not controlled.
-
-Not precise.
-
-A column of pure concussive force detonates from his eyes, ripping across the battlefield like a newborn star.
-
-The recoil alone would have shattered bone.
-
-Wanda catches it.
-
-Scarlet energy flares around them, reinforcing his trajectory, tightening the beam's spread, preventing dispersion.
-
-The Sentinel screams.
-
-Not sound-
-
--but failure.
-
-Lights die.
-
-Systems cascade.
-
-The giant machine **shuts down**.
-
-It stands frozen.
-
-Then,
-
-it begins to fall.
-
-"MOVE!" Cyclops yell.
-
-Everyone scatters.
-
-Everyone but one.
-
-Quicksilver sighs.
-
-"Here we go again."
-
-Time fractures.
-
-In a single impossible blink, Pietro Maximoff dismantles the falling Sentinel, bolts unscrewed, plates removed; mass redistributed, until what hits the ground is nothing more than harmless debris.
+> **TARGETS IDENTIFIED.**
+>
+> **PRIMARY COMMAND**  
+> SCOTT SUMMERS
+>
+> **PSIONIC THREAT**  
+> JEAN GREY
+>
+> **ATMOSPHERIC THREAT**  
+> ORORO MUNROE
+>
+> **REGENERATIVE THREAT**  
+> LOGAN
+>
+> **SPATIAL THREAT**  
+> KURT WAGNER
+>
+> **POWER ABSORPTION THREAT**  
+> ROGUE
+>
+> **ANALYTICAL THREAT**  
+> DR. HENRY McCOY
+>
+> **MORPHOLOGICAL THREAT**  
+> MORPH
+>
+> **VARIABLE THREAT**  
+> MIMIC
 
 Silence.
 
-Then,
+Scott never took his eyes off the towering machine.
 
-Cheers.
+"It knows exactly who we are."
 
-Laughter.
+Then—
 
-Exhausted relief.
+Jean gasped.
 
-Storm sinks into her knees.
+Her body stiffened as an invisible pressure slammed into her mind.
 
-Jean closes her eyes.
+She grabbed both sides of her head.
 
-Cyclops wears his visor back.
+Her breathing became ragged.
 
-Logan lets himself smile.
+Blood trickled from her nose.
 
-Gambit turns toward Spider-Man.
+She dropped to one knee.
 
-"Hey, kid..."
+"...Scott..."
 
-He stops.
+A psionic dampening field.
 
-Spider-Man is already gone.
+It wasn't trying to control her mind.
 
-Only webbing remains.
+It was suppressing it.
 
-High above, swinging away, Peter hears a voice in his mind.
+The Giant Sentinel had attacked before anyone else had moved.
 
-_"_Thank you_",_ Charles says gently.
+Scott rushed to Jean's side, catching her before she collapsed completely.
 
-Peter grins behind the mask.
+"Jean!"
 
-"Anytime, Professor."
+She struggled to focus, one hand pressed against her temple.
 
-The city breathes again.
+"I'm... alright..."
 
-The war,
+The Giant Sentinel's crimson eyes shifted.
 
-is over.
+White light began gathering behind its lenses.
+
+Scott's expression changed instantly.
+
+"Kurt!"
+
+Nightcrawler looked up.
+
+Scott didn't hesitate.
+
+"Everyone on Kurt! NOW!"
+
+There wasn't a second of doubt.
+
+Logan was the first to move.
+
+Rogue grabbed Jean before Scott could.
+
+Storm descended from the air.
+
+Beast sprinted toward them.
+
+Mimic abandoned Scott's copied optic blasts.
+
+Nearby, the towering King Kong like form of Morph rapidly shrank, blue skin rippling back into his natural shape as he rushed toward Nightcrawler.
+
+Within seconds, every X-Man had a hand on Kurt.
+
+Nightcrawler swallowed hard.
+
+"...This is going to hurt."
+
+The Giant Sentinel lowered its head.
+
+Its eyes blazed white.
+
+"GO!"
+
+_BAMF!_
+
+Blue smoke exploded outward.
+
+The battlefield vanished.
+
+For a split second, Nightcrawler felt as though every muscle in his body had been ripped apart.
+
+The familiar sensation of teleportation became agonizingly heavy.
+
+Nine people.
+
+Too many.
+
+Far beyond what he preferred.
+
+They reappeared a safe distance to the Sentinel’s right, barely outside the path of the incoming blast.
+
+The instant their feet touched the ground—
+
+A blinding beam erupted where they had been standing.
+
+The Giant Sentinel fired directly into the earth.
+
+The impact shattered the ground.
+
+Stone vaporized.
+
+Without interrupting the beam, the Giant Sentinel slowly raised its head.
+
+The optic blast carved a perfectly straight trench across the battlefield, molten rock spraying skyward as the beam sliced through the landscape.
+
+Only after the beam faded did Nightcrawler collapse onto one knee.
+
+He breathed heavily.
+
+His tail trembled behind him.
+
+Logan placed a hand on his shoulder.
+
+"You good, Elf?"
+
+Kurt forced a tired smile between breaths.
+
+"I've... had... easier jumps."
+
+Scott stared at the glowing scar stretching across the battlefield.
+
+"It just changed the terrain..."
+
+Storm looked at the molten ground.
+
+"We can't fight on this."
+
+Without waiting for another command, she closed her eyes.
+
+The wind shifted.
+
+Dark clouds gathered overhead.
+
+Thunder rolled through the sky.
+
+Then came the rain.
+
+Sheets of water poured onto the battlefield.
+
+Steam erupted from the molten trench as the burning earth rapidly cooled.
+
+The suffocating heat gave way to dense white mist that spread across the battlefield.
+
+Visibility dropped.
+
+The ground hardened once again beneath their feet.
+
+Scott gave a slight nod.
+
+"Good."
+
+For several seconds...
+
+Nothing happened.
+
+The Giant Sentinel simply stood there, partially concealed behind the drifting steam.
+
+Watching.
+
+Waiting.
+
+Scott studied it carefully.
+
+"So..."
+
+He adjusted his visor.
+
+"...this is what Trask was building."
+
+The Giant Sentinel slowly raised both arms.
+
+Sections of armor shifted with heavy mechanical precision.
+
+Missile pods unfolded from its shoulders.
+
+Rotary cannons emerged from its forearms.
+
+Energy emitters extended from beneath layers of armored plating.
+
+It transformed before their eyes into a walking weapons platform.
+
+Rain continued to fall.
+
+Jean wiped the blood from beneath her nose and stood again.
+
+Storm rose into the storm clouds.
+
+Logan extended his claws.
+
+_SNIKT_
+
+Nightcrawler lowered into a ready stance.
+
+Morph's body rippled as it began to transform.
+
+Mimic's eyes briefly glowed crimson as he copied Scott's optic blasts.
+
+Beast adjusted the tactical visor over his eyes.
+
+Rogue stepped forward, fists clenched.
+
+Scott looked at every member of his team.
+
+No fear.
+
+No hesitation.
+
+Only resolve.
+
+"Alright, X-Men..."
+
+He fixed his visor on the towering machine.
+
+"...let's show it why it was a mistake to face all of us alone."
 
 ---
 
-## Chapter 8: Epilogue
+### Phase II – The First Offensive
+
+Scott's visor snapped shut.
+
+"Storm."
+
+She understood immediately.
+
+The sky answered.
+
+Rain intensified.
+
+Powerful crosswinds swept across the battlefield, driving curtains of steam toward the Giant Sentinel.
+
+Within seconds, the colossal machine disappeared behind a wall of mist.
+
+Scott didn't wait.
+
+"Jean. Hold its attention."
+
+Jean nodded.
+
+Despite the lingering pain pounding inside her head, she pushed through it.
+
+Chunks of shattered metal rose from the battlefield.
+
+With a sweeping motion of her hand, dozens of jagged fragments shot through the steam like artillery.
+
+The Giant Sentinel responded instantly.
+
+Missile pods rotated.
+
+Micro-missiles erupted into the air, intercepting every piece of debris before it reached its target.
+
+Explosions rippled through the mist.
+
+Scott smiled.
+
+"Exactly."
+
+The missiles had revealed the Sentinel's position.
+
+"Beast."
+
+Hank's visor flooded with tactical data.
+
+"I have it."
+
+Scott pointed.
+
+"Logan. Kurt."
+
+Nightcrawler grinned.
+
+"Always."
+
+**BAMF!**
+
+Blue smoke exploded.
+
+Logan vanished.
+
+A heartbeat later—
+
+He reappeared halfway up the Giant Sentinel's right arm.
+
+His claws plunged into steel.
+
+**SNIKT!**
+
+Sparks erupted as adamantium carved through armored plating.
+
+The Sentinel immediately reacted.
+
+Its gigantic arm swung upward, trying to throw Logan free.
+
+"Now!"
+
+Storm unleashed a violent crosswind.
+
+The gust struck the arm sideways, slowing its movement for just an instant.
+
+Long enough.
+
+Logan drove his claws even deeper.
+
+Meanwhile—
+
+"Morph. Mimic."
+
+Morph's body expanded into the towering form of a giant gorilla once again.
+
+Mimic's eyes flashed.
+
+Blue smoke engulfed them both.
+
+**BAMF!**
+
+In an instant, Mimic teleported himself and Morph onto the Giant Sentinel's left arm using Nightcrawler's power.
+
+Morph roared as his enormous fists hammered into the armored plating.
+
+Beside him, Mimic shifted again, copying Logan's healing factor before driving his own bone claws repeatedly into exposed joints and seams.
+
+Steel groaned beneath the relentless assault.
+
+Now both of the Giant Sentinel's primary arms were occupied.
+
+Scott was already three steps ahead.
+
+"Kurt."
+
+Nightcrawler was already moving.
+
+He grabbed Scott's arm.
+
+**BAMF!**
+
+They vanished.
+
+Almost simultaneously—
+
+Mimic's eyes flashed blue once more.
+
+Using Kurt's power, he teleported himself into the air as well.
+
+The two mutants appeared suspended on opposite sides of the Giant Sentinel's head, separated by several meters, both at eye level.
+
+For a fraction of a second...
+
+Time seemed to stand still.
+
+Scott reached for his visor.
+
+Mimic's eyes glowed crimson.
+
+"NOW!"
+
+Twin ruby beams erupted through the rain.
+
+One struck the left optic lens.
+
+The other pierced the right.
+
+The Giant Sentinel's head exploded in a shower of sparks and molten metal.
+
+Its optic lenses shattered.
+
+Fragments rained across the battlefield.
+
+Before gravity could claim him—
+
+**BAMF!**
+
+Nightcrawler reappeared beside Scott, grabbing him and instantly teleporting both of them safely back to the ground.
+
+Mimic didn't have that luxury.
+
+His eyes changed from crimson to white.
+
+A powerful gust of wind formed beneath him.
+
+Using Storm's powers, he slowed his descent before landing heavily on one knee.
+
+He exhaled sharply.
+
+"...Power switching is getting expensive."
+
+For a moment...
+
+Nothing happened.
+
+The rain continued to fall.
+
+Fragments of the Giant Sentinel's shattered optic lenses rained onto the battlefield, hissing as they struck the cooling earth.
+
+Logan paused, claws still buried deep inside the Giant Sentinel's right arm.
+
+Morph stopped pounding against the left arm.
+
+Storm hovered above the battlefield, watching through the drifting steam.
+
+Jean slowly lowered the pieces of twisted metal suspended around her.
+
+Even Beast looked up from the tactical data streaming across his visor.
+
+Scott allowed himself a single breath.
+
+"We got it."
+
+Then—
+
+The Giant Sentinel's left hand moved.
+
+Not wildly.
+
+Not desperately.
+
+Deliberately.
+
+Its enormous fingers closed around Logan before anyone could react.
+
+---
+
+### Phase III – It Never Lost Sight
+
+"LOGAN!"
+
+The Giant Sentinel's fingers tightened around Wolverine.
+
+Its armored hand began glowing from within.
+
+Internal heating systems.
+
+Logan gritted his teeth as smoke curled from his uniform.
+
+"Little help!"
+
+"Morph!"
+
+The giant gorilla didn't hesitate.
+
+With a deafening roar, Morph threw himself against the Giant Sentinel's left hand, wrapping both massive arms around its fingers and pulling with everything he had.
+
+Steel groaned.
+
+For a moment...
+
+The Sentinel's grip loosened.
+
+Then—
+
+The Giant Sentinel's free arm moved.
+
+One casual backhand.
+
+The blow struck Morph square in the chest.
+
+The enormous gorilla was launched across the battlefield.
+
+"Morph!" Rogue shouted.
+
+Before he could crash into the ground—
+
+A powerful gust of wind caught him.
+
+Storm.
+
+She redirected his momentum, carrying him across the battlefield instead of letting him slam into the earth.
+
+As Morph flew toward Rogue, his massive body rippled.
+
+The giant gorilla shrank back into his natural blue-skinned form.
+
+Rogue leapt.
+
+She caught him cleanly in midair before landing in a controlled roll across the shattered ground.
+
+"You okay?"
+
+Morph groaned.
+
+"I've had better landings."
+
+Meanwhile—
+
+Jean's eyes flashed.
+
+The Giant Sentinel's left wrist shuddered.
+
+Metal screamed.
+
+Panels buckled outward.
+
+The enormous fingers slowly began separating.
+
+The machine resisted.
+
+Hydraulics strained against Jean's telekinetic grip.
+
+Veins stood out along her neck.
+
+Blood trickled once more from beneath her nose.
+
+"Scott..."
+
+"I'm trying..."
+
+With one final cry—
+
+Jean forced the fingers apart.
+
+**CRACK!**
+
+The Giant Sentinel's wrist joint fractured.
+
+Logan dropped free.
+
+He barely had time to realize he was falling.
+
+Storm was already there.
+
+The wind wrapped around him, slowing his descent before carrying him safely to the ground.
+
+Logan landed hard on one knee.
+
+Steam rose from his smoldering suit.
+
+His healing factor was already repairing the burns across his arms.
+
+Storm touched down beside him.
+
+"You alright?"
+
+Logan looked up at the towering machine.
+
+"I will be."
+
+For the first time since the battle began...
+
+Neither side attacked.
+
+The X-Men regrouped.
+
+Everyone was breathing harder now.
+
+Jean wiped fresh blood from beneath her nose.
+
+Nightcrawler leaned forward with his hands on his knees, still recovering from the strain of multiple teleports.
+
+Mimic rolled his shoulders, trying to shake off the fatigue from cycling through so many different powers.
+
+Morph rubbed the side of his face where the Sentinel had struck him.
+
+Only Beast never looked away from the Giant Sentinel.
+
+His visor replayed every exchange.
+
+Every movement.
+
+Every counter.
+
+Scott noticed.
+
+"Hank?"
+
+Beast didn't answer immediately.
+
+His eyes remained fixed on the tactical display.
+
+"...Something's wrong."
+
+Scott turned toward him.
+
+"What is it?"
+
+Beast didn't answer.
+
+His fingers danced across the controls built into his visor.
+
+Combat recordings replayed faster and faster.
+
+Logan's assault.
+
+Storm's lightning.
+
+Jean's telekinetic attack.
+
+Scott and Mimic destroying the Giant Sentinel's eyes.
+
+Again.
+
+Again.
+
+Again.
+
+Then—
+
+Beast froze.
+
+"...Scott."
+
+"What?"
+
+"The Sentinel never reacted to what it could see."
+
+Scott frowned.
+
+"What are you talking about?"
+
+"It reacted to where we were."
+
+Beast enlarged the recordings.
+
+"When Logan attacked, it intercepted him before its head even turned."
+
+Another recording.
+
+"Storm's lightning."
+
+The Sentinel shifted its shoulder before the bolt struck.
+
+Another.
+
+"Jean's debris."
+
+Every fragment was intercepted without it searching for the attack.
+
+Scott slowly looked back toward the Giant Sentinel.
+
+"...The eyes."
+
+Beast nodded.
+
+"They weren't its primary sensors."
+
+Rain continued to fall across the battlefield.
+
+The Giant Sentinel stood perfectly still.
+
+Its shattered face crackled with damaged circuitry.
+
+Yet...
+
+Its head slowly turned toward the X-Men.
+
+Not searching.
+
+Looking directly at them.
+
+One by one.
+
+As though it had never been blinded at all.
+
+Scott felt a chill.
+
+"Hank..."
+
+Beast's expression hardened.
+
+"I think its entire body is a sensor array."
+
+Silence.
+
+"So destroying the eyes..."
+
+"...changed almost nothing."
+
+Jean stared at the machine.
+
+"...Then why isn't it attacking?"
+
+As if responding to her question—
+
+Tiny silver particles began flowing beneath the Giant Sentinel's damaged armor.
+
+They emerged from fractures around its shattered face.
+
+Like liquid metal.
+
+Millions of microscopic alloys spread across the destroyed surface.
+
+Broken plates slid back into place.
+
+Fractured components reconnected.
+
+Twisted metal straightened.
+
+The ruined face slowly rebuilt itself before their eyes.
+
+No sparks.
+
+No smoke.
+
+Only silent reconstruction.
+
+Within moments...
+
+A pristine face looked back at them.
+
+Cold.
+
+Expressionless.
+
+Untouched.
+
+Mimic let out a tired laugh.
+
+"...Seriously?"
+
+Beast didn't smile.
+
+"Nanoscopic repair alloys."
+
+"They're rebuilding the damaged sections."
+
+Scott watched the last silver particles disappear beneath the armor plating.
+
+"So it adapts..."
+
+"...and it repairs itself."
+
+The Giant Sentinel spoke.
+
+> **TACTICAL ANALYSIS UPDATED.**
+
+Its newly reconstructed face showed no expression.
+
+> **PRIMARY VISUAL ARRAY RESTORED.**
+
+> **SELF-REPAIR SYSTEMS... NOMINAL.**
+
+> **COMBAT EFFICIENCY... ONE HUNDRED PERCENT.**
+
+No one spoke.
+
+Scott's eyes never left the Giant Sentinel.
+
+"...Okay."
+
+He took one slow breath.
+
+"Now we're actually fighting it."
+
+---
+
+No one moved.
+
+Rain continued to fall across the ruined battlefield.
+
+Scott's eyes never left the Giant Sentinel.
+
+Every instinct told him to attack.
+
+He ignored it.
+
+"Status."
+
+The single word cut through the silence.
+
+Logan flexed his burned hand.
+
+"Healing."
+
+Storm descended beside the team.
+
+"I'm still good."
+
+Jean wiped another streak of blood from beneath her nose.
+
+"I'm here."
+
+Nightcrawler straightened, still breathing heavily.
+
+"I can keep teleporting... just don't ask me to move mountains."
+
+Morph rubbed his shoulder.
+
+"I've been hit harder."
+
+Mimic managed a tired grin.
+
+"I'd appreciate a few seconds before becoming everybody again."
+
+Scott nodded.
+
+Then he looked at Beast.
+
+"Hank."
+
+Beast was already studying the Sentinel.
+
+"The eyes are a distraction."
+
+Scott nodded once.
+
+"The repairs?"
+
+"Nanoscopic alloys."
+
+"Fast?"
+
+"They rebuilt an entire facial assembly in seconds."
+
+Scott thought.
+
+"Limits?"
+
+Beast hesitated.
+
+"I don't know."
+
+Scott smiled.
+
+"Good."
+
+Everyone looked at him.
+
+"If it has limits..."
+
+"...we make it reach them."
+
+The Giant Sentinel remained motionless.
+
+Watching.
+
+Waiting.
+
+Scott continued.
+
+"It reacts."
+
+"It adapts."
+
+"It repairs."
+
+He pointed toward the colossal machine.
+
+"None of those are free."
+
+Beast looked at him.
+
+Scott continued thinking out loud.
+
+"It spent missiles stopping Jean."
+
+"It redirected power to heat Logan."
+
+"It repaired its head."
+
+"It tracked all of us simultaneously."
+
+He looked back at Beast.
+
+"Everything it does costs something."
+
+Beast's eyes widened.
+
+"...Resources."
+
+Scott nodded.
+
+"Nothing runs forever."
+
+For the first time since the battle began—
+
+The Giant Sentinel spoke before anyone attacked.
+
+> **TACTICAL ANALYSIS UPDATED.**
+
+A cold mechanical voice echoed across the battlefield.
+
+> **MUTANT TEAM... ADAPTING.**
+
+The X-Men looked up.
+
+> **INITIATING COMBAT PHASE TWO.**
+
+A deep metallic sound echoed from within the Giant Sentinel.
+
+**THOOM.**
+
+Armor plating across its shoulders began shifting.
+
+Its back opened.
+
+Its chest separated.
+
+Entire sections of the machine rotated into new positions.
+
+The X-Men watched in silence.
+
+"It..."
+
+Morph stared.
+
+"...it's transforming."
+
+The Giant Sentinel's silhouette changed before their eyes.
+
+Not into another machine.
+
+Into a more specialized weapon.
+
+Scott's expression hardened.
+
+"...Everybody."
+
+He lowered his visor.
+
+"Round two."
+
+---
+
+## Chapter 8
+
+
+
+---
+
+## Chapter 9: Epilogue
 
 The city gathers in silence.
 
