@@ -201,7 +201,7 @@ Illyana replied, "Yes."
 
 "Why, we can handle them."
 
-"If we reveal ourselves, they’ll stop seeing this as an attack on children and start calling it a battle. We don’t give them that."
+"If we reveal ourselves, they'll stop seeing this as an attack on children and start calling it a battle. We don't give them that."
 
 Illyana looked toward his brother and everyone else.
 
@@ -503,7 +503,7 @@ Scott met his eyes.
 
 "It was about making sure none of us had to stand alone."
 
-"And most importantly, it was about making sure we don’t jeopardize everything we’ve spent years building... so people can trust us."
+"And most importantly, it was about making sure we don't jeopardize everything we've spent years building... so people can trust us."
 
 Neither man looked away.
 
@@ -523,7 +523,7 @@ Storm remained silent.
 
 Morph leaned back in his chair, saying nothing.
 
-Some arguments weren’t meant to be won.
+Some arguments weren't meant to be won.
 
 Mimic looked between Scott and Logan.
 
@@ -637,7 +637,9 @@ They declared open season.
 
 The Cerebro chamber hummed softly, a low mechanical breath filled the space.
 
-Charles sat at the center, hands resting lightly on the armrests, the helmet already in place. The room is dim, bathed in cold blue light and red lights. Hank stood near the console; eyes moving across the readouts faster than any human could follow.
+Charles sat at the center, hands resting lightly on the armrests, the helmet already in place.
+
+The room was dim, bathed in cold blue light and red lights. Hank stood near the console; eyes moving across the readouts faster than any human could follow.
 
 The X-Men watched in silence.
 
@@ -667,7 +669,7 @@ Scott stepped closer to the display.
 
 "Except they failed to take ours."
 
-"Yes," Charles says softly. "But they were not counting solely on us."
+"Yes," Charles said softly. "But they were not counting solely on us."
 
 More data scrolled past cities, rural towns, suburban neighborhoods. Places where mutant acceptance had only just begun to feel real.
 
@@ -705,9 +707,9 @@ No one spoke.
 
 Then Cyclops straightened.
 
-"Okay," he said. "So we don't charge in blind. We figure out where they went, how they were moved, and who made it invisible."
+"Okay," he said. "So we cannot charge in blind. We figure out where they went, how they were moved, and who made it invisible."
 
-He looks around the room.
+He looked around the room.
 
 "Let's break it down."
 
@@ -829,7 +831,7 @@ Storm's expression hardened.
 
 Rogue crossed her arms.
 
-"So how do *we* get in?"
+"So how do we get in?"
 
 Morph grinned faintly.
 
@@ -839,43 +841,59 @@ All eyes turned.
 
 "I can get us through the first layer," he said. "Dock personnel. Naval contractors. Whatever face gets us past the checkpoints."
 
-Mimic stepped forward beside him.
+Hank shook his head almost immediately.
 
-"And once we're inside," he said, "I can adapt to whatever they throw at us. Pressure. Cold. Firepower."
+"No."
 
-Cyclops nodded once.
+Morph blinked.
 
-"Good."
+"...No?"
 
-Jean spoke next.
+Hank folded his arms.
 
-"I'll shield the children once we reach them. Keep them calm. Keep them quiet."
+"This is William Stryker."
 
-Storm lifted her chin.
+The room fell silent.
 
-"I'll control the environment. Water currents. Visibility. Our extraction window."
+"He has spent years studying mutant biology. If he's operating a facility capable of imprisoning dozens of mutant children without Cerebro detecting them, I find it highly unlikely he would rely solely on visual identification."
 
-Nightcrawler smiled faintly.
+Scott frowned.
 
-"And when the moment comes, I'll begin moving the children to the submarine. As many as I safely can."
+"You think he can identify mutants?"
 
-Logan cracked his knuckles.
+"I think he would be foolish not to try."
 
-"And I'll deal with everyone who built this place."
+Hank tapped the projection.
 
-Charles listened to every plan before finally speaking.
+"Genetic scanners, meta-signature detectors, biometric analysis, any one of them could identify us before we reached the first security door."
 
-"This is not a raid," he said.
+Morph's smile faded.
 
-"It is a rescue."
+"So my face gets us inside..."
 
-"The children come first."
+"...and gets everyone killed," Hank finished.
 
-"Always."
+Silence settled over the room.
 
-Scott met his gaze.
+Scott looked toward Hank.
 
-"Understood."
+"What do you suggest?"
+
+A faint smile crossed Beast's face.
+
+"I prepared for that."
+
+He walked toward a storage cabinet at the far end of the lab.
+
+"It isn't perfect," he said.
+
+"But it should make us appear... ordinary."
+
+He placed a compact case on the table.
+
+Inside lay several dark, streamlined suits.
+
+"Let's just say I have been thinking about this possibility for a very long time."
 
 ---
 
@@ -909,7 +927,7 @@ Charles's expression darkened.
 
 "And if possible," he said, "ensure it cannot be rebuilt."
 
-No one argues.
+No one argued.
 
 ---
 
@@ -917,7 +935,7 @@ No one argues.
 
 The plan locked into place.
 
-This time, there are no disguises.
+This time, there were no disguises.
 
 No casual clothes.
 
@@ -957,13 +975,17 @@ One half, lit by the cool glow of Cerebro's chamber.
 
 The other framed by shadow, steel, and distance.
 
-Charles Xavier sat at the center of the room, posture composed, fingers resting lightly on the arm of his chair. Behind him, soft telemetry scrolled across translucent screens, altitude, velocity, signal strength. The Blackbird is already en route.
+Charles Xavier sat at the center of the room, posture composed, fingers resting lightly on the arm of his chair.
+
+Behind him, soft telemetry scrolled across translucent screens, altitude, velocity, signal strength.
+
+The Blackbird is already en route.
 
 Across from him, Erik Lehnsherr studied the board, one hand loosely guiding a piece into position.
 
 A pawn advanced.
 
-"You only call when you're anxious," Erik says, not looking up.
+"You only call when you're anxious," Erik said, not looking up.
 
 Charles allowed himself a small breath.
 
@@ -973,7 +995,7 @@ Erik's mouth curved faintly.
 
 "Of all people."
 
-"And yet," Charles says, eyes flicked briefly to a shifting readout, "you always answer."
+"And yet," Charles said, eyes flicked briefly to a shifting readout, "you always answer."
 
 Another piece moved. The board updated silently.
 
@@ -987,7 +1009,7 @@ Erik studied the board, then glances up, just long enough to see the tension Cha
 
 "That was always the endgame for men like Stryker," Charles replied.
 
-A knight slided into place.
+A knight slid into place.
 
 "You've sent them in," Erik said. "Your X-Men. Into a place designed to erase them."
 
@@ -1013,11 +1035,11 @@ He made his move, precise, restrained.
 
 Erik leaned back slightly, eyes moving between the board and the faint reflections of data in Charles's lenses.
 
-"You know," Erik said, "you don't call for strategy."
+"You know," Erik said, "you don't call me for strategy."
 
 "No," Charles said.
 
-"You call so you don't rush," Erik continued. "So you stay patient while others act."
+"You call me so you don't rush," Erik continued. "So you stay patient while others act."
 
 Charles met his gaze.
 
@@ -1033,9 +1055,9 @@ The game continued.
 
 So did the flight.
 
-Far above the ocean, the Blackbird cuts silently through the clouds.
+Far above the ocean, the Blackbird cut silently through the clouds.
 
-Far below the surface, something vast and deliberate waits.
+Far below the surface, something vast and deliberate waited.
 
 And between moves, Charles watched, steady, focused, trusting his team to finish what has already begun.
 
@@ -1045,11 +1067,19 @@ And between moves, Charles watched, steady, focused, trusting his team to finish
 
 The ocean is calm.
 
-Beneath the surface, the Blackbird skims low over the water, engines throttled down to a whisper, before banking hard and disappearing into cloud cover. A moment later, it re-emerged, already submerging, its hull sealed, lights dimmed, moving like something that was never meant to fly.
+Beneath the surface, the Blackbird skimmed low over the water, engines throttled down to a whisper, before banking hard and disappearing into cloud cover.
+
+A moment later, it re-emerged, already submerging, its hull sealed, lights dimmed, moving like something that was never meant to fly.
 
 Inside, no one speaks.
 
-Cyclops watched the depth gauge tick downward in steady increments. Storm felt the pressure shift long before the instruments register it, the water outside grew heavier, denser. Wolverine's knuckles flexed once, then still. Mimic slowed his breathing, his body unconsciously adjusting, lungs, muscles, circulation, learning the environment before it demanded it.
+Cyclops watched the depth gauge tick downward in steady increments.
+
+Storm felt the pressure shift long before the instruments register it, the water outside grew heavier, denser.
+
+Wolverine's knuckles flexed once, then still.
+
+Mimic slowed his breathing, his body unconsciously adjusting, lungs, muscles, circulation, learning the environment before it demanded it.
 
 Nightcrawler closed his eyes, tail curling tight.
 
@@ -1063,13 +1093,13 @@ Cyclops nodded.
 
 "Do it."
 
-Ahead of them, the seabed falls away.
+Ahead of them, the seabed fell away.
 
-A shape emerges from the darkness.
+A shape emerged from the darkness.
 
 Not a structure, an absence.
 
-A vast recessed cavity carved into the ocean floor, invisible unless you know exactly where to look. No lights. No markings. Just a perfectly circular void where sonar refuses to behave.
+A vast recessed cavity carved into the ocean floor, invisible unless you know exactly where to look. No lights, no markings, just a perfectly circular void where sonar refuses to behave.
 
 Storm's eyes narrowed.
 
@@ -1079,13 +1109,13 @@ Storm's eyes narrowed.
 
 The Blackbird slowed, hovering just outside the perimeter.
 
-Hank's fingers moved faster now, not typing, but **timing**. He synced the Blackbird's systems with the facility's external sensors, matching frequency, latency, and error tolerance. He isn't breaking encryption.
+Hank's fingers moved faster now, not typing, but **timing**. He synced the Blackbird's systems with the facility's external sensors, matching frequency, latency, and error tolerance.
 
-He's impersonating _routine_.
+He isn't breaking encryption. He's impersonating _routine_.
 
-"They don't authenticate identity," Hank murmurs. "They authenticate sequence. Cargo arrives. Pressure equalizes. Door opens. Anything outside that rhythm gets rejected."
+"They don't authenticate identity," Hank murmurred. "They authenticate sequence. Cargo arrives, pressure equalizes, door opens, anything outside that rhythm gets rejected."
 
-A warning flashes.
+A warning flashed.
 
 **ROUTE CONFIRMATION PENDING**
 
@@ -1133,11 +1163,13 @@ It's a boundary.
 
 Nightcrawler swallowed.
 
-"No jumping," Hank adds quickly. "Not yet. The space is saturated with sensors."
+"No jumping," Hank adds quickly. "The space is saturated with sensors."
 
 Kurt nods.
 
 "I walk."
+
+Everybody began wearing the infiltration suit that Hank designed. It turned on as the suit fitted into their bodies.
 
 Jean went first, steadying herself before slipping into the water. Rogue followed, then Mimic, then Logan.
 
@@ -1205,7 +1237,7 @@ Hank allowed himself a thin smile.
 
 "Second, cloaking," he continues. "Not invisibility. Just perceptual blending. Cameras see you as static. Sensors tag you as environmental variance. Personnel... simply don't _notice_ you unless they're looking directly at you."
 
-"Hidden in plain sight," Rogue murmured.
+"Hiding in plain sight," Rogue murmured.
 
 "Exactly," Hank said. "You walk like you belong here, the system assumes you do."
 
@@ -1451,7 +1483,7 @@ Logan exhales slowly.
 
 He closes his eyes, focusing.
 
-"They’re discussing the children’s data. Improving mutant tracking."
+"They're discussing the children's data. Improving mutant tracking."
 
 A beat.
 
@@ -3179,7 +3211,7 @@ Too many.
 
 Far beyond what he preferred.
 
-They reappeared a safe distance to the Sentinel’s right, barely outside the path of the incoming blast.
+They reappeared a safe distance to the Sentinel's right, barely outside the path of the incoming blast.
 
 The instant their feet touched the ground—
 
