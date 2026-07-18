@@ -3989,85 +3989,2747 @@ He lowered his visor.
 
 ---
 
-## Chapter 8
+## Chapter 8: The City Stands
 
+The battle was no longer confined to one battlefield.
 
+It had spilled into the streets.
+
+Across New York...
+
+The war rippled outward.
 
 ---
 
-## Chapter 9: Epilogue
+### Elsewhere — Harlem
 
-The city gathers in silence.
+A Sentinel's shadow swallowed an evacuation bus.
 
-Flags hang low. Names are read aloud, some spoken by family members, some by officials who never knew the faces behind them. Candles flicker in the morning air as people stand shoulder to shoulder; strangers bound by the same absence.
+Its metal fingers reached toward the vehicle.
 
-Charles Xavier sits among them.
+Inside—
 
-He does not speak.
+Children screamed.
 
-He listens.
+Adults threw themselves over them.
 
-Some of the fallen wore uniforms. Others wore nothing but courage. All of them chose to move toward danger when they could have chosen to run.
+The doors refused to open.
 
-The world remembers them today.
+"Move!"
 
-And in remembering them, something shifts.
+"They won't open!"
 
-The mansion grounds are quiet.
+The Sentinel raised its arm.
+
+Then—
+
+The street cracked.
+
+Stone surged upward from the asphalt, folding over itself into a towering wall between the Sentinel and the bus.
+
+A teenage girl stood in the middle of the road.
+
+Both palms pressed against the pavement.
+
+Her arms trembled violently.
+
+Sweat rolled down her forehead.
+
+"Go!"
+
+The doors finally burst open.
+
+People poured from the bus.
+
+"Run!"
+
+The Sentinel's fist smashed through the stone barrier.
+
+It exploded into fragments.
+
+The shockwave threw the girl backward.
+
+But by then...
+
+The bus was empty.
+
+---
+
+### Elsewhere — The Bronx
+
+A fire escape groaned.
+
+Its bolts snapped.
+
+Metal twisted away from the building.
+
+Below—
+
+Families scattered.
+
+Too slow.
+
+The entire structure crashed downward.
+
+A man sprinted beneath it without thinking.
+
+His skin hardened.
+
+Gray.
+
+Rough.
+
+Granite spread across his body.
+
+He caught the collapsing fire escape on his shoulders.
+
+The impact drove him to one knee.
+
+Concrete beneath him cracked.
+
+People stared.
+
+"Hurry!"
+
+One after another—
+
+They climbed over the fallen structure.
+
+The last child reached safety.
+
+Only then did the man let go.
+
+The fire escape slammed into the street.
+
+Dust filled the air.
+
+He sat there breathing heavily.
+
+A bruised grin crossed his face.
+
+"...Still got it."
+
+---
+
+### Elsewhere — Queens
+
+Two teenagers crouched on a rooftop.
+
+Below—
+
+Three Sentinels marched through the avenue.
+
+One boy couldn't stop shaking.
+
+"They're going to find us."
+
+His friend stared at the approaching machines.
+
+Then...
+
+She clenched both fists.
+
+Every streetlight on the block flared.
+
+One after another.
+
+**POP.**
+
+**POP.**
+
+**POP.**
+
+Glass exploded.
+
+The entire avenue disappeared into darkness.
+
+The Sentinels halted.
+
+Scanning.
+
+Recalculating.
+
+The teenagers didn't wait.
+
+They ran.
+
+---
+
+### Elsewhere — Midtown
+
+Hospital alarms echoed through the streets.
+
+Doctors pushed patients toward waiting ambulances.
+
+A Sentinel turned.
+
+Target acquired.
+
+Its palm began glowing.
+
+A nurse stepped between the machine and the patients.
+
+She was terrified.
+
+Everyone could see it.
+
+But she didn't move.
+
+A young mutant beside her closed his eyes.
+
+Both hands rose.
+
+A translucent barrier shimmered into existence.
+
+The blast struck.
+
+The shield cracked instantly.
+
+Fractures spread across its surface.
+
+The mutant screamed.
+
+Still—
+
+He held it.
+
+Long enough.
+
+Wheelchairs rolled past.
+
+Stretchers cleared the entrance.
+
+The last patient disappeared around the corner.
+
+The barrier shattered.
+
+The young man collapsed to the pavement.
+
+Exhausted.
+
+Smiling.
+
+---
+
+### Elsewhere — Brooklyn
+
+Dozens of civilians huddled behind overturned vehicles.
+
+A Sentinel advanced through the smoke.
+
+A man stepped in front of them.
+
+His eyes glowed.
+
+Light gathered around his hands.
+
+He swallowed.
+
+"I..."
+
+His voice shook.
+
+"...I don't know how long I can do this."
+
+Silence.
+
+Then someone behind him answered.
+
+"...Long enough."
+
+He smiled.
+
+Nodded once.
+
+Then faced the Sentinel.
+
+---
+
+No speeches.
+
+No uniforms.
+
+No banners.
+
+No permission.
+
+Just people.
+
+Mutants.
+
+Choosing.
+
+Choosing that if the world was burning...
+
+They would not stand aside and watch.
+
+And that choice spread through the city faster than fear.
+
+---
+
+Far across Manhattan—
+
+A little girl cried beneath a collapsed storefront.
+
+Her mother clawed helplessly at chunks of broken concrete.
+
+"It won't move!"
+
+More rubble shifted.
+
+The building groaned.
+
+People backed away.
+
+Then...
+
+A blur.
+
+For the briefest instant, the air itself seemed to ripple.
+
+The crying stopped.
+
+The mother blinked.
+
+Her daughter was suddenly standing beside her.
+
+Safe.
+
+She looked around in confusion.
+
+"...Mom?"
+
+No one had seen anyone.
+
+---
+
+Several blocks away—
+
+A Sentinel fired into an evacuation route.
+
+The blast should have torn through dozens of civilians.
+
+Instead—
+
+A delivery truck lurched sideways across the street as if pushed by an invisible force.
+
+The energy blast slammed into its reinforced side.
+
+Metal folded inward.
+
+Windows exploded.
+
+The civilians behind it survived.
+
+For the briefest heartbeat...
+
+A faint crimson glow reflected across the truck's twisted frame.
+
+Then...
+
+It vanished.
+
+No one noticed.
+
+The survivors only stared at the impossible escape.
+
+---
+
+Across New York...
+
+Stories were already beginning.
+
+About impossible rescues.
+
+About people who moved too fast to see.
+
+About flashes of crimson that appeared only for an instant.
+
+No one knew their names.
+
+Not yet.
+
+---
+
+### Battlefield
+
+The barren battlefield fell silent.
+
+The rain had long since passed.
+
+Steam no longer rose from the shattered earth.
+
+Only endless scars remained.
+
+A wasteland stretched in every direction, carved apart by optic blasts, explosions, and the weight of a giant machine.
+
+At its center—
+
+The Giant Sentinel stood in its new configuration.
+
+Armor plates that had once protected its frame now rested in entirely different positions.
+
+New weapon systems had rotated into view.
+
+Its silhouette had changed.
+
+Not larger.
+
+Not more intimidating.
+
+Simply...
+
+More efficient.
+
+Across the battlefield, the X-Men held their ground.
+
+No one spoke.
+
+Scott's last words still lingered between them.
+
+**Round two.**
+
+No one had moved since.
+
+Both sides waited.
+
+Studying.
+
+Calculating.
+
+The silence itself became part of the battle.
+
+Beast adjusted his visor.
+
+"...It's not looking for an opening."
+
+Scott didn't take his eyes off the Sentinel.
+
+"No."
+
+"It's waiting for us to make the first mistake."
+
+Deep inside the Giant Sentinel...
+
+Millions of calculations continued every second.
+
+Every movement.
+
+Every attack.
+
+Every response.
+
+Refined.
+
+Optimized.
+
+Predicted.
+
+> **TACTICAL MODEL UPDATED.**
+
+> **ENGAGEMENT PARAMETERS OPTIMIZED.**
+
+The Giant Sentinel slowly lowered into a new combat stance.
+
+Not aggressive.
+
+Prepared.
+
+Scott lowered himself into position.
+
+His visor narrowed.
+
+"...Then let's disappoint it."
+
+---
+
+The Giant Sentinel moved first.
+
+Not forward.
+
+Backward.
+
+One deliberate step.
+
+Then another.
+
+Scott frowned.
+
+"...Why is it retreating?"
+
+"It isn't," Beast answered quietly.
+
+"It's making space."
+
+The answer came a second later.
+
+The Giant Sentinel extended both arms.
+
+Its palms unfolded.
+
+Not into cannons.
+
+Into dozens of smaller emitters.
+
+Storm's eyes widened.
+
+"Everyone down!"
+
+The battlefield erupted.
+
+Hundreds of concentrated energy bolts rained across the wasteland.
+
+Not aimed at the X-Men.
+
+Around them.
+
+The earth exploded in every direction.
+
+Columns of dust shot into the sky.
+
+The barren battlefield disappeared beneath clouds of shattered stone.
+
+Visibility vanished.
+
+Scott slid behind a fractured ridge of earth.
+
+"Cyclops!"
+
+"I'm here!"
+
+Jean's voice echoed somewhere inside the dust.
+
+"I can't see anyone!"
+
+Neither could the Sentinel.
+
+Scott realized that immediately.
+
+"...It's forcing us apart."
+
+"No," Beast's voice came through the comms.
+
+"It's forcing us to communicate."
+
+Another barrage struck.
+
+The ground shook violently.
+
+Nightcrawler teleported through the smoke.
+
+*BAMF!*
+
+He emerged beside Scott.
+
+"I cannot see more than a few meters!"
+
+Scott activated the tactical frequency.
+
+"Everybody report."
+
+One by one—
+
+"I'm good." — Logan.
+
+"Still airborne." — Storm.
+
+"With Scott." — Nightcrawler.
+
+"I'm alright." — Jean.
+
+"Mimic's with me." — Morph.
+
+Beast answered last.
+
+"I believe I understand."
+
+Scott didn't ask.
+
+"Hurry."
+
+Beast watched another wave of precise impacts land around them.
+
+"Notice the pattern."
+
+Scott looked.
+
+The blasts weren't random.
+
+Every impact was measured.
+
+Evenly spaced.
+
+Like a giant invisible grid.
+
+"It's controlling the battlefield," Scott said.
+
+"Exactly."
+
+"It isn't trying to hit us."
+
+"It's deciding where we can stand."
+
+As Beast finished—
+
+The bombardment stopped.
+
+Silence.
+
+Dust drifted through the air.
+
+Scott narrowed his visor.
+
+"...Too quiet."
+
+Then—
+
+A deep metallic impact echoed through the haze.
+
+**THOOM.**
+
+Another.
+
+Closer.
+
+**THOOM.**
+
+The Giant Sentinel emerged from the dust.
+
+Not searching.
+
+Walking directly toward Scott.
+
+It knew exactly where he was.
+
+Scott's eyes widened.
+
+"It separated us..."
+
+"...then isolated the leader."
+
+The Sentinel raised one enormous arm.
+
+Its forearm shifted.
+
+A massive blade extended from within the armor.
+
+Logan's voice crackled over the comm.
+
+"Scott!"
+
+Too far away.
+
+Scott planted his feet.
+
+His visor opened.
+
+"So much for disappointing it."
+
+A crimson beam erupted from his eyes.
+
+---
+
+The crimson beam slammed into the Sentinel's descending blade.
+
+**KRAAAAAAANG!**
+
+The impact slowed it.
+
+Nothing more.
+
+Scott rolled aside as the blade carved through the earth where he had stood.
+
+The ground split apart.
+
+A trench stretched dozens of meters behind him.
+
+Scott landed on one knee.
+
+"...Yeah."
+
+He looked up.
+
+"...Definitely Phase Two."
+
+The Giant Sentinel advanced.
+
+One step.
+
+Then another.
+
+It never rushed.
+
+It didn't need to.
+
+Every movement was calculated.
+
+Every strike forced Scott farther across the wasteland.
+
+Another swing.
+
+Scott fired.
+
+The optic blast struck the Sentinel's shoulder, pushing the enormous arm just enough for the blade to miss him by inches.
+
+He kept moving.
+
+Never standing still.
+
+Never firing longer than necessary.
+
+Inside his visor, tactical markers flashed continuously.
+
+Distance.
+
+Angle.
+
+Terrain.
+
+Time.
+
+Scott wasn't trying to win.
+
+He was buying it.
+
+---
+
+"Scott!"
+
+Jean's voice burst through the comms.
+
+"We're trying to reach you!"
+
+"Negative."
+
+Scott ducked beneath another swing.
+
+"Stay where you are."
+
+"Scott—"
+
+"Trust me."
+
+The channel fell silent.
+
+---
+
+The Sentinel continued its relentless advance.
+
+Every attack herded Scott toward the northern edge of the battlefield.
+
+Its calculations remained flawless.
+
+Target retreating.
+
+Escape routes decreasing.
+
+Probability of elimination rising.
+
+Then—
+
+Scott smiled.
+
+"Got you."
+
+The Sentinel paused.
+
+Not because it understood.
+
+Because Scott had stopped running.
+
+He stood perfectly still.
+
+The machine raised its blade.
+
+High above him.
+
+Scott touched the side of his visor.
+
+"Now."
+
+Storm raised one hand.
+
+This time, the sky did not answer.
+
+The earth did.
+
+The ground beneath the Giant Sentinel cracked and lurched upward, stealing its balance for a single, crucial moment.
+
+That was all Scott needed.
+
+Before the machine could recover—
+
+**BAMF!**
+
+Nightcrawler appeared above its shoulders.
+
+Three compact explosive charges clung to the exposed joints between its newly repositioned armor plates.
+
+**BAMF!**
+
+He vanished.
+
+"Charges set!"
+
+The Sentinel immediately twisted—
+
+Too late.
+
+"Jean!"
+
+Invisible telekinetic force slammed against the machine's upper body.
+
+Not to throw it.
+
+To hold it in place.
+
+She gritted her teeth.
+
+"I've... got it!"
+
+"Logan!"
+
+A yellow blur sprinted through the dust.
+
+Logan didn't attack the torso.
+
+He ignored the armor completely.
+
+Instead—
+
+His claws buried themselves into the Sentinel's right ankle joint.
+
+Metal screamed.
+
+The machine shifted again.
+
+Its balance worsened.
+
+"Mimic!"
+
+"I know!"
+
+Mimic copied Scott's optic blast.
+
+A second crimson beam struck the same destabilized leg.
+
+Then Morph.
+
+Already transformed into Mammoth.
+
+He charged like a battering ram.
+
+Straight into the weakened joint.
+
+Scott watched everything unfold exactly as planned.
+
+The Sentinel had believed it was isolating one target.
+
+Instead—
+
+It had walked directly into the center of the X-Men.
+
+Together.
+
+---
+
+The Giant Sentinel staggered.
+
+Its right leg dug deep into the fractured earth, carving a trench across the battlefield.
+
+For a moment...
+
+It looked like it would fall.
+
+Then—
+
+Its entire frame shifted.
+
+**KRRRRT... CLANK.**
+
+Armor plates slid into new positions.
+
+The damaged ankle locked into place.
+
+Hydraulic pistons expanded.
+
+The machine redistributed its own weight.
+
+It caught itself.
+
+Silence.
+
+Beast's eyes widened.
+
+"...It compensated."
+
+The Sentinel slowly turned toward the X-Men.
+
+Its crimson optics swept across each of them.
+
+> **TACTICAL ASSESSMENT UPDATED.**
+
+> **COORDINATED TEAM ASSAULT DETECTED.**
+
+> **PRIORITY TARGET REVISION COMPLETE.**
+
+Scott's smile faded.
+
+"It learned."
+
+"No..." Beast said quietly.
+
+"It evolved."
+
+The Giant Sentinel raised both arms.
+
+This time...
+
+It wasn't aiming at any one X-Man.
+
+It was aiming at all of them.
+
+---
+
+The Giant Sentinel lowered its arms.
+
+It didn't attack.
+
+It observed.
+
+Its crimson optics swept across the battlefield.
+
+Scott.
+
+Jean.
+
+Storm.
+
+Logan.
+
+Nightcrawler.
+
+Mimic.
+
+Morph.
+
+Beast.
+
+> **THREAT ANALYSIS COMPLETE.**
+
+> **PRIMARY ADVANTAGE IDENTIFIED: TEAM COORDINATION.**
+
+> **COUNTERMEASURE INITIATED.**
+
+"What is it doing?" Logan growled.
+
+Beast's eyes narrowed.
+
+"...I don't like this."
+
+Without warning—
+
+The Giant Sentinel slammed both hands into the ground.
+
+**BOOOOOOM!!**
+
+The wasteland erupted.
+
+Deep fissures raced across the battlefield in every direction.
+
+Walls of shattered earth exploded upward between the X-Men.
+
+Scott stumbled as the ground split beneath him.
+
+"Jean!"
+
+A ridge of stone burst between them.
+
+Storm was forced into the air.
+
+Nightcrawler vanished with a **BAMF** just before the earth swallowed his footing.
+
+Logan barely leapt across a widening chasm.
+
+Mimic rolled behind a slab of rock.
+
+Within seconds...
+
+The battlefield had become a maze.
+
+No one had been injured.
+
+Everyone had been separated.
+
+Scott looked around.
+
+"...It broke formation."
+
+Beast's voice crackled through the comms.
+
+"No."
+
+"It broke line of sight."
+
+Silence.
+
+Scott understood immediately.
+
+Without seeing one another...
+
+Every order would arrive a second too late.
+
+And against something that could think this fast—
+
+One second was everything.
+
+---
+
+The Giant Sentinel stood motionless.
+
+Watching.
+
+Calculating.
+
+Neither side moved.
+
+Scott's voice cut through the silence.
+
+"Beast."
+
+A beat.
+
+"Tell me you've found something."
+
+Beast's eyes remained fixed on the telemetry racing across his tablet.
+
+"...I have."
+
+Everyone turned toward him.
+
+"The armor isn't its greatest defense."
+
+"The processing core is."
+
+Scott frowned.
+
+"Where?"
+
+Beast enlarged a wireframe model of the Giant Sentinel.
+
+"The adaptive processing core is housed beneath the dorsal armor..."
+
+The hologram rotated.
+
+"...just below the nape of its neck."
+
+A crimson point pulsed on the Sentinel's upper back.
+
+"Every adaptation."
+
+"Every tactical calculation."
+
+"Every combat decision."
+
+"It all originates there."
+
+Scott looked up.
+
+His eyes followed the Giant Sentinel as it instinctively kept turning to face them.
+
+Never exposing its back.
+
+"It knows."
+
+Beast nodded.
+
+"It may not know why it's protecting that area..."
+
+"...but it knows it cannot afford to lose it."
+
+Silence settled over the battlefield.
+
+Scott studied the Sentinel's movements one last time.
+
+Then...
+
+A smile crept across his face.
+
+"I've got it."
+
+Jean looked at him.
+
+"You have a plan?"
+
+Scott adjusted his visor.
+
+"We stop trying to destroy the Sentinel."
+
+He locked his gaze on the back of its neck.
+
+"We just need one shot."
+
+The Giant Sentinel's crimson optics ignited.
+
+Scott took a step forward.
+
+"Round three."
+
+---
+
+## Chapter 9
+
+### Xavier's School
+
+Outside Xavier's School for Gifted Youngsters...
+
+The battle hadn't stopped.
+
+It had only become harder.
+
+Bobby carved across the battlefield atop a wave of ice, his entire body encased in crystalline frost.
+
+An ice spear shot from his hand, piercing straight through a Sentinel's chest.
+
+Before the machine could recover—
+
+The ice spread rapidly across its frame.
+
+It froze solid.
+
+Piotr burst through the frozen Sentinel with a thunderous shoulder charge, reducing it to shattered steel and glittering ice.
+
+Nearby—
+
+Kitty phased through another Sentinel, causing its arm cannon to fire into the one behind it.
+
+Psylocke landed beside her, her psychic blade slicing through exposed circuitry before vaulting away.
+
+Above them—
+
+Warren swept through the smoke, catching two younger students moments before a blast struck the ground beneath them.
+
+Illyana's stepping discs flashed across the battlefield.
+
+One Sentinel swung—
+
+—and struck nothing.
+
+It reappeared several meters away, directly in Bobby's path.
+
+Without slowing, Bobby raised both hands.
+
+Jagged pillars of ice erupted from the ground, impaling the Sentinel before a crashing wave of ice engulfed it completely.
+
+Jubilation unleashed a barrage of brilliant plasma bursts into the frozen machine.
+
+It exploded into shards.
+
+Behind them...
+
+The shimmering barrier surrounding the mansion flickered.
+
+Another Sentinel slammed against it.
+
+Then another.
+
+Then another.
+
+"They're hitting the shield again!" someone shouted.
+
+Bobby glanced over his shoulder.
+
+"They're coming from behind too!"
+
+More Sentinels climbed over the surrounding woods.
+
+Others landed on the roof.
+
+Several were already attacking the barrier from every direction.
+
+They weren't losing.
+
+But they were being overwhelmed.
+
+Every Sentinel they destroyed...
+
+Another took its place.
+
+Every opening they closed...
+
+Two more appeared.
+
+The students tightened their formation.
+
+No one retreated.
+
+No one gave up.
+
+Then—
+
+A gust of wind swept across the battlefield.
+
+Leaves spiraled into the air.
+
+Dust exploded outward.
+
+A blue blur flashed between the Sentinels.
+
+Once.
+
+Twice.
+
+Again.
+
+Again.
+
+Again.
+
+The world became strangely quiet.
+
+One Sentinel's head slid from its shoulders.
+
+Another's legs collapsed beneath it.
+
+A third split cleanly in half.
+
+Weapons shattered.
+
+Sensors exploded.
+
+Metal crumpled.
+
+Within seconds...
+
+Every Sentinel surrounding the school crashed to the ground.
+
+Silence.
+
+The students looked around in disbelief.
+
+"...What just happened?" Bobby whispered.
+
+A young man stood among the wreckage, brushing dust from his jacket.
+
+He looked at the stunned faces surrounding him.
+
+A grin spread across his face.
+
+"Well..."
+
+He shrugged.
+
+"I bet you didn't see that coming."
+
+---
+
+### Docks
+
+The waterfront had become a warzone.
+
+Smoke drifted between burning cargo containers.
+
+The harbor echoed with artillery fire.
+
+BOOM!
+
+A naval destroyer's main battery roared, its shell striking a Sentinel square in the chest and throwing it into the docks.
+
+Before it could rise—
+
+Lucas Bishop charged forward.
+
+He caught the Sentinel by the head and drove it through a stack of shipping containers.
+
+Steel crumpled beneath the impact.
+
+Another Sentinel lunged from behind.
+
+Bishop spun.
+
+A surge of crimson energy erupted from his fists, blasting the machine backward into the harbor.
+
+"Keep firing!" Bishop shouted.
+
+The destroyers answered.
+
+Missiles screamed overhead.
+
+Heavy artillery tore through another wave of advancing Sentinels.
+
+For a moment...
+
+The line held.
+
+Then—
+
+A Sentinel emerged from beneath the water.
+
+Its hand drove straight through the deck of one destroyer.
+
+Another landed atop a second ship.
+
+Arm cannons rotated.
+
+BOOM!
+
+The destroyer's forward guns exploded.
+
+A second blast ripped through its missile batteries.
+
+Within seconds...
+
+The naval bombardment stopped.
+
+Silence replaced the thunder of artillery.
+
+Bishop looked toward the harbor.
+
+"...No."
+
+The Sentinels advanced.
+
+Without the fleet...
+
+Every machine turned toward the evacuation point.
+
+Behind Bishop...
+
+Dozens of children huddled behind reinforced barricades.
+
+Teachers.
+
+Volunteers.
+
+Families.
+
+They had nowhere left to run.
+
+Bishop clenched his fists.
+
+"You're not getting past me."
+
+The Sentinels attacked together.
+
+One from the front.
+
+Another from the left.
+
+Three more from behind.
+
+Missiles.
+
+Energy blasts.
+
+Steel fists.
+
+Bishop met them head-on.
+
+He absorbed one blast.
+
+Redirected another.
+
+A punch shattered a Sentinel's chest.
+
+Another flew backward beneath a wave of released energy.
+
+But they kept coming.
+
+Again.
+
+Again.
+
+Again.
+
+His breathing grew heavier.
+
+One Sentinel drove him through a cargo container.
+
+Before he could recover—
+
+Another struck him across the docks.
+
+He crashed through twisted steel.
+
+The Sentinels surrounded him.
+
+Bishop slowly rose.
+
+His body trembled.
+
+Energy crackled across his skin.
+
+"No..."
+
+He planted both feet.
+
+"Not..."
+
+The energy around him exploded outward.
+
+A massive crimson shockwave tore through the surrounding Sentinels.
+
+Machines were ripped apart.
+
+Others were thrown into the harbor.
+
+The docks shook beneath the force.
+
+Then...
+
+The light faded.
+
+Bishop dropped to one knee.
+
+His breathing became ragged.
+
+He had emptied almost everything he had.
+
+The remaining Sentinels didn't hesitate.
+
+Target acquired.
+
+Missile pods opened.
+
+Bishop looked past them—
+
+Toward the barricades.
+
+Toward the frightened children.
+
+Toward the families he had sworn to protect.
+
+He tried to stand.
+
+His legs refused.
+
+"...I'm sorry."
+
+The missiles launched.
+
+Dozens of them.
+
+The children screamed.
+
+Then—
+
+Every missile stopped.
+
+Frozen in midair.
+
+Not by ice.
+
+By crimson light.
+
+The docks fell silent.
+
+Each missile hung motionless, wrapped in glowing scarlet energy.
+
+The Sentinels recalculated.
+
+Too late.
+
+With a single motion of her hand...
+
+Every missile reversed course.
+
+The sky erupted in fire.
+
+One explosion.
+
+Then another.
+
+Then another.
+
+The remaining Sentinels disappeared beneath a chain of detonations.
+
+As the flames faded...
+
+A woman slowly descended from above.
+
+Scarlet energy drifted around her like smoke.
+
+She landed beside Bishop.
+
+Without taking her eyes off the battlefield, she smiled.
+
+"You getting tired, old man?"
+
+Bishop let out a tired laugh.
+
+Using one knee, he pushed himself back to his feet.
+
+"Not..."
+
+He rolled his shoulders.
+
+"...a chance."
+
+---
+
+### Evacuation Route
+
+Several miles away...
+
+A convoy of evacuation buses and armored trucks sat stranded beneath an overpass.
+
+Smoke filled the air.
+
+The road ahead had collapsed.
+
+The road behind...
+
+Was crawling with Sentinels.
+
+"Keep moving!" someone shouted.
+
+"Don't stop!"
+
+Families hurried toward the underground emergency shelter beyond the barricades.
+
+Warpath stood at the front of the defensive line.
+
+A Sentinel lunged.
+
+He caught its arm mid-swing and planted his feet.
+
+The pavement cracked beneath him as he forced the machine backward.
+
+Beside him—
+
+Remy flicked three playing cards into the air.
+
+They glowed bright pink.
+
+"Catch."
+
+The cards struck a Sentinel's chest.
+
+BOOM!
+
+The explosion threw two more machines off their feet.
+
+Above them—
+
+Roberto streaked across the smoke-filled sky, his body burning like a miniature sun.
+
+Twin beams of solar energy ripped through another Sentinel before he banked sharply to avoid incoming missiles.
+
+But more kept coming.
+
+One Sentinel vaulted over the burning wreckage.
+
+Another emerged from a nearby building.
+
+A third dropped onto the highway from above.
+
+They were surrounded.
+
+Then—
+
+A little boy stumbled.
+
+He hit the pavement hard.
+
+"Dad!"
+
+His parents turned immediately.
+
+"We're coming!"
+
+The boy tried to stand.
+
+His legs refused.
+
+Two Sentinels turned toward him.
+
+Their optics glowed crimson.
+
+``TARGET ACQUIRED.``
+
+His parents ran toward him.
+
+"No!"
+
+Warpath saw them.
+
+He tried to move—
+
+The Sentinel he was holding broke free, forcing him to catch another crushing blow with both hands.
+
+If he let go...
+
+The machine would reach hundreds of civilians.
+
+Above—
+
+Roberto banked toward the family.
+
+Another Sentinel intercepted him.
+
+Its energy blast forced him away.
+
+Remy raised another handful of cards.
+
+Then stopped.
+
+The family was directly in the blast radius.
+
+"...Damn."
+
+There wasn't a safe shot.
+
+There wasn't enough time.
+
+The boy looked up.
+
+His parents wrapped themselves around him.
+
+Waiting.
+
+The Sentinels raised their arm cannons.
+
+Energy gathered at their palms.
+
+The little boy shut his eyes.
+
+His parents held him tighter.
+
+Then—
+
+**THWIP!**
+
+A web splattered across one Sentinel's face, covering its optics.
+
+Before it could react—
+
+**THWIP!**
+
+A second web wrapped around another Sentinel's arm cannon.
+
+"What—"
+
+The Sentinels turned.
+
+Too late.
+
+A red-and-blue figure came swinging beneath the overpass.
+
+His momentum carried him directly towards the machines.
+
+In midair, Spider-Man fired one web-line at the first Sentinel...
+
+...and another at the second.
+
+He twisted through the gap between them.
+
+The web-lines went taut.
+
+Using his momentum, he swung around them, pulling both Sentinels into a violent spin before hurling them high into the air.
+
+High above—
+
+High above—
+
+Roberto saw it instantly.
+
+"Got you."
+
+His entire body ignited.
+
+A concentrated beam of solar energy crashed into those Sentinels.
+
+The explosion caused the debris to fall.
+
+Spider-Man stood in front of the family.
+
+He looked up.
+
+"...Heads up."
+
+He fired web lines in every direction.
+
+The strands stretched between abandoned vehicles, light poles and shattered concrete.
+
+A web canopy.
+
+The burning wreckage rained down.
+
+Chunks of steel.
+
+Shrapnel.
+
+Everything struck the webbing and bounced harmlessly away.
+
+Silence.
+
+The little boy slowly opened his eyes.
+
+The first thing he saw...
+
+Was the black spider stretching across the stranger's chest.
+
+Spider-Man knelt beside him.
+
+"You okay, buddy?"
+
+The boy nodded.
+
+Spider-Man looked toward the parents.
+
+"Get inside."
+
+He pointed toward the shelter.
+
+"We'll handle this."
+
+The parents couldn't find the words.
+
+The father simply nodded.
+
+"...Thank you."
+
+They hurried toward the barricades.
+
+Spider-Man waited until they were safely inside.
+
+Only then did he stand.
+
+Behind him—
+
+Warpath finally threw the Sentinel he'd been restraining through a concrete barrier.
+
+Remy walked over, shuffling another deck of cards into one hand.
+
+Roberto landed beside them, flames fading from his body.
+
+All three stared at the newcomer.
+
+Spider-Man glanced between them.
+
+Then toward the remaining Sentinels.
+
+He rubbed the back of his neck.
+
+"So..."
+
+He pointed at the robots.
+
+"...These things always this friendly?"
+
+---
+
+The celebrations never came.
+
+Because the battle wasn't over.
+
+---
+
+At Xavier's School...
+
+The last Sentinel crashed into the frozen lawn.
+
+Silence settled over the campus.
+
+Bobby stood beside Piotr.
+
+Kitty.
+
+Illyana.
+
+Psylocke.
+
+Warren.
+
+Jubilation.
+
+Pietro.
+
+Together, they looked beyond the tree line.
+
+Far in the distance...
+
+The battle still raged.
+
+Smoke continued to rise above New York.
+
+---
+
+At the docks...
+
+Burning wreckage drifted across the harbor.
+
+Bishop rolled his shoulders.
+
+Wanda lowered her hands.
+
+The children were finally reaching safety.
+
+Neither of them looked back.
+
+Their eyes remained fixed on the city beyond the waterfront.
+
+The fight was far from over.
+
+---
+
+At the evacuation route...
+
+The shelter doors closed behind the last family.
+
+Spider-Man turned.
+
+Warpath stepped beside him.
+
+Remy shuffled another deck of cards.
+
+Roberto's body ignited once more.
+
+Ahead...
+
+Several Sentinels emerged through the smoke.
+
+Not many.
+
+Enough.
+
+Spider-Man settled into a fighting stance.
+
+The battle continued.
+
+---
+
+## Chapter 10: 
+
+The Giant Sentinel moved first.
+
+Its crimson optics flared.
+
+The ground trembled beneath another step.
+
+"Move!"
+
+Scott's command echoed across the battlefield.
+
+Everyone scattered.
+
+A massive energy beam carved through the street where they had been standing moments before, reducing concrete and steel to molten debris.
+
+Scott sprinted through the smoke.
+
+"Mimic!"
+
+Mimic looked over.
+
+"With me."
+
+He nodded.
+
+"Logan."
+
+Wolverine smirked.
+
+"About time."
+
+"Kurt."
+
+Nightcrawler smiled.
+
+"Always."
+
+Scott looked toward Storm.
+
+"I need cover."
+
+Storm gave a single nod.
+
+The wind answered.
+
+Dark clouds rolled across the sky, swallowing the afternoon sun.
+
+Thunder rolled overhead.
+
+Scott turned toward Jean.
+
+"Wait for Hank's signal."
+
+Jean nodded.
+
+"When you say."
+
+Scott looked toward Beast.
+
+"I need every optical sensor on that thing."
+
+Beast's fingers flew across his tablet.
+
+"I'm mapping them now."
+
+Crimson points appeared across the holographic model.
+
+Its head.
+
+Its shoulders.
+
+Its torso.
+
+Its arms.
+
+Dozens of smaller auxiliary sensors blinked into view beneath overlapping armor plates.
+
+Beast frowned.
+
+"...It has more optical sensors than I anticipated."
+
+Scott's eyes never left the Giant Sentinel.
+
+"Perfect."
+
+He looked toward Morph.
+
+"Morph."
+
+Morph grinned.
+
+"What do you need?"
+
+"Keep it looking at us."
+
+Morph's body rippled.
+
+Bones expanded.
+
+Muscles swelled.
+
+Gray skin became thick scales.
+
+Within seconds...
+
+A colossal tyrannosaur towered over the battlefield.
+
+The dinosaur roared.
+
+The Giant Sentinel immediately turned toward the new threat.
+
+Its targeting systems recalculated.
+
+Scott smiled.
+
+"That's our distraction."
+
+Storm lifted one hand.
+
+Lightning flashed across the clouds.
+
+Not at the Sentinel—
+
+Across the entire sky.
+
+A blinding flash washed over the battlefield.
+
+Every optical sensor on the Giant Sentinel compensated simultaneously.
+
+"Hank!"
+
+"I've got them!"
+
+The holographic model highlighted every active sensor.
+
+Jean's eyes glowed gold.
+
+"I see them."
+
+---
+
+The Giant Sentinel roared.
+
+Its massive arm swung toward the charging tyrannosaur.
+
+Morph ducked beneath the blow.
+
+The impact shattered an entire city block.
+
+Scott never looked away.
+
+"Jean."
+
+Beast stared at the holographic projection.
+
+One by one...
+
+The crimson markers blinked.
+
+"Left shoulder."
+
+Jean's eyes glowed brighter.
+
+A tiny panel on the Sentinel's shoulder exploded outward.
+
+Its optical sensor ripped free from its housing.
+
+The machine barely reacted.
+
+"Right shoulder."
+
+Another sensor tore loose.
+
+"Head."
+
+"Chest."
+
+"Left forearm."
+
+"Right forearm."
+
+Beast continued calling them out.
+
+Jean didn't hesitate.
+
+Every command became another precise telekinetic strike.
+
+Metal screamed.
+
+Glass shattered.
+
+Tiny crimson lenses burst from the Giant Sentinel one after another.
+
+The Sentinel staggered.
+
+Its optics flickered.
+
+Warning symbols flashed across its face.
+
+``OPTICAL FAILURE.``
+
+``SECONDARY OPTICS OFFLINE.``
+
+``REROUTING...``
+
+Jean inhaled sharply.
+
+"There."
+
+Beast looked up.
+
+"The auxiliary cluster."
+
+Hidden beneath overlapping armor along the sides of its neck...
+
+Nearly invisible.
+
+Jean narrowed her eyes.
+
+Several steel plates bent apart.
+
+The concealed sensors underneath were crushed simultaneously.
+
+The Giant Sentinel froze.
+
+Its crimson eyes searched wildly.
+
+Its head turned left.
+
+Then right.
+
+Scanning.
+
+Nothing.
+
+It fired an energy beam.
+
+The blast missed Scott by nearly fifty feet.
+
+Another beam.
+
+It cut through an abandoned skyscraper.
+
+Not even close.
+
+Scott smiled.
+
+"It's blind."
+
+The Giant Sentinel lashed out in every direction.
+
+Buildings collapsed.
+
+Roads split apart.
+
+It wasn't attacking anymore.
+
+It was guessing.
+
+Scott raised one hand.
+
+"Phase two."
+
+Nightcrawler smiled.
+
+"Finally."
+
+Wolverine flexed his claws.
+
+A metallic *SNIKT* echoed across the battlefield.
+
+"This..."
+
+He growled.
+
+"...is my kind of plan."
+
+---
+
+The Giant Sentinel's head swept violently from side to side.
+
+Its crimson optics flickered.
+
+Searching.
+
+Finding nothing.
+
+``VISUAL SYSTEM FAILURE.``
+
+``SWITCHING TO TACTICAL PREDICTION.``
+
+The machine raised both arms.
+
+Energy erupted in every direction.
+
+Buildings collapsed.
+
+The streets exploded beneath the barrage.
+
+The Giant Sentinel wasn't aiming anymore.
+
+It was trying to erase everything around it.
+
+Scott ducked behind a collapsed bus.
+
+"Keep it busy!"
+
+Morph roared.
+
+The giant dinosaur charged again.
+
+Its jaws clamped around the Sentinel's forearm.
+
+The machine slammed Morph through the side of a building.
+
+Calvin leapt into the air.
+
+His eyes burned crimson.
+
+Twin optic blasts hammered the Sentinel's chest.
+
+The machine turned toward the attack.
+
+Exactly as Scott wanted.
+
+"Now!"
+
+A cloud of indigo smoke erupted beside Wolverine.
+
+**BAMF!**
+
+They vanished.
+
+---
+
+They reappeared high behind the Giant Sentinel.
+
+Balanced atop its broad shoulders.
+
+The city stretched out beneath them.
+
+For the first time...
+
+The processor was exposed.
+
+Protected only by thick dorsal armor.
+
+"There."
+
+Wolverine didn't answer.
+
+**SNIKT!**
+
+His claws extended.
+
+Nightcrawler grabbed Logan's shoulder.
+
+"Make it count."
+
+Wolverine lunged.
+
+All six adamantium claws bit into the armor.
+
+Sparks exploded.
+
+Metal screamed.
+
+With a savage roar, Wolverine dragged both hands diagonally across the Sentinel's back.
+
+The claws carved a deep trench from the upper right shoulder toward the lower left.
+
+The Sentinel let out a deafening mechanical shriek.
+
+Warning lights flashed across its body.
+
+Before the adaptive armor could begin sealing the wound—
+
+**BAMF!**
+
+Nightcrawler teleported them again.
+
+They reappeared on the opposite shoulder.
+
+Without breaking stride—
+
+Wolverine struck again.
+
+His claws ripped from the upper left...
+
+...to the lower right.
+
+The two slashes crossed.
+
+An enormous X was carved across the Giant Sentinel's back.
+
+The armor groaned.
+
+Hydraulic systems whined.
+
+Nanometal rushed toward the damage, desperately trying to close the wound.
+
+Scott saw it immediately.
+
+"Calvin!"
+
+---
+
+Scott pointed toward the Giant Sentinel's back.
+
+"Calvin!"
+
+Calvin planted his feet.
+
+His eyes burned crimson.
+
+He exhaled.
+
+Twin optic beams erupted across the battlefield.
+
+The blasts struck the center of Wolverine's X-shaped gashes.
+
+Already weakened by adamantium...
+
+The dorsal armor finally gave way.
+
+Metal exploded outward.
+
+Shattered plates rained onto the streets below.
+
+Beneath them...
+
+A crimson processing core pulsed.
+
+Exposed.
+
+Warning sirens echoed through the Giant Sentinel.
+
+``PROCESSING CORE EXPOSED.``
+
+``CRITICAL FAILURE.``
+
+The machine abandoned everything.
+
+Its massive arms reached behind its own back.
+
+Trying to shield the processor.
+
+"Not yet."
+
+**BAMF!**
+
+Nightcrawler reappeared beside Wolverine.
+
+One hand grabbed Logan's shoulder.
+
+The other seized Calvin.
+
+Before the Giant Sentinel's hands could reach them—
+
+**BAMF!**
+
+All three disappeared.
+
+The Sentinel's own hands slammed into its damaged back.
+
+Too late.
+
+Scott never took his eyes off the exposed core.
+
+"Storm!"
+
+Storm slowly rose into the air.
+
+The wind fell silent.
+
+Then...
+
+It returned.
+
+Harder.
+
+The clouds above New York churned into a dark vortex.
+
+Thunder rolled across the city.
+
+Rain began to fall.
+
+Her white hair danced within the growing storm.
+
+Lightning flickered between the clouds.
+
+Again.
+
+Again.
+
+Again.
+
+Storm lifted both hands toward the heavens.
+
+Her voice carried across the battlefield.
+
+Across the city.
+
+"Sky above..."
+
+Thunder answered.
+
+"Hear my call."
+
+The clouds roared.
+
+"I am Ororo Munroe."
+
+Wind surged through the streets.
+
+"And I command the storm."
+
+She thrust both hands downward.
+
+"Strike!"
+
+The heavens split apart.
+
+A single colossal bolt of lightning descended from the clouds.
+
+It pierced straight through the exposed processing core.
+
+The Giant Sentinel arched backward.
+
+Its mechanical scream echoed across New York.
+
+The lightning continued pouring through its body.
+
+From its back...
+
+Through its chest...
+
+Into the streets below.
+
+The city shook beneath the impact.
+
+---
+
+The lightning faded.
+
+Silence.
+
+The Giant Sentinel remained standing.
+
+Smoke poured from the gaping wound in its back.
+
+Its massive frame trembled.
+
+Across its body, crimson warning lights pulsed erratically.
+
+``CRITICAL SYSTEM FAILURE.``
+
+``PROCESSING CORE DESTABILIZED.``
+
+``ATTEMPTING REBOOT...``
+
+The X-Men watched.
+
+No one moved.
+
+The Giant Sentinel slowly lowered its head.
+
+Its crimson optics flickered.
+
+Once.
+
+Twice.
+
+Then burned brightly again.
+
+Its right arm twitched.
+
+The damaged machinery beneath its armor whined as it struggled to respond.
+
+Scott's expression tightened.
+
+"...Come on."
+
+The processor sparked violently.
+
+Electrical arcs raced through the Giant Sentinel's body.
+
+Its movements became erratic.
+
+One step.
+
+Another.
+
+It staggered.
+
+The adaptive systems fought desperately to restore control.
+
+``REBOOT FAILED.``
+
+``PROCESSING CORE OFFLINE.``
+
+``COMMAND LINK LOST.``
+
+The crimson glow in its eyes faded.
+
+The machine stood frozen.
+
+For one long moment...
+
+It seemed almost alive.
+
+Then gravity won.
+
+The Giant Sentinel toppled forward.
+
+Its enormous body crashed into the streets below.
+
+The impact shook the city.
+
+A cloud of dust erupted into the sky.
+
+No one spoke.
+
+Then—
+
+Across New York...
+
+Every remaining Sentinel stopped.
+
+Those marching through the streets froze mid-step.
+
+Those flying above the skyline hung motionless in the air.
+
+Those battling mutants at Xavier's School...
+
+The docks...
+
+And the evacuation route...
+
+Simply stood still.
+
+A low electronic tone echoed from every machine simultaneously.
+
+``COMMAND SIGNAL LOST.``
+
+``PRIMARY NETWORK OFFLINE.``
+
+``SHUTTING DOWN.``
+
+One by one...
+
+The crimson lights in their eyes faded.
+
+The machines collapsed where they stood.
+
+Silence spread across New York.
+
+The battle...
+
+Was over.
+
+Scott let out a slow breath.
+
+Behind him, Wolverine retracted his claws.
+
+Storm descended from the sky as the clouds began to part.
+
+Stars appeared again as the sky cleared.
+
+Jean looked across the ruines.
+
+"We did it."
+
+Scott nodded.
+
+"Yes."
+
+He looked at every member of the team.
+
+"We did."
+
+---
+
+Night had settled over New York.
+
+It was nearly two in the morning.
+
+Smoke drifted between the city's battered skyline as emergency vehicles filled the streets below.
+
+---
+
+Scott looked around at his team.
+
+Bruised.
+
+Exhausted.
+
+Covered in dust.
+
+Yet every one of them was still standing.
+
+For a long moment...
+
+No one spoke.
+
+Then Logan chuckled.
+
+"Not bad."
+
+A few tired smiles appeared.
+
+Storm looked toward the clearing night sky.
+
+Jean leaned against a broken piece of Sentinel's part.
+
+Hank finally lowered his tablet.
+
+Mimic sat on a chunk of rubble, catching his breath.
+
+Morph returned to his normal form with a groan.
+
+"My back is going to hate me tomorrow."
+
+Nightcrawler smiled.
+
+"You still have one."
+
+A quiet laugh spread through the team.
+
+For the first time that night...
+
+There was peace.
+
+---
+
+Outside Xavier's School...
+
+The students slowly emerged from the building.
+
+Bobby rushed toward the younger children.
+
+"You guys okay?"
+
+The children nodded.
+
+Some laughed.
+
+Some cried.
+
+Others simply hugged their teachers.
+
+Piotr rested a reassuring hand on a frightened student's shoulder.
+
+Kitty helped another child to their feet.
+
+Jubilation finally relaxed.
+
+Warren folded his wings.
+
+Illyana quietly watched the city.
+
+Pietro stood nearby, hands in his pockets.
+
+"So..."
+
+He smiled.
+
+"Looks like you all had fun without me."
+
+The tension finally broke as several students laughed.
+
+---
+
+At the docks...
+
+The surviving sailors climbed from the damaged ships.
+
+Some embraced one another.
+
+Others simply sat in silence, grateful to be alive.
+
+Navy medics moved quickly among the wounded.
+
+Bishop watched them for a moment before Wanda stepped beside him.
+
+"They'll be alright."
+
+Bishop nodded.
+
+"Yeah..."
+
+He looked across the harbor.
+
+"They will."
+
+---
+
+At the evacuation route...
+
+Families reunited.
+
+Parents held their children tightly.
+
+Emergency crews moved through the streets.
+
+Warpath looked around.
+
+"The kid?"
+
+Sunspot smiled.
+
+"Safe."
+
+Gambit glanced toward the rooftops.
+
+"...Where's Spider-Man?"
+
+The three searched for a moment.
+
+Nothing.
+
+Only a loose strand of web swayed gently in the night breeze.
+
+Warpath smiled.
+
+"He already left."
+
+---
+
+High above the sleeping city...
+
+Spider-Man swung between the skyscrapers.
+
+The cool night air rushed past as he headed home.
+
+Then...
+
+A calm voice echoed gently inside his mind.
+
+**"Thank you, Peter."**
+
+Spider-Man smiled beneath the mask.
+
+"Anytime, Professor."
+
+He fired another webline.
+
+And disappeared into the New York night.
+
+---
+
+## Chapter 11: Epilogue
+
+### Next Day
+
+The city gathered in silence.
+
+Flags hung low. Names read aloud, some spoken by family members, some by officials who never knew the faces behind them. Candles flickered in the morning air as people stood shoulder to shoulder; strangers bound by the same absence.
+
+Charles Xavier sat among them.
+
+He didn't speak.
+
+He just listened.
+
+Some of the fallen wore uniforms. Others carried no badge, only courage. All of them chose to move toward danger when they could have chosen to run.
+
+The world remembered them today.
+
+And in remembering them, something shifted.
+
+---
+
+The mansion grounds were quiet.
 
 Too quiet for a place that has known so much noise.
 
-The X-Men and the parents wait together near the garden, uncertainty hanging in the air. No one speaks. No one wants to ask the question that still lingers.
+The X-Men and the parents stood together near the garden, uncertainty hanging in the air. No one spoke. No one wanted to ask the question that still lingered.
 
 Then-
 
 the sound of tires on gravel.
 
-Charles's car enters the property.
+Charles's car entered the property.
 
-Scott is there before it fully stops. He opens the door carefully, steady hands already in place. Logan appears at the other side, unfolding the wheelchair without a word. Together, they help Charles out, practiced, respectful, unhurried.
+Scott is already there before it fully stopped. He opened the door carefully, steady hands already in place. Logan appeared at the other side, unfolding the wheelchair without a word. Together, they help Charles out, practiced, respectful, unhurried.
 
-A worried parent approaches instinctively.
+A worried parent approached instinctively.
 
 "Professor-"
 
-Charles looks up at them and smiles. Not forced. Not reassuring out of obligation.
+Charles looked up at them and smiled. Not forced. Not reassuring out of obligation.
 
-"They're safe," he says gently. "They're coming home."
+"They're safe," he said gently. "They're coming home."
 
-The parent exhales, nodding, holding onto the words like a lifeline.
+Relief swept through the crowd.
 
-A horn sounds beyond the gate.
+The parent exhaled, nodding, holding onto the words like a lifeline.
+
+A horn sounded beyond the gate.
 
 Sharp. Official.
 
-Everyone turns.
+Everyone turned.
 
-A Navy truck rolls into view.
+A Navy truck rolled into view.
 
-The doors open.
+The doors opened.
 
-And suddenly, the waiting ends.
+And suddenly, the waiting finally ended.
 
-Officers step aside as children pour out-some hesitant, some running full speed. Parents break formation without thinking. Shoes are abandoned. Names are shouted. Arms open.
+Officers stepped aside as children poured out, some hesitant, some running full speed. Parents broke formation without thinking. Shoes were abandoned. Names were shouted. Arms opened.
 
-They meet in the center of the garden.
+They met in the center of the garden.
 
-Hugs crash together. Laughter breaks through tears. A father lifts his son into the air, spinning him like an airplane. A mother sinks to her knees just to hold her daughter closer.
+Hugs crashed together. Laughter broke through tears. A father lifted his son into the air, spinning him like an airplane. A mother sunk to her knees just to hold her daughter closer.
 
-For a moment, the world is only this.
+For a moment, the world was only this.
 
-A little girl clutches her mother's coat, eyes fixed past her shoulder-watching the figures standing near the mansion steps.
+A little girl clutched her mother's coat, eyes fixed past her shoulder, watching the figures standing near the mansion steps.
 
-"Was that the man with the claws?" she asks softly.
+"Was that the man with the claws?" she asked softly.
 
-Her mother nods.
+Her mother nodded.
 
-A boy nearby raises his arm, mimicking a blast, eyes wide with awe.
+A boy nearby raised his arm, mimicking a blast, eyes wide with awe.
 
-"They didn't run," he says. "They stayed."
+"They didn't run," he said. "They stayed."
 
-One by one, parents approach-awkward, unsure-until someone finally says it out loud.
+One by one, parents approached, awkward, unsure, until someone finally says it out loud.
 
 "Thank you."
 
@@ -4077,9 +6739,9 @@ No cameras.
 
 Just gratitude.
 
-The X-Men nod. Some smile. Some look away, uncomfortable with praise. Logan shifts his weight. Scott straightens. Jean lowers her eyes. None of them know how to accept something this pure.
+The X-Men nodded. Some smile. Some looked away, uncomfortable with praise. Logan shifted his weight, Scott straightened, Jean lowered her eyes, none of them knew how to accept something this pure.
 
-As the families begin to leave, the children keep looking back.
+As the families began to leave, the children keep looking back.
 
 Pretending to fly.
 
@@ -4087,17 +6749,23 @@ Pretending to fight.
 
 Pretending to stand in front of danger instead of behind it.
 
-Storm watches them go, a softness in her eyes she doesn't try to hide.
+Storm watched them go, a softness in her eyes she didn't try to hide.
 
-"Careful," Logan mutters beside her. "They're gonna start copyin' us."
+"Careful," Logan muttered beside her. "They're gonna start copyin' us."
 
-She smiles.
+She smiled.
 
-"Let us hope," she says quietly, "they grow into something even better."
+"Let us hope they grow into people who no longer need us."
 
-And for the first time since the war began, the future doesn't feel like a threat.
+Charles watched the parents and children leaving from the mansion steps.
 
-It feels like a promise.
+A small smile crossed his face.
+
+Perhaps...
+
+the future had already begun.
+
+---
 
 Later, on every channel, the tone is different.
 
@@ -4105,17 +6773,17 @@ Not celebratory.
 
 Measured.
 
-The President addresses the nation with a seriousness that hasn't been rehearsed.
+The President addressed the nation with a seriousness that hasn't been rehearsed.
 
-He speaks of loss.
+He spoke of loss.
 
 Of restraint.
 
 Of bravery.
 
-He speaks of mutants; not as threats, not as curiosities, but as people who stood between cities and annihilation.
+He spoke of mutants; not as threats, not as curiosities, but as people who stood between cities and annihilation.
 
-"We cannot ask those who protected us to remain in the shadows," he says. "Nor can we allow power without responsibility."
+"We cannot ask those who protected us to remain in the shadows," he said. "Nor can we allow power without responsibility."
 
 New policy is announced, not overnight change, but a framework.
 
@@ -4127,7 +6795,7 @@ Equal protection.
 
 And equal accountability.
 
-A global accord follows. The United Nations ratifies it within hours, establishing an international registration system under the name **HERO ACT**, not a leash, but a structure. Powers used publicly must be declared. Intervention must follow clear protocols. Oversight exists, not to control, but to prevent fear from rewriting history again.
+A global accord followed. The United Nations ratifies it within hours, establishing an international registration system under the name **HERO ACT**, not a leash, but a structure. Powers used publicly must be declared. Intervention must follow clear protocols. Oversight exists, not to control, but to prevent fear from rewriting history again.
 
 The world does not become fair.
 
@@ -4139,7 +6807,7 @@ No cameras.
 
 No aides.
 
-A name is redacted. An identity sealed behind layers of legal protection. The authorization bears his signature alone.
+A file is classified. The civilian identity of the masked hero known as Spider-Man is placed under the highest level of legal protection.
 
 A hero registered.
 
@@ -4149,107 +6817,137 @@ Later, during a press conference, a reporter asks the question everyone wants an
 
 "Professor Xavier, did you personally approve the registration of the masked individual known as Spider-Man?"
 
-Charles does not hesitate.
+Charles did not hesitate.
 
 "Yes."
 
-Murmurs ripple through the room.
+Murmurs rippled through the room.
 
 "I did so," Charles continues calmly, "to respect his privacy while ensuring accountability. He did not ask for recognition. He did not ask for permission. He acted because it was right."
 
-He folds his hands.
+He folded his hands.
 
-"And I owe him that courtesy. Because mutant-kind stepped into the light that day, not because of one of our own, but because someone who was not a mutant chose to stand with us. That takes courage."
+"Protecting that trust is now my responsibility. Because mutant-kind stepped into the light that day, not because of one of our own, but because someone who was not a mutant chose to stand with us. That takes courage."
 
-The room is quiet.
+The room was quiet.
 
-The world listens.
+The world listened.
 
-The restaurant is small. Warm. Ordinary.
+---
 
-Scott taught Jean planned a surprise date; Jean taught Scott did.
+The restaurant was small, warm, ordinary.
 
-Scott Summers checks the reservation again, frowning slightly.
+Scott thought Jean planned a surprise date; Jean thought Scott did.
 
-"This... can't be right," he mutters.
+Scott Summers checked the reservation again, frowning slightly.
 
-The host smiles politely and slides a folded note across the table.
+"This... can't be right," he muttered.
+
+The host smiled politely and slid a folded note across the table.
 
 "Left for you, sir."
 
-Scott opens it.
+Scott opened it.
 
-He reads once.
+He read it once.
 
 Then again.
 
-His jaw tightens.
+His jaw tightened.
 
-Then against his will, he laughs.
+Then, against his own will...
+
+he laughed.
 
 Not a smirk.
 
-A real laugh.
+Not the polite chuckle he sometimes forced.
 
-Jean raises an eyebrow. "What?"
+A genuine laugh.
 
-Scott hesitates, then hands her the note.
+Jean raised an eyebrow. "What?"
+
+Scott hesitated, then handed her the note.
 
 In Logan's unmistakable handwriting:
 
-_"Lighten up, you grumpy old m\*\*ker. Eat food. Drink wine. Stop runnin' a war for five minutes."_
+_"Lighten up, you grumpy old m**ker. Eat. Drink. Stop plannin' wars for five damn minutes."_
 
-Jean laughs out loud.
+Jean laughed out loud.
 
-Scott shakes his head, still smiling. "He made the reservation."
+Scott shook his head, still smiling. "He made the reservation."
 
-She studies him for a moment.
+Jean folded the note carefully and slipped it into her purse.
 
-"Well?" she asks.
+"I think we should thank him."
 
-Scott straightens, offers his arm.
+Scott smiled.
 
-"Dinner?" he says.
+"...Tomorrow."
 
-Jean takes it.
+He offered his arm.
 
-Back at the mansion, Logan leans against the balcony railing, beer in hand, night air cool against his face.
+"Dinner?"
 
-He stares out at the grounds, quiet now.
+Jean took it.
+
+Together, they disappeared into the warm glow of the restaurant.
+
+---
+
+Back at the mansion, Logan leaned against the balcony railing, a beer in hand, the cool night air brushing against his face.
+
+He stared out across the grounds.
+
+Quiet now.
 
 Safe.
 
-A faint smile tugs at the corner of his mouth.
+A faint smile tugged at the corner of his mouth.
 
-"About damn time," he mutters.
+"About damn time," he muttered before taking another sip.
 
-Ororo stands alone beneath the open sky.
+---
 
-Stars stretch endlessly above her.
+Ororo stood alone beneath the open sky.
 
-She closes her eyes.
+Stars stretched endlessly above her.
 
-For a moment, she's not here.
+She closed her eyes.
 
-She's home.
+For a moment...
 
-She smells dust and rain.
+she wasn't here.
 
-She hears laughter.
+She was home.
 
-She remembers Uzuri's voice, steady, kind.
+She smelled dust carried on warm winds.
 
-Storm opens her eyes again.
+She heard rain falling over the plains.
 
-The stars are still there.
+She heard laughter.
 
-She breathes.
+She remembered Uzuri's voice.
 
-And lets the past rest, just for tonight.
+Steady.
 
-In a small church, candles flicker.
+Kind.
 
-Kurt Wagner kneels in silence.
+Ororo opened her eyes.
+
+The stars were still there.
+
+She drew a slow breath.
+
+And for just one night...
+
+she let the past rest.
+
+---
+
+In a small church, candles flickered.
+
+Kurt Wagner knelt in silence.
 
 Not asking for forgiveness.
 
@@ -4257,57 +6955,109 @@ Not begging for answers.
 
 Just grateful.
 
-"For life," he whispers.
+"For life," he whispered.
 
 "For mercy."
 
 "For another chance to choose kindness."
 
-He rises, lighter than when he arrived.
+He rose, lighter than when he arrived.
 
-Morph lounges on a couch, flipping through faces in a mirror, familiar ones, strangers, ridiculous caricatures.
+---
 
-He stops.
+Morph lounged on a couch, flipping through faces in a mirror.
 
-Stares at his own reflection.
+Friends.
 
-Just himself.
+Strangers.
 
-"Yeah," he says softly. "That'll do."
+Ridiculous caricatures.
 
-Mimic sits alone in the training room, hands resting on the mat.
+One after another.
 
-For the first time in a long while, he's not borrowing anyone else's strength.
+He stopped.
 
-And he doesn't feel empty.
+The reflection became his own.
 
-He feels... _earned_.
+No disguise.
 
-In a quiet lab beneath the mansion, **Hank McCoy** adjusts his glasses and stares at a holographic projection.
+No performance.
 
-Genetic models rotate slowly. Sentinel alloys. Mutant signatures. Adaptive algorithms.
+Just him.
 
-He exhales through his nose.
+He smiled.
 
-"So," he mutters, "this is what they built to stop us."
+"Yeah," he said softly.
 
-Hank's fingers move, already annotating, already questioning. Not to replicate. Not to weaponize.
+"That'll do."
+
+---
+
+Mimic sat alone in the training room, his hands resting on the mat.
+
+For the first time in a long while...
+
+He wasn't borrowing anyone else's strength.
+
+He didn't feel empty.
+
+He stood.
+
+Raised his fists.
+
+And practiced using only what was his.
+
+---
+
+In a quiet laboratory beneath the mansion, Hank McCoy adjusted his glasses and studied a holographic projection.
+
+Genetic models rotated slowly.
+
+Sentinel alloys.
+
+Mutant genomes.
+
+Adaptive algorithms.
+
+He exhaled quietly.
+
+"So..."
+
+"This is what they built to stop us."
+
+His fingers moved across the console, already annotating, already questioning.
+
+Not to replicate.
+
+Not to weaponize.
 
 To understand.
 
-A new file opens beside the data. Untitled. Unshared.
+A second file opened beside the data.
 
-He hesitates for half a second... then begins typing.
+Untitled.
 
-"Better we ask these questions," he says quietly, "than leave them to someone else."
+Unshared.
 
-The lights dim as the projection shifts, less about war now.
+Hank hesitated for only a moment...
+
+Then began to type.
+
+"Better we ask these questions," he said softly, "than leave them to someone else."
+
+The projections shifted.
+
+Less about war.
 
 More about prevention.
 
-And evolution.
+More about understanding.
 
-Beneath Westchester, far below anything resembling a cellblock, the lights never change.
+More about evolution.
+
+---
+
+Beneath Westchester, far below anything resembling a cellblock, the lights never changed.
 
 No windows.
 
@@ -4317,17 +7067,21 @@ No conversations.
 
 The doors are not bars, but solid composite slabs designed to mute sound, thought, and contact. Each corridor is empty by design. Each step echoes only once.
 
-**Bolivar Trask** sits alone at a steel table, hands folded, posture perfect.
+**Bolivar Trask** sat alone at a steel table.
 
-There is nothing to build here.
+Hands folded.
 
-Nothing to design.
+Posture perfect.
 
-Nothing to finish.
+There was nothing left to build.
 
-The silence denies him even calculation.
+Nothing left to improve.
 
-In the next wing, separated by layers of concrete and distance that will never close, **William Stryker** stares at a wall that never answers back.
+Nothing left to calculate.
+
+The silence offered no equations.
+
+In the next wing, separated by layers of concrete and distance that will never close, **William Stryker** stared at a wall that never answers back.
 
 No sermons.
 
@@ -4349,9 +7103,11 @@ They are not warnings.
 
 They are simply... _done_.
 
-And for the first time, the light outside moves on without them.
+And for the first time... the world moved on without them.
 
-Rogue stands at the edge of the grounds, gloves on, watching the lights in the distance.
+---
+
+Rogue stood at the edge of the grounds, gloves on, watching the lights in the distance.
 
 People moving freely.
 
@@ -4359,41 +7115,55 @@ Laughing.
 
 Living.
 
-She clenches her fist once.
+She clenched her fist once.
 
-"Someday," she says to herself.
+"Someday," she said to herself.
 
-Across the city, a thin envelope waits on a bedroom desk.
+---
 
-Peter opens it carefully.
+Across the city, a thin envelope waited on a bedroom desk.
 
-Inside: confirmation papers.
+Peter opened it carefully.
 
-Registration complete.
+Inside lay a confirmation letter.
 
-A simple card rests beneath them, along with a note_-_
+**Registration Complete.**
 
-_Issued with respect._
+**Identity Classified.**
 
-_- Charles Xavier_
+A simple card rested beneath it, along with a handwritten note.
 
-Peter smiles.
+*Issued with respect.*
 
-He tucks the card into his backpack, pulls on his mask, and swings out into the night, lighter than before.
+*- Charles Xavier*
 
-In another city, Roberto da Costa's argument echoes down a marble hallway.
+Peter smiled.
 
-"I'm not walking away from who I am," he says firmly.
+He slipped the card into his backpack.
 
-A door slams.
+Pulled on his mask.
 
-Minutes later, he steps outside with a single bag.
+Then swung out into the New York day...
 
-The sun catches him just right.
+lighter than before.
 
-He doesn't look back.
+---
 
-Gambit sits alone at a small bar table in a casino, idly shuffling a deck of cards.
+In another city, Roberto da Costa's argument echoed down a marble hallway.
+
+"I'm not walking away from who I am," he said firmly.
+
+A door slammed.
+
+Minutes later, he stepped outside carrying a single bag.
+
+The sun caught him just right.
+
+He didn't look back.
+
+---
+
+Gambit sat alone at a small table inside a casino bar, idly shuffling a deck of cards.
 
 Not scheming.
 
@@ -4401,185 +7171,297 @@ Not running.
 
 Just... listening.
 
-A nearby television replays footage of the battle. People talk over it, voices full of awe, disbelief.
+A nearby television replayed footage of the battle.
 
-"Did you see those mutants?" someone says.
+People talked over it.
+
+Voices filled with awe.
+
+Disbelief.
+
+"Did you see those mutants?"
 
 "They saved everybody."
 
-"Never thought I'd say this, but... I'm glad they were there."
+"Never thought I'd say it..."
 
-Gambit's hands still.
+"...but I'm glad they were there."
 
-A faint smile tugs at his lips.
+Gambit's hands stilled.
 
-He pockets the deck, stands, and leaves a few bills on the table.
+A faint smile tugged at the corner of his mouth.
 
-"Guess I'm stayin'," he murmurs.
+He pocketed the deck.
 
-And for once, he means it.
+Left a few bills on the table.
 
-Warpath stands before the memorial wall, the stone cool beneath his fingers.
+"Guess I'm stayin'," he murmured.
 
-He finds the name quickly.
+And for once...
+
+he meant it.
+
+---
+
+Warpath stood before the memorial wall.
+
+The stone felt cold beneath his fingers.
+
+He found the name immediately.
 
 His brother's.
 
-A man who wore the X-Men insignia long before the world was ready for it. A man who didn't survive long enough to see the day when mutants could stand in the open.
+A man who wore the X-Men insignia long before the world was ready for it.
 
-Warpath presses his palm to the engraving once.
+A man who never lived to see the day mutants could stand in the open.
+
+Warpath rested his palm against the engraving.
 
 Not in grief.
 
 In acknowledgment.
 
-"I got it from here," he says quietly.
+"I got it from here," he said quietly.
 
-He steps back.
+He stepped back.
 
-Doesn't linger.
+He didn't linger.
 
-But he remembers.
+But he remembered.
 
-And then he turns away, not from the past, but toward a future where his brother's fight finally means something.
+Then he turned away.
 
-Bishop stands on a rooftop, watching the city settle into something that almost feels like peace.
+Not from the past...
 
-The noise is quieter now.
+but toward a future where his brother's fight finally meant something.
+
+---
+
+Bishop stood on a rooftop, watching the city settle into something that almost felt like peace.
+
+The noise was quieter now.
 
 Not gone.
 
 Just... distant.
 
-Once, he wore a uniform that didn't want him. Served under orders that never planned to keep him alive. When the world decided mutants were liabilities, they stripped him of rank and then, when things went wrong, they came back with upgrades and weapons and apologies that sounded like commands.
+Once, he wore a uniform that never truly wanted him.
 
-He remembers the day he woke up heavier.
+He served under officers who expected him to die before they ever expected him to retire.
 
-Metal where bone used to be.
+When mutants became liabilities, they stripped away his rank.
+
+When those same policies failed, they returned with upgrades.
+
+Weapons.
+
+Promises.
+
+Apologies that sounded more like orders.
+
+He remembered waking heavier.
+
+Metal where bone had been.
 
 A weapon grafted into purpose.
 
-A promise that if he survived long enough, it would mean something.
+A promise that if he survived long enough...
 
-It didn't save who he lost.
+it would all mean something.
 
-It never does.
+It never brought back the people he lost.
 
-Bishop flexes his hand once, energy humming low and controlled.
+It never could.
 
-For the first time, the future isn't screaming at him. No marching orders. No inevitability.
+Bishop flexed his hand once.
 
-Just choice.
+Energy hummed beneath the metal, low and controlled.
 
-"For now," he says quietly.
+For the first time...
 
-And that's enough.
+the future wasn't demanding anything of him.
 
-Somewhere else, far from cameras, a school cafeteria hums with nervous energy.
+No marching orders.
 
-A heteromorph student sits alone at first, awkwardly unwrapping lunch. His hands are not quite human. His skin carries the marks of something different.
+No inevitability.
 
-Footsteps approach.
+Just...
+
+choice.
+
+"For now," he said quietly.
+
+And that was enough.
+
+---
+
+Somewhere else, far from cameras, a school cafeteria hummed with nervous energy.
+
+A young heteromorph student sat alone at first, awkwardly unwrapping his lunch.
+
+His hands weren't quite human.
+
+His skin carried the marks of being different.
+
+Footsteps approached.
 
 Not mocking.
 
 Curious.
 
-A group of students stop nearby.
+A small group of students stopped nearby.
 
-"Is it true you can... change density?" one asks.
+"Is it true you can... change your skin color?" one of them asked.
 
-The boy blinks.
+The boy blinked.
 
-"Uh, yeah," he says.
+"Uh..."
 
-A teacher watches from across the room, then smiles and nods encouragement.
+"Yeah."
 
-"Show them," she says.
+Across the room, a teacher watched.
 
-The boy hesitates, then demonstrates. Gasps follow. Not fear. Wonder.
+She smiled.
 
-The world does not change in a day.
+Then nodded.
 
-But today, something _begins_.
+"Show them."
 
-At Xavier's School for Gifted Youngsters, the mood is lighter but no less serious.
+The boy hesitated.
 
-Students stand in rows, still bruised, still tired, still proud.
+Then his skin slowly shifted.
 
-Scott Summers steps forward.
+A different shade.
 
-"What you did," he says, "wasn't expected of you. It wasn't ordered. It was earned."
+A different pattern.
 
-He pauses.
+The students gasped.
 
-"When you graduate," he continues, "you won't be asking to join the X-Men."
+Not in fear.
 
-A beat.
+In wonder.
 
-"You'll already be one. The choice is up to you."
+The world didn't change in a day.
 
-The reaction is instant. Cheers. Tears. Disbelief.
+But today...
+
+something began.
+
+---
+
+At Xavier's School for Gifted Youngsters, the mood was lighter, but no less serious.
+
+Students stood in rows.
+
+Still bruised.
+
+Still tired.
+
+Still proud.
+
+Scott Summers stepped forward.
+
+"What you did," he said, "wasn't expected of you.
+
+"It wasn't ordered.
+
+"It was earned."
+
+He let the words settle.
+
+"When you graduate," he continued, "you won't have to ask to join the X-Men."
+
+A small smile crossed his face.
+
+"You'll already be one."
+
+"The choice... will be yours."
+
+For a moment, no one moved.
+
+Then the room erupted.
+
+Cheers.
+
+Applause.
+
+Tears.
+
+Laughter.
+
+Disbelief.
 
 Hope.
 
-Nearby, Wanda and Pietro Maximoff speak with Charles in quieter tones.
+---
 
-"We're staying," Pietro says casually. "Father insisted."
+Nearby, Wanda and Pietro Maximoff spoke with Charles in quieter tones.
 
-Charles smiles knowingly.
+"We're staying," Pietro said casually. "Father insisted."
 
-"So, I don't have to call him every time I need a chess partner?" He asks sarcastically.
+Charles smiled knowingly.
 
-Wanda laughs softly.
+"So, I don't have to call him every time I need a chess partner?" he asked sarcastically.
 
-"He worries about you," she says. "He just... doesn't show it the way people expect."
+Wanda laughed softly.
 
-Pietro nods.
+"He worries about you," she said. "He just... doesn't show it the way people expect."
 
-"He talks about you all the time. He teaches students and people, listens to their problems, and helps to solve them. He learned that from you. He tries to do what you do here."
+Pietro nodded.
 
-Charles is silent for a moment.
+"He talks about you all the time. He teaches students and people, listens to their problems, and helps solve them. He learned that from you. He tries to do what you do here."
 
-"And the helmet?" he asks gently.
+Charles was silent for a moment.
 
-Wanda's expression softens.
+"And the helmet?" he asked gently.
 
-"The world hasn't always been kind to him," she says. "Privacy is how he survives it."
+Wanda's expression softened.
 
-Charles exhales.
+"The world hasn't always been kind to him," she said. "Privacy is how he survives it."
+
+Charles exhaled.
 
 It comforted him more than he expected.
 
-In Genosha, Erik Lensherr stands on a balcony overlooking the sea.
+---
 
-For the first time in years, his shoulders are not tense.
+In Genosha, Erik Lensherr stood on a balcony overlooking the sea.
 
-Beside him, his wife rests a hand on his arm.
+For the first time in years, his shoulders were not tense.
 
-Below the balcony, Raven and Fred watch from the doorway. They wave.
+Beside him, his wife rested a hand on his arm.
 
-Erik nods.
+Below the balcony, Raven and Fred watched from the doorway. They waved.
 
-He smiles.
+Erik nodded.
 
-For once, the world feels worth protecting, not through force, but through patience.
+He smiled.
 
-Back at the school, the training room fills.
+For once, the world felt worth protecting—not through force, but through patience.
+
+---
+
+Back at the school, the training room filled.
 
 Old faces.
 
 New ones.
 
-Sunspot stands without his family's wealth for the first time and without regret. Gambit leans casually against a wall, pretending not to care. Warpath stands tall and steady. Bishop meets Charles' gaze with recognition that needs no words.
+Sunspot stood without his family's wealth for the first time—and without regret.
 
-The Maximoff twins take their place among them.
+Gambit leaned casually against a wall, pretending not to care.
 
-Charles addresses the room.
+Warpath stood tall and steady.
 
-"We are not soldiers," he says. "We are not symbols."
+Bishop met Charles' gaze with a recognition that needed no words.
 
-He looks around.
+The Maximoff twins took their place among them.
+
+Charles addressed the room.
+
+"We are not soldiers," he said. "We are not symbols."
+
+He looked around.
 
 "We are a family. And our responsibility now extends beyond survival. We must guide. Protect. Teach. And sometimes, stand back."
 
@@ -4587,17 +7469,19 @@ A pause.
 
 "The world is watching. Let us give it something worth believing in."
 
-An alarm sounds.
+An alarm sounded.
 
-Earthquake.
+"Earthquake."
 
-Remote location.
+"Remote location."
 
-The Blackbird lifts into the sky without ceremony.
+The Blackbird lifted into the sky without ceremony.
 
 Some things don't wait.
 
-Later, in a secured government chamber, Charles sits across from officials whose authority comes from law, defense, and history.
+---
+
+Later, in a secured government chamber, Charles sat across from officials whose authority came from law, defense, and history.
 
 No press.
 
@@ -4605,96 +7489,102 @@ No rhetoric.
 
 No applause.
 
-This is not a trial.
+This was not a trial.
 
-It is a reckoning.
+It was a reckoning.
 
-Files lie open on the table, classified records, sealed warrants, incident reports from another era. A single name appears again and again.
+Files lay open across the table—classified records, sealed warrants, incident reports from another era.
+
+A single name appeared again and again.
 
 Erik Lensherr.
 
-One official breaks the silence.
+One official broke the silence.
 
-"Professor Xavier," she says, "we are here to determine whether Mr. Lensherr remains a matter of national and international concern."
+"Professor Xavier," she said, "we are here to determine whether Mr. Lensherr remains a matter of national and international concern."
 
-Charles nods.
+Charles nodded.
 
-"That is a fair question," he says. "And one that deserves an honest answer."
+"That is a fair question," he said. "And one that deserves an honest answer."
 
-He does not touch the files.
+He did not touch the files.
 
-"What Erik Lensherr did," Charles continues, "was not lawful. It was not sanctioned. And it was not without consequence."
+"What Erik Lensherr did," Charles continued, "was not lawful. It was not sanctioned. And it was not without consequence."
 
-The room shifts slightly.
+The room shifted slightly.
 
-"But it was also not random," he adds. "Nor was it driven by conquest, ideology, or personal gain."
+"But it was also not random," he added. "Nor was it driven by conquest, ideology, or personal gain."
 
-Another official leans forward.
+Another official leaned forward.
 
 "You're asking us to excuse him."
 
-"No," Charles says gently. "I am asking you to **conclude him**."
+"No," Charles said gently. "I am asking you to conclude his case."
 
-They look at him.
+They looked at him.
 
-"What occurred during the Shaw incident," Charles says, "happened in a vacuum, created by fear, secrecy, and institutional failure. No system intervened. No authority acted in time."
+"What occurred during the Shaw incident," Charles said, "happened in a vacuum created by fear, secrecy, and institutional failure. No system intervened. No authority acted in time."
 
-He pauses.
+He paused.
 
 "Erik acted anyway."
 
 A beat.
 
-"That does not make his actions admirable," Charles says. "But it does make them _situational_."
+"That does not make his actions admirable," Charles said. "But it does make them situational."
 
-The silence deepens.
+The silence deepened.
 
-"If you continue to pursue him," Charles goes on, "you do not deter violence. You immortalize it. You turn a closed chapter into a living grievance for mutants and humans alike."
+"If you continue to pursue him," Charles went on, "you do not deter violence. You immortalize it. You turn a closed chapter into a living grievance for mutants and humans alike."
 
-An official frowns.
+An official frowned.
 
 "And if we don't?"
 
-"Then you allow history to remain history," Charles replies. "You acknowledge the cost, record it honestly, and move forward without creating a symbol that others will feel compelled to follow."
+"Then you allow history to remain history," Charles replied. "You acknowledge the cost, record it honestly, and move forward without creating a symbol that others will feel compelled to follow."
 
-He finally gestures to the files.
+He finally gestured to the files.
 
 "Mr. Lensherr has withdrawn. He governs no movement. He commands no army. He does not seek conflict."
 
-Charles meets their eyes.
+Charles met their eyes.
 
 "He has already paid the price of isolation. Let that be the end of it."
 
-No one speaks for a long moment.
+No one spoke for a long moment.
 
-Then, quietly, a folder is closed.
+Then, quietly, a folder was closed.
 
-Another follows.
+Another followed.
 
-No proclamations are made.
+No proclamations were made.
 
 No forgiveness declared.
 
-But when Charles leaves the chamber, one thing is clear-
+But when Charles left the chamber, one thing was clear—
 
-Erik Lensherr is no longer being _pursued_.
+Erik Lensherr was no longer being pursued.
 
 Not because he was right.
 
-But because the world has decided that **continuing the hunt would do more harm than good**.
+But because the world had decided that continuing the hunt would do more harm than good.
 
-That's the most Charles Xavier victory possible.
-
-The chapter ends without applause.
+The chapter ended without applause.
 
 Without certainty.
 
 But with something far rarer.
 
-A future, fragile, complicated, and finally shared.
+A future—
 
-And for the first time in a very long while-
+fragile,
 
-The world chooses to try.
+complicated,
+
+and finally shared.
+
+And for the first time in a very long while...
+
+the world chose to try.
 
 ---
