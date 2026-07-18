@@ -2839,19 +2839,17 @@ Before it could recover, she twisted, opened another stepping disc beneath its f
 
 It disappeared into Limbo.
 
-Betsy appeared beside her almost effortlessly.
+Betsy stepped between the Sentinels.
 
-A psychic blade flashed.
+She drew a narrow combat blade.
 
-Then another.
+Violet psychic energy shimmered along its edge.
 
-She wasn't cutting steel.
+One precise cut severed the actuator behind a Sentinel’s knee.
 
-She was severing control pathways.
+Another strike sliced through the exposed cable bundle beneath its shoulder.
 
-One Sentinel froze.
-
-Another turned its weapon toward empty air.
+The machine collapsed before Bobby froze it solid.
 
 A third simply shut down.
 
@@ -5147,7 +5145,7 @@ Nearby—
 
 Kitty phased through another Sentinel, causing its arm cannon to fire into the one behind it.
 
-Psylocke landed beside her, her psychic blade slicing through exposed circuitry before vaulting away.
+Betsy landed beside her, her combat blade flashing as psychic energy danced along its edge, severing exposed circuitry before she vaulted away.
 
 Above them—
 
