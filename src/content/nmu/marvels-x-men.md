@@ -5077,7 +5077,7 @@ Scott took a step forward.
 
 ---
 
-## Chapter 9
+## Chapter 9: United Front
 
 ### Xavier's School
 
@@ -5799,7 +5799,7 @@ The battle continued.
 
 ---
 
-## Chapter 10: 
+## Chapter 10: One Shot
 
 The Giant Sentinel moved first.
 
@@ -6651,7 +6651,7 @@ And disappeared into the New York night.
 
 ---
 
-## Chapter 11: Epilogue
+## Chapter 11: Tomorrow
 
 ### Next Day
 
