@@ -761,9 +761,7 @@ The room dissolved.
 
 Concrete walls rose. Smoke curled from broken streetlights. A war-torn urban block assembled itself around them in seconds.
 
-Storm lifted slightly from the ground, wind coiling at her command.
-
-Jean’s eyes sharpened.
+Storm and Jean watched from the sidelines.
 
 Scott’s visor glowed faint red.
 
@@ -771,65 +769,7 @@ Logan inhaled once.
 
 Then he moved.
 
-### Phase One – Storm
-
-Wind slammed toward him.
-
-He didn’t fight it head-on.
-
-He angled through debris, low to the ground, using overturned metal as cover. The gusts shredded what they struck — but he was never where they landed.
-
-Storm increased pressure.
-
-He timed it.
-
-Closed distance between bursts.
-
-One leap — impossibly fast — and he caught her mid-hover, twisting her gently but decisively out of balance.
-
-She landed hard but unharmed.
-
-Neutralized.
-
-Storm’s eyes narrowed.
-
-Interesting.
-
-### Phase Two – Jean
-
-Jean lifted him telekinetically.
-
-Concrete cracked beneath the pressure.
-
-Logan snarled — not in anger, but in resistance. Muscles strained. Veins stood out along his neck. He forced an arm downward inch by inch.
-
-The claws slid out.
-
-Metal gleamed under simulated firelight.
-
-Jean felt it then.
-
-A shift.
-
-Something deeper.
-
-Not strategy.
-
-Instinct.
-
-Predatory alignment.
-
-His mind didn’t read like aggression.
-
-It read like inevitability.
-
-She faltered for half a second.
-
-That was enough.
-
-He dropped free.
-
-### Phase Three – Cyclops
+### Phase One – Cyclops
 
 Scott fired.
 
@@ -973,7 +913,9 @@ Another pause.
 
 “But not forever.”
 
-Outside, Logan stood alone beneath the open sky.
+---
+
+Outside, Logan stood alone at the center of the garden, beneath the open sky.
 
 His breathing had steadied.
 
@@ -991,9 +933,11 @@ For the first time since waking—
 
 He wasn’t certain whether survival was enough.
 
+---
+
 Footsteps approached softly behind him.
 
-He didn’t turn.
+Wolverine didn't turn.
 
 “I know you,” he said, voice low. “You were in my head. Back in the forest.”
 
