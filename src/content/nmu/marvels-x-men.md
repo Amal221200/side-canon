@@ -1445,7 +1445,7 @@ Cyclops acknowledged.
 
 As the teams moved, data began to come in, quiet, measured.
 
-Logan murmurs into his comm.
+Logan murmured into his comm.
 
 "Something's wrong," he says. "Too many people for a research facility. Counting... at least forty soldiers on rotation. Light armor. Non-lethal loadouts near medical zones."
 
@@ -1531,7 +1531,7 @@ It will be because they chose to.
 
 Not because they were careless.
 
-The corridor narrows as Cyclops, Beast, and Morph advance.
+The corridor narrowed as Cyclops, Beast, and Morph advance.
 
 This section of the facility is different, quieter, denser. The air hummed faintly with power routed through walls too thick to hear what's happening on the other side. No windows. No markings. Just a single reinforced door set into the metal, its surface alive with dormant sensors.
 
@@ -1539,7 +1539,7 @@ The **main systems room**.
 
 Morph slowed.
 
-"Movement," he murmurs.
+"Movement," he murmured.
 
 The door opened.
 
@@ -2141,7 +2141,7 @@ For now.
 
 ---
 
-The Blackbird lifted cleanly from the hidden hangar moments later, engines roared as it punches up through the surface and into open sky.
+The Blackbird lifted cleanly from the hidden hangar moments later, engines roared as it punched up through the surface, into the open sky.
 
 Inside, Stryker is restrained, unconscious.
 
@@ -2181,7 +2181,7 @@ Jean turned sharply toward the viewport.
 
 "No," she whispered.
 
-Outside, the land near Westchester **splits open**.
+Outside, the land near Westchester split opened.
 
 Concrete fractured, trees snapped, soil and stone hurled skyward as something colossal forces itself upward, metal limbs unfolding, servos screaming, a massive faceless head rising into daylight.
 
@@ -2211,7 +2211,7 @@ Logan stepped forward, claws half, unsheathed before he even realizes it.
 
 Storm closed her eyes for a fraction of a second.
 
-Then opened them, blazing.
+Then she opened them, blazing.
 
 "This is an all-out war."
 
@@ -2229,13 +2229,13 @@ Cyclops turned slowly.
 
 "What did you do?"
 
-Trask finally meets his eyes.
+Trask finally met his eyes.
 
-"I removed the chain of command," he says. "No oversight. No hesitation. I used the children's DNA to perfect the algorithm; every deviation, every early marker, every imperfect awakening."
+"I removed the chain of command," he said. "No oversight. No hesitation. I used the children's DNA to perfect the algorithm; every deviation, every early marker, every imperfect awakening."
 
 Jean stiffened.
 
-"It can find mutants," Trask continues, almost proud, "with the slightest meta-activity. Even the ones who don't know what they are yet."
+"It can find mutants," Trask continued, almost proud, "with the slightest meta-activity. Even the ones who don't know what they are yet."
 
 A beat.
 
@@ -2249,9 +2249,9 @@ Cyclops stepped forward, voice steady but burning.
 
 Trask laughed.
 
-It cut short.
+It was cut short.
 
-Logan's fist snapped forward, clean and brutal. Trask collapsed, unconscious before he hits the floor.
+Logan's fist snapped forward, clean and brutal. Trask collapsed, unconscious before he hit the floor.
 
 Logan didn't look down.
 
@@ -2269,9 +2269,9 @@ The X-Men advanced towards the machine, towards the future, towards a war that h
 
 ## Chapter 6: War
 
-### Opening beats
+### X-Mansion's Lab
 
-The lab is quiet when the call came.
+The lab was quiet when the call came.
 
 Too quiet.
 
@@ -2285,15 +2285,15 @@ Near Westchester.
 
 His breath caught.
 
-"...More than one?" Charles asks.
+"...More than one?" Charles asked.
 
-The answer is not comforting.
+The answer was not comforting.
 
-He closes his eyes.
+He closed his eyes.
 
-"Then we have no choice," he says at last. "You have a task. The school will have to stand on its own."
+"Then we have no choice," he said at last. "You have a task. The school will have to stand on its own."
 
-The line goes dead.
+The line went dead.
 
 For a moment, Charles didn't move.
 
@@ -2301,7 +2301,7 @@ Then he exhaled slowly and turned.
 
 Erik is already watching him, expressions unreadable.
 
-"Kids are safe," Erik says calmly. "Which means your team succeeded."
+"Kids are safe," Erik said calmly. "Which means your team succeeded."
 
 Charles didn't look relieved.
 
@@ -2309,7 +2309,7 @@ Charles didn't look relieved.
 
 Erik stepped closer, voice lower now.
 
-"You are not alone in this fight," he says. "I'm sending my best people. Not soldiers. Guardians."
+"You are not alone in this fight," he said. "I'm sending my best people. Not soldiers. Guardians."
 
 Charles met his eyes.
 
@@ -2407,19 +2407,17 @@ Warren Worthington (Archangel), wings spread wide against the sky.
 
 Betsy Braddock (Psylocke), calm, lethal, ready.
 
-And others, unnamed, unseen, but strong enough to stand.
-
 They waited.
 
 Outside the shield.
 
 ---
 
-In Queens, the television is on.
+In Queens, the television was on.
 
 The image shaked as the Sentinel rised, tearing free from the earth like something that was never meant to be buried.
 
-May's hand flies to her mouth.
+May's hand flied to her mouth.
 
 "My God..."
 
@@ -2445,21 +2443,17 @@ May searched his face.
 
 Peter nodded. Not because it's true but because it mattered.
 
-Harry grabbed his keys.
-
-"I can get you close," he said. "Fast."
-
-Peter pulled on his jacket.
-
-"Once you drop me near enough," he said, "you leave. Don't look back."
-
-Harry hesitated, then nodded.
-
 ---
 
 Elsewhere—
 
 Lucas Bishop stood alone on a loading dock.
+
+His eyes stayed fixed on the sub from which the kids came out.
+
+---
+
+Remy LeBeau (Gambit) caught a playing card between two fingers, on the rooftop of a building.
 
 Energy rippled beneath his skin.
 
@@ -2467,15 +2461,15 @@ His eyes stayed fixed on the skyline.
 
 No hesitation.
 
-Remy LeBeau caught a playing card between two fingers.
-
 Sirens echoed across the city.
 
 He smiled without humor.
 
 "Guess we're workin' today."
 
-In his apartment, Roberto da Costa looked out across the skyline.
+---
+
+In a big apartment, Roberto da Costa (Sunspot) looked out across the skyline.
 
 Darkness gathered around him instinctively.
 
@@ -2483,7 +2477,9 @@ The room dimmed.
 
 So did his eyes.
 
-James Proudstar grabbed his knife that now feels too small.
+---
+
+Inside a small apartment, James Proudstar (Warpath) grabbed his knife that now feels too small.
 
 His grip tightened.
 
@@ -2499,6 +2495,8 @@ Not soon.
 
 Now.
 
+---
+
 And across Westchester, as Sentinels rised and the sky darkened-
 
 Mutants, heroes, and people who refuse to be spectators began to move.
@@ -2511,7 +2509,7 @@ The war has begun.
 
 The Sentinel finished rising.
 
-The earth around it is no longer ground, it is ruins. Asphalt split like bone. Trees torn out by the roots. Concrete crushed into dust beneath metal feet the size of buildings.
+The earth around it is no longer ground, it is ruins. Asphalt split like bone, trees torn out by the roots, concrete crushed into dust beneath metal feet the size of buildings.
 
 Sirens wailed in every direction.
 
@@ -2529,9 +2527,7 @@ No one looked back.
 
 The team spread out.
 
-Not scattered.
-
-In Formation.
+Not scattered, in Formation.
 
 Cyclops at the center, everyone else stood in their formation, preparing for the biggest fight of their life.
 
@@ -2542,6 +2538,10 @@ It turned.
 The Sentinel's head pivoted with a sound like grinding steel. Sensors ignited. Light swept across the battlefield, cataloguing heat signatures, power thresholds, genetic variance.
 
 **TARGETS CONFIRMED.**
+
+The Blackbird's engines roared to life.
+
+Operating under autopilot, the aircraft banked away from the battlefield, disappearing into the distance before the battle began.
 
 Cyclops didn't raise his voice.
 
@@ -2560,8 +2560,6 @@ Hundreds of smaller Sentinels deploy human-sized, fast, coordinated, falling lik
 Scott's voice remained steady.
 
 "Every Sentinel we stop buys someone else another chance."
-
-"That's how we win."
 
 He lowered his visor.
 
@@ -2595,9 +2593,9 @@ Storm **took the sky**.
 
 Winds shear outward, ripping smaller Sentinels out of formation, slamming them into each other, into the ground hard enough to crumple steel, pouring lightning, destroying several Sentinels in a single storm.
 
-Logan charged straight through incoming fire, claws tearing into machine joints, ripping servos apart as he climbs, leaps, lands again relentlessly.
+Logan charged straight through incoming fire, claws tearing into machine joints, ripping servos apart as he climbed, lept, landed again relentlessly.
 
-Jean stepped forward and **pushes**.
+Jean stepped forward and **pushed**.
 
 Not outward.
 
@@ -2607,7 +2605,7 @@ The smaller Sentinels falter mid-air, crushed by invisible force, snapping apart
 
 Cyclops fired, controlled, devastating blasts carving paths through metal ranks, clearing space, directing the fight.
 
-Beast moved constantly, dodging, striking, tearing limbs loose and using them as weapons.
+Beast moved constantly, dodging, striking, tearing limbs loose and using them as weapons. The same time he was calculating the sentinels using his visor and the tablet he was carrying in the back.
 
 Rogue caught the Sentinel mid-leap.
 
@@ -2637,7 +2635,7 @@ He was somewhere else entirely.
 
 The battlefield burned.
 
-But not all Sentinels stay.
+But not all Sentinels stayed.
 
 Some of them changed their course.
 
@@ -2733,7 +2731,7 @@ Nobody moved.
 
 Until Bobby smiled.
 
-"Guess we're doing this."
+"Guess we're doing this,", his body turned into ice.
 
 The Sentinels opened fire.
 
@@ -2753,7 +2751,7 @@ One machine broke free.
 
 Piotr was already moving.
 
-Steel covered his body as he charged, every footstep shaking the frozen ground.
+Every footstep shook the frozen ground as his steel body charged forward.
 
 He caught the Sentinel head-on.
 
@@ -2923,11 +2921,15 @@ They didn't announce themselves.
 
 They scanned.
 
-Weapons charged.
+Their weapons charged.
 
-A barrage of energy slammed into a wall of living fire.
+Crimson energy erupted from their cannons.
 
-Roberto da Costa stood in the middle of the street, his body blazing with solar energy as he absorbed every blast.
+A blazing figure dropped from the sky.
+
+The barrage slammed into him like a wall of living fire.
+
+Roberto da Costa landed in the middle of the street, his body blazing with solar energy as he absorbed every blast.
 
 "Move!" he shouted over his shoulder.
 
@@ -2935,7 +2937,7 @@ Roberto da Costa stood in the middle of the street, his body blazing with solar 
 
 The barrage stopped.
 
-Roberto surged forward.
+One Sentinel surged forward towards Roberto.
 
 One blazing punch tore straight through the nearest Sentinel's chest, molten metal spraying across the pavement as the machine collapsed.
 
@@ -2949,7 +2951,7 @@ James Proudstar's head snapped toward the sound before anyone else reacted.
 
 He met the Sentinel in mid-air, driving it through a parked bus. Metal buckled. Glass exploded.
 
-Warpath rolled to his feet first.
+James rolled to his feet first.
 
 "Run!" he barked.
 
@@ -2971,11 +2973,11 @@ Remy LeBeau vaulted over a taxi, staff spinning effortlessly.
 
 The damaged Sentinel fired wildly.
 
-Warpath stepped into the blast without hesitation, boots carving through the asphalt as he absorbed the impact.
+James stepped into the blast without hesitation, boots carving through the asphalt as he absorbed the impact.
 
 "Now!" he shouted.
 
-Roberto needed no second invitation.
+Roberto didn't needed a second invitation.
 
 He launched himself forward, wrapped in solar fire, driving both fists into the Sentinel and sending it crashing through the street in a trail of molten steel.
 
@@ -3011,7 +3013,7 @@ He looked toward the next wave.
 
 The three of them moved without another word.
 
-Warpath drew the machines toward himself.
+James drew the machines toward himself.
 
 Roberto struck wherever James created an opening.
 
@@ -3026,11 +3028,12 @@ But the people running past them couldn't tell the difference.
 ---
 
 ## Chapter 7: The Giant Sentinel
+
 ### Phase I – First Contact
 
 The battlefield was already scarred beyond recognition.
 
-What had once been open ground had become a wasteland of shattered earth, twisted metal, and burning wreckage. Across the battlefield, the remaining Sentinels continued their relentless assault against the scattered mutant forces.
+What had once been open ground had become a wasteland of shattered earth, twisted metal, and burning wreckage. Across the battlefield, the some Sentinels continued their relentless assault against the scattered mutant forces, while some left the battlefield to the city.
 
 The X-Men fought at the center of the chaos.
 
@@ -3070,12 +3073,6 @@ The Giant Sentinel had reassigned them.
 
 It would handle the X-Men itself.
 
-Above the battlefield, the Blackbird's engines roared to life.
-
-Still operating under autopilot, the aircraft banked away from the battlefield, disappearing into the distance.
-
-Inside the cockpit, Bolivar Trask and William Stryker remained unconscious, oblivious to what was about to unfold.
-
 The Giant Sentinel slowly turned.
 
 For the first time...
@@ -3104,16 +3101,16 @@ A calm mechanical voice echoed across the battlefield.
 > KURT WAGNER
 >
 > **POWER ABSORPTION THREAT**  
-> ROGUE
+> ANNA MARIE
 >
 > **ANALYTICAL THREAT**  
 > DR. HENRY McCOY
 >
 > **MORPHOLOGICAL THREAT**  
-> MORPH
+> KEVIN SYDNEY
 >
 > **VARIABLE THREAT**  
-> MIMIC
+> CALVIN RANKLIN
 
 Silence.
 
@@ -3179,7 +3176,7 @@ Beast sprinted toward them.
 
 Mimic abandoned Scott's copied optic blasts.
 
-Nearby, the towering King Kong like form of Morph rapidly shrank, blue skin rippling back into his natural shape as he rushed toward Nightcrawler.
+Nearby, the towering King Kong like form of Morph rapidly shrank, gray skin rippling back into his natural shape as he rushed toward Nightcrawler.
 
 Within seconds, every X-Man had a hand on Kurt.
 
@@ -3193,7 +3190,7 @@ Its eyes blazed white.
 
 "GO!"
 
-_BAMF!_
+**BAMF!**
 
 Blue smoke exploded outward.
 
@@ -3309,7 +3306,7 @@ Storm rose into the storm clouds.
 
 Logan extended his claws.
 
-_SNIKT_
+**SNIKT**
 
 Nightcrawler lowered into a ready stance.
 
@@ -3361,15 +3358,15 @@ Jean nodded.
 
 Despite the lingering pain pounding inside her head, she pushed through it.
 
-Chunks of shattered metal rose from the battlefield.
+Far beyond the scorched battlefield, great chunks of rock and earth ripped free from the ground.
 
-With a sweeping motion of her hand, dozens of jagged fragments shot through the steam like artillery.
+With a sweeping motion of her hand, she hurled them through the steam like artillery.
 
 The Giant Sentinel responded instantly.
 
 Missile pods rotated.
 
-Micro-missiles erupted into the air, intercepting every piece of debris before it reached its target.
+Micro-missiles erupted into the air, intercepting every projectile before they reached their target.
 
 Explosions rippled through the mist.
 
@@ -3509,7 +3506,7 @@ For a moment...
 
 Nothing happened.
 
-The rain continued to fall.
+The rain stopped.
 
 Fragments of the Giant Sentinel's shattered optic lenses rained onto the battlefield, hissing as they struck the cooling earth.
 
@@ -3519,7 +3516,7 @@ Morph stopped pounding against the left arm.
 
 Storm hovered above the battlefield, watching through the drifting steam.
 
-Jean slowly lowered the pieces of twisted metal suspended around her.
+Jean slowly lowered the pieces of ground suspended around her.
 
 Even Beast looked up from the tactical data streaming across his visor.
 
@@ -3559,7 +3556,7 @@ Logan gritted his teeth as smoke curled from his uniform.
 
 The giant gorilla didn't hesitate.
 
-With a deafening roar, Morph threw himself against the Giant Sentinel's left hand, wrapping both massive arms around its fingers and pulling with everything he had.
+With a deafening roar, Morph threw himself against the Giant Sentinel's left hand, trying to weaken it's wrist with everything he had.
 
 Steel groaned.
 
@@ -3579,7 +3576,7 @@ The enormous gorilla was launched across the battlefield.
 
 "Morph!" Rogue shouted.
 
-Before he could crash into the ground—
+Before he crashed into the ground—
 
 A powerful gust of wind caught him.
 
@@ -3589,7 +3586,7 @@ She redirected his momentum, carrying him across the battlefield instead of lett
 
 As Morph flew toward Rogue, his massive body rippled.
 
-The giant gorilla shrank back into his natural blue-skinned form.
+The giant gorilla shrank back into his natural gray-skinned form.
 
 Rogue leapt.
 
@@ -3599,7 +3596,7 @@ She caught him cleanly in midair before landing in a controlled roll across the 
 
 Morph groaned.
 
-"I've had better landings."
+"My chest hursts a little."
 
 Meanwhile—
 
@@ -3619,7 +3616,7 @@ Hydraulics strained against Jean's telekinetic grip.
 
 Veins stood out along her neck.
 
-Blood trickled once more from beneath her nose.
+Blood trickled from beneath her nose.
 
 "Scott..."
 
@@ -3753,8 +3750,6 @@ Beast nodded.
 
 "They weren't its primary sensors."
 
-Rain continued to fall across the battlefield.
-
 The Giant Sentinel stood perfectly still.
 
 Its shattered face crackled with damaged circuitry.
@@ -3864,8 +3859,6 @@ He took one slow breath.
 ---
 
 No one moved.
-
-Rain continued to fall across the ruined battlefield.
 
 Scott's eyes never left the Giant Sentinel.
 
@@ -4549,19 +4542,15 @@ Scott realized that immediately.
 
 "...It's forcing us apart."
 
-"No," Beast's voice came through the comms.
-
-"It's forcing us to communicate."
-
 Another barrage struck.
 
 The ground shook violently.
 
 Nightcrawler teleported through the smoke.
 
-*BAMF!*
+**BAMF!**
 
-He emerged beside Scott.
+He appeared beside Scott.
 
 "I cannot see more than a few meters!"
 
@@ -4583,35 +4572,17 @@ One by one—
 
 Beast answered last.
 
-"I believe I understand."
+"I've identified the pattern."
 
-Scott didn't ask.
+Scott looked across the battlefield.
 
-"Hurry."
+Every impact.
 
-Beast watched another wave of precise impacts land around them.
-
-"Notice the pattern."
-
-Scott looked.
-
-The blasts weren't random.
-
-Every impact was measured.
+Perfectly measured.
 
 Evenly spaced.
 
-Like a giant invisible grid.
-
-"It's controlling the battlefield," Scott said.
-
-"Exactly."
-
-"It isn't trying to hit us."
-
-"It's deciding where we can stand."
-
-As Beast finished—
+"It's controlling the battlefield..."
 
 The bombardment stopped.
 
@@ -4623,17 +4594,13 @@ Scott narrowed his visor.
 
 "...Too quiet."
 
-Then—
-
-A deep metallic impact echoed through the haze.
-
 **THOOM.**
 
-Another.
+A metallic impact echoed through the haze.
+
+**THOOM.**
 
 Closer.
-
-**THOOM.**
 
 The Giant Sentinel emerged from the dust.
 
@@ -4641,19 +4608,17 @@ Not searching.
 
 Walking directly toward Scott.
 
-It knew exactly where he was.
+Its crimson optics never wavered.
 
 Scott's eyes widened.
 
 "It separated us..."
 
-"...then isolated the leader."
+"...then came for the leader."
 
-The Sentinel raised one enormous arm.
+The Sentinel's forearm shifted.
 
-Its forearm shifted.
-
-A massive blade extended from within the armor.
+A colossal blade extended from within its armor.
 
 Logan's voice crackled over the comm.
 
@@ -4671,141 +4636,53 @@ A crimson beam erupted from his eyes.
 
 ---
 
-The crimson beam slammed into the Sentinel's descending blade.
+The optic blast slammed into the descending blade.
 
-**KRAAAAAAANG!**
+**KRAAAAAANG!**
 
-The impact slowed it.
+The strike deflected it only inches.
 
-Nothing more.
+Missiles launched instantly.
 
-Scott rolled aside as the blade carved through the earth where he had stood.
+Scott dove.
 
-The ground split apart.
+The explosions chased him across the battlefield.
 
-A trench stretched dozens of meters behind him.
-
-Scott landed on one knee.
-
-"...Yeah."
-
-He looked up.
-
-"...Definitely Phase Two."
-
-The Giant Sentinel advanced.
-
-One step.
-
-Then another.
-
-It never rushed.
-
-It didn't need to.
-
-Every movement was calculated.
-
-Every strike forced Scott farther across the wasteland.
+Energy bolts carved trenches through the earth.
 
 Another swing.
 
-Scott fired.
+Scott rolled beneath it.
 
-The optic blast struck the Sentinel's shoulder, pushing the enormous arm just enough for the blade to miss him by inches.
+The blade split the ground apart behind him.
 
-He kept moving.
+He never stopped moving.
 
-Never standing still.
+He wasn't fighting.
 
-Never firing longer than necessary.
-
-Inside his visor, tactical markers flashed continuously.
-
-Distance.
-
-Angle.
-
-Terrain.
-
-Time.
-
-Scott wasn't trying to win.
-
-He was buying it.
+He was surviving.
 
 ---
 
-"Scott!"
+Lightning exploded across the battlefield.
 
-Jean's voice burst through the comms.
+The Giant Sentinel turned.
 
-"We're trying to reach you!"
+Storm.
 
-"Negative."
+For the first time...
 
-Scott ducked beneath another swing.
-
-"Stay where you are."
-
-"Scott—"
-
-"Trust me."
-
-The channel fell silent.
-
----
-
-The Sentinel continued its relentless advance.
-
-Every attack herded Scott toward the northern edge of the battlefield.
-
-Its calculations remained flawless.
-
-Target retreating.
-
-Escape routes decreasing.
-
-Probability of elimination rising.
-
-Then—
+Its attention divided.
 
 Scott smiled.
 
-"Got you."
-
-The Sentinel paused.
-
-Not because it understood.
-
-Because Scott had stopped running.
-
-He stood perfectly still.
-
-The machine raised its blade.
-
-High above him.
-
-Scott touched the side of his visor.
-
-"Now."
-
-Storm raised one hand.
-
-This time, the sky did not answer.
-
-The earth did.
-
-The ground beneath the Giant Sentinel cracked and lurched upward, stealing its balance for a single, crucial moment.
-
-That was all Scott needed.
-
-Before the machine could recover—
+"That's my opening."
 
 **BAMF!**
 
-Nightcrawler appeared above its shoulders.
+Nightcrawler appeared above the Sentinel's shoulders.
 
-Three compact explosive charges clung to the exposed joints between its newly repositioned armor plates.
+Three compact explosive charges locked onto the exposed joints beneath its armor.
 
 **BAMF!**
 
@@ -4813,187 +4690,119 @@ He vanished.
 
 "Charges set!"
 
-The Sentinel immediately twisted—
+"Now!"
 
-Too late.
+The battlefield erupted.
+
+**BOOM!**
+
+**BOOM!**
+
+**BOOM!**
+
+The charges detonated.
+
+Armor plating exploded outward.
+
+Fragments of steel rained across the battlefield.
+
+The Sentinel staggered.
 
 "Jean!"
 
-Invisible telekinetic force slammed against the machine's upper body.
+Despite the pounding pain inside her mind, Jean reached out.
 
-Not to throw it.
+Invisible force seized the damaged shoulder.
 
-To hold it in place.
+Hydraulics screamed.
 
-She gritted her teeth.
+The machine strained against her telekinetic grip.
 
 "I've... got it!"
 
 "Logan!"
 
-A yellow blur sprinted through the dust.
+A yellow blur sprinted through the smoke.
 
-Logan didn't attack the torso.
+Logan ignored the torso.
 
-He ignored the armor completely.
+His claws drove into the exposed shoulder assembly.
 
-Instead—
+Metal shrieked.
 
-His claws buried themselves into the Sentinel's right ankle joint.
-
-Metal screamed.
-
-The machine shifted again.
-
-Its balance worsened.
+The Sentinel lurched sideways.
 
 "Mimic!"
 
 "I know!"
 
-Mimic copied Scott's optic blast.
+Mimic unleashed Scott's optic blast.
 
-A second crimson beam struck the same destabilized leg.
+A second crimson beam struck the same damaged section.
 
-Then Morph.
+"Morph!"
 
-Already transformed into Mammoth.
+Already transformed into Mammoth, Morph charged.
 
-He charged like a battering ram.
+The impact thundered across the battlefield.
 
-Straight into the weakened joint.
+For a single moment...
 
-Scott watched everything unfold exactly as planned.
+The Giant Sentinel looked unstable.
 
-The Sentinel had believed it was isolating one target.
+Scott watched.
 
-Instead—
-
-It had walked directly into the center of the X-Men.
-
-Together.
+Everything had gone exactly according to plan.
 
 ---
-
-The Giant Sentinel staggered.
-
-Its right leg dug deep into the fractured earth, carving a trench across the battlefield.
-
-For a moment...
-
-It looked like it would fall.
 
 Then—
 
-Its entire frame shifted.
+**KRRRRRT... CLANK.**
 
-**KRRRRT... CLANK.**
+Armor shifted.
 
-Armor plates slid into new positions.
+Hydraulic locks sealed.
 
-The damaged ankle locked into place.
+Internal mechanisms rearranged themselves.
 
-Hydraulic pistons expanded.
+The shattered shoulder plates folded back into place.
 
-The machine redistributed its own weight.
+The damaged joints locked.
 
-It caught itself.
-
-Silence.
-
-Beast's eyes widened.
-
-"...It compensated."
-
-The Sentinel slowly turned toward the X-Men.
-
-Its crimson optics swept across each of them.
-
-> **TACTICAL ASSESSMENT UPDATED.**
-
-> **COORDINATED TEAM ASSAULT DETECTED.**
-
-> **PRIORITY TARGET REVISION COMPLETE.**
+Stability restored.
 
 Scott's smile faded.
 
-"It learned."
+"...It adapted."
 
-"No..." Beast said quietly.
+The Sentinel's crimson optics swept across every X-Man.
 
-"It evolved."
-
-The Giant Sentinel raised both arms.
-
-This time...
-
-It wasn't aiming at any one X-Man.
-
-It was aiming at all of them.
-
----
-
-The Giant Sentinel lowered its arms.
-
-It didn't attack.
-
-It observed.
-
-Its crimson optics swept across the battlefield.
-
-Scott.
-
-Jean.
-
-Storm.
-
-Logan.
-
-Nightcrawler.
-
-Mimic.
-
-Morph.
-
-Beast.
-
-> **THREAT ANALYSIS COMPLETE.**
+> **TACTICAL ASSESSMENT UPDATED.**
 
 > **PRIMARY ADVANTAGE IDENTIFIED: TEAM COORDINATION.**
 
 > **COUNTERMEASURE INITIATED.**
 
-"What is it doing?" Logan growled.
-
-Beast's eyes narrowed.
-
-"...I don't like this."
-
 Without warning—
 
-The Giant Sentinel slammed both hands into the ground.
+The Giant Sentinel slammed both hands into the earth.
 
 **BOOOOOOM!!**
 
-The wasteland erupted.
+The battlefield shattered.
 
-Deep fissures raced across the battlefield in every direction.
+Deep fissures raced across the wasteland.
 
-Walls of shattered earth exploded upward between the X-Men.
+Walls of earth erupted between the X-Men.
 
-Scott stumbled as the ground split beneath him.
+Storm was forced higher into the sky.
 
-"Jean!"
+Nightcrawler vanished with a **BAMF** before the ground swallowed his footing.
 
-A ridge of stone burst between them.
+Logan leapt across a widening chasm.
 
-Storm was forced into the air.
-
-Nightcrawler vanished with a **BAMF** just before the earth swallowed his footing.
-
-Logan barely leapt across a widening chasm.
-
-Mimic rolled behind a slab of rock.
+Jean was cut off behind rising stone.
 
 Within seconds...
 
@@ -5005,13 +4814,11 @@ Everyone had been separated.
 
 Scott looked around.
 
-"...It broke formation."
+"...It broke our formation."
 
-Beast's voice crackled through the comms.
+Beast's voice came through the comm.
 
-"No."
-
-"It broke line of sight."
+"It broke our line of sight."
 
 Silence.
 
@@ -5019,9 +4826,9 @@ Scott understood immediately.
 
 Without seeing one another...
 
-Every order would arrive a second too late.
+Every command would arrive too late.
 
-And against something that could think this fast—
+Against something that could think this fast...
 
 One second was everything.
 
@@ -5033,73 +4840,49 @@ Watching.
 
 Calculating.
 
-Neither side moved.
-
-Scott's voice cut through the silence.
+Scott broke the silence.
 
 "Beast."
 
-A beat.
-
 "Tell me you've found something."
 
-Beast's eyes remained fixed on the telemetry racing across his tablet.
+"I have."
 
-"...I have."
+Beast brought up a wireframe projection.
 
-Everyone turned toward him.
-
-"The armor isn't its greatest defense."
-
-"The processing core is."
-
-Scott frowned.
-
-"Where?"
-
-Beast enlarged a wireframe model of the Giant Sentinel.
-
-"The adaptive processing core is housed beneath the dorsal armor..."
+"The adaptive processing core."
 
 The hologram rotated.
 
-"...just below the nape of its neck."
+"Beneath the dorsal armor."
 
-A crimson point pulsed on the Sentinel's upper back.
+"Just below the nape of the neck."
 
-"Every adaptation."
+A crimson point pulsed on the model.
 
-"Every tactical calculation."
+"Destroy that..."
 
-"Every combat decision."
+"...and the Sentinel loses everything that makes it adaptive."
 
-"It all originates there."
+Scott studied the Giant Sentinel.
 
-Scott looked up.
-
-His eyes followed the Giant Sentinel as it instinctively kept turning to face them.
+It constantly adjusted its position.
 
 Never exposing its back.
 
 "It knows."
 
-Beast nodded.
+"It knows enough to protect it."
 
-"It may not know why it's protecting that area..."
-
-"...but it knows it cannot afford to lose it."
-
-Silence settled over the battlefield.
-
-Scott studied the Sentinel's movements one last time.
+Silence settled across the battlefield.
 
 Then...
 
-A smile crept across his face.
+Scott smiled.
 
 "I've got it."
 
-Jean looked at him.
+Jean looked toward him.
 
 "You have a plan?"
 
@@ -5107,13 +4890,13 @@ Scott adjusted his visor.
 
 "We stop trying to destroy the Sentinel."
 
-He locked his gaze on the back of its neck.
+His eyes locked onto the back of its neck.
 
-"We just need one shot."
+"We only need one shot."
 
-The Giant Sentinel's crimson optics ignited.
+The Giant Sentinel's crimson optics flared.
 
-Scott took a step forward.
+Scott took one step forward.
 
 "Round three."
 
@@ -5149,7 +4932,7 @@ Betsy landed beside her, her combat blade flashing as psychic energy danced alon
 
 Above them—
 
-Warren swept through the smoke, catching two younger students moments before a blast struck the ground beneath them.
+Warren swept through the smoke, he was figthing Sentinels airborne.
 
 Illyana's stepping discs flashed across the battlefield.
 
@@ -5251,7 +5034,7 @@ The students looked around in disbelief.
 
 "...What just happened?" Bobby whispered.
 
-A young man stood among the wreckage, brushing dust from his jacket.
+A young man (Pietro) stood among the wreckage, brushing dust from his jacket.
 
 He looked at the stunned faces surrounding him.
 
@@ -5273,7 +5056,7 @@ Smoke drifted between burning cargo containers.
 
 The harbor echoed with artillery fire.
 
-BOOM!
+**BOOM!**
 
 A naval destroyer's main battery roared, its shell striking a Sentinel square in the chest and throwing it into the docks.
 
@@ -5289,7 +5072,7 @@ Another Sentinel lunged from behind.
 
 Bishop spun.
 
-A surge of crimson energy erupted from his fists, blasting the machine backward into the harbor.
+A surge of crimson energy erupted from his emitter, blasting the machine backward into the harbor.
 
 "Keep firing!" Bishop shouted.
 
@@ -5313,7 +5096,7 @@ Another landed atop a second ship.
 
 Arm cannons rotated.
 
-BOOM!
+**BOOM!**
 
 The destroyer's forward guns exploded.
 
@@ -5333,19 +5116,7 @@ The Sentinels advanced.
 
 Without the fleet...
 
-Every machine turned toward the evacuation point.
-
-Behind Bishop...
-
-Dozens of children huddled behind reinforced barricades.
-
-Teachers.
-
-Volunteers.
-
-Families.
-
-They had nowhere left to run.
+Every machine turned toward the base where the children were being protected.
 
 Bishop clenched his fists.
 
@@ -5405,7 +5176,7 @@ Energy crackled across his skin.
 
 He planted both feet.
 
-"Not..."
+"Not... today"
 
 The energy around him exploded outward.
 
@@ -5435,11 +5206,9 @@ Missile pods opened.
 
 Bishop looked past them—
 
-Toward the barricades.
+Toward the base.
 
-Toward the frightened children.
-
-Toward the families he had sworn to protect.
+Toward the frightened children he swore to protect.
 
 He tried to stand.
 
@@ -5487,7 +5256,7 @@ The remaining Sentinels disappeared beneath a chain of detonations.
 
 As the flames faded...
 
-A woman slowly descended from above.
+A woman (Wanda) slowly descended from above.
 
 Scarlet energy drifted around her like smoke.
 
@@ -5529,7 +5298,7 @@ Was crawling with Sentinels.
 
 Families hurried toward the underground emergency shelter beyond the barricades.
 
-Warpath stood at the front of the defensive line.
+James stood at the front of the defensive line.
 
 A Sentinel lunged.
 
@@ -5547,7 +5316,7 @@ They glowed bright pink.
 
 The cards struck a Sentinel's chest.
 
-BOOM!
+**BOOM!**
 
 The explosion threw two more machines off their feet.
 
@@ -5569,7 +5338,7 @@ They were surrounded.
 
 Then—
 
-A little boy stumbled.
+A little boy stumbled, a heteromorph.
 
 He hit the pavement hard.
 
@@ -5587,13 +5356,13 @@ Two Sentinels turned toward him.
 
 Their optics glowed crimson.
 
-``TARGET ACQUIRED.``
+**TARGET ACQUIRED.**
 
 His parents ran toward him.
 
 "No!"
 
-Warpath saw them.
+James saw them.
 
 He tried to move—
 
@@ -5739,7 +5508,7 @@ Only then did he stand.
 
 Behind him—
 
-Warpath finally threw the Sentinel he'd been restraining through a concrete barrier.
+James finally threw the Sentinel he'd been restraining through a concrete barrier.
 
 Remy walked over, shuffling another deck of cards into one hand.
 
@@ -5843,6 +5612,8 @@ The battle continued.
 
 ## Chapter 10: One Shot
 
+### Battlefield
+
 The Giant Sentinel moved first.
 
 Its crimson optics flared.
@@ -5887,7 +5658,7 @@ Storm gave a single nod.
 
 The wind answered.
 
-Dark clouds rolled across the sky, swallowing the afternoon sun.
+Dark clouds rolled across the sky, swallowing the night sky.
 
 Thunder rolled overhead.
 
@@ -5987,9 +5758,9 @@ The Giant Sentinel roared.
 
 Its massive arm swung toward the charging tyrannosaur.
 
-Morph ducked beneath the blow.
+Morph blocked with his head.
 
-The impact shattered an entire city block.
+Everyone felt the impact of the collision.
 
 Scott never looked away.
 
@@ -6041,11 +5812,11 @@ Its optics flickered.
 
 Warning symbols flashed across its face.
 
-``OPTICAL FAILURE.``
+**OPTICAL FAILURE.**
 
-``SECONDARY OPTICS OFFLINE.``
+**SECONDARY OPTICS OFFLINE.**
 
-``REROUTING...``
+**REROUTING...**
 
 Jean inhaled sharply.
 
@@ -6083,7 +5854,7 @@ The blast missed Scott by nearly fifty feet.
 
 Another beam.
 
-It cut through an abandoned skyscraper.
+It cut through the mountain.
 
 Not even close.
 
@@ -6093,9 +5864,7 @@ Scott smiled.
 
 The Giant Sentinel lashed out in every direction.
 
-Buildings collapsed.
-
-Roads split apart.
+The jungle around it split apart.
 
 It wasn't attacking anymore.
 
@@ -6129,15 +5898,15 @@ Searching.
 
 Finding nothing.
 
-``VISUAL SYSTEM FAILURE.``
+**VISUAL SYSTEM FAILURE.**
 
-``SWITCHING TO TACTICAL PREDICTION.``
+**SWITCHING TO TACTICAL PREDICTION.**
 
 The machine raised both arms.
 
 Energy erupted in every direction.
 
-Buildings collapsed.
+Buildings closer to the Sentinel collapsed.
 
 The streets exploded beneath the barrage.
 
@@ -6155,21 +5924,19 @@ The giant dinosaur charged again.
 
 Its jaws clamped around the Sentinel's forearm.
 
-The machine slammed Morph through the side of a building.
+Cyclops planted his feet.
 
-Calvin leapt into the air.
+He turned on his visor to full output.
 
-His eyes burned crimson.
-
-Twin optic blasts hammered the Sentinel's chest.
+Straight column optic blasts hammered the Sentinel's chest.
 
 The machine turned toward the attack.
 
 Exactly as Scott wanted.
 
-"Now!"
+He turned off his visor and said, "Now!"
 
-A cloud of indigo smoke erupted beside Wolverine.
+A cloud of Sulpher smoke erupted beside Wolverine.
 
 **BAMF!**
 
@@ -6181,7 +5948,7 @@ They reappeared high behind the Giant Sentinel.
 
 Balanced atop its broad shoulders.
 
-The city stretched out beneath them.
+The battlefield stretched out beneath them.
 
 For the first time...
 
@@ -6245,21 +6012,21 @@ Nanometal rushed toward the damage, desperately trying to close the wound.
 
 Scott saw it immediately.
 
-"Calvin!"
+"Mimic!"
 
 ---
 
-Scott pointed toward the Giant Sentinel's back.
-
-"Calvin!"
-
-Calvin planted his feet.
+Mimic teleported himself at the Sentinel's back.
 
 His eyes burned crimson.
 
 He exhaled.
 
-Twin optic beams erupted across the battlefield.
+Nightcrawler reappeared beside Wolverine.
+
+One hand grabbed Logan's shoulder, and they disappeared.
+
+In the air, optic beams erupted from Mimic's eyes.
 
 The blasts struck the center of Wolverine's X-shaped gashes.
 
@@ -6279,33 +6046,15 @@ Exposed.
 
 Warning sirens echoed through the Giant Sentinel.
 
-``PROCESSING CORE EXPOSED.``
+**PROCESSING CORE EXPOSED.**
 
-``CRITICAL FAILURE.``
+**CRITICAL FAILURE.**
 
 The machine abandoned everything.
 
 Its massive arms reached behind its own back.
 
 Trying to shield the processor.
-
-"Not yet."
-
-**BAMF!**
-
-Nightcrawler reappeared beside Wolverine.
-
-One hand grabbed Logan's shoulder.
-
-The other seized Calvin.
-
-Before the Giant Sentinel's hands could reach them—
-
-**BAMF!**
-
-All three disappeared.
-
-The Sentinel's own hands slammed into its damaged back.
 
 Too late.
 
@@ -6323,13 +6072,11 @@ It returned.
 
 Harder.
 
-The clouds above New York churned into a dark vortex.
+The clouds above the battlefield churned into a dark vortex.
 
-Thunder rolled across the city.
+Thunder rolled across the battlefield.
 
-Rain began to fall.
-
-Her white hair danced within the growing storm.
+Her white hair danced within the growing storm, eyes glowing with white lightning.
 
 Lightning flickered between the clouds.
 
@@ -6342,8 +6089,6 @@ Again.
 Storm lifted both hands toward the heavens.
 
 Her voice carried across the battlefield.
-
-Across the city.
 
 "Sky above..."
 
@@ -6361,7 +6106,7 @@ Wind surged through the streets.
 
 She thrust both hands downward.
 
-"Strike!"
+"Strike this behemoth!"
 
 The heavens split apart.
 
@@ -6371,7 +6116,7 @@ It pierced straight through the exposed processing core.
 
 The Giant Sentinel arched backward.
 
-Its mechanical scream echoed across New York.
+Its mechanical scream echoed across nearby cities.
 
 The lightning continued pouring through its body.
 
@@ -6397,11 +6142,11 @@ Its massive frame trembled.
 
 Across its body, crimson warning lights pulsed erratically.
 
-``CRITICAL SYSTEM FAILURE.``
+**CRITICAL SYSTEM FAILURE.**
 
-``PROCESSING CORE DESTABILIZED.``
+**PROCESSING CORE DESTABILIZED.**
 
-``ATTEMPTING REBOOT...``
+**ATTEMPTING REBOOT...**
 
 The X-Men watched.
 
@@ -6439,11 +6184,11 @@ It staggered.
 
 The adaptive systems fought desperately to restore control.
 
-``REBOOT FAILED.``
+**REBOOT FAILED.**
 
-``PROCESSING CORE OFFLINE.``
+**PROCESSING CORE OFFLINE.**
 
-``COMMAND LINK LOST.``
+**COMMAND LINK LOST.**
 
 The crimson glow in its eyes faded.
 
@@ -6459,7 +6204,7 @@ The Giant Sentinel toppled forward.
 
 Its enormous body crashed into the streets below.
 
-The impact shook the city.
+The impact shook the battlefield.
 
 A cloud of dust erupted into the sky.
 
@@ -6467,7 +6212,7 @@ No one spoke.
 
 Then—
 
-Across New York...
+Across the cities...
 
 Every remaining Sentinel stopped.
 
@@ -6485,11 +6230,11 @@ Simply stood still.
 
 A low electronic tone echoed from every machine simultaneously.
 
-``COMMAND SIGNAL LOST.``
+**COMMAND SIGNAL LOST.**
 
-``PRIMARY NETWORK OFFLINE.``
+**PRIMARY NETWORK OFFLINE.**
 
-``SHUTTING DOWN.``
+**SHUTTING DOWN.**
 
 One by one...
 
@@ -6522,14 +6267,6 @@ Scott nodded.
 He looked at every member of the team.
 
 "We did."
-
----
-
-Night had settled over New York.
-
-It was nearly two in the morning.
-
-Smoke drifted between the city's battered skyline as emergency vehicles filled the streets below.
 
 ---
 
@@ -6579,39 +6316,43 @@ There was peace.
 
 Outside Xavier's School...
 
-The students slowly emerged from the building.
+As the protective shields powered down, the students slowly stepped outside.
 
-Bobby rushed toward the younger children.
+They looked toward the horizon.
 
-"You guys okay?"
+Smoke still lingered in the distance.
 
-The children nodded.
+No one spoke.
 
-Some laughed.
+Not until familiar figures appeared along the road.
 
-Some cried.
+A wave of relief spread through the crowd.
 
-Others simply hugged their teachers.
+Bobby grinned.
 
-Piotr rested a reassuring hand on a frightened student's shoulder.
+"They're okay."
 
-Kitty helped another child to their feet.
+Piotr let out a quiet breath he hadn't realized he was holding.
 
-Jubilation finally relaxed.
+Kitty smiled.
+
+Jubilation practically bounced on her heels.
 
 Warren folded his wings.
 
-Illyana quietly watched the city.
+Illyana remained silent, though the corner of her mouth lifted ever so slightly.
 
-Pietro stood nearby, hands in his pockets.
+Pietro stood nearby, hands tucked into his pockets.
 
 "So..."
 
-He smiled.
+He smirked.
 
 "Looks like you all had fun without me."
 
-The tension finally broke as several students laughed.
+A few students laughed.
+
+The tension finally melted away.
 
 ---
 
@@ -6641,21 +6382,21 @@ He looked across the harbor.
 
 At the evacuation route...
 
-Families reunited.
+Families came out of the shelter.
 
 Parents held their children tightly.
 
 Emergency crews moved through the streets.
 
-Warpath looked around.
+James looked around.
 
 "The kid?"
 
-Sunspot smiled.
+Roberto looked at the kid with his parents.
 
-"Safe."
+"They are safe."
 
-Gambit glanced toward the rooftops.
+Remy glanced toward the rooftops.
 
 "...Where's Spider-Man?"
 
@@ -6665,7 +6406,7 @@ Nothing.
 
 Only a loose strand of web swayed gently in the night breeze.
 
-Warpath smiled.
+James smiled.
 
 "He already left."
 
@@ -6681,7 +6422,7 @@ Then...
 
 A calm voice echoed gently inside his mind.
 
-**"Thank you, Peter."**
+**"Thank you, Spider-Man."**
 
 Spider-Man smiled beneath the mask.
 
