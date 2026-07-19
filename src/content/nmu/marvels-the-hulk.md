@@ -647,7 +647,7 @@ and stops.
 
 Because the room doesn't move.
 
-No alarms. No restraints. No humming machines pulling at his blood. Just sunlight filtering through tall windows, soft and impossibly calm. The bed beneath him doesn't creak like metal, it _gives_, like something meant to hold a human body.
+No alarms. No restraints. No humming machines pulling at his blood. Just sunlight filtering through tall windows, soft and impossibly calm. The bed beneath him doesn't creak like metal, it gives, like something meant to hold a human body.
 
 "Easy," a voice says.
 
@@ -661,7 +661,7 @@ Bruce's pulse spikes again.
 
 The man smiles faintly. Not reassuring, patient.
 
-"My name is **Charles Xavier**," he says. "And you're safe here."
+"My name is Charles Xavier," he says. "And you're safe here."
 
 Bruce laughs, short, bitter.
 
@@ -671,13 +671,13 @@ Charles doesn't argue.
 
 "Trust me," he says instead. "You'll be surprised."
 
-Bruce looks around again. The room is... elegant. Old-world. Warm. Not a bunker. Not a cell.
+Bruce looks around again. The room is... elegant, old-world, warm, not a bunker, not a cell.
 
 "Where am I?"
 
 "This," Charles says, gesturing gently, "is my mansion. Looks a bit fancy, I know."
 
-Bruce exhales through his nose.
+Bruce exhaled through his nose.
 
 "Yeah. That's one word for it."
 
@@ -687,43 +687,33 @@ Charles wheels back slightly.
 
 The halls are wide, sunlit, alive with motion.
 
-People, _young people_, move through them. Some normal at first glance. Others... less so. A girl with silver eyes laughs as she floats a book beside her. A boy phases briefly through a wall to avoid a collision and apologizes mid-step.
+People, young people, move through them. Some normal at first glance, others... less so. A girl with silver eyes laughed as she floated a book beside her. A boy phased briefly through a wall to avoid a collision and apologized mid-step.
 
-Bruce slows.
+Bruce slowed.
 
-Charles notices everything.
+Charles noticed everything.
 
-"This is a school," he says. "And a home. For people who never asked to be different, but still have to learn how to live with it."
+"This is a school," he says. "and a home. For people who never asked to be different, but still have to learn how to live with it."
 
-They pass a training hall where controlled combat drills are underway.
+They passed a training hall where controlled combat drills are underway.
 
-"The X-Men," Charles continues, "aren't a single unit. They're a responsibility."
+Bruce watched them move with discipline, restraint.
 
-He gestures subtly as groups come into view.
+"You're building an army?" Bruce asked quietly.
 
-"Core X-Men, field leaders. Veterans."
+Charles stopped his chair and looked at him.
 
-"X-Force, covert, high-risk intervention."
+"No," he replied. "We are helping them learn to use their gifts responsibly."
 
-"And New X-Men, those still learning the way we work."
+They moved again.
 
-Bruce watches them move with discipline, restraint.
+Outside, construction crew worked along the edges of the property, new wings. New dormitories.
 
-"You're building an army," Bruce says quietly.
-
-Charles stops his chair and looks at him.
-
-"No," he replies. "I'm preventing one."
-
-They move again.
-
-Outside, construction crews work along the edges of the property. New wings. New dormitories.
-
-"There's been a surge," Charles explains. "People seeking help. Safety. Education."
+"There's been a surge," Charles explained. "People seeking help. Safety. Education."
 
 A pause.
 
-"I've had to expand."
+"I had to expand."
 
 Bruce's brow furrows.
 
@@ -735,9 +725,9 @@ They pass classrooms now. Children learning. Laughing. Being corrected gently, n
 
 "We teach them," Charles says, "because power without guidance becomes fear. And fear becomes violence."
 
-Bruce swallows.
+Bruce swallowed.
 
-They arrive at a lab.
+They arrived at a lab.
 
 Modern. Bright. Familiar in a way Bruce hasn't felt in years.
 
@@ -745,41 +735,41 @@ Inside, a tall, blue-furred man peers into a microscope, scribbling notes.
 
 Bruce stops dead.
 
-"...Okay," he says. "I _definitely_ wasn't ready for that."
+"...Okay," he says. "I definitely wasn't ready for that."
 
-The man looks up, adjusts his glasses, and smiles.
+The man looked up, adjusts his glasses, and smiles.
 
-"Oh, don't worry," he says warmly. "I get that a lot."
+"Oh, don't worry," he said warmly. "I get that a lot."
 
-Charles gestures.
+Charles gestured.
 
-"Bruce Banner, this is **Hank McCoy**."
+"Bruce Banner, this is Hank McCoy."
 
-Hank steps forward, offering a hand without hesitation.
+Hank stepped forward, offering a hand without hesitation.
 
 "Biochemist. Geneticist. Occasional poet when the mood strikes," he says. "And before you ask, yes, the fur is real."
 
-Bruce hesitates... then shakes his hand.
+Bruce hesitated... then shook his hand.
 
 Hank's grip is gentle. Human.
 
-"I've read your work," Hank adds casually. "Your gamma suppression theories are... ambitious."
+"I've read your work," Hank added casually. "Your gamma suppression theories are... ambitious."
 
-Bruce blinks.
+Bruce blinked.
 
 "You don't seem scared."
 
 Hank chuckles.
 
-"Oh, I'm terrified. Just not of _you_."
+"Oh, I'm terrified. Just not of you."
 
-Something in Bruce's shoulders loosens. Just a fraction.
+Something in Bruce's shoulders loosened. Just a fraction.
 
-Charles watches quietly.
+Charles watched quietly.
 
 For the first time since the forest—
 
-Bruce Banner doesn't feel like a weapon.
+Bruce Banner didn't feel like a weapon.
 
 Just a man who finally stopped running.
 
