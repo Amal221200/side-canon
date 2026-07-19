@@ -1896,3 +1896,2505 @@ None of them realized...
 That this was only the beginning.
 
 ---
+
+## Chapter 5: Classroom
+
+The morning bell echoed through the halls of Xavier's School.
+
+Students slowly filtered into Classroom 3A, chatting as they searched for their usual seats.
+
+Piotr quietly took a seat beside Kitty Pryde.
+
+Betsy entered a moment later.
+
+She paused for a second, looking around the unfamiliar classroom before choosing a seat near the front.
+
+A few seconds later, Illyana walked in.
+
+Her eyes briefly met Betsy's.
+
+Without saying a word, she turned away and made her way to the very last row.
+
+As far from Betsy as possible.
+
+Betsy lowered her eyes.
+
+She had expected nothing else after the previous night.
+
+"Mind if I sit here?"
+
+Betsy looked up.
+
+Warren Worthington smiled warmly.
+
+"Oh... no. Please."
+
+"Thanks."
+
+He pulled out the chair beside her.
+
+Moments later Bobby Drake entered carrying a notebook.
+
+"Morning everyone."
+
+He dropped into the seat directly behind Betsy.
+
+Just before class began, Jubilee hurried inside.
+
+"Sorry! Sorry!"
+
+She looked around.
+
+Every seat was occupied.
+
+Except one.
+
+Beside Illyana.
+
+"...Seriously?"
+
+She sighed dramatically before dragging herself toward the back.
+
+Illyana didn't even acknowledge her.
+
+Jubilee looked like she'd just accepted her fate.
+
+The classroom door opened.
+
+Dr. Hank McCoy walked inside carrying a tablet.
+
+Conversations immediately died down.
+
+"Good morning, everyone."
+
+"Good morning, Dr. McCoy."
+
+Hank placed the tablet on the desk before looking toward Betsy.
+
+"Before we continue today's lecture, I'd like everyone to welcome a new student."
+
+He gestured toward the front.
+
+"This is Elizabeth Braddock."
+
+"She'll be joining us from today onward."
+
+Several students smiled.
+
+"Welcome."
+
+"Hi."
+
+"Morning."
+
+Betsy gave an awkward smile.
+
+"H-Hello."
+
+Hank nodded kindly.
+
+"Wonderful."
+
+"Now..."
+
+He picked up the presentation remote.
+
+"...before continuing from our previous lecture, let's make sure Miss Braddock is caught up."
+
+The classroom lights dimmed.
+
+The smart board flickered to life.
+
+The first slide appeared.
+
+Title:
+
+**Mutant Evolution**
+
+Hank slowly read the title aloud.
+
+"Mutant Evolution."
+
+"This course explores one simple question."
+
+He looked around the room.
+
+"What exactly is a mutant?"
+
+The next slide appeared.
+
+Title:
+
+**Evolutionary Model**
+
+Hank folded his hands behind his back.
+
+"Can anyone define a biological mutation?"
+
+A student near the middle raised his hand.
+
+"A mutation is a permanent change in an organism's DNA sequence."
+
+Hank smiled.
+
+"Excellent."
+
+"And what happens when that mutation occurs in us?"
+
+Another student answered,
+
+"It changes what our bodies can do."
+
+"Correct."
+
+Hank nodded.
+
+"In mutants, those genetic changes produce extraordinary physiological traits."
+
+He continued walking slowly across the room.
+
+"Sometimes those changes are subtle."
+
+He stopped.
+
+"Sometimes..."
+
+"...they're impossible to ignore."
+
+The class burst into laughter.
+
+Hank simply looked down at his own blue fur.
+
+"...Yes."
+
+"I walked into that one."
+
+The laughter only grew louder.
+
+Even Betsy couldn't help smiling.
+
+After the room settled down, Hank continued.
+
+"Mutation alters a person's biology."
+
+"It allows the body to perform functions that ordinary human physiology cannot."
+
+"The important word there..."
+
+He tapped the board.
+
+"...is biology."
+
+The next slide appeared.
+
+A video thumbnail.
+
+Title:
+
+**Teleportation Observation – Subject: Kurt Wagner**
+
+Hank pressed play.
+
+The footage showed Kurt standing in the courtyard outside Xavier's School.
+
+A hidden camera recorded from a distance.
+
+*BAMF!*
+
+A cloud of sulfur erupted.
+
+Kurt vanished.
+
+The video immediately cut.
+
+Now another hidden camera overlooked the Eiffel Tower in Paris.
+
+Another burst of sulfur.
+
+*BAMF!*
+
+Kurt appeared.
+
+The clip ended.
+
+Hank turned back toward the class.
+
+"So."
+
+"What happened?"
+
+A student answered immediately.
+
+"Mr. Wagner teleported from school to Paris."
+
+"Correct."
+
+Hank smiled.
+
+"But..."
+
+"...that isn't the complete answer."
+
+The room became quiet.
+
+Several students frowned.
+
+Hank clicked to the next slide.
+
+The footage played again.
+
+This time...
+
+Between the disappearance and reappearance...
+
+The screen briefly showed something else.
+
+Darkness.
+
+A strange landscape.
+
+Twisting shadows.
+
+Then—
+
+Paris.
+
+The room fell silent.
+
+Betsy leaned forward.
+
+"What..."
+
+Another student blinked.
+
+"Was that...?"
+
+Hank paused the presentation.
+
+The next slide appeared.
+
+Three images.
+
+**Xavier's School**
+
+↓
+
+**Unknown Realm**
+
+↓
+
+**Paris**
+
+The room remained completely silent.
+
+Hank spoke calmly.
+
+"Every experiment we've conducted suggests that Mr. Wagner does not simply disappear from one location and instantly appear in another."
+
+He pointed at the center image.
+
+"He briefly passes through another realm before arriving at his destination."
+
+Several students stared at the screen.
+
+Someone finally raised a hand.
+
+"But..."
+
+"...how?"
+
+Hank smiled.
+
+"An excellent question."
+
+He wrote a single word beneath the diagram.
+
+**Unknown**
+
+"This..."
+
+"...is why this subject exists."
+
+"We understand that mutations are biological."
+
+"We understand that they are tied to the X-Gene."
+
+"We can observe them."
+
+"We can measure them."
+
+"We can even reproduce some of our experiments."
+
+He looked around the classroom.
+
+"But..."
+
+"...biology alone does not explain why Mr. Wagner's mutation allows access to another realm."
+
+Silence filled the room.
+
+Even the students who had been whispering earlier were completely focused.
+
+Illyana quietly watched the diagram.
+
+Unlike everyone else...
+
+She wasn't surprised.
+
+The image of another realm felt disturbingly familiar.
+
+Hank advanced to the next slide.
+
+Title:
+
+**Current Models**
+
+- Evolutionary Model
+- Cosmic Model
+- Mythic Model
+
+"We currently classify our understanding into several working models."
+
+"They are not facts."
+
+"They are hypotheses."
+
+"They help us organize the evidence we have."
+
+"The purpose of this class is not to memorize these models."
+
+He looked around the room.
+
+"It's to challenge them."
+
+"To improve them."
+
+"And perhaps..."
+
+"...to replace them entirely one day."
+
+He changed to the next slide.
+
+A rotating image of a DNA strand appeared.
+
+Title:
+
+**The X-Gene**
+
+"One thing every known mutant has in common..."
+
+"...is the presence of the X-Gene."
+
+"It is the biological foundation of mutation."
+
+"Some inherit it from mutant parents."
+
+"Others are born into entirely human families."
+
+"So far..."
+
+"Inheritance alone has failed to explain why mutations awaken."
+
+"They commonly emerge during adolescence..."
+
+"...often under periods of extreme physical or emotional stress."
+
+He paused.
+
+"Which raises another question."
+
+"If the X-Gene explains **that** mutations occur..."
+
+"...what explains **why** some mutations connect to forces that seem to extend beyond conventional biology?"
+
+No one answered.
+
+Hank smiled.
+
+"Good."
+
+He turned off the projector.
+
+"If you're leaving today's class with more questions than answers..."
+
+"...then today's lecture was a success."
+
+---
+
+## Chapter 6: The Danger Room
+
+The heavy steel doors slid open.
+
+Beyond them lay a massive circular chamber.
+
+Metal walls.
+
+Towering observation platforms.
+
+Rows of concealed launch ports.
+
+The iconic **Danger Room**.
+
+Betsy slowly stepped inside, taking everything in.
+
+"This..."
+
+"...is incredible."
+
+Students gathered near the entrance while Scott Summers stood at the center of the room, hands folded behind his back.
+
+"Everyone."
+
+His calm voice echoed through the chamber.
+
+"Today's exercise is an individual assessment."
+
+He looked toward Betsy.
+
+"Miss Braddock."
+
+She looked up.
+
+"You'll be observing today."
+
+"You've only recently awakened your mutation."
+
+"Before we begin your own training, I want you to see how everyone approaches combat."
+
+Betsy nodded.
+
+"Yes, Mr. Summers."
+
+Scott looked toward the class.
+
+"Remember."
+
+"This isn't about destroying robots."
+
+"It's about understanding your powers."
+
+"The simulation will become progressively more difficult."
+
+"Three waves."
+
+"Adapt."
+
+"Don't panic."
+
+"Next."
+
+He glanced at his tablet.
+
+"Bobby."
+
+---
+
+### Bobby Drake
+
+The room transformed.
+
+Buildings rose from the floor.
+
+Cars appeared.
+
+A city street.
+
+Five combat drones emerged from different directions.
+
+"Simulation begin."
+
+The robots charged.
+
+Bobby smiled.
+
+"You guys never learn."
+
+Ice rapidly spread beneath his feet.
+
+A frozen path shot across the street.
+
+He surfed forward on a sheet of ice.
+
+A robot fired.
+
+An ice wall erupted, blocking the blast.
+
+Another attacked from behind.
+
+Without turning, Bobby launched a volley of razor-sharp ice spikes over his shoulder.
+
+The drone exploded.
+
+Wave One cleared.
+
+Scott spoke.
+
+"Wave Two."
+
+Ten drones.
+
+Different weapons.
+
+They attacked together.
+
+Bobby froze the road beneath them.
+
+Several robots lost balance.
+
+He jumped into the air.
+
+A massive ice ramp formed beneath him.
+
+He flipped.
+
+Created dozens of frozen projectiles.
+
+The drones were destroyed one after another.
+
+"Wave Three."
+
+A larger machine emerged.
+
+Heavier armor.
+
+Support drones surrounded it.
+
+Bobby's smile disappeared.
+
+"Okay..."
+
+"Now we're talking."
+
+Ice spread across nearly the entire arena.
+
+The support drones became trapped.
+
+He froze the larger robot's legs.
+
+It struggled.
+
+A gigantic ice pillar erupted beneath it.
+
+The machine shattered against the ceiling.
+
+"Simulation complete."
+
+Scott nodded.
+
+"Good battlefield control."
+
+"You relied on the environment."
+
+"Keep improving your precision."
+
+Bobby saluted dramatically.
+
+"Yes, sir."
+
+---
+
+### Piotr Rasputin
+
+The simulation reset.
+
+Five new drones appeared.
+
+Piotr calmly walked forward.
+
+His entire body transformed into organic steel.
+
+The metallic sound echoed through the chamber.
+
+The first robot punched him.
+
+It barely moved him.
+
+Piotr caught its arm.
+
+Ripped it off.
+
+Used it to smash another drone.
+
+One after another...
+
+Every machine was crushed by overwhelming strength.
+
+Wave Two introduced heavier robots.
+
+Piotr simply met them head-on.
+
+Metal collided with metal.
+
+The entire room shook.
+
+By Wave Three...
+
+The robots surrounded him.
+
+He waited.
+
+Then slammed both fists into the ground.
+
+The shockwave knocked every machine off balance.
+
+Within seconds...
+
+Nothing remained standing.
+
+Scott nodded.
+
+"Excellent durability."
+
+"Remember."
+
+"Strength wins battles."
+
+"Control wins wars."
+
+Piotr simply nodded.
+
+"Understood."
+
+---
+
+### Jubilee
+
+The lights dimmed.
+
+Five drones appeared.
+
+Jubilee cracked her knuckles.
+
+"My turn."
+
+Bright plasma bursts exploded from her fingertips.
+
+Colorful streaks filled the room.
+
+One robot exploded.
+
+Another lost both arms.
+
+Wave Two.
+
+More enemies.
+
+She bounced plasma blasts off walls.
+
+Used ricochets.
+
+Destroyed drones from impossible angles.
+
+Wave Three.
+
+A heavily armored unit appeared.
+
+Jubilee narrowed her eyes.
+
+"Oh..."
+
+"You want the big fireworks."
+
+A concentrated sphere of plasma formed between her hands.
+
+She launched it.
+
+The explosion filled the arena.
+
+When the smoke cleared...
+
+The robots were gone.
+
+Students applauded.
+
+Scott spoke.
+
+"Power output continues to improve."
+
+"Watch your energy consumption."
+
+---
+
+### Kitty Pryde
+
+The room shifted into a narrow industrial complex.
+
+Robots closed in.
+
+Kitty smiled.
+
+"You guys are too slow."
+
+One robot swung.
+
+She phased straight through it.
+
+Another fired.
+
+The energy blast passed harmlessly through her body.
+
+She casually reached inside a drone's chest.
+
+Pulled out its power core.
+
+The machine immediately shut down.
+
+One after another...
+
+She repeated the process.
+
+She never threw a punch.
+
+Never kicked.
+
+She simply walked through every attack.
+
+Wave Three introduced faster robots.
+
+They still couldn't touch her.
+
+Scott nodded.
+
+"Excellent efficiency."
+
+---
+
+### Warren Worthington
+
+The ceiling opened.
+
+A vast open sky appeared above.
+
+Warren spread his enormous white wings.
+
+With one powerful beat...
+
+He launched into the air.
+
+Robots deployed flying units.
+
+The aerial battle began immediately.
+
+Warren folded his wings.
+
+Dove like a falcon.
+
+His shoulder smashed through one drone.
+
+He rolled.
+
+His wings struck another machine with incredible force.
+
+A third robot fired missiles.
+
+He climbed higher.
+
+Then descended at full speed.
+
+The impact destroyed the machine instantly.
+
+Wave Three introduced aerial combat drones.
+
+The sky became crowded.
+
+Warren never stopped moving.
+
+Every attack flowed into the next.
+
+By the end...
+
+Only broken machines remained.
+
+Scott looked satisfied.
+
+"Excellent aerial awareness."
+
+---
+
+Scott checked his tablet.
+
+One name remained.
+
+"Illyana."
+
+Silence.
+
+Illyana stood.
+
+Walked into the arena.
+
+No expression.
+
+She drew a simple steel sword from the rack beside the entrance.
+
+Not the Soulsword.
+
+Just an ordinary training blade.
+
+Several students exchanged confused looks.
+
+The simulation began.
+
+Five drones rushed her.
+
+She never reached for her powers.
+
+She sidestepped the first attack.
+
+Her blade flashed.
+
+One robot collapsed.
+
+She spun.
+
+Cut another machine apart.
+
+A third lunged.
+
+She vaulted over it.
+
+Driving her sword through its core before landing effortlessly.
+
+Within seconds...
+
+Wave One ended.
+
+Scott watched silently.
+
+Wave Two.
+
+The robots became faster.
+
+Illyana became faster.
+
+Every movement was efficient.
+
+No wasted motion.
+
+No flashy attacks.
+
+Only perfect timing.
+
+Every strike landed exactly where it needed to.
+
+Wave Three.
+
+The largest machines yet.
+
+Most students expected her to finally use her mutation.
+
+She didn't.
+
+She charged.
+
+Dodged.
+
+Countered.
+
+Disarmed.
+
+Destroyed.
+
+One after another.
+
+The final robot collapsed.
+
+The arena fell quiet.
+
+A few students applauded.
+
+Others exchanged puzzled looks.
+
+"She didn't even use her powers."
+
+"That was insane."
+
+"She's showing off."
+
+Scott looked at the results on his tablet.
+
+Then looked directly at Illyana.
+
+"You passed."
+
+A pause.
+
+"But you continue making the same mistake."
+
+Illyana slid the sword back into its sheath.
+
+Scott continued.
+
+"You'll never survive a real battlefield if you refuse to use your powers."
+
+Illyana didn't argue.
+
+She simply turned around.
+
+Walked back to the group.
+
+Scott didn't elaborate.
+
+Neither of them needed to.
+
+Betsy watched her in silence.
+
+The swordsmanship had been extraordinary.
+
+Her movements...
+
+Her balance.
+
+Her instincts.
+
+Someone her age shouldn't have fought like that.
+
+Then Betsy's thoughts drifted back to the previous night.
+
+The burning world.
+
+The little girl.
+
+The monster.
+
+The sword.
+
+The memories she had accidentally witnessed.
+
+She looked at Illyana.
+
+*She knows how to use her powers...*
+
+*So why won't she?*
+
+For the first time...
+
+Betsy wondered if the answer wasn't fear of losing.
+
+But fear of remembering.
+
+---
+
+The students slowly filed out of the Danger Room.
+
+The massive chamber fell quiet.
+
+Only four people remained.
+
+Professor Charles Xavier.
+
+Dr. Hank McCoy.
+
+Jean Grey.
+
+And Betsy Braddock.
+
+Scott walked over to Betsy.
+
+"You've seen how everyone trains."
+
+"Now it's your turn."
+
+He gave Jean a small nod before leaving the room.
+
+The steel doors slid shut behind him.
+
+Silence returned.
+
+At the center of the training arena sat a single object.
+
+An apple.
+
+Placed neatly on a small metal pedestal.
+
+Nearly twenty meters away, Betsy stood inside a marked circle.
+
+Hank approached carrying a sleek metallic headset.
+
+"It isn't anything invasive."
+
+"It simply records your brain activity while you attempt to use your abilities."
+
+Betsy nodded nervously.
+
+"Okay."
+
+He carefully placed the helmet over her head.
+
+Tiny blue lights illuminated around the visor.
+
+Hank looked toward his tablet.
+
+"Baseline readings are stable."
+
+Jean stepped beside Betsy.
+
+Her voice was calm.
+
+"Don't force it."
+
+"Just focus on the apple."
+
+"Picture yourself lifting it."
+
+"Nothing else."
+
+Betsy swallowed.
+
+"...Okay."
+
+She slowly raised her hand.
+
+The room became completely silent.
+
+Her breathing steadied.
+
+She fixed her eyes on the apple.
+
+For a few seconds...
+
+Nothing happened.
+
+Then...
+
+The apple trembled.
+
+Just slightly.
+
+Hank looked at his tablet.
+
+"Cerebral activity is increasing."
+
+Jean smiled.
+
+"That's it."
+
+"Keep going."
+
+The apple lifted a few millimeters from the pedestal.
+
+Betsy's concentration deepened.
+
+Then—
+
+A deafening roar filled her mind.
+
+Metal twisting.
+
+People screaming.
+
+Fire.
+
+The aircraft violently shook.
+
+Oxygen masks dropped from the ceiling.
+
+Her father's voice.
+
+Someone shouting her name.
+
+The world spinning out of control.
+
+"No..."
+
+The memories came flooding back.
+
+Broken pieces.
+
+Louder.
+
+Faster.
+
+The pain struck like lightning.
+
+"AAAH!"
+
+Betsy clutched her head and collapsed to her knees.
+
+The apple crashed back onto the pedestal.
+
+The telekinetic field instantly vanished.
+
+Jean immediately rushed forward.
+
+"Betsy!"
+
+She knelt beside her.
+
+"It's okay."
+
+"It's okay."
+
+The helmet's indicator lights flashed wildly.
+
+Hank quickly removed it.
+
+The readings on his tablet spiked before suddenly dropping back to normal.
+
+Betsy's breathing was ragged.
+
+She slowly lowered her hands from her head.
+
+"I'm..."
+
+"...I'm okay."
+
+Jean gently helped her sit upright.
+
+"You don't have to continue today."
+
+Betsy looked embarrassed.
+
+"I'm sorry..."
+
+Jean smiled softly.
+
+"You've got nothing to apologize for."
+
+"Why don't you take the rest of the day off?"
+
+"You've done enough."
+
+Betsy nodded weakly.
+
+"...Okay."
+
+Jean helped her to her feet.
+
+After offering a quiet thank you, Betsy slowly walked toward the exit.
+
+The enormous doors slid closed behind her.
+
+Silence settled over the Danger Room once more.
+
+Jean looked toward Hank.
+
+"What happened?"
+
+Hank studied the data on his tablet.
+
+His expression remained thoughtful.
+
+"As I feared..."
+
+He enlarged several brain scans.
+
+"Her mutation isn't the problem."
+
+"It's her mind."
+
+He pointed toward a section of the scan.
+
+"Every time she begins accessing her telekinetic abilities..."
+
+"...her brain immediately redirects into the traumatic memories of the crash."
+
+"A psychological defense mechanism."
+
+"A mental block."
+
+He sighed.
+
+"Until those memories are properly processed..."
+
+"...her powers will remain unstable."
+
+Jean quietly folded her arms.
+
+"So she can't fully use her abilities..."
+
+"...until her mind heals."
+
+"I'm afraid so."
+
+Jean turned toward Professor Xavier.
+
+"Professor..."
+
+"If we entered her mind together..."
+
+"We could help repair the damage."
+
+Charles remained silent for a long moment.
+
+His eyes rested on the closed doors through which Betsy had left.
+
+Finally, he spoke.
+
+"I believe we could."
+
+Jean looked relieved.
+
+But Charles continued.
+
+"I also believe we shouldn't."
+
+Both Jean and Hank looked at him.
+
+Charles smiled gently.
+
+"A fractured mind cannot simply be rearranged because we possess the ability to do so."
+
+"If we rush to rebuild it for her..."
+
+"...we may also take away the journey she needs to make herself."
+
+He slowly turned his wheelchair toward them.
+
+"Our purpose has never been to solve every problem our students face."
+
+"It is to guide them."
+
+"To help them find the right path..."
+
+"...when they have lost their way."
+
+The room fell silent.
+
+Jean slowly nodded.
+
+"I understand."
+
+Charles looked toward the closed doors once more.
+
+"We have time."
+
+"And when Elizabeth Braddock is ready..."
+
+"...she will discover herself."
+
+The lights of the Danger Room dimmed.
+
+The test was over.
+
+But Betsy's journey had only just begun.
+
+---
+
+## Chapter 7: A Different Perspective
+
+The afternoon sun bathed the gardens of Xavier's School in warm orange light.
+
+Most of the students had already returned inside.
+
+Betsy remained seated alone on a wooden bench overlooking the lake.
+
+Her elbows rested on her knees as she stared absentmindedly at the water.
+
+The events of the day replayed endlessly in her head.
+
+The classroom.
+
+The Danger Room.
+
+The apple.
+
+The pain.
+
+The disappointment.
+
+Footsteps approached.
+
+"Mind if I join you?"
+
+Betsy looked up.
+
+Warren stood beside the bench with his hands in his pockets.
+
+She gave a faint smile.
+
+"Of course."
+
+He sat beside her.
+
+For a while...
+
+Neither of them spoke.
+
+Finally...
+
+"How are you doing?"
+
+Betsy let out a quiet laugh.
+
+"I honestly don't know."
+
+"They told me it's something called post-traumatic stress."
+
+She looked back toward the lake.
+
+"Something happened during the plane crash."
+
+"When my powers awakened."
+
+"I don't really remember all of it."
+
+"But every time I try to use my abilities..."
+
+"...my mind just..."
+
+She searched for the words.
+
+"...shuts down."
+
+"It blocks me."
+
+"Sometimes my powers activate when I don't expect them to."
+
+"Other times..."
+
+"...I can't use them at all."
+
+She sighed.
+
+"I feel like I'm fighting my own mind."
+
+Warren listened quietly.
+
+He wasn't trying to interrupt.
+
+Or offer immediate advice.
+
+After a moment, he scratched the back of his head.
+
+"I'm definitely not an expert."
+
+Betsy smiled.
+
+"No?"
+
+He laughed.
+
+"No."
+
+"I'm pretty sure Miss Grey and the Professor would explain this a lot better."
+
+He thought for a second.
+
+"But..."
+
+"I do remember something kind of similar."
+
+Betsy looked at him.
+
+"Oh?"
+
+"From a cartoon."
+
+She raised an eyebrow.
+
+"A cartoon?"
+
+"Yeah."
+
+"There was this kid..."
+
+"An Avatar."
+
+"He couldn't access his full power because one of his injuries had blocked the path."
+
+"He had all the potential."
+
+"But something inside him wouldn't let it flow."
+
+Betsy leaned forward.
+
+"What happened?"
+
+"Did he fix it?"
+
+Warren nodded.
+
+"He kept moving forward."
+
+"He kept learning."
+
+"He kept trusting the people around him."
+
+"And eventually..."
+
+"...the block disappeared."
+
+Betsy was quiet for a moment.
+
+Then she smiled.
+
+"I think I need to watch this cartoon."
+
+Warren laughed.
+
+"I can send it to you."
+
+"You'll probably finish it before I do."
+
+She laughed.
+
+"For someone with wings..."
+
+"...you're surprisingly optimistic."
+
+"I get that a lot."
+
+The two continued talking as the afternoon slowly faded into evening.
+
+For the first time since arriving at Xavier's School...
+
+Betsy didn't feel completely alone.
+
+---
+
+That night...
+
+Most of the mansion had already settled down.
+
+Betsy hesitated outside Jean Grey's room before gently knocking.
+
+Jean opened the door.
+
+"Everything okay?"
+
+Betsy looked slightly embarrassed.
+
+"I..."
+
+"I don't really want to sleep in my room tonight."
+
+Jean immediately understood.
+
+"You're worried you'll accidentally read Illyana's mind again."
+
+Betsy nodded.
+
+Jean smiled warmly.
+
+"Come in."
+
+The room felt comfortable.
+
+Books lined the shelves.
+
+Soft lamps illuminated the room.
+
+Betsy curled up on one end of the bed while Jean handed her a blanket.
+
+"So..."
+
+Jean smiled.
+
+"Warren tells me you started watching something."
+
+Betsy pulled out her phone.
+
+"He insisted."
+
+Jean laughed.
+
+"Good choice."
+
+A few moments later...
+
+The opening theme of **Avatar: The Last Airbender** quietly played from the screen.
+
+Betsy watched.
+
+Aang leaped effortlessly across rooftops.
+
+His movements were light.
+
+Fluid.
+
+Almost like dancing.
+
+She tilted her head.
+
+"...There's something familiar about him."
+
+Jean glanced over.
+
+"What do you mean?"
+
+"I don't know."
+
+"The way he moves."
+
+"So agile."
+
+"So... free."
+
+She frowned.
+
+"I feel like I've seen someone move like that before."
+
+She couldn't quite place it.
+
+After another episode...
+
+Jean stood up.
+
+"Alright."
+
+She smiled.
+
+"As much as I'd love to let you binge-watch all night..."
+
+"...it's almost bedtime."
+
+Betsy looked disappointed.
+
+"Already?"
+
+Jean laughed.
+
+"The Fire Nation will still be there tomorrow."
+
+She gently took the phone.
+
+Turned it off.
+
+Placed it on the bedside table.
+
+"Get some sleep."
+
+Betsy nodded.
+
+"...Goodnight, Miss Grey."
+
+"Goodnight, Betsy."
+
+Within minutes...
+
+The room fell quiet.
+
+---
+
+Across the hallway...
+
+Another bedroom door opened.
+
+Scott Summers walked inside carrying a pillow.
+
+Logan looked up from his chair.
+
+One eyebrow rose.
+
+"...Not the company I was expecting."
+
+Scott was already lying down on the spare bed.
+
+Still wearing his black sleeping visor.
+
+Without even looking over, he replied,
+
+"You smoke in here..."
+
+"...and I'll tell the Professor."
+
+Logan stared at him.
+
+"...You're threatening me?"
+
+"I'm making an observation."
+
+A long silence.
+
+Then Logan grumbled.
+
+"...You're impossible."
+
+Scott adjusted his pillow.
+
+"So I've been told."
+
+Logan couldn't help smirking.
+
+"...Goodnight, Slim."
+
+"Goodnight, Logan."
+
+The lights switched off.
+
+Xavier's School finally fell asleep.
+
+---
+
+### Physical Education
+
+The following morning...
+
+The students gathered inside Xavier's School's indoor gymnasium.
+
+Balance beams.
+
+Uneven bars.
+
+Vaults.
+
+Parallel bars.
+
+Mats covered the polished wooden floor.
+
+At the center stood Ann Marie.
+
+"Good morning, everyone."
+
+"Morning, Miss Ann."
+
+She clapped her hands once.
+
+"Same routine as last week."
+
+"I'll be grading form, balance, flexibility and control."
+
+She noticed Betsy standing quietly beside the entrance.
+
+"Miss Braddock."
+
+"You can observe today's class."
+
+"We'll begin your assessment another day."
+
+Betsy nodded.
+
+"Thank you."
+
+The students lined up.
+
+One after another...
+
+They completed their routines.
+
+Ann recorded notes on her tablet.
+
+"Excellent."
+
+"Very good."
+
+"Nice recovery."
+
+"Watch your landing."
+
+Eventually...
+
+Illyana stepped forward.
+
+Without saying a word...
+
+She mounted the balance beam.
+
+She moved as though gravity barely applied to her.
+
+Every movement flowed effortlessly into the next.
+
+Aerial.
+
+Back handspring.
+
+Front flip.
+
+Cartwheel.
+
+Perfect landing.
+
+Not a single hesitation.
+
+Not a single unnecessary movement.
+
+She made years of training look effortless.
+
+Ann glanced at her tablet.
+
+"As expected."
+
+"Excellent work."
+
+Illyana simply nodded before walking back.
+
+Jubilee leaned toward Kitty.
+
+"...At this point..."
+
+"...is there anything she can't do?"
+
+Kitty laughed.
+
+"I honestly don't know."
+
+Jubilee folded her arms.
+
+"I still don't like her."
+
+Kitty smiled.
+
+"I noticed."
+
+The final student finished.
+
+Ann looked over her notes.
+
+"Overall..."
+
+"Very good work today."
+
+She smiled.
+
+"Our top three today..."
+
+She glanced at the tablet.
+
+"Illyana."
+
+"Kitty."
+
+"And Jubilee."
+
+Jubilee quietly celebrated.
+
+"Yes!"
+
+The bell echoed through the gymnasium.
+
+Ann clapped her hands.
+
+"Alright."
+
+"Wrap it up, boys and girls."
+
+"We've got another class coming in."
+
+Students began collecting their bags.
+
+The gym slowly emptied.
+
+Then...
+
+Betsy looked toward the gymnastics floor.
+
+Toward the balance beam.
+
+Toward the vault.
+
+Something stirred inside her.
+
+Not a memory.
+
+Not a thought.
+
+An instinct.
+
+Almost without realizing it...
+
+She began walking.
+
+Ann noticed.
+
+"Betsy?"
+
+The students turned.
+
+Betsy walked to the starting line.
+
+She looked at the apparatus ahead of her.
+
+Confused.
+
+Almost as if her body already knew what to do...
+
+...while her mind didn't.
+
+Illyana quietly watched from across the room.
+
+Curiosity flickered across her face.
+
+*What's she doing?*
+
+Betsy inhaled.
+
+Then moved.
+
+She sprinted.
+
+Jumped.
+
+Her body exploded into motion.
+
+A perfectly controlled roundoff.
+
+Back handspring.
+
+Double layout.
+
+She landed.
+
+Didn't stop.
+
+She transitioned onto the balance beam.
+
+Every step impossibly precise.
+
+Every spin effortless.
+
+Every flip connected seamlessly to the next.
+
+She vaulted.
+
+Twisted.
+
+Rotated through the air with breathtaking control.
+
+Years of professional training...
+
+Hidden somewhere inside her.
+
+Despite months of inactivity...
+
+Despite the rust...
+
+Her body remembered.
+
+She finished with one final twisting dismount.
+
+Landing perfectly.
+
+Silence.
+
+No one spoke.
+
+Even Ann stared in disbelief.
+
+"...My..."
+
+"...God."
+
+Betsy slowly straightened herself.
+
+She looked just as surprised as everyone else.
+
+"I..."
+
+"I didn't..."
+
+A single clap echoed through the gym.
+
+Everyone looked toward Warren.
+
+He smiled.
+
+"That..."
+
+"...was incredible."
+
+Another clap followed.
+
+Then another.
+
+Soon...
+
+The entire class applauded.
+
+Jubilee's eyes were wide.
+
+"Where was *that* yesterday?"
+
+Kitty laughed in amazement.
+
+"I thought she said she couldn't control her powers."
+
+"That wasn't powers."
+
+"That was talent."
+
+Across the room...
+
+Illyana remained silent.
+
+She didn't clap.
+
+She simply watched Betsy.
+
+Really watched her.
+
+The precision.
+
+The balance.
+
+The discipline.
+
+For the first time...
+
+Illyana looked genuinely impressed.
+
+Then—
+
+Betsy's smile disappeared.
+
+The applause became distant.
+
+Blurred.
+
+A ringing filled her ears.
+
+The gymnasium spun.
+
+Images flashed across her mind.
+
+A little girl practicing.
+
+A coach.
+
+National competitions.
+
+Endless hours inside a gym.
+
+Then...
+
+The plane.
+
+The screaming.
+
+The crash.
+
+Past and present collided together.
+
+Her knees buckled.
+
+She collapsed onto the mat.
+
+"Betsy!"
+
+Ann was already running.
+
+The applause stopped instantly.
+
+Students rushed forward.
+
+Ann knelt beside her.
+
+"Betsy!"
+
+There was no response.
+
+She checked her pulse.
+
+Still breathing.
+
+"Someone get a stretcher!"
+
+"I'm on it!"
+
+Warren immediately sprinted toward the medical wing.
+
+Bobby followed close behind.
+
+The remaining students stood frozen.
+
+No one knew what to do.
+
+No one spoke.
+
+Among them...
+
+Illyana remained completely still.
+
+Her eyes never left Betsy.
+
+She remembered the previous night.
+
+The frightened girl who had accidentally wandered into her memories.
+
+Now...
+
+Watching Betsy lying unconscious on the gym floor...
+
+For the first time...
+
+Illyana wondered if Betsy was carrying wounds every bit as deep as her own.
+
+---
+
+## Chapter 8: Remembering
+
+Darkness.
+
+Silence.
+
+A distant rhythmic beep echoed through the room.
+
+Betsy slowly opened her eyes.
+
+The ceiling above her was unfamiliar.
+
+White lights.
+
+Medical equipment.
+
+The infirmary.
+
+She blinked several times before turning her head.
+
+Jean Grey sat quietly beside the bed, reading a medical chart.
+
+Behind her, Jamie Braddock stood near a monitor, anxiously watching the readings.
+
+Betsy's lips barely moved.
+
+"...Jamie."
+
+The room froze.
+
+Jamie slowly turned around.
+
+His eyes widened.
+
+"Betsy?"
+
+She looked at him.
+
+For the first time...
+
+She truly recognized him.
+
+"...Jamie."
+
+He rushed to her bedside.
+
+"Oh my God..."
+
+He laughed through tears.
+
+"You remember me."
+
+"You actually remember me."
+
+Betsy's eyes filled with tears.
+
+"I remember..."
+
+She began breathing faster.
+
+"I remember Mom..."
+
+"I remember Dad..."
+
+"...Brian..."
+
+The flood of memories overwhelmed her.
+
+She broke down crying.
+
+Jamie immediately wrapped his arms around her.
+
+"Hey..."
+
+"Hey..."
+
+"I know."
+
+"I know."
+
+"It's alright."
+
+"You've been through so much."
+
+"You don't have to carry it alone anymore."
+
+He gently held her hand.
+
+"I'm not going anywhere."
+
+"I'm here."
+
+Jean quietly smiled.
+
+Without disturbing the moment, she stood.
+
+"I'll be right back."
+
+She quietly left the room.
+
+---
+
+Jean hurried through the mansion until she found Hank inside his laboratory.
+
+"Hank!"
+
+He immediately looked up.
+
+"What happened?"
+
+Jean smiled.
+
+"She remembers."
+
+Hank blinked.
+
+"What?"
+
+"Her memories."
+
+"They're back."
+
+He stared at her for a moment before slowly smiling.
+
+"So..."
+
+"The gymnastics routine wasn't just muscle memory."
+
+Jean nodded.
+
+"It triggered something."
+
+Hank leaned back in thought.
+
+"Remarkable..."
+
+"The brain sometimes stores procedural memory separately from autobiographical memory."
+
+"So reconnecting with one..."
+
+"...helped restore the other."
+
+Jean smiled.
+
+"I thought you'd enjoy the science."
+
+"Oh, I do."
+
+Hank laughed.
+
+"I very much do."
+
+---
+
+A few hours later...
+
+Jamie and Betsy entered Professor Xavier's office.
+
+Charles greeted them with his usual warm smile.
+
+"I'm very pleased to see you awake, Elizabeth."
+
+Betsy smiled.
+
+"Thank you, Professor."
+
+Charles folded his hands.
+
+"Jean tells me you've experienced quite a breakthrough."
+
+"You managed to recover your memories..."
+
+"...under rather unusual circumstances."
+
+Jamie chuckled.
+
+"I know."
+
+He looked proudly at his sister.
+
+"Turns out she's an incredible gymnast."
+
+Charles smiled.
+
+"I never doubted that."
+
+A brief silence followed.
+
+"But..."
+
+"That isn't why I asked you both here."
+
+Jamie became attentive.
+
+Charles continued.
+
+"Elizabeth came here to understand her mutation."
+
+"Now that she has recovered much of her memory..."
+
+"I believe the decision should belong to the two of you."
+
+He looked toward Jamie.
+
+"Would you like Betsy to remain at Xavier's School?"
+
+Jamie didn't answer immediately.
+
+Instead...
+
+He looked toward his sister.
+
+"What do you want?"
+
+Betsy didn't hesitate.
+
+"I want to stay."
+
+Jamie listened quietly.
+
+"I've already learned things here that I never could have understood on my own."
+
+She smiled softly.
+
+"I've made friends."
+
+Her thoughts briefly drifted to Warren.
+
+"And..."
+
+She looked down at her hands.
+
+"I want to learn how to control my powers."
+
+"So I don't hurt anyone again."
+
+Silence filled the office.
+
+Jamie looked at his sister for several long seconds.
+
+Then he smiled.
+
+"I trust you."
+
+He turned toward Charles.
+
+"And I trust you."
+
+"If this is where she wants to be..."
+
+"...then she has my blessing."
+
+Charles smiled warmly.
+
+"I'm honored by your confidence."
+
+Jamie extended his hand.
+
+Charles accepted it.
+
+"Welcome to Xavier's School, Miss Braddock."
+
+Betsy smiled.
+
+For the first time since arriving...
+
+It finally felt like home.
+
+---
+
+Outside the office...
+
+A figure stood silently around the corner.
+
+Illyana.
+
+She hadn't intended to eavesdrop.
+
+But once she'd heard Betsy's voice...
+
+She hadn't walked away.
+
+She heard everything.
+
+The plane crash.
+
+The lost memories.
+
+The fear of hurting others.
+
+The decision to stay.
+
+The hallway fell silent once the office door closed.
+
+Illyana slowly looked down at her own hand.
+
+A faint purple glow shimmered across her fingertips.
+
+Arcane energy.
+
+Just enough to remind her it was there.
+
+She stared at it for a long moment.
+
+Then quietly closed her hand into a fist.
+
+The magic disappeared.
+
+Without saying a word...
+
+She turned...
+
+And walked away.
+
+---
+
+### Danger room
+
+The following morning...
+
+The Danger Room was quiet once again.
+
+Standing inside were only four people.
+
+Scott Summers.
+
+Jean Grey.
+
+Dr. Hank McCoy.
+
+And Betsy Braddock.
+
+The same pedestal.
+
+The same apple.
+
+The same distance.
+
+Nothing had changed.
+
+Except Betsy.
+
+Hank carefully adjusted the monitoring helmet.
+
+"Baseline activity is normal."
+
+He looked toward Jean.
+
+"Whenever you're ready."
+
+Jean smiled.
+
+"No pressure."
+
+"Just breathe."
+
+Betsy nodded.
+
+She closed her eyes.
+
+A slow breath in.
+
+A slow breath out.
+
+Then she opened them again.
+
+She raised one hand.
+
+The room remained perfectly silent.
+
+Hank watched the readings.
+
+"Stable..."
+
+The apple trembled.
+
+Unlike before...
+
+There was no pain.
+
+No screaming.
+
+No memories forcing their way to the surface.
+
+The apple slowly lifted from the pedestal.
+
+Jean couldn't hide her smile.
+
+"That's it..."
+
+"Don't rush."
+
+Betsy concentrated.
+
+The apple floated steadily through the air.
+
+Every movement was smooth.
+
+Controlled.
+
+Confident.
+
+Hank's eyes moved rapidly across the monitors.
+
+"No abnormal neural activity."
+
+"Everything is stable."
+
+The apple drifted closer.
+
+Closer.
+
+Until...
+
+It gently settled into Betsy's open hand.
+
+Silence.
+
+Betsy stared at the apple.
+
+Almost unable to believe it.
+
+"...I did it."
+
+Jean laughed.
+
+"You did."
+
+The helmet came off.
+
+The moment it did...
+
+Betsy couldn't contain herself anymore.
+
+She ran straight toward Jean.
+
+Jean barely had time to react before Betsy threw her arms around her.
+
+"I did it!"
+
+Jean hugged her back, laughing.
+
+"I know."
+
+"I knew you could."
+
+Across the room...
+
+Hank looked down at his tablet with quiet satisfaction.
+
+"The mental block has significantly diminished."
+
+Scott folded his arms.
+
+He looked at Betsy for a moment before speaking.
+
+"Well done."
+
+Betsy immediately stood a little straighter.
+
+"But..."
+
+Scott continued,
+
+"...you still have a long way to go."
+
+Her smile never disappeared.
+
+She nodded.
+
+But for now, it was enough.
+
+Outside the observation window...
+
+Professor Xavier quietly watched without interrupting.
+
+A gentle smile spread across his face.
+
+Not because Elizabeth Braddock had moved an apple.
+
+But because...
+
+For the first time since arriving at Xavier's School...
+
+She believed she could move mountains.
+
+---
