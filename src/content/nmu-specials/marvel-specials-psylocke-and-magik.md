@@ -4398,3 +4398,3946 @@ For the first time since arriving at Xavier's School...
 She believed she could move mountains.
 
 ---
+
+## Chapter 9: Seasons at Xavier's
+
+The weeks settled into a rhythm.
+
+For the first time since arriving at Xavier's School, Betsy stopped measuring her days by fear.
+
+Instead, she measured them by routine.
+
+Morning classes.
+
+Afternoon training.
+
+Evening study sessions.
+
+Dinner with friends.
+
+Sleep.
+
+Then it all began again.
+
+It wasn't exciting.
+
+It wasn't dramatic.
+
+It was exactly what she needed.
+
+---
+
+"Come on."
+
+Piotr balanced his tray with one hand and nodded toward a crowded table in the cafeteria.
+
+Betsy looked over.
+
+Kitty Pryde waved enthusiastically.
+
+Jubilee was already talking with her mouth full.
+
+Bobby Drake somehow had three desserts before lunch.
+
+Warren gave her an encouraging smile.
+
+"You've been adopted," he said.
+
+"You might as well accept it."
+
+Betsy couldn't help but laugh.
+
+"I wasn't aware I had a choice."
+
+"You really don't," Jubilee answered.
+
+"Sit."
+
+She did.
+
+For a moment, she simply listened.
+
+Kitty complained about calculus.
+
+Bobby insisted Hank's physics assignment qualified as cruel and unusual punishment.
+
+Jubilee argued that movie night should happen every Friday.
+
+Piotr quietly ate while pretending none of them existed.
+
+"You know..." Kitty looked at Betsy.
+
+"We never actually asked."
+
+"What did you study back in England?"
+
+"Mostly literature and history."
+
+"And art."
+
+Piotr looked up.
+
+"You draw?"
+
+Betsy smiled.
+
+"Yes."
+
+"I used to sketch all the time back home."
+
+"It was one of my favourite things to do."
+
+"You'll have to show us sometime," Kitty said.
+
+Betsy hesitated for only a second.
+
+"...Maybe."
+
+The conversation drifted somewhere else.
+
+For the first time in months...
+
+Betsy forgot she was the newest student in the room.
+
+She simply felt like one of them.
+
+Across the cafeteria...
+
+Illyana sat alone near the windows.
+
+A book rested beside her untouched lunch.
+
+She never looked toward their table.
+
+Whether she chose not to...
+
+Or simply couldn't...
+
+No one knew.
+
+---
+
+---
+
+The classrooms became just as familiar as the training grounds.
+
+Professor McCoy's lectures were never predictable.
+
+One morning he filled the whiteboard with complex genetic diagrams.
+
+"Mutation is not evolution's destination," Hank explained as he adjusted his glasses.
+
+"It is simply one of evolution's many experiments."
+
+He looked around the room.
+
+"So tell me..."
+
+"Why do you think Omega-level mutants are so extraordinarily rare?"
+
+Several hands went up.
+
+One student answered first.
+
+"Because too much power would destabilize the species."
+
+"A reasonable hypothesis."
+
+Another student raised another possibility.
+
+"Perhaps the X-Gene naturally limits itself."
+
+"Also possible."
+
+Bobby slowly raised his hand.
+
+"What if evolution just likes showing off?"
+
+The classroom fell silent.
+
+Hank blinked.
+
+"...Mr. Drake."
+
+"That is scientifically meaningless."
+
+"It was worth asking."
+
+Laughter spread across the room.
+
+Even Hank couldn't suppress a smile.
+
+Across the classroom...
+
+Illyana sat quietly near the back.
+
+She listened.
+
+She took notes.
+
+She answered when called upon.
+
+But the moment class ended...
+
+She disappeared before anyone could speak to her.
+
+---
+
+Professor Xavier's lectures were different.
+
+There were no equations.
+
+No diagrams.
+
+Only stories.
+
+"The history of mutants," Charles began, "is the history of people learning to survive."
+
+Ancient civilizations.
+
+The Salem Witch Trials.
+
+The Industrial Revolution.
+
+Moments throughout history where people with extraordinary abilities had hidden themselves from a frightened world.
+
+Betsy filled page after page with notes.
+
+Kitty leaned over.
+
+"I swear Professor Xavier remembers every date in human history."
+
+Without missing a beat, Charles smiled.
+
+"I do."
+
+The classroom burst into laughter.
+
+Kitty buried her face in her notebook.
+
+"I keep forgetting he can hear everything."
+
+"I try not to," Charles replied warmly.
+
+---
+
+Afternoons belonged to Scott.
+
+Again.
+
+And again.
+
+And again.
+
+There were no speeches.
+
+Only repetition.
+
+"Lift."
+
+The steel sphere hovered.
+
+"Hold."
+
+Betsy's concentration never broke.
+
+"Move."
+
+She guided it through a ring.
+
+"Again."
+
+Hours became days.
+
+Days became weeks.
+
+One sphere became two.
+
+Then three.
+
+Smaller objects.
+
+Heavier objects.
+
+Moving targets.
+
+Scott rarely praised anyone.
+
+When he finally crossed his arms and nodded once...
+
+"Better."
+
+It felt like winning an award.
+
+Jean noticed the smile Betsy tried to hide.
+
+"You've been waiting weeks to hear him say that."
+
+"I know."
+
+"It was only one word."
+
+Betsy looked toward Scott as he reset the training course.
+
+"...It was enough."
+
+---
+
+---
+
+The days continued to blur together.
+
+Homework became group homework.
+
+Training became group training.
+
+Even free time rarely stayed free for long.
+
+---
+
+One afternoon, Warren found Betsy sitting beneath the large oak tree overlooking the grounds.
+
+She had a notebook resting on her knees.
+
+"What are you reading?"
+
+She turned the cover toward him.
+
+"*Attack on Titan.*"
+
+Warren's eyes widened.
+
+"You've started it?"
+
+"I watched the anime first."
+
+"I just finished the latest episode."
+
+He dropped onto the grass beside her.
+
+"So?"
+
+Betsy smiled.
+
+"I love it."
+
+"I wasn't expecting it to be... like that."
+
+"The world feels so much bigger than it first appears."
+
+Warren laughed.
+
+"You have no idea."
+
+"I've been reading the manga."
+
+Betsy immediately looked at him.
+
+"Don't."
+
+He blinked.
+
+"What?"
+
+"No spoilers."
+
+He raised both hands.
+
+"I wasn't going to."
+
+"You were thinking about it."
+
+"...Maybe."
+
+She laughed.
+
+"Back home in England, I used to spend weekends watching anime."
+
+"It was one of the few hobbies I never really grew out of."
+
+"I still can't believe people think animation is just for children."
+
+"They're missing out."
+
+"They really are."
+
+For a while...
+
+They simply talked.
+
+Favorite characters.
+
+Favorite openings.
+
+Theories about what waited beyond the walls.
+
+Neither of them noticed the afternoon disappearing.
+
+---
+
+Another afternoon.
+
+The same tree.
+
+The same bench.
+
+Only this time...
+
+Warren noticed the sketchbook tucked beneath Betsy's arm.
+
+"You draw?"
+
+She nodded.
+
+"Yeah."
+
+"I used to sketch all the time back home."
+
+"It was one of my favourite things to do."
+
+"You never mentioned it."
+
+"I guess..."
+
+She looked toward the mansion.
+
+"...everything else happened first."
+
+Warren smiled.
+
+"You should start again."
+
+She looked down at the blank pages.
+
+"I've been thinking about it."
+
+He stood.
+
+"When you do..."
+
+"I want to see."
+
+She laughed softly.
+
+"You'll be the first."
+
+---
+
+She did start again.
+
+Not all at once.
+
+Just...
+
+A few pages here.
+
+A few sketches there.
+
+Hands.
+
+Faces.
+
+The library.
+
+The old oak tree.
+
+The mansion at sunset.
+
+Every evening after homework, she found herself drawing a little longer than the night before.
+
+No one noticed.
+
+Until one rainy afternoon.
+
+The common room buzzed with conversation.
+
+Kitty was buried beneath a mountain of textbooks.
+
+Jubilee was supposedly helping.
+
+Bobby insisted he was helping more.
+
+Piotr quietly ignored all three of them.
+
+Warren noticed Betsy sitting in the corner with her sketchbook.
+
+"You finished something?"
+
+She looked up.
+
+"...Maybe."
+
+Jubilee immediately appeared beside her.
+
+"Show us."
+
+"No."
+
+"Please?"
+
+"...No."
+
+Piotr closed his book.
+
+"I would also like to see."
+
+Betsy sighed dramatically.
+
+"I knew this was a mistake."
+
+She turned the sketchbook around.
+
+Silence.
+
+Across two pages...
+
+The entire group sat exactly as they were now.
+
+Piotr reading.
+
+Kitty leaning over his shoulder.
+
+Jubilee laughing.
+
+Bobby talking with his hands.
+
+Warren watching everyone else.
+
+Every expression.
+
+Every tiny detail.
+
+Perfectly captured.
+
+Kitty spoke first.
+
+"Betsy..."
+
+"...this is incredible."
+
+Piotr studied every line.
+
+"You have remarkable talent."
+
+Bobby leaned closer.
+
+"I actually look cool."
+
+Jubilee burst into laughter.
+
+"No."
+
+"You look exactly this ridiculous."
+
+The room erupted with laughter.
+
+Warren kept looking at the drawing.
+
+"You remembered everyone."
+
+Betsy smiled.
+
+"I wanted to."
+
+"They're memories worth keeping."
+
+---
+
+---
+
+The Danger Room never became easier.
+
+Only familiar.
+
+Every lesson revealed another weakness.
+
+Every simulation exposed another mistake.
+
+And every mistake became tomorrow's lesson.
+
+---
+
+"Again."
+
+Scott's voice echoed through the training chamber.
+
+A dozen hovering drones surrounded Betsy.
+
+"Don't watch the drones."
+
+"Watch the room."
+
+The first drone lunged.
+
+She sidestepped.
+
+The second fired.
+
+A telekinetic barrier deflected the blast.
+
+The third attacked from behind.
+
+She didn't even turn.
+
+The steel sphere she'd been controlling all morning shot backward, knocking it out of the air.
+
+Scott lowered his visor.
+
+"Better."
+
+Weeks ago...
+
+She would have smiled.
+
+Now she simply nodded.
+
+"Again."
+
+---
+
+Training became routine.
+
+Morning.
+
+Afternoon.
+
+Sometimes evenings.
+
+Betsy learned to move before she thought.
+
+To trust her instincts.
+
+To trust her telekinesis.
+
+Not as a weapon.
+
+As another limb.
+
+Jean noticed the difference before anyone else.
+
+"You aren't forcing it anymore."
+
+Betsy looked at the floating training blocks orbiting around her.
+
+"I don't think about lifting them."
+
+"They just..."
+
+"...move."
+
+Jean smiled.
+
+"Exactly."
+
+---
+
+The physical training changed too.
+
+Push-ups.
+
+Sprints.
+
+Obstacle courses.
+
+Balance drills.
+
+Sword footwork without a sword.
+
+Again.
+
+Again.
+
+Again.
+
+One afternoon Kitty collapsed onto the floor.
+
+"I hate cardio."
+
+Jubilee dropped beside her.
+
+"I've hated it for three months."
+
+Bobby lay flat on his back.
+
+"I think my soul left my body."
+
+Piotr calmly continued his stretches.
+
+Scott looked toward Betsy.
+
+"You."
+
+She stepped forward.
+
+"Run it again."
+
+Kitty stared at him.
+
+"Seriously?"
+
+Scott didn't answer.
+
+Twenty minutes later...
+
+Betsy crossed the finish line.
+
+Breathing heavily.
+
+Sweat covered her forehead.
+
+Scott checked the timer.
+
+A tiny nod.
+
+She had beaten her previous time.
+
+Again.
+
+---
+
+Months passed.
+
+The difference became impossible to ignore.
+
+During sparring sessions...
+
+Kitty no longer lasted as long.
+
+Jubilee could still surprise Betsy with clever tricks...
+
+But not overwhelm her.
+
+Even Bobby admitted it.
+
+"I miss when you were easier to beat."
+
+"I never beat you."
+
+"Details."
+
+Piotr smiled.
+
+"She is improving quickly."
+
+Scott corrected him.
+
+"No."
+
+Everyone looked toward him.
+
+"She improves consistently."
+
+He looked directly at Betsy.
+
+"That's why she's improving quickly."
+
+It was the longest compliment Scott had ever given her.
+
+Betsy smiled despite herself.
+
+"Thank you."
+
+---
+
+Only one student still remained completely out of reach.
+
+Illyana.
+
+Every spar ended the same way.
+
+Wooden swords collided.
+
+A sudden shift.
+
+A perfect counter.
+
+Betsy hit the mat.
+
+Again.
+
+And again.
+
+And again.
+
+Illyana never celebrated.
+
+Never mocked her.
+
+Never even offered advice.
+
+She simply helped Betsy back to her feet.
+
+Then quietly walked away.
+
+As if the match had meant nothing.
+
+Betsy watched her leave once more.
+
+One day...
+
+She thought.
+
+One day I'll understand you.
+
+---
+
+One evening, after training had ended, Betsy remained inside the Danger Room.
+
+The lights dimmed.
+
+The holograms disappeared.
+
+Only the quiet hum of machinery remained.
+
+She stood alone in the center of the room.
+
+Her hands moved instinctively.
+
+A stance.
+
+A step.
+
+A pivot.
+
+An invisible blade traced through the air.
+
+Again.
+
+And again.
+
+The movements felt...
+
+Familiar.
+
+Not because she remembered learning them.
+
+Because her body did.
+
+"You've been doing that for ten minutes."
+
+Betsy turned.
+
+Jean stood in the doorway with her arms folded.
+
+"I didn't hear you come in."
+
+"I know."
+
+Jean stepped inside.
+
+"You move like someone holding a sword."
+
+Betsy looked at her empty hands.
+
+"I've noticed."
+
+"I don't remember learning."
+
+"But sometimes..."
+
+"My body does something before I think."
+
+Jean watched her carefully.
+
+"Muscle memory."
+
+Betsy nodded.
+
+"I think so."
+
+Silence settled between them.
+
+Finally, Betsy spoke.
+
+"...Could I ask you something?"
+
+"Of course."
+
+"I'd like to train with a real weapon."
+
+Jean wasn't surprised.
+
+"What kind?"
+
+Betsy answered without hesitation.
+
+"A katana."
+
+Jean studied her expression.
+
+There was no anger.
+
+No desire for revenge.
+
+No obsession.
+
+Only certainty.
+
+"Why a katana?"
+
+Betsy looked down at her hands.
+
+"I don't know."
+
+"It just..."
+
+"...feels right."
+
+Jean smiled softly.
+
+"Sometimes our memories return in unexpected ways."
+
+"I'll speak with Hank."
+
+---
+
+The following afternoon...
+
+Hank entered the workshop carrying a long wooden case.
+
+Several students immediately looked up.
+
+Bobby grinned.
+
+"Please tell me that's for me."
+
+"It most certainly is not."
+
+Hank placed the case on the workbench.
+
+He opened it.
+
+Inside rested a beautifully crafted training katana.
+
+The blade wasn't sharpened.
+
+Its edge was reinforced with a durable alloy designed for sparring.
+
+The balance...
+
+Was perfect.
+
+Betsy carefully lifted it with both hands.
+
+The moment her fingers wrapped around the handle...
+
+Something settled inside her.
+
+She drew a slow breath.
+
+"It's..."
+
+She searched for the words.
+
+"...comfortable."
+
+Hank smiled.
+
+"I took measurements from traditional Japanese blades while adapting it for Danger Room training."
+
+"It should withstand your telekinetic enhancements as well."
+
+Betsy looked up.
+
+"You thought of that?"
+
+"My dear..."
+
+Hank adjusted his glasses.
+
+"I always try to think ahead."
+
+She bowed her head slightly.
+
+"Thank you."
+
+"It means a great deal."
+
+Across the room...
+
+Illyana paused.
+
+For the first time in months...
+
+She looked directly at Betsy.
+
+Not at the sword.
+
+At the way she held it.
+
+As though she'd held one before.
+
+Then...
+
+Without saying a word...
+
+Illyana quietly walked away.
+
+---
+
+Scott stepped between them.
+
+"Combat exercise."
+
+"No powers beyond what naturally reinforces your weapon."
+
+Both nodded.
+
+Betsy rested her katana against her shoulder.
+
+She fused her telekinetic enhancements with the blade.
+
+Across from her...
+
+Illyana drew her sword.
+
+It was her primary practice weapon.
+
+The blade was long and elegant, bearing an ressamblance of a butcher sword.
+
+Scott lowered his hand.
+
+"Begin."
+
+Silence.
+
+Neither moved.
+
+The room held its breath.
+
+Then—
+
+**CLANG!**
+
+Steel crashed against steel.
+
+A violent shockwave echoed through the Danger Room.
+
+Illyana's eyes widened.
+
+The impact drove her back a full step.
+
+The force travelled through her arms and shoulders.
+
+She tightened her grip.
+
+*That...*
+
+*She's reinforcing every strike with telekinesis.*
+
+Across the observation deck, Jean looked toward Scott.
+
+Scott didn't say a word.
+
+His eyes never left the fight.
+
+---
+
+Illyana attacked first.
+
+A horizontal slash.
+
+Blocked.
+
+An overhead strike.
+
+Blocked.
+
+She twisted.
+
+Another strike.
+
+Blocked again.
+
+Every collision sent another pulse of force through the room.
+
+Each impact heavier than the last.
+
+Betsy's sword wasn't simply cutting.
+
+It was pushing.
+
+Driving.
+
+Forcing.
+
+Even Illyana found herself giving ground.
+
+---
+
+Three strikes.
+
+Four.
+
+Five.
+
+Then—
+
+**CRACK!**
+
+Time stopped.
+
+Illyana looked down.
+
+A fracture spread through the middle of her blade.
+
+Another heartbeat.
+
+The sword shattered.
+
+Half of it spun across the floor.
+
+The other remained in her hand.
+
+Silence.
+
+No one spoke.
+
+Kitty's mouth hung open.
+
+Jubilee forgot to breathe.
+
+Bobby stared.
+
+"...She..."
+
+He couldn't finish the sentence.
+
+Even Piotr looked stunned.
+
+Nobody expected the day would come that someone would knockdown Illyana.
+
+---
+
+Betsy lowered her katana.
+
+She slowly raised its point toward Illyana.
+
+Not threatening.
+
+Questioning.
+
+"If you're this strong..."
+
+"...why don't you use your powers?"
+
+Illyana didn't answer.
+
+For a second...
+
+She simply stared at the broken blade in her hand.
+
+Then...
+
+Something changed.
+
+Her expression hardened.
+
+She twisted her body.
+
+One fluid motion.
+
+She planted her hand against the floor, spun around and exploded forward.
+
+Before Betsy could react—
+
+**THUD!**
+
+Illyana's heel crashed into Betsy's ribs.
+
+The force launched Betsy several feet across the training floor.
+
+Her katana slid from her hand.
+
+The room froze.
+
+No one moved.
+
+No one spoke.
+
+The silence felt heavier than the fight itself.
+
+Illyana stood over the broken pieces of her sword.
+
+She looked toward Betsy.
+
+"...Don't think you're better than me."
+
+Scott stepped forward immediately.
+
+"That's enough."
+
+"The sparring session is over."
+
+Illyana didn't answer.
+
+She simply knelt.
+
+One by one...
+
+She picked up the broken pieces of her sword.
+
+Without looking at anyone...
+
+She walked away.
+
+The heavy doors closed behind her.
+
+Only then did everyone move.
+
+Piotr hurried to Betsy's side, offering his hand.
+
+"You alright?"
+
+Betsy nodded as she accepted it.
+
+"I'm okay."
+
+Kitty and Jubilee were already beside her.
+
+"You scared us."
+
+"That kick looked painful."
+
+Bobby looked toward the closed doors.
+
+"...I've never seen Illyana like that."
+
+Piotr looked down for a moment.
+
+"...I'm sorry."
+
+"She can be like this."
+
+Betsy didn't answer.
+
+Her eyes remained fixed on the hallway where Illyana had disappeared.
+
+Not because of the kick.
+
+Not because she'd lost.
+
+Because she could still picture Illyana...
+
+Alone...
+
+Picking up the broken pieces of her sword.
+
+---
+
+Days passed.
+
+The mansion returned to its usual rhythm.
+
+Classes.
+
+Training.
+
+Homework.
+
+Dinner.
+
+Sleep.
+
+The duel with Illyana became another memory.
+
+For everyone except Betsy.
+
+---
+
+One afternoon, the Danger Room stood empty.
+
+Betsy trained alone.
+
+Her katana carved through the air.
+
+Strike.
+
+Step.
+
+Turn.
+
+Again.
+
+Again.
+
+Again.
+
+The movements came effortlessly now.
+
+Her telekinesis flowed naturally through every swing, making each strike faster, smoother and stronger.
+
+But her thoughts weren't on the blade.
+
+They were on Illyana.
+
+On the memories she had witnessed inside her mind.
+
+A little girl.
+
+No older than eight.
+
+Alone.
+
+Dragged into another world.
+
+Belasco.
+
+The endless crimson skies of Limbo.
+
+Years stolen.
+
+Childhood stolen.
+
+A child forced to survive.
+
+Strike.
+
+Turn.
+
+Cut.
+
+Betsy's grip tightened.
+
+She remembered the loneliness.
+
+The fear.
+
+The determination.
+
+Then...
+
+Her thoughts drifted back to the duel.
+
+The first clash.
+
+The surprise in Illyana's eyes.
+
+The impossible force behind every strike.
+
+The moment her practice sword broke.
+
+The kick that followed.
+
+And finally...
+
+Illyana silently kneeling to gather the broken pieces before walking away.
+
+
+Suddenly, a sharp pulse echoed through her mind.
+
+She stopped.
+
+A strange pressure spread through her body.
+
+Not painful.
+
+Different.
+
+Like something buried deep within her had finally awakened.
+
+She steadied her breathing.
+
+Slowly...
+
+She looked down at the katana.
+
+A faint violet light shimmered across its blade.
+
+Not reflected.
+
+Not imagined.
+
+The steel itself was coated in a thin veil of purple psionic energy.
+
+Betsy stared in silence.
+
+"...What is this?"
+
+The violet energy rippled gently along the edge of the blade.
+
+It wasn't telekinesis.
+
+It was something entirely new.
+
+The empty Danger Room remained silent.
+
+Only the soft violet glow answered her.
+
+---
+
+## Chapter 10: The Soulsword
+
+A few days later...
+
+The library was quiet.
+
+Betsy sat alone at one of the long wooden tables, surrounded by textbooks and handwritten notes.
+
+She had barely finished a page when a familiar voice interrupted.
+
+"Hey."
+
+She looked up.
+
+Illyana stood a few feet away.
+
+"Can we talk?"
+
+Betsy closed her book.
+
+"Sure."
+
+"The Danger Room."
+
+Without another word, Illyana turned and walked away.
+
+Betsy quietly followed.
+
+---
+
+The Danger Room.
+
+For once...
+
+No Scott.
+
+No Jean.
+
+No Hank.
+
+No students watching.
+
+Just the two of them.
+
+The heavy doors slid shut behind Betsy.
+
+Illyana stood in the center of the room with her back turned.
+
+For several moments...
+
+Neither spoke.
+
+Finally—
+
+"I've been watching you."
+
+Betsy looked at her.
+
+"Your powers."
+
+"You've changed."
+
+"You've unlocked something new."
+
+Betsy instinctively looked at the katana strapped to her side.
+
+"The energy around your sword."
+
+"It reminds me of mine."
+
+Betsy frowned.
+
+"...Yours?"
+
+Illyana slowly turned around.
+
+"You wanted to know why I don't use my powers."
+
+Betsy nodded.
+
+"I did."
+
+Illyana's expression remained unreadable.
+
+"When I was eight..."
+
+"I was taken."
+
+"Not by people."
+
+"By a demon."
+
+"Belasco."
+
+Silence.
+
+"He didn't just imprison me."
+
+"He raised me."
+
+"He trained me."
+
+"He broke me."
+
+"He wanted to make me stronger."
+
+Her voice became quieter.
+
+"...Strong enough to stop being human."
+
+Betsy didn't interrupt.
+
+She simply listened.
+
+"I survived."
+
+"But survival has a price."
+
+Illyana slowly raised her hand.
+
+Her eyes began to glow.
+
+Golden arcane symbols spread across her forearm.
+
+Dark armor crept over her skin.
+
+Betsy instinctively stepped back.
+
+The air itself felt heavier.
+
+Then—
+
+A sword slowly emerged from Illyana's arm.
+
+Steel.
+
+Magic.
+
+Soul.
+
+The blade hummed with ancient power.
+
+The Soulsword.
+
+Betsy couldn't move.
+
+Her voice barely escaped.
+
+"...Illyana..."
+
+Illyana looked down at the weapon.
+
+"I spent years afraid of becoming this."
+
+She tightened her grip.
+
+"And years pretending I wasn't."
+
+She lifted her eyes toward Betsy.
+
+"You wanted to know why I don't use my powers."
+
+A circular stepping disc opened behind her.
+
+Its golden edges crackled with eldritch energy.
+
+"Now..."
+
+She stepped backward into it.
+
+"...I'll show you."
+
+The disc vanished.
+
+Silence.
+
+Betsy looked around.
+
+"...Illyana?"
+
+A ripple opened overhead.
+
+Illyana emerged from the stepping disc high above her.
+
+The Soulsword came crashing down.
+
+---
+
+---
+
+Betsy barely rolled away.
+
+The Soulsword struck the floor.
+
+**BOOM!**
+
+The impact sent cracks racing across the Danger Room.
+
+Chunks of metal lifted from the ground before crashing back down.
+
+Betsy stared.
+
+"...That's impossible."
+
+Illyana didn't answer.
+
+A stepping disc opened behind her.
+
+She vanished.
+
+Betsy instinctively reached out with her telepathy.
+
+Nothing.
+
+Another stepping disc.
+
+To her left.
+
+She turned—
+
+Too late.
+
+**CLANG!**
+
+Their blades collided.
+
+The force threw Betsy backwards.
+
+She slid several feet before planting her katana into the floor to stop herself.
+
+Illyana disappeared again.
+
+Above.
+
+Behind.
+
+Below.
+
+Every attack came from somewhere different.
+
+Every strike heavier than the last.
+
+Betsy wasn't fighting.
+
+She was surviving.
+
+---
+
+"Stop!"
+
+Another strike.
+
+"I've seen enough!"
+
+Another stepping disc opened.
+
+Illyana emerged without hesitation.
+
+"You wanted to know."
+
+"You wanted to fight me."
+
+"This..."
+
+A powerful swing forced Betsy to both hands.
+
+"...is my power."
+
+Steel screamed against steel.
+
+Betsy's telekinesis reinforced every block.
+
+Without it...
+
+Her arms would have shattered.
+
+She pushed away with a burst of force, launching herself high into the air.
+
+The distance bought her a single breath.
+
+Nothing more.
+
+---
+
+Then...
+
+Something changed.
+
+Illyana stumbled.
+
+The stepping disc behind her flickered.
+
+The arcane glow surrounding her body became unstable.
+
+Dark veins spread slowly across her arm.
+
+She gritted her teeth.
+
+Another stepping disc appeared.
+
+Smaller this time.
+
+Unstable.
+
+Betsy lowered her sword.
+
+"Illyana..."
+
+No answer.
+
+Illyana clutched the Soulsword tighter.
+
+Her breathing became ragged.
+
+The golden glow around her eyes shifted.
+
+Something darker pushed against it.
+
+She screamed.
+
+The sound echoed through the entire chamber.
+
+Betsy's heart dropped.
+
+"This isn't you..."
+
+Another stepping disc exploded open.
+
+Its edges twisted violently.
+
+The room's warning alarms activated.
+
+**WARNING. ABNORMAL ENERGY SIGNATURE DETECTED.**
+
+Betsy rushed forward.
+
+"Illyana!"
+
+She released a psychic blade.
+
+It flew straight toward Illyana's shoulder.
+
+The moment it made contact—
+
+It dissolved.
+
+The Limbo magic surrounding Illyana consumed the psionic construct instantly.
+
+Betsy's eyes widened.
+
+"It... blocked it?"
+
+Illyana fell to one knee.
+
+Still screaming.
+
+Still fighting something no one else could see.
+
+---
+
+The doors burst open.
+
+Scott ran inside.
+
+One look was enough.
+
+He immediately reached the emergency control panel.
+
+
+Scott slammed his hand against the override switch.
+
+**MUTANT SUPPRESSION FIELD ACTIVATED.**
+
+A low hum filled the Danger Room.
+
+The invisible field expanded outward.
+
+Betsy felt it first.
+
+Her telekinesis vanished.
+
+The psychic blade dissolved.
+
+Her katana suddenly felt impossibly heavy.
+
+Across the room...
+
+The Soulsword flickered.
+
+Its glow weakened.
+
+Then...
+
+It disappeared.
+
+The arcane armor dissolved from Illyana's body.
+
+Her glowing eyes returned to normal.
+
+She collapsed to the floor, breathing heavily.
+
+Silence.
+
+Only the warning alarms remained.
+
+Scott walked slowly between them.
+
+His expression was harder than Betsy had ever seen.
+
+"...This exercise is over."
+
+Betsy looked toward Illyana.
+
+She finally understood.
+
+Illyana had never been afraid of becoming weak.
+
+She had been afraid of becoming...
+
+---
+
+---
+
+Outside Professor Xavier's office...
+
+Betsy and Illyana stood in silence.
+
+Behind the closed door, muffled voices drifted into the hallway.
+
+Professor Xavier.
+
+Scott.
+
+Jean.
+
+The discussion was calm.
+
+Serious.
+
+Neither Betsy nor Illyana could make out the words.
+
+Only the tone.
+
+Several minutes later...
+
+The door opened.
+
+Scott and Jean stepped outside.
+
+Scott closed the door behind him.
+
+Neither of them looked pleased.
+
+There was anger.
+
+Disappointment.
+
+But above all...
+
+Concern.
+
+The kind that only came from people responsible for everyone inside the mansion.
+
+Scott looked between the two girls.
+
+"What happened in the Danger Room today was reckless."
+
+His voice remained calm.
+
+"But don't mistake calm for approval."
+
+"You put yourselves in danger."
+
+"You put everyone in this school in danger."
+
+"You entered the Danger Room without supervision."
+
+"You escalated a training session into a real fight."
+
+"And you forced us to activate the mutant suppression field."
+
+The hallway fell silent.
+
+Scott took a slow breath.
+
+"I expect better from both of you."
+
+Jean stepped forward.
+
+Her eyes settled on Betsy.
+
+"I approved your access to the Danger Room because I trusted your judgment."
+
+Her voice was softer.
+
+That somehow made it worse.
+
+"You broke that trust."
+
+Betsy lowered her head.
+
+"I'm sorry, Ms. Grey."
+
+Jean didn't respond immediately.
+
+Instead, she looked at both of them.
+
+"There will be consequences."
+
+Scott reached into his pocket and removed two black wristbands.
+
+He handed one to each of them.
+
+"You will wear these at all times."
+
+"They monitor your mutant abilities."
+
+"If either of you uses your powers without authorization..."
+
+"We'll know."
+
+Both silently fastened them around their wrists.
+
+"For the next month..."
+
+Scott continued,
+
+"You are prohibited from entering the Danger Room."
+
+"No combat training."
+
+"No independent practice."
+
+"And no use of your mutant powers except during supervised classes or emergencies."
+
+He let the words settle.
+
+"If either of you ignores these rules..."
+
+His expression hardened.
+
+"...you won't like what happens next."
+
+"Understood?"
+
+"Yes, Mr. Summers."
+
+"Understood."
+
+Scott gave a single nod.
+
+Then walked away.
+
+Jean remained.
+
+She crossed her arms.
+
+"I'm not finished."
+
+The two girls looked back at her.
+
+"For the next month, you'll sit together in every class."
+
+"I don't want either of you disappearing after lessons."
+
+"After every physical education class..."
+
+"And every scheduled Danger Room session..."
+
+"You'll both stay behind."
+
+"You'll clean the room."
+
+"Every mark."
+
+"Every broken panel."
+
+"Every piece of equipment."
+
+"No exceptions."
+
+She paused.
+
+"And one more thing."
+
+"No more private requests to use the Danger Room."
+
+"Not until Scott and I decide you've earned that privilege again."
+
+"Understood?"
+
+"Yes, Ms. Grey."
+
+Jean's expression softened ever so slightly.
+
+"Good."
+
+She turned and walked back into Professor Xavier's office.
+
+The hallway became quiet once more.
+
+For a few moments...
+
+Neither Betsy nor Illyana spoke.
+
+Then, without a word...
+
+They began walking back toward their rooms.
+
+Side by side.
+
+Both wearing the same wristband.
+
+Both carrying the weight of the same mistake.
+
+---
+
+## Chapter 11
+
+The room was quiet.
+
+The punishment wristbands rested heavily around their wrists.
+
+Neither of them had spoken since leaving Professor Xavier's office.
+
+Betsy sat on the edge of her bed, absentmindedly turning the black band around her wrist.
+
+Illyana stood by the window.
+
+Looking outside.
+
+The silence stretched between them.
+
+Finally...
+
+Betsy broke it.
+
+"You didn't have to do all that."
+
+Illyana didn't react.
+
+Betsy continued anyway.
+
+"You could've just told me you were afraid of using your powers."
+
+No answer.
+
+Betsy sighed.
+
+She wasn't expecting one.
+
+She stood, intending to leave the conversation where it was.
+
+Just as she turned toward her bed—
+
+"You think I was afraid of my powers."
+
+Illyana's voice was quiet.
+
+"So did I."
+
+Betsy stopped.
+
+Without turning around, Illyana continued.
+
+"When I use them..."
+
+She clenched her hand unconsciously.
+
+"I lose pieces of myself."
+
+"The magic..."
+
+"The pain..."
+
+"They're connected."
+
+"It feels like something is testing me."
+
+"Waiting for me to break."
+
+Her voice grew weaker.
+
+"And every time I draw on that power..."
+
+"I remember."
+
+She finally turned to face Betsy.
+
+"The years I lost."
+
+"The things I saw."
+
+"The things I had to become just to survive."
+
+Her eyes lowered to the floor.
+
+"I feel trapped."
+
+The room fell silent again.
+
+Betsy didn't rush to comfort her.
+
+She simply listened.
+
+After a long moment, she asked quietly,
+
+"Then how did you get out?"
+
+Illyana froze.
+
+Her brow furrowed.
+
+She searched her own memories.
+
+Nothing.
+
+"...I don't know."
+
+The words surprised even her.
+
+"I remember only fragments of things."
+
+"Limbo, Belasco, survival."
+
+"But..."
+
+She shook her head slowly.
+
+"I don't remember coming home."
+
+Silence.
+
+Betsy looked at her.
+
+For someone who had spent years believing she carried every scar of Limbo...
+
+There was still parts of her own story she couldn't remember.
+
+Neither of them spoke again.
+
+They didn't need to.
+
+For the first time...
+
+Illyana had spoken about Limbo without anger.
+
+Without hiding behind sarcasm.
+
+Without a sword in her hand.
+
+It wasn't healing.
+
+Not yet.
+
+But it was the first crack in a wall she had spent years building around herself.
+
+And for Illyana Rasputina...
+
+That was a beginning.
+
+---
+
+### The Next Morning
+
+Morning sunlight poured through the classroom windows.
+
+Students slowly filled the room, conversations echoing through the halls before the first lecture.
+
+Betsy and Illyana entered together.
+
+Jean's punishment had already begun.
+
+First bench.
+
+Front row.
+
+Neither of them looked particularly pleased.
+
+Betsy placed her books on the desk and quietly sat down.
+
+Illyana followed, dropping into the chair beside her.
+
+Neither spoke.
+
+A moment later...
+
+Piotr walked in.
+
+Kitty was beside him.
+
+They took the seats directly behind them.
+
+Illyana barely glanced over her shoulder.
+
+"...Piotr spends way too much time with that girl."
+
+Betsy turned toward her.
+
+"You noticed?"
+
+Illyana gave her a puzzled look.
+
+"Please."
+
+"You've only just noticed?"
+
+"I've known for months."
+
+Betsy blinked.
+
+"...You pay attention to everyone's lives?"
+
+"I pay attention."
+
+"There's a difference."
+
+Before Betsy could reply, Bobby and Warren entered together.
+
+"Welp..."
+
+Bobby looked at the front row.
+
+"Looks like prison seating."
+
+Warren laughed.
+
+"The dangerous criminals."
+
+Jubilee slid into the last empty seat behind them.
+
+"I still think almost destroying the Danger Room was kind of cool."
+
+"It wasn't," Piotr sighed.
+
+"It really wasn't."
+
+The teacher entered.
+
+The room settled into silence.
+
+Class began.
+
+---
+
+By lunchtime...
+
+The punishment had already changed something.
+
+Normally, Illyana would've disappeared somewhere with a tray of food.
+
+Today...
+
+She couldn't.
+
+Betsy naturally walked toward the others.
+
+Which meant...
+
+Illyana did too.
+
+The conversation immediately turned toward yesterday's incident.
+
+"I still can't believe you two actually fought."
+
+Bobby laughed.
+
+"Scott looked ready to kill somebody."
+
+"Not kill."
+
+Kitty corrected.
+
+"Ground forever."
+
+Everyone laughed.
+
+Except Piotr.
+
+He quietly looked at his sister.
+
+"...You approached Betsy."
+
+Illyana looked up.
+
+"So?"
+
+"You told someone about Limbo."
+
+Silence settled across the table.
+
+Piotr smiled gently.
+
+"I've never seen you do that."
+
+Illyana looked away.
+
+"...Eat your lunch."
+
+No one pushed the conversation further.
+
+Instead...
+
+The topic somehow drifted toward movies.
+
+Then music.
+
+Then Bobby making another terrible joke.
+
+For the first time in a long while...
+
+Illyana stayed until lunch ended.
+
+---
+
+Physical Education felt strangely empty.
+
+While everyone stretched and sparred...
+
+Betsy and Illyana sat on yoga mats.
+
+Jean walked between the students.
+
+"No powers."
+
+"No fighting."
+
+"Today we're training something else."
+
+Breathing.
+
+Balance.
+
+Patience.
+
+Betsy hated every second.
+
+Illyana...
+
+Looked completely unbothered.
+
+After PE...
+
+The class moved to the Danger Room.
+
+Scott supervised the combat drills.
+
+Everyone paired off.
+
+Swords clashed.
+
+Optic blasts flashed.
+
+Ice spread across the floor.
+
+Storm's winds echoed through the chamber.
+
+
+Betsy and Illyana just watched as part of the punishment.
+
+Betsy was impatient, but then she saw Illyana standing, hands folded.
+
+Almost...
+
+Comfortably.
+
+Only then did Betsy realize...
+
+Living without powers wasn't a punishment for Illyana.
+
+It was already how she chose to live.
+
+---
+
+Once training finished...
+
+Everyone headed for the showers.
+
+Except them.
+
+Buckets.
+
+Mops.
+
+Cleaning solution.
+
+The two of them silently began scrubbing scorch marks from the walls.
+
+Betsy hurried.
+
+Illyana didn't.
+
+She cleaned carefully.
+
+Almost methodically.
+
+Eventually...
+
+Betsy slowed down too.
+
+Without powers...
+
+There wasn't a shortcut.
+
+Only the work.
+
+---
+
+Days slowly became weeks.
+
+Morning classes.
+
+Shared desks.
+
+Lunch with everyone.
+
+Meditation instead of combat.
+
+Watching the Danger Room instead of being part of the drill.
+
+Cleaning after everyone else had gone home.
+
+Evenings buried beneath textbooks.
+
+Sometimes they studied in silence.
+
+Sometimes they argued over mathematics.
+
+Sometimes Betsy caught Illyana staring at the same page for several minutes before muttering,
+
+"...This equation is stupid."
+
+"It isn't."
+
+"It absolutely is."
+
+Betsy slid her notebook across the table.
+
+"You forgot the second step."
+
+Illyana stared.
+
+"...Oh."
+
+Neither of them acknowledged the tiny smile that followed.
+
+---
+
+Afternoons became familiar.
+
+Betsy often sat beneath the oak tree sketching.
+
+Warren wandered over more than once.
+
+"So..."
+
+"What obscure anime are you recommending today?"
+
+Nearby...
+
+Illyana continued her endless calisthenics.
+
+Pull-ups.
+
+Muscle-ups.
+
+Handstands.
+
+Push-ups.
+
+Again.
+
+Again.
+
+Again.
+
+Illyana watched them talking about their anime recommendations.
+
+"...what a nerd?"
+
+Without stopping her pull-ups...
+
+Betsy answered,
+
+"I heard that."
+
+"I know."
+
+---
+
+The month passed quietly.
+
+No battles.
+
+No powers.
+
+No competitions.
+
+Just ordinary days.
+
+The kind of days neither of them realized they needed.
+
+Slowly...
+
+Illyana stopped eating alone.
+
+She spoke more during lunch.
+
+She occasionally answered Bobby's terrible jokes with sarcasm instead of silence.
+
+She argued with Kitty.
+
+She teased Piotr.
+
+She even asked Warren a question about one of Betsy's anime recommendations.
+
+Little things.
+
+Almost invisible.
+
+But they added up.
+
+Betsy changed too.
+
+She no longer counted the days until she could use her powers again.
+
+Instead...
+
+She found herself looking forward to conversations she never expected to have.
+
+The punishment hadn't made them weaker.
+
+It had simply given them the chance...
+
+To become friends.
+
+---
+
+## Chapter 12
+
+A month had passed.
+
+The black wristbands that had remained around Betsy's and Illyana's wrists every day were finally coming off.
+
+Scott stood before them in the training hall, carefully unlocking the bands one after the other.
+
+The restraints clicked open.
+
+For the first time in weeks...
+
+Neither of them wore anything that reminded them of their punishment.
+
+Scott held the wristbands in his hand.
+
+"You both did well."
+
+His voice carried its usual calm authority.
+
+"The punishment is over."
+
+He looked at them both.
+
+"But remember why it happened."
+
+"What you did was reckless."
+
+"I don't want to see either of you repeat that mistake again."
+
+Both nodded.
+
+"Yes, Mr. Summers."
+
+Scott turned to leave.
+
+"...Mr. Summers."
+
+He stopped.
+
+It was Illyana.
+
+She rarely called out to anyone.
+
+Scott slowly turned around.
+
+Illyana stood quietly, her hands behind her back.
+
+There was hesitation in her voice.
+
+Something Betsy had never heard before.
+
+"I..."
+
+She swallowed.
+
+"I want to do power training."
+
+Scott remained silent.
+
+She quickly added,
+
+"...Under your supervision."
+
+Silence filled the room.
+
+Scott simply looked at her.
+
+For a long moment, neither of them spoke.
+
+Finally...
+
+A small smile appeared on Scott's face.
+
+"Tomorrow."
+
+"Nine o'clock."
+
+"Danger Room."
+
+"I'll be there."
+
+Illyana nodded.
+
+"...Thank you."
+
+Scott left.
+
+Betsy looked at her roommate.
+
+She didn't say anything.
+
+She didn't need to.
+
+For someone who had spent months avoiding her powers...
+
+Asking to train was the bravest thing Illyana had done.
+
+---
+
+The next morning...
+
+The Danger Room doors slid open.
+
+Only four people entered.
+
+Scott.
+
+Jean.
+
+Betsy.
+
+Illyana.
+
+The vast chamber stood empty.
+
+Scott walked toward the control console.
+
+Jean remained beside him.
+
+She folded her arms as she watched the two students step into the center of the room.
+
+Scott's hand rested near the mutant suppression controls.
+
+Not because he expected failure.
+
+Because he was prepared for it.
+
+Betsy reached toward her waist.
+
+With a smooth motion...
+
+She unsheathed her katana.
+
+Violet psionic energy flowed along the blade, wrapping around the steel like living light.
+
+Across from her...
+
+Illyana closed her eyes.
+
+She inhaled deeply.
+
+Golden arcane energy spread across her arm.
+
+Dark armor slowly formed over her hand.
+
+The Soulsword emerged from the glowing light.
+
+Its familiar hum echoed softly through the chamber.
+
+Jean exchanged a glance with Scott.
+
+Neither spoke.
+
+Scott finally broke the silence.
+
+"This isn't a competition."
+
+"It isn't about winning."
+
+"It's about control."
+
+Illyana nodded.
+
+"I know."
+
+Scott looked between them.
+
+"When you're ready."
+
+The room fell silent.
+
+Then...
+
+"Begin."
+
+Neither of them rushed forward.
+
+Illyana made the first move.
+
+One clean step.
+
+One precise swing.
+
+Betsy met it with her katana.
+
+Steel collided with steel.
+
+The impact echoed throughout the room.
+
+Illyana pressed forward.
+
+Betsy gave ground.
+
+Not retreating.
+
+Defending.
+
+Every strike from the Soulsword was answered by careful swordsmanship.
+
+When Illyana attacked from an unexpected angle...
+
+Betsy raised a translucent psionic shield.
+
+The blade crashed against it.
+
+The shield cracked before dissolving.
+
+Betsy used telekinesis to push herself backward, creating distance.
+
+Again.
+
+Illyana advanced.
+
+Again.
+
+Betsy defended.
+
+Scott watched carefully.
+
+She wasn't trying to overpower Illyana anymore.
+
+She wasn't flooding the room with psychic energy.
+
+Every movement was measured.
+
+Every construct used only when necessary.
+
+She had learned.
+
+Jean noticed it too.
+
+"She's pacing herself."
+
+Scott nodded.
+
+"Good."
+
+The duel continued.
+
+Illyana's attacks remained relentless.
+
+Stepping discs flashed open around the room.
+
+She disappeared.
+
+Reappeared behind Betsy.
+
+The Soulsword descended.
+
+Betsy turned just in time, catching the strike with her own blade before redirecting it away with telekinesis.
+
+Neither gained the advantage.
+
+Neither lost control.
+
+For several minutes...
+
+Everything was exactly as Scott had hoped.
+
+Then...
+
+Illyana hesitated.
+
+Only for a moment.
+
+But Betsy noticed.
+
+The glow around Illyana's eyes intensified.
+
+Her breathing became uneven.
+
+"No..."
+
+Illyana whispered.
+
+The arcane energy around the Soulsword began to pulse.
+
+Her hand trembled.
+
+Dark veins slowly spread beneath the armor covering her arm.
+
+The stepping discs flickered wildly around the chamber.
+
+Jean immediately straightened.
+
+"Scott."
+
+He had already seen it.
+
+Inside Illyana's mind...
+
+The Danger Room disappeared.
+
+The cold metal floor became black stone.
+
+The bright lights became a crimson sky.
+
+The smell of ozone vanished.
+
+Replaced by ash.
+
+Chains.
+
+Screams.
+
+Belasco's voice echoed through the darkness.
+
+Every lesson.
+
+Every wound.
+
+Every year stolen from her childhood.
+
+The magic wasn't simply responding to her.
+
+It was dragging her back.
+
+Testing her.
+
+Waiting for her to break.
+
+Illyana screamed.
+
+Arcane energy burst outward.
+
+The stepping discs spiraled out of control.
+
+Scott didn't hesitate.
+
+His hand slammed onto the control panel.
+
+A deep mechanical hum filled the chamber.
+
+The mutant suppression field activated.
+
+The golden light vanished instantly.
+
+The Soulsword dissolved into particles.
+
+The armor disappeared.
+
+The stepping discs collapsed.
+
+Betsy's katana faded as her psionic energy dispersed.
+
+Silence returned.
+
+Illyana fell to her knees.
+
+She stared at her trembling hands.
+
+For several seconds...
+
+No one moved.
+
+Then tears rolled down her face.
+
+"...Nothing changed."
+
+Her voice barely carried across the room.
+
+"I still can't control it."
+
+She laughed once.
+
+A hollow, defeated laugh.
+
+"I really thought..."
+
+She looked down at the floor.
+
+"I thought this time would be different."
+
+Betsy slowly walked toward her.
+
+She knelt beside her.
+
+"It's okay—"
+
+Illyana pulled away before Betsy could touch her.
+
+"No."
+
+Her voice cracked.
+
+"It's not."
+
+She wiped at her eyes, but more tears followed.
+
+"I'll never catch up."
+
+Silence.
+
+"Everyone else keeps getting stronger."
+
+"You."
+
+"Piotr."
+
+"Kitty."
+
+"Everyone."
+
+"And I'm still here."
+
+She clenched her fists.
+
+"I can't even use my own powers without becoming a danger to everyone around me."
+
+Her shoulders shook.
+
+"I'll be left behind."
+
+Betsy stood frozen.
+
+Only now...
+
+After everything they had been through together...
+
+Did she finally understand.
+
+Illyana wasn't only afraid of her powers.
+
+She was afraid of being left behind.
+
+Afraid that one day everyone she cared about would keep growing...
+
+Keep becoming stronger...
+
+Keep moving forward...
+
+While she remained trapped in the same place.
+
+She had convinced herself she preferred being alone.
+
+But the truth was far more painful.
+
+She wasn't protecting herself from other people.
+
+She was protecting herself from the day they would no longer need her.
+
+---
+
+Jean instinctively stepped forward.
+
+"I'll help her."
+
+Before she could take another step, Betsy raised a hand.
+
+"I can do this."
+
+Jean stopped.
+
+She looked toward Scott.
+
+Scott remained silent.
+
+Then Jean gave him a small nod.
+
+"Let her."
+
+Betsy slowly walked toward Illyana.
+
+She knelt beside her.
+
+Illyana kept her head lowered, tears still falling onto the metal floor.
+
+Betsy spoke softly.
+
+"Yana..."
+
+"...let me help you."
+
+Illyana let out a bitter laugh.
+
+"You want to read my mind again?"
+
+"No."
+
+Betsy shook her head.
+
+"I want you to remember."
+
+Illyana looked at her.
+
+"The answer has always been there."
+
+"You escaped Limbo once."
+
+"You survived."
+
+"You came home."
+
+"You just don't remember how."
+
+Silence.
+
+Illyana closed her eyes.
+
+"...Okay."
+
+Jean glanced toward Scott once more.
+
+Scott understood immediately.
+
+He deactivated the mutant suppression field.
+
+The low mechanical hum faded.
+
+Neither girl's powers erupted.
+
+Betsy gently placed both hands against Illyana's temples.
+
+She closed her eyes.
+
+A faint violet glow surrounded her fingers.
+
+Psionic energy flowed quietly into Illyana's mind.
+
+---
+
+Darkness.
+
+Then...
+
+A child.
+
+Small.
+
+Terrified.
+
+Alone.
+
+Illyana.
+
+She screamed as demonic hands dragged her deeper into Limbo.
+
+The world shifted.
+
+Days became months.
+
+Months became years.
+
+Belasco stood above her.
+
+Cold.
+
+Patient.
+
+Demanding perfection.
+
+Every mistake was answered with pain.
+
+Every lesson with suffering.
+
+Every victory required another piece of herself.
+
+Betsy didn't interfere.
+
+She simply watched.
+
+She understood now why Illyana had buried these memories.
+
+No child should have carried them.
+
+The visions continued.
+
+Illyana fought monsters far larger than herself.
+
+She learned to survive.
+
+She learned dark magic.
+
+She forged the Soulsword.
+
+Every battle made her stronger.
+
+Every victory made Limbo's hold over her deeper.
+
+The power grew.
+
+So did the darkness.
+
+Every time she called upon Limbo...
+
+It demanded something in return.
+
+Bit by bit...
+
+It tried to strip away the girl she had once been.
+
+Then...
+
+One final memory surfaced.
+
+Belasco stood before her.
+
+His voice echoed through the crimson wasteland.
+
+"Soon..."
+
+"You won't remember Earth."
+
+"You won't remember your family."
+
+"You won't remember who you were."
+
+Young Illyana froze.
+
+For a heartbeat...
+
+Everything became still.
+
+Then...
+
+A memory.
+
+Piotr.
+
+His smile.
+
+Holding her hand.
+
+Their home.
+
+Snow falling outside the window.
+
+Laughter.
+
+The X-Mansion.
+
+Home.
+
+"No."
+
+The young girl's voice trembled.
+
+"No..."
+
+"I won't forget."
+
+Arcane fire erupted around her.
+
+Belasco stepped backward.
+
+For the first time...
+
+He looked afraid.
+
+The flames grew brighter.
+
+The power pouring through Illyana wasn't rage.
+
+It was refusal.
+
+She refused to let Limbo decide who she was.
+
+She refused to surrender the memories of the people she loved.
+
+The fire engulfed Belasco.
+
+He disappeared beneath the light.
+
+For a brief moment...
+
+The whole realm trembled.
+
+Power unlike anything she had ever felt surged through her.
+
+Enough power to rule Limbo itself.
+
+Enough power to become exactly what Belasco wanted.
+
+Young Illyana looked around.
+
+The crimson sky.
+
+The endless battlefield.
+
+The throne.
+
+Then...
+
+One thought cut through everything else.
+
+Home.
+
+A stepping disc opened below her.
+
+Without hesitation...
+
+She fell.
+
+The moment she crossed through it...
+
+The overwhelming power vanished.
+
+The disc closed behind her.
+
+She fell exactly where she was pulled, inside the home.
+
+Silence replaced screams.
+
+Then...
+
+A familiar voice.
+
+"Yana!"
+
+Piotr.
+
+The memory shattered.
+
+---
+
+Betsy pulled her hands away.
+
+The violet glow disappeared.
+
+Illyana gasped sharply, taking deep, uneven breaths.
+
+Her entire body trembled.
+
+Not from fear.
+
+From remembering.
+
+Memories she had buried so deeply that even she could no longer reach them had finally returned.
+
+She remembered Belasco.
+
+She remembered fighting.
+
+She remembered escaping.
+
+But more importantly...
+
+She remembered why.
+
+It had never been power that saved her.
+
+It had been the one thing Limbo could never take from her.
+
+The memory of home.
+
+---
+
+Betsy looked at Illyana for a long moment before speaking.
+
+"I saw your memories."
+
+Illyana slowly looked up.
+
+"You have no idea how strong you really are."
+
+"You escaped Limbo."
+
+"You escaped Belasco."
+
+"You escaped a place that had broken countless others."
+
+"You didn't escape because someone rescued you."
+
+"You escaped because you refused to give up."
+
+Illyana stared silently.
+
+Betsy continued.
+
+"The corruption isn't your weakness."
+
+"It's the price of wielding Limbo's magic."
+
+"Every time you use it..."
+
+"It tests you."
+
+"It searches for your fear."
+
+"It searches for your trauma."
+
+"It wants to know whether you'll surrender yourself to it."
+
+Betsy smiled softly.
+
+"But it doesn't remember something."
+
+"You've already beaten it once."
+
+Illyana slowly looked down at her own hand.
+
+She opened her fingers.
+
+Closed them again.
+
+A faint trace of golden arcane energy flickered between them.
+
+Betsy stepped back.
+
+"You can do this."
+
+"You just have to remember who you are."
+
+Silence.
+
+Illyana took a long, steady breath.
+
+Then another.
+
+She closed her eyes.
+
+The golden light returned.
+
+Her eyes began to glow.
+
+Arcane armor slowly spread across her arm.
+
+The Soulsword emerged once more.
+
+Scott instinctively moved his hand toward the suppression controls.
+
+Jean remained perfectly still.
+
+The moment the Soulsword fully formed...
+
+It began again.
+
+The whispers.
+
+The pain.
+
+The fear.
+
+The crimson skies.
+
+Chains.
+
+Screams.
+
+Limbo reached into her mind once more.
+
+Her knees bent.
+
+Her breathing became ragged.
+
+Dark veins spread across her arm.
+
+Scott's hand tightened around the switch.
+
+"Scott..."
+
+Jean whispered.
+
+He didn't answer.
+
+His eyes never left Illyana.
+
+Inside her mind...
+
+The nightmare returned.
+
+The monsters.
+
+The endless battlefield.
+
+The loneliness.
+
+Belasco.
+
+Every fear she had buried rose before her again.
+
+The magic demanded she surrender.
+
+Just like before.
+
+Illyana gripped the Soulsword tighter.
+
+"No."
+
+Her voice was barely a whisper.
+
+She remembered.
+
+Her home.
+
+Her family.
+
+Her brother's smile.
+
+The mansion.
+
+Friends.
+
+"I remember..."
+
+She forced herself upright.
+
+The dark veins continued climbing across her arm.
+
+The pressure became worse.
+
+Her grip tightened.
+
+She raised the Soulsword.
+
+Every movement felt heavier than the last.
+
+Not because of the sword...
+
+Because Limbo fought her every step.
+
+She remembered the countless monsters she had defeated.
+
+The endless years of training.
+
+The discipline that had kept her alive.
+
+She took another step.
+
+Then another.
+
+She swung.
+
+Once.
+
+Twice.
+
+Again.
+
+Each movement became steadier.
+
+More deliberate.
+
+Scott's thumb rested on the suppression switch.
+
+Ready.
+
+At any moment.
+
+Betsy noticed.
+
+"Wait."
+
+Scott didn't move.
+
+"She's doing it."
+
+Another wave crashed into Illyana's mind.
+
+The sky darkened.
+
+The whispers became screams.
+
+Then...
+
+Belasco appeared.
+
+Towering above her.
+
+Exactly as she remembered him.
+
+"You belong to Limbo."
+
+His voice echoed through the darkness.
+
+"You always will."
+
+Illyana looked directly at him.
+
+This time...
+
+She didn't flinch.
+
+She slowly raised the Soulsword.
+
+"I already chose."
+
+She brought the blade down.
+
+The impact thundered throughout the Danger Room.
+
+The floor shook beneath everyone's feet.
+
+The arcane energy exploded outward.
+
+Scott's hand hovered over the switch.
+
+Betsy didn't take her eyes off Illyana.
+
+"Wait."
+
+"...Just wait."
+
+The dark veins stopped spreading.
+
+Then...
+
+They slowly began to fade.
+
+The jagged armor reshaped itself.
+
+The spikes withdrew.
+
+The metal became smooth.
+
+Controlled.
+
+No longer forcing itself upon her.
+
+Instead...
+
+It answered her.
+
+The whispers disappeared.
+
+The crimson skies faded.
+
+The fear loosened its grip.
+
+Illyana opened her eyes.
+
+They were clear.
+
+Calm.
+
+Present.
+
+She looked toward Scott.
+
+Then Jean.
+
+Finally...
+
+She looked at Betsy.
+
+Neither of them spoke.
+
+Illyana simply gave the smallest nod.
+
+Betsy smiled and nodded back.
+
+For the first time since anyone had known her...
+
+Illyana Rasputina stood in the center of the Danger Room with the Soulsword in her hand...
+
+Completely conscious.
+
+Completely in control.
+
+A smile slowly spread across her face.
+
+Not one born from victory over an opponent.
+
+But from something she had believed impossible.
+
+She had faced Limbo again.
+
+And this time...
+
+She had not lost herself.
+
+---
+
+## Chapter 13:
+
+The room was unusually quiet.
+
+Illyana lay on her bed, staring at the ceiling.
+
+For the first time in years...
+
+Her mind was peaceful.
+
+A knock came at the door.
+
+Before she could answer, it swung open.
+
+Betsy stepped inside.
+
+Illyana smiled.
+
+"You know you're supposed to wait for an answer."
+
+"I did."
+
+Betsy shrugged.
+
+"You took too long."
+
+Before Illyana could reply, more people entered behind her.
+
+Piotr.
+
+Bobby.
+
+Warren.
+
+Kitty.
+
+Jubilee.
+
+The room suddenly felt much smaller.
+
+Illyana blinked.
+
+"...What are all of you doing here?"
+
+No one answered.
+
+Piotr simply walked over.
+
+He raised his hand...
+
+...and lightly knocked his knuckles against her forehead.
+
+"Ow!"
+
+Illyana rubbed her head.
+
+"What was that for?"
+
+Piotr folded his arms.
+
+"That..."
+
+"...was for believing we'd leave you."
+
+Silence.
+
+Illyana slowly turned toward Betsy.
+
+"...You told them?"
+
+Betsy gave an apologetic smile.
+
+"I had to."
+
+She glanced toward Piotr.
+
+"You have no idea how worried your brother has been."
+
+"He would've done anything to help you."
+
+Piotr looked at his sister.
+
+"I still would."
+
+Illyana lowered her eyes.
+
+For once...
+
+She didn't know what to say.
+
+"...I'm sorry."
+
+The words barely escaped her lips.
+
+"For everything."
+
+Piotr smiled.
+
+He stepped forward and wrapped his arms around her.
+
+"No."
+
+He shook his head.
+
+"I'm just glad..."
+
+"...I have my sister back."
+
+Illyana hugged him tightly.
+
+For a moment...
+
+Neither of them let go.
+
+Bobby cleared his throat dramatically.
+
+"Alright..."
+
+"If you two start crying, I'm leaving."
+
+Illyana laughed.
+
+An actual laugh.
+
+The room burst into smiles.
+
+Jubilee pointed at her.
+
+"There it is!"
+
+"I knew she could smile!"
+
+Kitty folded her arms with a grin.
+
+"See?"
+
+"Told you."
+
+"You're stuck with us now."
+
+"Whether you like it or not."
+
+Warren nodded.
+
+"School policy."
+
+"No refunds."
+
+Bobby grinned.
+
+"Lifetime membership."
+
+Illyana looked around the room.
+
+Every face.
+
+Every smile.
+
+Every person.
+
+Illyana looked around the room.
+
+Every face.
+
+Every smile.
+
+Then she looked at Betsy.
+
+A small smirk formed on her face.
+
+"This doesn't change anything."
+
+The room fell silent.
+
+Betsy raised an eyebrow.
+
+"What do you mean?"
+
+Illyana stood up.
+
+"I'm still stronger."
+
+She pointed the thumb toward herself.
+
+"And I'm going to keep getting stronger."
+
+Betsy smiled.
+
+"Good."
+
+She stepped forward.
+
+"Because I'm not planning on sitting back either."
+
+Jubilee groaned dramatically.
+
+"There they go again."
+
+Bobby threw his hands in the air.
+
+"Some things never change."
+
+Laughter filled the room.
+
+---
+
+The following morning...
+
+The Danger Room doors opened.
+
+Students gathered along the observation platform.
+
+Scott stood at the control console.
+
+"Today's exercise."
+
+"Team combat."
+
+He looked toward the arena.
+
+"Betsy."
+
+"Illyana."
+
+The two girls stepped forward together.
+
+Across the room...
+
+Rows of combat drones waited silently.
+
+Scott continued.
+
+"Survive."
+
+"Protect each other."
+
+"Destroy every target."
+
+"You begin on my signal."
+
+Betsy looked toward Illyana.
+
+Illyana looked back.
+
+Neither spoke.
+
+They simply nodded.
+
+Betsy reached for her waist.
+
+Her katana slid free.
+
+Violet psionic energy flowed across its blade.
+
+The familiar glow filled the room.
+
+Students smiled.
+
+They had seen this before.
+
+Then...
+
+Golden arcane light ignited beside her.
+
+Dark armor formed around Illyana's arm.
+
+The Soulsword emerged.
+
+The entire observation deck fell silent.
+
+"...Whoa."
+
+Jubilee whispered.
+
+"No way..."
+
+Kitty stared.
+
+"She's using it..."
+
+One of Piotr's classmates looked at him in disbelief.
+
+"That's..."
+
+"...your sister?"
+
+Piotr never took his eyes off the arena.
+
+A quiet smile crossed his face.
+
+"Yeah."
+
+"It is."
+
+Scott looked down at the pair.
+
+For just a moment...
+
+He allowed himself the smallest smile.
+
+Then—
+
+"Begin."
+
+The drones activated.
+
+Dozens of red optics illuminated at once.
+
+They charged.
+
+Betsy moved first.
+
+Her psionic blade sliced cleanly through the nearest machine.
+
+Almost simultaneously—
+
+A stepping disc flashed open.
+
+Illyana disappeared.
+
+She emerged behind another group.
+
+The Soulsword swept through the air with practiced precision.
+
+Metal scattered across the floor.
+
+Another drone lunged toward Betsy.
+
+Before it could strike—
+
+A golden stepping disc opened beneath it.
+
+The machine vanished.
+
+Reappearing directly in front of Illyana.
+
+One clean slash.
+
+It fell in two.
+
+Betsy smiled.
+
+"Nice."
+
+Illyana smirked.
+
+"Keep up."
+
+The two charged forward together.
+
+One blade glowing violet.
+
+The other shining gold.
+
+Moving as though they had trained together for years.
+
+On the observation deck...
+
+No one spoke.
+
+They simply watched.
+
+Not two girls fighting side by side.
+
+But two friends who had found each other.
+
+And for the first time...
+
+Illyana Rasputina wasn't fighting to survive.
+
+She was fighting beside the people she had finally allowed herself to call home.
+
+---
