@@ -9,7 +9,7 @@ order: 15
 
 ## Chapter 1: Life of Illyana Rasputin
 
-The story opens with a peaceful morning on a countryside farm just outside Westchester, New York. Although the Rasputin family has Russian roots, they have lived in America for generations, carrying only their traditions, language and values from their homeland.
+The story opens on a peaceful morning at a countryside farm in northern Westchester County, New York. Although the Rasputin family has Russian roots, they have lived in America for generations, carrying only their traditions, language and values from their homeland.
 
 Their home is modest but warm, surrounded by acres of farmland, forests and open fields. The family believes in hard work, honesty and staying together.
 
@@ -95,7 +95,7 @@ Piotr looks around nervously.
 
 She grins.
 
-> "Only if you let me win the next race."
+> "Then I get a rematch."
 
 ---
 
@@ -191,29 +191,29 @@ Everyone immediately rushes toward her.
 
 She screams.
 
-The lights throughout the house begin flickering.
+The lights throughout the house began flickering.
 
-Kitchen utensils shake violently.
+Kitchen utensils were shaking violently.
 
-Windows rattle.
+Windows rattled.
 
-A strange golden energy begins surrounding her body.
+A strange golden energy began surrounding her body.
 
-Her eyes suddenly glow with brilliant arcane light.
+Her eyes suddenly glowed with brilliant arcane light.
 
-Nobody understands what they're witnessing.
+Nobody understood what they're witnessing.
 
-Ancient glowing symbols briefly appear beneath her feet.
+Ancient glowing symbols briefly appeared beneath her feet.
 
 Then—
 
-A circular stepping disc silently opens beneath her.
+A circular stepping disc silently opened beneath her.
 
-Before anyone can reach her—
+Before anyone could reach her—
 
-She falls through it.
+She fell through it.
 
-The portal instantly closes.
+The portal instantly closed.
 
 Silence.
 
@@ -221,35 +221,35 @@ Silence.
 
 ### Thirty Minutes
 
-Nobody speaks.
+Nobody spoke.
 
-Piotr stares at the empty floor.
+Piotr stared at the empty floor.
 
-His mother collapses into tears.
+His mother collapsed into tears.
 
-His father desperately searches every room in the house despite knowing she cannot possibly be there.
+His father desperately searched every room in the house despite knowing she cannot possibly be there.
 
-Grandfather repeatedly whispers prayers in Russian.
+Grandfather repeatedly whispered prayers in Russian.
 
-The police are called.
+The police were called.
 
-Emergency services arrive.
+Emergency services arrived.
 
-Nobody believes what the family describes.
+Nobody believed what the family describes.
 
 How do you explain that your daughter disappeared into a glowing circle in the kitchen?
 
-Piotr blames himself.
+Piotr blamed himself.
 
-He keeps replaying the moment in his head.
+He kept replaying the moment in his head.
 
 If he had moved faster...
 
 Maybe he could have caught her.
 
-Thirty minutes pass.
+Thirty minutes passed.
 
-It feels like an eternity.
+It felt like an eternity.
 
 ---
 
@@ -257,15 +257,15 @@ It feels like an eternity.
 
 Without warning—
 
-Another stepping disc opens in the middle of the kitchen.
+Another stepping disc opened in the middle of the kitchen.
 
-Something falls through it.
+Something fell through it.
 
-The family rushes forward.
+The family rushed forward.
 
 "Illyana!"
 
-She slowly pushes herself off the floor.
+She slowly pushed herself off the floor.
 
 Everyone stops.
 
@@ -273,11 +273,11 @@ She...
 
 isn't eight years old anymore.
 
-She now appears nearly the same age as Piotr.
+She now appeared nearly the same age as Piotr.
 
 Her once cheerful face has become hardened.
 
-Her body is noticeably stronger and more athletic, as though she has spent years training.
+Her body is noticeably stronger and more athletic, as though she had spent years training.
 
 Her clothes are unfamiliar.
 
@@ -293,15 +293,15 @@ Her breathing is heavy.
 
 Her eyes no longer belong to a child.
 
-Piotr slowly approaches.
+Piotr slowly approached.
 
 "...Yana?"
 
-She instinctively reaches toward her waist—
+She instinctively reached toward her waist—
 
 As though expecting a sword that is no longer there.
 
-Her entire body immediately shifts into a defensive fighting stance.
+Her entire body immediately shifted into a defensive fighting stance.
 
 Ready for combat.
 
@@ -313,21 +313,21 @@ No monsters.
 
 No battlefield.
 
-She is home.
+She is finally home.
 
-She looks at Piotr.
+She looked at Piotr.
 
-Recognition slowly fills her eyes.
+Recognition slowly filled her eyes.
 
-Her lips tremble.
+Her lips trembled.
 
 "...Piotr?"
 
-Before anyone can say another word—
+Before anyone could say another word—
 
-She collapses into his arms.
+She collapsed into his arms.
 
-The entire family stands frozen.
+The entire family stood frozen.
 
 Only thirty minutes have passed for them.
 
