@@ -9,6 +9,8 @@ order: 15
 
 ## Chapter 1: Life of Illyana Rasputin
 
+#### 2012
+
 The story opens on a peaceful morning at a countryside farm in northern Westchester County, New York. Although the Rasputin family has Russian roots, they have lived in America for generations, carrying only their traditions, language and values from their homeland.
 
 Their home is modest but warm, surrounded by acres of farmland, forests and open fields. The family believes in hard work, honesty and staying together.
@@ -343,9 +345,11 @@ But she is no longer the same person who disappeared.
 
 ## Chapter 2: Life of Elizabeth Braddock
 
+#### 2013
+
 While the Rasputins lived a quiet life in the countryside of America, thousands of miles away, another family lived a life of privilege in the English countryside.
 
-The Braddocks were one of Britain's most respected and influential families. Their wealth had been built over generations, but unlike many aristocratic families, they valued freedom more than tradition.
+The Braddocks are one of Britain's most respected and influential families. Their wealth had been built over generations, but unlike many aristocratic families, they valued freedom more than tradition.
 
 Their estate overlooked rolling green hills, private gardens and a small lake where the children spent much of their free time.
 
@@ -353,9 +357,9 @@ The Braddock family consisted of:
 
 - **Jamie Braddock (22)** – The eldest brother. Charismatic, fearless and adventurous. One of Britain's rising professional racing drivers, constantly travelling around the world. Betsy admired him more than anyone.
 
-- **Elizabeth "Betsy" Braddock (15)** – Intelligent, athletic and independent. Although naturally gifted in academics, she had little interest in following a traditional career. Inspired by Jamie, she dreamed of travelling the world, living an adventurous life beyond classrooms and offices. She enjoyed drawing, video games, anime, gymnastics and spending time outdoors.
+- **Elizabeth "Betsy" Braddock (15)** – Intelligent, athletic and independent. Although naturally gifted in academics, she had little interest in following a traditional career. Inspired by Jamie, she dreams of travelling the world, living an adventurous life beyond classrooms and offices. She enjoys drawing, video games, anime, gymnastics and spending time outdoors.
 
-- **Brian Braddock (15)** – Betsy's twin brother. Calm, thoughtful and highly academic. Unlike Betsy, Brian loved science, history and engineering, hoping to pursue higher education one day. Despite their different personalities, the twins shared an unbreakable bond.
+- **Brian Braddock (15)** – Betsy's twin brother. Calm, thoughtful and highly academic. Unlike Betsy, Brian loves science, history and engineering, hoping to pursue higher education one day. Despite their different personalities, the twins shared an unbreakable bond.
 
 - **Sir James Braddock** – Their father. A successful businessman who believed education opened every door. While he appreciated Betsy's adventurous spirit, he quietly hoped she would eventually choose university.
 
@@ -475,7 +479,17 @@ Betsy sat by the window wearing headphones while sketching racing cars in her no
 
 Occasionally she looked outside.
 
-America.
+The endless ocean had disappeared.
+
+Below...
+
+Snow-covered mountain ranges stretched across the horizon.
+
+Their jagged peaks disappeared into the clouds.
+
+She smiled.
+
+North America.
 
 She had always wanted to visit.
 
@@ -517,23 +531,33 @@ Masks deployed.
 
 Loose luggage flew across the interior.
 
-The pilots desperately fought for control.
-
-The plane continued falling.
-
 ---
 
 ### Awakening
 
-Betsy closed her eyes.
+The plane continued falling.
 
-She thought...
+Warning alarms screamed.
 
-This was the end.
+The mountains grew larger through the windows.
+
+The pilots pulled desperately on the controls.
+
+Nothing happened.
+
+Betsy stared ahead.
+
+For the first time...
+
+She truly believed she was going to die.
 
 Something inside her awakened.
 
-An overwhelming psychic pulse exploded from her mind.
+An overwhelming psychic pulse erupted from her mind.
+
+Invisible telekinetic energy exploded outward—
+
+Just as the aircraft struck the mountainside.
 
 Thousands of kilometres away—
 
@@ -563,7 +587,7 @@ Storm and Professor Xavier entered moments later.
 
 Jean suddenly gasped.
 
-"Charles..."
+"Professor..."
 
 Professor Xavier immediately felt it as well.
 
@@ -723,7 +747,7 @@ The X-Mansion's medical laboratory remained quiet.
 
 The only sounds were the rhythmic beeping of medical monitors and the soft hum of Hank McCoy's equipment.
 
-Betsy lay unconscious on the medical bed.
+Betsy was laying unconscious on the medical bed.
 
 Not a single visible injury could be found on her body.
 
@@ -1091,7 +1115,7 @@ He wasn't angry.
 
 He simply accepted where Betsy was.
 
-Storm gently approached.
+Ororo gently approached.
 
 "Come with me."
 
@@ -1103,7 +1127,7 @@ Jean nodded reassuringly.
 
 "You'll be alright."
 
-Storm and Betsy quietly walked away.
+Ororo and Betsy quietly walked away.
 
 ---
 
@@ -1243,7 +1267,7 @@ Charles smiled warmly.
 
 Her aunt asked one final question.
 
-"And her education?"
+"What are you planning for her education?"
 
 Charles smiled.
 
@@ -1255,7 +1279,7 @@ Charles smiled.
 
 Outside...
 
-Storm showed Betsy the grounds.
+Ororo showed Betsy the grounds.
 
 Children laughed in the distance.
 
@@ -1273,7 +1297,7 @@ Like the beginning of a new life.
 
 Several days later...
 
-Jean carried a small box into hew new dormitories.
+Jean carried a small box into her new dormitory.
 
 Betsy followed quietly behind, carrying the last of her belongings.
 
@@ -1295,7 +1319,7 @@ Two neatly arranged beds stood opposite one another.
 
 Jean smiled.
 
-"You'll begin classes tomorrow."
+"You'll begin your classes tomorrow."
 
 Betsy looked slightly nervous.
 
@@ -1867,7 +1891,7 @@ Still shaking.
 
 "I thought..."
 
-"They were my memories..."
+"I thought it was a dream..."
 
 Jean slowly knelt beside her.
 
