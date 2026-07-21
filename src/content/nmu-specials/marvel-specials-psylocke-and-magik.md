@@ -2661,53 +2661,151 @@ Scott nodded.
 
 ### Warren Worthington
 
-The ceiling opened.
+The white walls dissolved.
 
-A vast open sky appeared above.
+The floor stretched into the distance.
 
-Warren spread his enormous white wings.
+Above...
 
-With one powerful beat...
+A perfect blue sky appeared.
 
-He launched into the air.
+Clouds drifted overhead.
 
-Robots deployed flying units.
+A cool wind swept across the arena.
 
-The aerial battle began immediately.
+The Danger Room had become open air.
 
-Warren folded his wings.
+Warren smiled.
 
-Dove like a falcon.
+"This is more like it."
 
-His shoulder smashed through one drone.
+His enormous white wings spread wide.
 
-He rolled.
+With one powerful beat—
 
-His wings struck another machine with incredible force.
+He launched skyward.
 
-A third robot fired missiles.
+Flying drones emerged from the clouds.
 
-He climbed higher.
+More rose from beneath the simulated landscape.
 
-Then descended at full speed.
+The aerial exercise began immediately.
 
-The impact destroyed the machine instantly.
+A warning echoed.
 
-Wave Three introduced aerial combat drones.
+**Targets acquired.**
 
-The sky became crowded.
+Missiles streaked across the sky.
+
+Warren's eyes tracked every launch.
+
+He saw them before they reached him.
+
+He folded his wings.
+
+Diving like a falcon.
+
+The missiles crossed harmlessly behind him.
+
+He rolled between two drones.
+
+One powerful sweep of his wing slammed into the first machine.
+
+Metal bent inward.
+
+Before the wreckage could fall—
+
+He twisted through the air.
+
+His shoulder crashed into the second drone.
+
+It exploded into fragments.
+
+Another machine appeared high above the clouds.
+
+Barely visible.
+
+Warren spotted it instantly.
+
+One powerful beat.
+
+He climbed.
+
+The drone fired.
+
+Warren tucked a wing.
+
+The blast grazed his shoulder.
+
+He barely acknowledged it.
+
+Instead—
+
+He accelerated.
+
+His fist drove straight through the drone's core.
+
+The machine shut down instantly.
+
+Wave Three deployed.
+
+Dozens of aerial drones surrounded him from every direction.
+
+They attacked together.
 
 Warren never stopped moving.
 
-Every attack flowed into the next.
+He climbed.
 
-By the end...
+Banked.
 
-Only broken machines remained.
+Rolled.
 
-Scott looked satisfied.
+Glided.
 
-"Excellent aerial awareness."
+Every maneuver flowed effortlessly into the next.
+
+His wings carried him through impossibly narrow openings.
+
+His vision picked out threats long before they attacked.
+
+Every dive generated devastating momentum.
+
+Every strike was deliberate.
+
+Every movement conserved energy.
+
+Minutes later...
+
+The final drone spiraled toward the simulated ground.
+
+Silence returned to the sky.
+
+Warren landed lightly.
+
+His breathing remained calm.
+
+The scorch mark on his shoulder was already fading.
+
+The blue sky disappeared.
+
+The clouds dissolved.
+
+The Danger Room returned to its white metallic walls.
+
+Scott lowered his tablet.
+
+"Excellent."
+
+"You weren't just flying."
+
+"You controlled the battlefield."
+
+Warren smiled.
+
+"It's easier..."
+
+"...when the sky feels like home."
 
 ---
 
