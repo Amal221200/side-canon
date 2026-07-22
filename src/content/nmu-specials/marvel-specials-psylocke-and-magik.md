@@ -6101,8 +6101,6 @@ His eyes never left the fight.
 
 ---
 
----
-
 Illyana attacked first.
 
 A sharp horizontal slash.
