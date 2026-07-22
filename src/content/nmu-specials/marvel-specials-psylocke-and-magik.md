@@ -2843,39 +2843,59 @@ Silence.
 
 Illyana stood.
 
-Walked into the arena.
+She walked into the arena without a word.
 
-No expression.
+Instead of reaching for one of the standard training swords...
 
-She drew a simple steel sword from the rack beside the entrance.
+She stopped before the largest blade on the rack.
 
-Not the Soulsword.
+A broad, single-edged weapon.
 
-Just an ordinary training blade.
+Closer to a butcher's sword than a traditional longsword.
+
+Most students ignored it.
+
+The sheer weight made it difficult to control.
+
+Illyana lifted it effortlessly.
 
 Several students exchanged confused looks.
 
 The simulation began.
 
-Five drones rushed her.
+Five combat drones rushed her.
 
 She never reached for her powers.
 
-She sidestepped the first attack.
+The first machine lunged.
+
+She sidestepped it with effortless precision.
 
 Her blade flashed.
 
-One robot collapsed.
+Steel split apart.
 
-She spun.
+The drone crashed to the floor in two pieces.
 
-Cut another machine apart.
+A second attacked immediately.
 
-A third lunged.
+She pivoted.
 
-She vaulted over it.
+One clean strike severed its weapon arm before the return swing cut straight through its torso.
 
-Driving her sword through its core before landing effortlessly.
+A third charged.
+
+Illyana planted one foot against its shoulder.
+
+Flipped over its head.
+
+Landed behind it without breaking stride.
+
+Her sword drove through its power core before the machine could even turn around.
+
+The remaining drones barely had time to react.
+
+Each fell after a single decisive strike.
 
 Within seconds...
 
@@ -2885,11 +2905,11 @@ Scott watched silently.
 
 Wave Two.
 
-The robots became faster.
+The drones became faster.
 
 Illyana became faster.
 
-Every movement was efficient.
+Every movement was economical.
 
 No wasted motion.
 
@@ -2897,45 +2917,111 @@ No flashy attacks.
 
 Only perfect timing.
 
-Every strike landed exactly where it needed to.
+A machine fired point-blank.
+
+She slipped past the projectile by inches.
+
+Another attacked from behind.
+
+Without looking, she twisted just enough for its blade to miss before driving the heavy sword through its chest.
+
+Her reflexes bordered on unbelievable.
+
+The oversized blade never slowed her down.
+
+It moved as though it weighed nothing in her hands.
 
 Wave Three.
 
-The largest machines yet.
+The largest and most heavily armoured machines yet.
 
 Most students expected her to finally use her mutation.
 
 She didn't.
 
-She charged.
+She charged first.
 
-Dodged.
+The lead robot swung a reinforced arm.
 
-Countered.
+She met it head-on.
 
-Disarmed.
+The collision echoed across the arena.
 
-Destroyed.
+Instead of yielding...
+
+She forced the machine off balance.
+
+One powerful swing split through its shoulder plating.
+
+A second robot attempted to pin her.
+
+She ducked beneath its grasp.
+
+Rolled between its legs.
+
+Rose behind it and drove the blade clean through its back, lifting the machine slightly before it crashed to the ground.
+
+The remaining drones surrounded her.
+
+She never stopped moving.
+
+Every dodge flowed into a strike.
+
+Every strike ended a fight.
+
+She wasn't simply defeating them.
+
+She was dismantling them.
 
 One after another.
 
 The final robot collapsed.
 
-The arena fell quiet.
+The arena fell silent.
+
+Illyana stood motionless.
+
+Her breathing remained calm.
+
+Her grip never loosened.
+
+She looked no more tired than when the exercise had begun.
 
 A few students applauded.
 
-Others exchanged puzzled looks.
+Others simply stared.
 
 "She didn't even use her powers."
 
-"That was insane."
+"How is she even swinging that sword?"
 
 "She's showing off."
 
-Scott looked at the results on his tablet.
+"No..."
 
-Then looked directly at Illyana.
+Another student quietly replied.
+
+"I don't think she is."
+
+Scott glanced down at the tablet.
+
+Reaction time.
+
+Exceptional.
+
+Accuracy.
+
+99%.
+
+Heart rate.
+
+Almost unchanged.
+
+Combat efficiency.
+
+Near perfect.
+
+He looked directly at Illyana.
 
 "You passed."
 
@@ -2943,7 +3029,7 @@ A pause.
 
 "But you continue making the same mistake."
 
-Illyana slid the sword back into its sheath.
+Illyana calmly slid the massive sword back into its sheath.
 
 Scott continued.
 
@@ -2953,7 +3039,7 @@ Illyana didn't argue.
 
 She simply turned around.
 
-Walked back to the group.
+Walked back toward the group.
 
 Scott didn't elaborate.
 
@@ -2963,13 +3049,21 @@ Betsy watched her in silence.
 
 The swordsmanship had been extraordinary.
 
-Her movements...
+But it wasn't just the technique.
 
-Her balance.
+It was the strength.
 
-Her instincts.
+The speed.
 
-Someone her age shouldn't have fought like that.
+The balance.
+
+The precision.
+
+Someone her age shouldn't have moved like that.
+
+It wasn't training.
+
+It looked like experience.
 
 Then Betsy's thoughts drifted back to the previous night.
 
@@ -3001,15 +3095,19 @@ The students slowly filed out of the Danger Room.
 
 The massive chamber fell quiet.
 
-Only four people remained.
+Only two people remained.
+
+Scott Summers.
+
+And Betsy Braddock.
+
+Three more people entered the room.
 
 Professor Charles Xavier.
 
 Dr. Hank McCoy.
 
 Jean Grey.
-
-And Betsy Braddock.
 
 Scott walked over to Betsy.
 
@@ -3019,7 +3117,7 @@ Scott walked over to Betsy.
 
 He gave Jean a small nod before leaving the room.
 
-The steel doors slid shut behind him.
+The steel doors slid shut behind him as he left.
 
 Silence returned.
 
