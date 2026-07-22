@@ -4301,7 +4301,7 @@ Jamie chuckled.
 
 He looked proudly at his sister.
 
-"Turns out she's an incredible gymnast."
+"She's an incredible gymnast."
 
 Charles smiled.
 
@@ -4335,7 +4335,15 @@ He looked toward his sister.
 
 "What do you want?"
 
-Betsy didn't hesitate.
+Betsy thought about everything that had happened since arriving at Xavier's School.
+
+The people she had met.
+
+The friends she had made.
+
+Everything she had begun to learn about herself.
+
+Then she looked up.
 
 "I want to stay."
 
@@ -4353,7 +4361,7 @@ Her thoughts briefly drifted to Warren.
 
 She looked down at her hands.
 
-"I want to learn how to control my powers."
+"I want to learn how to use my powers carefully."
 
 "So I don't hurt anyone again."
 
@@ -4363,23 +4371,25 @@ Jamie looked at his sister for several long seconds.
 
 Then he smiled.
 
-"I trust you."
+"I believe in you Betsy."
 
 He turned toward Charles.
 
-"And I trust you."
+"And I trust you Professor."
 
 "If this is where she wants to be..."
 
-"...then she has my blessing."
+"...then she can continue here."
 
 Charles smiled warmly.
 
-"I'm honored by your confidence."
+"Thank you, Jamie."
 
-Jamie extended his hand.
+"You've placed a great deal of trust in us."
 
-Charles accepted it.
+"I promise we won't take it for granted."
+
+He then turned toward Betsy.
 
 "Welcome to Xavier's School, Miss Braddock."
 
@@ -4413,11 +4423,9 @@ The fear of hurting others.
 
 The decision to stay.
 
-The hallway fell silent once the office door closed.
-
 Illyana slowly looked down at her own hand.
 
-A faint purple glow shimmered across her fingertips.
+A faint golden glow shimmered across her fingertips.
 
 Arcane energy.
 
@@ -4609,7 +4617,7 @@ She believed she could move mountains.
 
 ---
 
-## Chapter 9: Seasons at Xavier's
+## Chapter 9: A Place to Belong
 
 The weeks settled into a rhythm.
 
@@ -4637,9 +4645,13 @@ It was exactly what she needed.
 
 ---
 
+As Betsy carried her lunch through the cafeteria...
+
+Piotr called out to her.
+
 "Come on."
 
-Piotr balanced his tray with one hand and nodded toward a crowded table in the cafeteria.
+He balanced his tray with one hand and nodded toward a crowded table in the cafeteria.
 
 Betsy looked over.
 
@@ -4697,19 +4709,53 @@ Betsy smiled.
 
 "It was one of my favourite things to do."
 
-"You'll have to show us sometime," Kitty said.
+Piotr gave a small nod.
 
-Betsy hesitated for only a second.
+"I paint."
 
-"...Maybe."
+Betsy looked surprised.
 
-The conversation drifted somewhere else.
+"You do?"
+
+Before Piotr could answer, Jubilee leaned across the table.
+
+"He's being modest."
+
+"He's actually really good."
+
+Kitty nodded enthusiastically.
+
+"You should see some of his paintings."
+
+"They're amazing."
+
+Bobby pointed his fork toward Piotr.
+
+"I still don't understand how someone built like a tank paints landscapes that well."
+
+Piotr looked mildly embarrassed.
+
+"I just enjoy it."
+
+Betsy smiled.
+
+"I'd love to see them sometime."
+
+Piotr returned the smile.
+
+"Maybe..."
+
+"If you show me your sketches."
+
+Eventually, the conversation drifted somewhere else.
 
 For the first time in months...
 
 Betsy forgot she was the newest student in the room.
 
 She simply felt like one of them.
+
+---
 
 Across the cafeteria...
 
@@ -4719,13 +4765,11 @@ A book rested beside her untouched lunch.
 
 She never looked toward their table.
 
-Whether she chose not to...
+Whether it was by choice...
 
-Or simply couldn't...
+Or habit...
 
 No one knew.
-
----
 
 ---
 
@@ -4831,67 +4875,113 @@ Kitty buried her face in her notebook.
 
 ---
 
-Afternoons belonged to Scott.
+Afternoons became a balance between two very different classrooms.
 
-Again.
+With Scott...
 
-And again.
+A dozen steel spheres floated through the air.
 
-And again.
+Betsy guided them in perfect formation.
 
-There were no speeches.
+Without a single wobble...
 
-Only repetition.
+She sent them weaving through a maze of moving rings.
 
-"Lift."
+Scott watched silently.
 
-The steel sphere hovered.
+He pressed a button.
 
-"Hold."
+The rings accelerated.
 
-Betsy's concentration never broke.
+Without hesitation...
 
-"Move."
+Betsy adjusted.
 
-She guided it through a ring.
+Every sphere cleared the course.
 
-"Again."
+Not one collided.
 
-Hours became days.
+Scott lowered the control panel.
 
-Days became weeks.
+He folded his arms.
 
-One sphere became two.
+"...Better."
 
-Then three.
-
-Smaller objects.
-
-Heavier objects.
-
-Moving targets.
-
-Scott rarely praised anyone.
-
-When he finally crossed his arms and nodded once...
-
-"Better."
-
-It felt like winning an award.
-
-Jean noticed the smile Betsy tried to hide.
-
-"You've been waiting weeks to hear him say that."
-
-"I know."
-
-"It was only one word."
-
-Betsy looked toward Scott as he reset the training course.
-
-"...It was enough."
+Betsy couldn't hide the smile that spread across her face.
 
 ---
+
+Later...
+
+Jean's classroom was silent.
+
+No machines.
+
+No obstacles.
+
+Only minds.
+
+"Focus," Jean said gently.
+
+Betsy closed her eyes.
+
+The room disappeared.
+
+A dozen thoughts brushed against her consciousness.
+
+Some loud.
+
+Some barely whispers.
+
+She let each one pass without following it.
+
+Jean smiled.
+
+"Good."
+
+"Now build your walls."
+
+The voices faded.
+
+One by one.
+
+Until only silence remained.
+
+When Betsy finally opened her eyes...
+
+Jean nodded with quiet approval.
+
+"You've come a long way."
+
+---
+
+That evening...
+
+Jean found Scott resetting the training course.
+
+"You told her she was getting better."
+
+Scott adjusted another target.
+
+"I did."
+
+Jean smiled.
+
+"She looked happier than I've seen her in weeks."
+
+Scott glanced toward the training room where Betsy was carefully putting the steel spheres away.
+
+"It was true."
+
+Jean laughed softly.
+
+"You know..."
+
+"For you, that's practically a standing ovation."
+
+Scott didn't answer.
+
+The faint smile at the corner of his mouth was answer enough.
 
 ---
 
@@ -4993,47 +5083,65 @@ The same bench.
 
 Only this time...
 
-Warren noticed the sketchbook tucked beneath Betsy's arm.
+Warren noticed the sketchbook resting on Betsy's lap.
 
-"You draw?"
+"What are you drawing?"
 
-She nodded.
+Betsy looked down at the page.
 
-"Yeah."
+"Just the gardens."
 
-"I used to sketch all the time back home."
+"The trees."
 
-"It was one of my favourite things to do."
+"The mansion."
 
-"You never mentioned it."
+She smiled faintly.
 
-"I guess..."
+"I haven't decided yet."
 
-She looked toward the mansion.
+Warren glanced at the blank page.
 
-"...everything else happened first."
+"So..."
+
+"This is the first one?"
+
+Betsy nodded.
+
+"The first since..."
+
+She paused.
+
+"...the accident."
+
+A quiet silence settled between them.
+
+"I wasn't sure I'd ever pick up a pencil again."
+
+Warren looked at the sketchbook.
+
+"I'm glad you did."
+
+Betsy rested the pencil against the page.
+
+"So am I."
+
+She looked across the grounds.
+
+Then began drawing the first lines.
 
 Warren smiled.
 
-"You should start again."
+"When you're finished..."
 
-She looked down at the blank pages.
+"I'd love to see it."
 
-"I've been thinking about it."
-
-He stood.
-
-"When you do..."
-
-"I want to see."
-
-She laughed softly.
+She smiled back.
 
 "You'll be the first."
 
 ---
 
-She did start again.
+She continued her sketching.
 
 Not all at once.
 
@@ -5153,8 +5261,6 @@ Betsy smiled.
 
 ---
 
----
-
 The Danger Room never became easier.
 
 Only familiar.
@@ -5167,445 +5273,795 @@ And every mistake became tomorrow's lesson.
 
 ---
 
-"Again."
+## Chapter 10: Blades
 
-Scott's voice echoed through the training chamber.
+The gym was silent.
 
-A dozen hovering drones surrounded Betsy.
+Only the steady rhythm of steel cutting through the air echoed between the walls.
 
-"Don't watch the drones."
+Illyana Rasputina moved alone.
 
-"Watch the room."
+The oversized practice sword swept through another precise arc.
 
-The first drone lunged.
+Step.
 
-She sidestepped.
+Turn.
 
-The second fired.
+Strike.
 
-A telekinetic barrier deflected the blast.
+Recover.
 
-The third attacked from behind.
+Again.
 
-She didn't even turn.
+Again.
 
-The steel sphere she'd been controlling all morning shot backward, knocking it out of the air.
+Again.
 
-Scott lowered his visor.
+Every movement was deliberate.
 
-"Better."
+Every swing flowed naturally into the next.
 
-Weeks ago...
+She wasn't practicing strength.
 
-She would have smiled.
+She was practicing control.
 
-Now she simply nodded.
+When the final strike landed...
 
-"Again."
+The heavy blade stopped without the slightest tremor.
 
----
+She lowered it.
 
-Training became routine.
+Without a word, she walked toward the pull-up bars.
 
-Morning.
+Twenty.
 
-Afternoon.
-
-Sometimes evenings.
-
-Betsy learned to move before she thought.
-
-To trust her instincts.
-
-To trust her telekinesis.
-
-Not as a weapon.
-
-As another limb.
-
-Jean noticed the difference before anyone else.
-
-"You aren't forcing it anymore."
-
-Betsy looked at the floating training blocks orbiting around her.
-
-"I don't think about lifting them."
-
-"They just..."
-
-"...move."
-
-Jean smiled.
-
-"Exactly."
-
----
-
-The physical training changed too.
+Then another twenty.
 
 Push-ups.
 
+Medicine ball throws.
+
 Sprints.
 
-Obstacle courses.
-
-Balance drills.
-
-Sword footwork without a sword.
-
-Again.
-
-Again.
-
-Again.
-
-One afternoon Kitty collapsed onto the floor.
-
-"I hate cardio."
-
-Jubilee dropped beside her.
-
-"I've hated it for three months."
-
-Bobby lay flat on his back.
-
-"I think my soul left my body."
-
-Piotr calmly continued his stretches.
-
-Scott looked toward Betsy.
-
-"You."
-
-She stepped forward.
-
-"Run it again."
-
-Kitty stared at him.
-
-"Seriously?"
-
-Scott didn't answer.
-
-Twenty minutes later...
-
-Betsy crossed the finish line.
-
-Breathing heavily.
+By the time she finished...
 
 Sweat covered her forehead.
 
-Scott checked the timer.
-
-A tiny nod.
-
-She had beaten her previous time.
-
-Again.
+Her breathing remained steady.
 
 ---
 
-Months passed.
+### Later evening
 
-The difference became impossible to ignore.
+The Danger Room looked completely different that evening.
 
-During sparring sessions...
+No combat robots.
 
-Kitty no longer lasted as long.
+No towering Sentinels.
 
-Jubilee could still surprise Betsy with clever tricks...
+No explosions.
 
-But not overwhelm her.
+Instead...
 
-Even Bobby admitted it.
+Floating drones drifted silently through the room.
 
-"I miss when you were easier to beat."
+Moving walls shifted their positions.
 
-"I never beat you."
+Platforms rose and disappeared without warning.
 
-"Details."
+Jean Grey stood beside the control console.
 
-Piotr smiled.
+"This isn't about power."
 
-"She is improving quickly."
+"It's about movement."
 
-Scott corrected him.
+Betsy stretched her shoulders.
 
-"No."
+Jean continued.
 
-Everyone looked toward him.
+"Don't fight the room."
 
-"She improves consistently."
+"Move through it."
 
-He looked directly at Betsy.
+The simulation began.
 
-"That's why she's improving quickly."
+A drone accelerated toward Betsy.
 
-It was the longest compliment Scott had ever given her.
+She sidestepped.
 
-Betsy smiled despite herself.
+Another approached from behind.
 
-"Thank you."
+Without turning...
+
+She lifted two fingers.
+
+The drone drifted harmlessly past her shoulder.
+
+A moving wall slid across the floor.
+
+She pushed herself upward with a burst of telekinesis.
+
+Landing lightly on the opposite side.
+
+Another drone fired a foam projectile.
+
+A violet shimmer appeared in front of her.
+
+The projectile curved away before it ever reached her.
+
+Jean watched quietly.
+
+"Good."
+
+"But don't stop moving."
+
+Three drones attacked together.
+
+Betsy darted between them.
+
+Her movements had become fluid.
+
+Every dodge flowed into the next.
+
+Every leap became another opportunity to redirect herself through the air.
+
+She no longer relied on raw telekinetic force.
+
+She used it to guide her body.
+
+To change direction.
+
+To create openings.
+
+To stay one step ahead.
+
+Jean smiled.
+
+"You've stopped thinking."
+
+"You're trusting yourself."
+
+Betsy didn't answer.
+
+She couldn't.
+
+The rhythm demanded all of her concentration.
+
+Another drone descended.
+
+Then another.
+
+Then five more.
+
+The room seemed to move around her.
+
+She inhaled slowly.
+
+Everything became quiet.
+
+She slipped between attacks almost instinctively.
+
+Redirecting one drone into another.
+
+Pushing off invisible platforms only she could create.
+
+Flowing through the course with effortless precision.
+
+Jean's eyes widened slightly.
+
+Something had changed.
+
+Every telekinetic burst carried a faint violet glow.
+
+Subtle.
+
+Almost invisible.
+
+Until—
+
+A drone closed in from Betsy's blind side.
+
+Without thinking...
+
+She thrust her hand forward.
+
+A pulse of brilliant violet psychic energy erupted outward.
+
+The shockwave expanded across the room.
+
+Every drone stopped.
+
+Then flew backward simultaneously.
+
+Silence.
+
+The simulation shut itself down.
+
+The violet light faded.
+
+Jean stared.
+
+"Betsy..."
+
+"What was that?"
+
+Betsy slowly lowered her hand.
+
+"I..."
+
+"I don't know."
+
+She looked just as surprised.
+
+"I've never done that before."
+
+Jean stepped closer.
+
+"Try."
+
+Betsy frowned.
+
+"What?"
+
+"Try again."
+
+She nodded.
+
+Closing her eyes...
+
+She reached for the same feeling.
+
+Nothing happened.
+
+She opened one eye.
+
+"I lost it."
+
+Jean smiled gently.
+
+"You didn't."
+
+"Don't search for the power."
+
+"Remember the feeling."
+
+Betsy closed her eyes again.
+
+She slowed her breathing.
+
+The room disappeared.
+
+The drones.
+
+The walls.
+
+Everything.
+
+Only stillness remained.
+
+She raised her hand.
+
+A faint purple light gathered around her fingertips.
+
+This time...
+
+It didn't explode.
+
+It stayed.
+
+The energy stretched outward.
+
+Longer.
+
+Sharper.
+
+It began to take shape.
+
+A translucent hilt formed first.
+
+Then a slender blade of shimmering violet psychic energy extended from it.
+
+The light stabilized.
+
+Elegant.
+
+Weightless.
+
+Its silhouette resembled a katana.
+
+Betsy opened her eyes.
+
+She stared at the weapon in disbelief.
+
+Jean smiled quietly.
+
+"A psychic construct..."
+
+Betsy carefully wrapped her fingers around the hilt.
+
+It felt...
+
+Natural.
+
+Balanced.
+
+As though she'd held it countless times before.
+
+She gave it a cautious swing.
+
+The blade hummed softly through the air.
+
+Leaving a faint trail of violet light behind it.
+
+Jean folded her arms.
+
+"I don't think we taught you that."
+
+Betsy laughed.
+
+"I don't think you did."
+
+Neither of them spoke for several moments.
+
+They simply looked at the blade.
+
+Its glow reflected softly across the walls of the Danger Room.
+
+The beginning of something entirely new. 
 
 ---
 
-Only one student still remained completely out of reach.
+Betsy went to the lab after her practice in danger room.
 
-Illyana.
+Dr. McCoy's laboratory had gained another visitor.
 
-Every spar ended the same way.
+Betsy stood beside a reinforced testing area, the newly formed psionic blade resting in her hand.
 
-Wooden swords collided.
+Hank adjusted his glasses.
 
-A sudden shift.
+"Let's begin with the obvious."
 
-A perfect counter.
+"Strike the target."
 
-Betsy hit the mat.
-
-Again.
-
-And again.
-
-And again.
-
-Illyana never celebrated.
-
-Never mocked her.
-
-Never even offered advice.
-
-She simply helped Betsy back to her feet.
-
-Then quietly walked away.
-
-As if the match had meant nothing.
-
-Betsy watched her leave once more.
-
-One day...
-
-She thought.
-
-One day I'll understand you.
-
----
-
-One evening, after training had ended, Betsy remained inside the Danger Room.
-
-The lights dimmed.
-
-The holograms disappeared.
-
-Only the quiet hum of machinery remained.
-
-She stood alone in the center of the room.
-
-Her hands moved instinctively.
-
-A stance.
-
-A step.
-
-A pivot.
-
-An invisible blade traced through the air.
-
-Again.
-
-And again.
-
-The movements felt...
-
-Familiar.
-
-Not because she remembered learning them.
-
-Because her body did.
-
-"You've been doing that for ten minutes."
-
-Betsy turned.
-
-Jean stood in the doorway with her arms folded.
-
-"I didn't hear you come in."
-
-"I know."
-
-Jean stepped inside.
-
-"You move like someone holding a sword."
-
-Betsy looked at her empty hands.
-
-"I've noticed."
-
-"I don't remember learning."
-
-"But sometimes..."
-
-"My body does something before I think."
-
-Jean watched her carefully.
-
-"Muscle memory."
+A reinforced training dummy stood several feet away.
 
 Betsy nodded.
 
-"I think so."
+She stepped forward and swung.
 
-Silence settled between them.
+The violet blade passed cleanly through the dummy.
 
-Finally, Betsy spoke.
+Nothing happened.
 
-"...Could I ask you something?"
+The target remained completely untouched.
 
-"Of course."
+Betsy frowned.
 
-"I'd like to train with a real weapon."
+"...It didn't cut anything."
 
-Jean wasn't surprised.
+Hank smiled.
 
-"What kind?"
+"Exactly."
+
+He made a note on his tablet.
+
+"Your construct appears to exist almost entirely on the psychic plane."
+
+"It possesses shape."
+
+"It possesses stability."
+
+"But almost no direct physical interaction."
+
+Betsy looked down at the blade.
+
+"So it can't actually hurt someone?"
+
+"It depends."
+
+Hank walked toward another target.
+
+"This time..."
+
+"Wrap your telekinesis around the construct."
+
+She closed her eyes.
+
+The familiar sensation of telekinetic energy flowed from her mind.
+
+Instead of projecting outward...
+
+She guided it around the blade itself.
+
+The violet aura became brighter.
+
+Denser.
+
+Almost tangible.
+
+Hank stepped aside.
+
+"Again."
+
+Betsy swung once more.
+
+The blade sliced cleanly through the reinforced dummy.
+
+The upper half slid slowly to the floor.
+
+Silence.
+
+Hank looked at the clean cut before making another note.
+
+"Remarkable."
+
+"As I suspected."
+
+He turned toward Betsy.
+
+"Your psionic construct and your telekinesis appear to complement one another."
+
+"The construct provides shape."
+
+"The telekinesis provides physical force."
+
+"Separately..."
+
+"They're useful."
+
+"Together..."
+
+"They become a weapon."
+
+Hank adjusted his glasses.
+
+"However..."
+
+"That doesn't make the construct harmless."
+
+Betsy looked up.
+
+"It appears to exist primarily on the psychic plane."
+
+"So while it struggles to affect physical matter..."
+
+"It should interact far more naturally with psychic energy."
+
+Jean nodded thoughtfully.
+
+"Telepathic barriers."
+
+"Mental constructs."
+
+"Perhaps even the mind itself."
+
+Hank smiled.
+
+"Precisely."
+
+"Against steel, the blade is almost intangible."
+
+"But against psychic phenomena..."
+
+"I suspect it may prove exceptionally effective."
+
+Betsy looked down at the shimmering blade.
+
+"So..."
+
+"It's a weapon for both worlds."
+
+Hank nodded.
+
+"One physical."
+
+"One mental."
+
+Betsy slowly dispersed the telekinetic coating.
+
+The blade immediately returned to its translucent, weightless appearance.
+
+She studied it thoughtfully.
+
+"What if..."
+
+Hank looked up.
+
+"What if I had something real to build it around?"
+
+He tilted his head.
+
+"A focus?"
+
+She nodded.
+
+"I think it would be easier."
+
+"The energy already wants to become a blade."
+
+"Maybe giving it one would help."
+
+Hank folded his arms.
+
+"What did you have in mind?"
 
 Betsy answered without hesitation.
 
 "A katana."
 
-Jean studied her expression.
+Hank smiled.
 
-There was no anger.
+"An interesting choice."
 
-No desire for revenge.
+"Any particular reason?"
 
-No obsession.
-
-Only certainty.
-
-"Why a katana?"
-
-Betsy looked down at her hands.
-
-"I don't know."
+Betsy looked at the shimmering blade in her hand.
 
 "It just..."
 
-"...feels right."
+"...feels natural."
 
-Jean smiled softly.
+Hank nodded.
 
-"Sometimes our memories return in unexpected ways."
+"That is reason enough."
 
-"I'll speak with Hank."
+He walked toward a fabrication console built into the laboratory wall.
+
+Several holographic menus appeared above the surface.
+
+Dimensions.
+
+Weight.
+
+Balance.
+
+Grip.
+
+Guard.
+
+Material composition.
+
+The machine hummed softly.
+
+Layer by layer...
+
+A practice katana began taking shape.
+
+Carbon alloy.
+
+Balanced for one-handed use.
+
+Its edge deliberately dulled for safety.
+
+Moments later...
+
+The machine finished.
+
+Hank lifted the weapon before offering it to Betsy.
+
+She accepted it carefully.
+
+"It isn't the source of your power," Hank explained.
+
+"It's merely giving your mind somewhere familiar to begin."
+
+Betsy rested one hand around the hilt.
+
+The violet psychic energy appeared almost immediately.
+
+Instead of forming freely...
+
+It flowed naturally along the blade.
+
+The steel seemed wrapped in shimmering violet light.
+
+The construct stabilized faster than before.
+
+She smiled.
+
+"It works."
+
+Hank smiled back.
+
+"Excellent."
+
+"I believe you've just taken the first step toward understanding your mutation."
 
 ---
+
+That night...
+
+For the first time since arriving at Xavier's School...
+
+Betsy walked back toward her own dormitory.
+
+She paused outside the door.
+
+No hesitation.
+
+No anxiety.
+
+She quietly stepped inside.
+
+The room was dark.
+
+Illyana lay on her bed.
+
+Hands folded behind her head.
+
+Eyes fixed on the ceiling.
+
+She didn't look over.
+
+Her voice broke the silence.
+
+"New weapon."
+
+Betsy glanced toward the katana resting at her side.
+
+"...Yeah."
+
+Another quiet moment passed.
+
+Then Illyana spoke again.
+
+"You hold it like you've done it before."
+
+Betsy looked down at the hilt.
+
+"I've never touched a real sword."
+
+For the first time...
+
+Illyana turned her head.
+
+She studied Betsy for a moment.
+
+Then simply said,
+
+"Your mind disagrees."
+
+She looked back toward the ceiling.
+
+"Swords are honest."
+
+Betsy waited.
+
+Illyana continued.
+
+"They don't forgive mistakes."
+
+The room fell silent once more.
+
+Betsy looked at the katana resting beside her bed.
+
+Then back toward Illyana.
+
+"I'll remember that."
+
+No answer came.
+
+Only silence.
+
+But this time...
+
+It felt peaceful.
+
+Betsy placed the katana beside her desk.
+
+Turned off the bedside lamp.
+
+And climbed into bed.
+
+For the first time in a very long while...
+
+She wasn't afraid of the quiet.
+
+---
+
+## Chapter 11: Crossing Blades
 
 The following afternoon...
 
-Hank entered the workshop carrying a long wooden case.
+The Danger Room shifted into the shape of a traditional dojo.
 
-Several students immediately looked up.
+Tatami mats covered the floor.
 
-Bobby grinned.
+Wooden walls surrounded the training area.
 
-"Please tell me that's for me."
+Sunlight filtered through paper windows projected by the simulation.
 
-"It most certainly is not."
+The students stood along the edge of the room.
 
-Hank placed the case on the workbench.
+Kitty.
 
-He opened it.
+Jubilee.
 
-Inside rested a beautifully crafted training katana.
+Bobby.
 
-The blade wasn't sharpened.
+Warren.
 
-Its edge was reinforced with a durable alloy designed for sparring.
+Piotr.
 
-The balance...
+Jean stood beside the observation deck while Scott stepped into the center of the training floor.
 
-Was perfect.
+Across from one another...
 
-Betsy carefully lifted it with both hands.
+Betsy and Illyana waited.
 
-The moment her fingers wrapped around the handle...
+Scott looked at them both.
 
-Something settled inside her.
+"Training match."
 
-She drew a slow breath.
+"No offensive use of mutant abilities."
 
-"It's..."
+"Only passive reinforcement."
 
-She searched for the words.
+"No telekinetic strikes."
 
-"...comfortable."
+"No teleportation."
 
-Hank smiled.
+"No psychic attacks."
 
-"I took measurements from traditional Japanese blades while adapting it for Danger Room training."
-
-"It should withstand your telekinetic enhancements as well."
-
-Betsy looked up.
-
-"You thought of that?"
-
-"My dear..."
-
-Hank adjusted his glasses.
-
-"I always try to think ahead."
-
-She bowed her head slightly.
-
-"Thank you."
-
-"It means a great deal."
-
-Across the room...
-
-Illyana paused.
-
-For the first time in months...
-
-She looked directly at Betsy.
-
-Not at the sword.
-
-At the way she held it.
-
-As though she'd held one before.
-
-Then...
-
-Without saying a word...
-
-Illyana quietly walked away.
-
----
-
-Scott stepped between them.
-
-"Combat exercise."
-
-"No powers beyond what naturally reinforces your weapon."
+"You win with your skill."
 
 Both nodded.
 
-Betsy rested her katana against her shoulder.
+Betsy reached for the hilt at her side.
 
-She fused her telekinetic enhancements with the blade.
+With one smooth motion...
+
+She drew the practice katana Hank had made for her.
+
+She settled into her stance.
+
+For a brief moment...
+
+It was nothing more than polished steel.
+
+Then...
+
+Violet light gathered around the blade.
+
+The psionic construct formed first.
+
+A translucent blade extending perfectly along the katana's edge.
+
+Moments later...
+
+A thin layer of telekinetic energy wrapped around it.
+
+The shimmering aura settled into place.
+
+Stable.
+
+Controlled.
+
+Ready.
 
 Across from her...
 
-Illyana drew her sword.
+Illyana lowered her oversized butcher sword into position.
 
-It was her primary practice weapon.
+The broad blade looked heavy enough that most adults would struggle to lift it.
 
-The blade was long and elegant, bearing an ressamblance of a butcher sword.
+To her...
 
-Scott lowered his hand.
+It felt as natural as breathing.
+
+She had trained with it every morning since arriving at Xavier's School.
+
+Her eyes lingered on the violet aura surrounding Betsy's katana.
+
+Something about it...
+
+Felt familiar.
+
+She couldn't explain why.
+
+Scott glanced between them.
+
+Then slowly lowered his hand.
 
 "Begin."
 
@@ -5621,7 +6077,7 @@ Then—
 
 Steel crashed against steel.
 
-A violent shockwave echoed through the Danger Room.
+A violent shockwave echoed throughout the Danger Room.
 
 Illyana's eyes widened.
 
@@ -5635,7 +6091,9 @@ She tightened her grip.
 
 *She's reinforcing every strike with telekinesis.*
 
-Across the observation deck, Jean looked toward Scott.
+Across the observation deck...
+
+Jean looked toward Scott.
 
 Scott didn't say a word.
 
@@ -5643,67 +6101,151 @@ His eyes never left the fight.
 
 ---
 
+---
+
 Illyana attacked first.
 
-A horizontal slash.
+A sharp horizontal slash.
+
+Betsy met it.
+
+**CLANG!**
+
+The impact echoed through the dojo.
+
+Illyana immediately followed with another strike.
+
+High.
+
+Fast.
+
+Precise.
 
 Blocked.
 
-An overhead strike.
+She pivoted.
 
-Blocked.
-
-She twisted.
-
-Another strike.
+A third attack came from Betsy's blind side.
 
 Blocked again.
 
-Every collision sent another pulse of force through the room.
+The violet aura surrounding Betsy's katana absorbed the impact before driving it back with equal force.
+
+Another clash.
+
+Then another.
+
+Neither fighter gave their opponent room to breathe.
+
+To everyone watching...
+
+The exchange looked almost even.
+
+Scott knew better.
+
+Illyana's footwork was flawless.
+
+Every movement economical.
+
+Every strike deliberate.
+
+She flowed naturally from one technique into the next.
+
+Betsy, by comparison, was still learning.
+
+She reacted more than she anticipated.
+
+Several times...
+
+She recovered only at the last possible moment.
+
+Yet every time their swords collided...
+
+Illyana was forced backward.
+
+The telekinetic reinforcement surrounding Betsy's blade transformed every block into a counterforce.
+
+Each collision sent a pulse through Illyana's arms.
+
+*She's stronger...*
+
+*Not because she's the better swordswoman...*
+
+*Because every strike carries the weight of her telekinesis.*
+
+Across the observation deck...
+
+Jean folded her arms.
+
+"Illyana has the cleaner technique."
+
+Scott nodded.
+
+"But Betsy's reinforcement is forcing every exchange on her terms."
+
+Below them...
+
+The duel continued.
+
+Steel met steel.
+
+Again.
+
+Again.
+
+Again.
 
 Each impact heavier than the last.
 
-Betsy's sword wasn't simply cutting.
+Neither girl spoke.
 
-It was pushing.
+Their entire conversation was carried through the clash of their blades.
 
-Driving.
+Then...
 
-Forcing.
+A tiny sound.
 
-Even Illyana found herself giving ground.
+*Tick.*
 
----
+Near the guard of Illyana's butcher sword...
 
-Three strikes.
+A small crack appeared.
 
-Four.
+Too small for anyone to notice.
 
-Five.
+The duel continued.
+
+Another exchange.
+
+The crack grew slightly longer.
+
+One more collision.
+
+Another.
 
 Then—
 
 **CRACK!**
 
-Time stopped.
+Time seemed to stop.
 
 Illyana looked down.
 
-A fracture spread through the middle of her blade.
+A fracture raced through the center of the blade.
 
-Another heartbeat.
+Before she could react...
 
-The sword shattered.
+The butcher sword shattered.
 
 Half of it spun across the floor.
 
-The other remained in her hand.
+The other half remained clenched in her hand.
 
 Silence.
 
-No one spoke.
+Nobody moved.
 
-Kitty's mouth hung open.
+Kitty's mouth fell open.
 
 Jubilee forgot to breathe.
 
@@ -5715,7 +6257,7 @@ He couldn't finish the sentence.
 
 Even Piotr looked stunned.
 
-Nobody expected the day would come that someone would knockdown Illyana.
+Nobody had expected the day would come when Illyana's training sword would break in combat.
 
 ---
 
@@ -5736,6 +6278,12 @@ Illyana didn't answer.
 For a second...
 
 She simply stared at the broken blade in her hand.
+
+She hadn't expected this.
+
+Not today.
+
+Not against Betsy.
 
 Then...
 
@@ -5835,150 +6383,7 @@ Picking up the broken pieces of her sword.
 
 ---
 
-Days passed.
-
-The mansion returned to its usual rhythm.
-
-Classes.
-
-Training.
-
-Homework.
-
-Dinner.
-
-Sleep.
-
-The duel with Illyana became another memory.
-
-For everyone except Betsy.
-
----
-
-One afternoon, the Danger Room stood empty.
-
-Betsy trained alone.
-
-Her katana carved through the air.
-
-Strike.
-
-Step.
-
-Turn.
-
-Again.
-
-Again.
-
-Again.
-
-The movements came effortlessly now.
-
-Her telekinesis flowed naturally through every swing, making each strike faster, smoother and stronger.
-
-But her thoughts weren't on the blade.
-
-They were on Illyana.
-
-On the memories she had witnessed inside her mind.
-
-A little girl.
-
-No older than eight.
-
-Alone.
-
-Dragged into another world.
-
-Belasco.
-
-The endless crimson skies of Limbo.
-
-Years stolen.
-
-Childhood stolen.
-
-A child forced to survive.
-
-Strike.
-
-Turn.
-
-Cut.
-
-Betsy's grip tightened.
-
-She remembered the loneliness.
-
-The fear.
-
-The determination.
-
-Then...
-
-Her thoughts drifted back to the duel.
-
-The first clash.
-
-The surprise in Illyana's eyes.
-
-The impossible force behind every strike.
-
-The moment her practice sword broke.
-
-The kick that followed.
-
-And finally...
-
-Illyana silently kneeling to gather the broken pieces before walking away.
-
-
-Suddenly, a sharp pulse echoed through her mind.
-
-She stopped.
-
-A strange pressure spread through her body.
-
-Not painful.
-
-Different.
-
-Like something buried deep within her had finally awakened.
-
-She steadied her breathing.
-
-Slowly...
-
-She looked down at the katana.
-
-A faint violet light shimmered across its blade.
-
-Not reflected.
-
-Not imagined.
-
-The steel itself was coated in a thin veil of purple psionic energy.
-
-Betsy stared in silence.
-
-"...What is this?"
-
-The violet energy rippled gently along the edge of the blade.
-
-It wasn't telekinesis.
-
-It was something entirely new.
-
-The empty Danger Room remained silent.
-
-Only the soft violet glow answered her.
-
----
-
-## Chapter 10: The Soulsword
-
-A few days later...
+### Few days later...
 
 The library was quiet.
 
@@ -6006,7 +6411,7 @@ Betsy quietly followed.
 
 ---
 
-The Danger Room.
+**The Danger Room**
 
 For once...
 
@@ -6164,8 +6569,6 @@ The Soulsword came crashing down.
 
 ---
 
----
-
 Betsy barely rolled away.
 
 The Soulsword struck the floor.
@@ -6187,6 +6590,8 @@ A stepping disc opened behind her.
 She vanished.
 
 Betsy instinctively reached out with her telepathy.
+
+She took out her katana, fusing with her psionic energy and telekinetic barrier.
 
 Nothing.
 
@@ -6344,7 +6749,6 @@ One look was enough.
 
 He immediately reached the emergency control panel.
 
-
 Scott slammed his hand against the override switch.
 
 **MUTANT SUPPRESSION FIELD ACTIVATED.**
@@ -6397,7 +6801,7 @@ She had been afraid of becoming...
 
 ---
 
----
+## Chapter 12: Consequences
 
 Outside Professor Xavier's office...
 
@@ -6592,8 +6996,6 @@ Both wearing the same wristband.
 Both carrying the weight of the same mistake.
 
 ---
-
-## Chapter 11
 
 The room was quiet.
 
@@ -7114,7 +7516,7 @@ To become friends.
 
 ---
 
-## Chapter 12
+## Chapter 13
 
 A month had passed.
 
