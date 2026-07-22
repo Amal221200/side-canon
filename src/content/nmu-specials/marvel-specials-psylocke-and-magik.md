@@ -3091,7 +3091,11 @@ But fear of remembering.
 
 ---
 
-The students slowly filed out of the Danger Room.
+## Chapter 7: A Different Perspective
+
+Few weeks later.
+
+The students slowly filed out of the Danger Room after the drill.
 
 The massive chamber fell quiet.
 
@@ -3391,15 +3395,15 @@ But Betsy's journey had only just begun.
 
 ---
 
-## Chapter 7: A Different Perspective
-
-The afternoon sun bathed the gardens of Xavier's School in warm orange light.
+The sun set lower during the evening on the grounds of Xavier's School.
 
 Most of the students had already returned inside.
 
-Betsy remained seated alone on a wooden bench overlooking the lake.
+Betsy remained seated alone on a wooden bench beneath an old oak tree overlooking the front lawn.
 
-Her elbows rested on her knees as she stared absentmindedly at the water.
+The mansion stood quietly behind her.
+
+Her elbows rested on her knees as she stared absently across the open grounds.
 
 The events of the day replayed endlessly in her head.
 
@@ -3441,7 +3445,7 @@ Betsy let out a quiet laugh.
 
 "They told me it's something called post-traumatic stress."
 
-She looked back toward the lake.
+She looked back toward the grounds.
 
 "Something happened during the plane crash."
 
@@ -3549,9 +3553,9 @@ Warren laughed.
 
 She laughed.
 
-"For someone with wings..."
+"You know..."
 
-"...you're surprisingly optimistic."
+"...you're surprisingly easy to talk to."
 
 "I get that a lot."
 
@@ -3567,73 +3571,49 @@ That night...
 
 Most of the mansion had already settled down.
 
-Betsy hesitated outside Jean Grey's room before gently knocking.
+For the past few weeks, Betsy had been staying in Jean Grey's room.
 
-Jean opened the door.
+It had started after the nightmares.
 
-"Everything okay?"
+Neither of them had ever suggested she move back.
 
-Betsy looked slightly embarrassed.
-
-"I..."
-
-"I don't really want to sleep in my room tonight."
-
-Jean immediately understood.
-
-"You're worried you'll accidentally read Illyana's mind again."
-
-Betsy nodded.
-
-Jean smiled warmly.
-
-"Come in."
-
-The room felt comfortable.
+The room was quiet.
 
 Books lined the shelves.
 
-Soft lamps illuminated the room.
+Soft lamps cast a warm glow across the walls.
 
-Betsy curled up on one end of the bed while Jean handed her a blanket.
+Betsy sat cross-legged on one end of the bed, watching something on her phone.
 
-"So..."
+Jean finished reading a few pages from her book before glancing over.
+
+"What are you watching?"
+
+Betsy turned the screen toward her.
+
+"Something Warren recommended."
 
 Jean smiled.
 
-"Warren tells me you started watching something."
+"I didn't know you liked animated shows."
 
-Betsy pulled out her phone.
+Betsy shrugged.
 
-"He insisted."
+"I didn't think I would either."
 
-Jean laughed.
+She watched the screen for another moment.
 
-"Good choice."
+Aang effortlessly leaped across rooftops before spinning through the air.
 
-A few moments later...
+Betsy's eyes remained fixed on the screen.
 
-The opening theme of **Avatar: The Last Airbender** quietly played from the screen.
+"I don't know..."
 
-Betsy watched.
+"I feel like there's something familiar about this."
 
-Aang leaped effortlessly across rooftops.
-
-His movements were light.
-
-Fluid.
-
-Almost like dancing.
-
-She tilted her head.
-
-"...There's something familiar about him."
-
-Jean glanced over.
+Jean looked over.
 
 "What do you mean?"
-
-"I don't know."
 
 "The way he moves."
 
@@ -3641,31 +3621,31 @@ Jean glanced over.
 
 "So... free."
 
-She frowned.
+She frowned thoughtfully.
 
 "I feel like I've seen someone move like that before."
 
-She couldn't quite place it.
+Jean quietly watched Betsy for a moment.
 
-After another episode...
+She wondered if Betsy's subconscious was beginning to piece together memories she didn't fully understand yet.
 
-Jean stood up.
+Then she glanced at the bedside clock.
 
 "Alright."
 
 She smiled.
 
-"As much as I'd love to let you binge-watch all night..."
+"You can keep watching tomorrow."
 
-"...it's almost bedtime."
+"It's bedtime."
 
 Betsy looked disappointed.
 
 "Already?"
 
-Jean laughed.
+Jean laughed softly.
 
-"The Fire Nation will still be there tomorrow."
+"It'll still be there in the morning."
 
 She gently took the phone.
 
@@ -3689,37 +3669,47 @@ The room fell quiet.
 
 Across the hallway...
 
-Another bedroom door opened.
-
-Scott Summers walked inside carrying a pillow.
+Scott Summers is setting up his spare bed inside Logan's room.
 
 Logan looked up from his chair.
 
 One eyebrow rose.
 
-"...Not the company I was expecting."
+"...How long is this going to last?"
 
-Scott was already lying down on the spare bed.
+Scott set the pillow on the spare bed.
+
+"I don't know."
+
+He adjusted the blanket.
+
+"Right now..."
+
+"...Betsy needs Jean more than I need my room."
+
+Logan grunted.
+
+"...Fair enough."
+
+"I was hoping to enjoy a smoke tonight."
+
+Scott lay down on the bed.
 
 Still wearing his black sleeping visor.
 
-Without even looking over, he replied,
+Without looking over, he replied,
 
-"You smoke in here..."
+"If you smoke..."
 
-"...and I'll tell the Professor."
+"...I'll tell the Professor."
 
-Logan stared at him.
+Logan shook his head.
 
-"...You're threatening me?"
+After a moment,
 
-"I'm making an observation."
+"You know..."
 
-A long silence.
-
-Then Logan grumbled.
-
-"...You're impossible."
+"...you're impossible."
 
 Scott adjusted his pillow.
 
@@ -3769,7 +3759,7 @@ She noticed Betsy standing quietly beside the entrance.
 
 "Miss Braddock."
 
-"You can observe today's class."
+"You can continue doing your meditations and yoga."
 
 "We'll begin your assessment another day."
 
@@ -4117,7 +4107,7 @@ Illyana remained completely still.
 
 Her eyes never left Betsy.
 
-She remembered the previous night.
+She remembered the night.
 
 The frightened girl who had accidentally wandered into her memories.
 
