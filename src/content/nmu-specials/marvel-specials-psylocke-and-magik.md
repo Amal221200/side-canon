@@ -1,15 +1,15 @@
 ---
 title: "Marvel Specials – Psylocke and Magik"
 description: "This is the story of Psylocke and Magik."
-pubDate: 'Jun 28, 2026'
+pubDate: 'Jul 26, 2026'
 heroImage: '@/assets/nmu-specials/marvel-specials-psylocke-and-magik.jpg'
-published: false
-order: 15
+published: true
+order: 4
 ---
 
 ## Chapter 1: Life of Illyana Rasputin
 
-#### 2012
+### 2012
 
 The story opens on a peaceful morning at a countryside farm in northern Westchester County, New York. Although the Rasputin family has Russian roots, they have lived in America for generations, carrying only their traditions, language and values from their homeland.
 
@@ -345,7 +345,7 @@ But she is no longer the same person who disappeared.
 
 ## Chapter 2: Life of Elizabeth Braddock
 
-#### 2013
+### 2013
 
 While the Rasputins lived a quiet life in the countryside of America, thousands of miles away, another family lived a life of privilege in the English countryside.
 
@@ -5869,11 +5869,9 @@ Hank smiled back.
 
 ---
 
-That night...
-
-For the first time since arriving at Xavier's School...
-
 Betsy walked back toward her own dormitory.
+
+She has been sleeping at her dormitory again for some time, since she is no longer afraid her powers to go lose.
 
 She paused outside the door.
 
@@ -6011,7 +6009,7 @@ Betsy reached for the hilt at her side.
 
 With one smooth motion...
 
-She drew the practice katana Hank had made for her.
+She drew the katana Hank had made for her.
 
 She settled into her stance.
 
@@ -6021,17 +6019,13 @@ It was nothing more than polished steel.
 
 Then...
 
-Violet light gathered around the blade.
-
 The psionic construct formed first.
 
-A translucent blade extending perfectly along the katana's edge.
+A translucent blade extended seamlessly beyond the katana's edge.
 
-Moments later...
+Then a thin layer of telekinetic energy wrapped around it.
 
-A thin layer of telekinetic energy wrapped around it.
-
-The shimmering aura settled into place.
+The violet aura settled into place.
 
 Stable.
 
@@ -6049,15 +6043,11 @@ To her...
 
 It felt as natural as breathing.
 
-She had trained with it every morning since arriving at Xavier's School.
-
 Her eyes lingered on the violet aura surrounding Betsy's katana.
 
 Something about it...
 
 Felt familiar.
-
-She couldn't explain why.
 
 Scott glanced between them.
 
@@ -6079,17 +6069,17 @@ Steel crashed against steel.
 
 A violent shockwave echoed throughout the Danger Room.
 
-Illyana's eyes widened.
+The impact drove Illyana back.
 
-The impact drove her back a full step.
+One step.
+
+Her eyes widened.
 
 The force travelled through her arms and shoulders.
 
 She tightened her grip.
 
-*That...*
-
-*She's reinforcing every strike with telekinesis.*
+*She's reinforcing every strike...*
 
 Across the observation deck...
 
@@ -6165,12 +6155,6 @@ The telekinetic reinforcement surrounding Betsy's blade transformed every block 
 
 Each collision sent a pulse through Illyana's arms.
 
-*She's stronger...*
-
-*Not because she's the better swordswoman...*
-
-*Because every strike carries the weight of her telekinesis.*
-
 Across the observation deck...
 
 Jean folded her arms.
@@ -6179,7 +6163,7 @@ Jean folded her arms.
 
 Scott nodded.
 
-"But Betsy's reinforcement is forcing every exchange on her terms."
+"But Betsy's reinforcement is dictating every exchange."
 
 Below them...
 
@@ -6227,17 +6211,15 @@ Then—
 
 Time seemed to stop.
 
-Illyana looked down.
+The butcher sword split cleanly in two.
 
-A fracture raced through the center of the blade.
+The force of the collision threw Illyana off balance.
 
-Before she could react...
+She stumbled to one knee.
 
-The butcher sword shattered.
+Half the blade spun across the dojo floor.
 
-Half of it spun across the floor.
-
-The other half remained clenched in her hand.
+The remaining half stayed clenched in her hand.
 
 Silence.
 
@@ -6255,7 +6237,11 @@ He couldn't finish the sentence.
 
 Even Piotr looked stunned.
 
-Nobody had expected the day would come when Illyana's training sword would break in combat.
+Illyana stared at the broken steel.
+
+For the first time since the match began...
+
+She looked genuinely stunned.
 
 ---
 
@@ -6267,9 +6253,7 @@ Not threatening.
 
 Questioning.
 
-"If you're this strong..."
-
-"...why don't you use your powers?"
+"Why don't you use your powers?"
 
 Illyana didn't answer.
 
@@ -6285,21 +6269,23 @@ Not against Betsy.
 
 Then...
 
-Something changed.
+A faint grin tugged at the corner of her mouth.
 
-Her expression hardened.
+Not amusement.
 
-She twisted her body.
+Challenge.
 
-One fluid motion.
+She tossed the broken half aside.
 
-She planted her hand against the floor, spun around and exploded forward.
+She planted one hand against the floor.
+
+Her body spun in a single fluid motion.
 
 Before Betsy could react—
 
 **THUD!**
 
-Illyana's heel crashed into Betsy's ribs.
+Illyana's heel crashed into her ribs.
 
 The force launched Betsy several feet across the training floor.
 
@@ -6313,11 +6299,11 @@ No one spoke.
 
 The silence felt heavier than the fight itself.
 
-Illyana stood over the broken pieces of her sword.
+Illyana stood on the floor.
 
-She looked toward Betsy.
+She walked toward Betsy and looked at her.
 
-"...Don't think you're better than me."
+"...I am still better than you."
 
 Scott stepped forward immediately.
 
@@ -6327,13 +6313,17 @@ Scott stepped forward immediately.
 
 Illyana didn't answer.
 
-She simply knelt.
+She walked towards the broken pieces of her sword.
 
-One by one...
+She knelt.
 
-She picked up the broken pieces of her sword.
+One by one.
 
-Without looking at anyone...
+She gathered the broken pieces.
+
+Only then did she rise.
+
+Without looking back...
 
 She walked away.
 
@@ -6371,13 +6361,11 @@ Her eyes remained fixed on the hallway where Illyana had disappeared.
 
 Not because of the kick.
 
-Not because she'd lost.
-
-Because she could still picture Illyana...
+But because she couldn't stop seeing Illyana...
 
 Alone...
 
-Picking up the broken pieces of her sword.
+Gathering the broken pieces of her sword.
 
 ---
 
@@ -6389,27 +6377,31 @@ Betsy sat alone at one of the long wooden tables, surrounded by textbooks and ha
 
 She had barely finished a page when a familiar voice interrupted.
 
-"Hey."
+"...Betsy."
 
 She looked up.
 
 Illyana stood a few feet away.
 
-"Can we talk?"
+"I need to show you something."
 
 Betsy closed her book.
 
-"Sure."
+"What is it?"
 
 "The Danger Room."
 
+"This evening."
+
 Without another word, Illyana turned and walked away.
 
-Betsy quietly followed.
+Betsy watched her disappear between the shelves before returning to her book.
 
 ---
 
-**The Danger Room**
+### That evening...
+
+The Danger Room was empty.
 
 For once...
 
@@ -6461,7 +6453,11 @@ Betsy nodded.
 
 "I did."
 
-Illyana's expression remained unreadable.
+Illyana looked away.
+
+For a long moment...
+
+She said nothing.
 
 "When I was eight..."
 
@@ -6469,9 +6465,7 @@ Illyana's expression remained unreadable.
 
 "Not by people."
 
-"By a demon."
-
-"Belasco."
+"By a demon lord."
 
 Silence.
 
@@ -6523,7 +6517,7 @@ The blade hummed with ancient power.
 
 The Soulsword.
 
-Betsy couldn't move.
+Betsy didn't move.
 
 Her voice barely escaped.
 
@@ -6559,6 +6553,10 @@ Betsy looked around.
 
 "...Illyana?"
 
+Nothing for a moment.
+
+Then—
+
 A ripple opened overhead.
 
 Illyana emerged from the stepping disc high above her.
@@ -6567,7 +6565,7 @@ The Soulsword came crashing down.
 
 ---
 
-Betsy barely rolled away.
+Betsy pushed herself away using her telekinesis.
 
 The Soulsword struck the floor.
 
@@ -6587,9 +6585,9 @@ A stepping disc opened behind her.
 
 She vanished.
 
-Betsy instinctively reached out with her telepathy.
+She instinctively took out her katana, fusing with her psionic energy and telekinetic barrier.
 
-She took out her katana, fusing with her psionic energy and telekinetic barrier.
+She reached out with her telepathy.
 
 Nothing.
 
@@ -6642,8 +6640,6 @@ Illyana emerged without hesitation.
 "You wanted to fight me."
 
 "This..."
-
-A powerful swing forced Betsy to both hands.
 
 "...is my power."
 
@@ -6703,7 +6699,9 @@ The sound echoed through the entire chamber.
 
 Betsy's heart dropped.
 
-"This isn't you..."
+"Stop!"
+
+"You've proved your point!"
 
 Another stepping disc exploded open.
 
@@ -6757,11 +6755,7 @@ The invisible field expanded outward.
 
 Betsy felt it first.
 
-Her telekinesis vanished.
-
-The psychic blade dissolved.
-
-Her katana suddenly felt impossibly heavy.
+Her psionic energy covering the katana vanished.
 
 Across the room...
 
@@ -6847,7 +6841,7 @@ Scott looked between the two girls.
 
 His voice remained calm.
 
-"But don't mistake calm for approval."
+"Don't mistake our calm for approval."
 
 "You put yourselves in danger."
 
@@ -7053,7 +7047,7 @@ She clenched her hand unconsciously.
 
 "They're connected."
 
-"It feels like something is testing me."
+"It feels like something is consuming me."
 
 "Waiting for me to break."
 
@@ -7119,23 +7113,13 @@ Neither of them spoke again.
 
 They didn't need to.
 
+Outside the window...
+
+She stared at the moon in the night sky.
+
 For the first time...
 
-Illyana had spoken about Limbo without anger.
-
-Without hiding behind sarcasm.
-
-Without a sword in her hand.
-
-It wasn't healing.
-
-Not yet.
-
-But it was the first crack in a wall she had spent years building around herself.
-
-And for Illyana Rasputina...
-
-That was a beginning.
+The silence between them no longer felt like a wall.
 
 ---
 
@@ -7183,7 +7167,7 @@ Illyana gave her a puzzled look.
 
 "You've only just noticed?"
 
-"I've known for months."
+"I've known before you even came here."
 
 Betsy blinked.
 
@@ -7207,7 +7191,7 @@ Warren laughed.
 
 Jubilee slid into the last empty seat behind them.
 
-"I still think almost destroying the Danger Room was kind of cool."
+"I still can’t believe you two got the entire Danger Room shut down."
 
 "It wasn't," Piotr sighed.
 
@@ -7235,7 +7219,7 @@ Betsy naturally walked toward the others.
 
 Which meant...
 
-Illyana did too.
+Illyana had too.
 
 The conversation immediately turned toward yesterday's incident.
 
@@ -7243,13 +7227,11 @@ The conversation immediately turned toward yesterday's incident.
 
 Bobby laughed.
 
-"Scott looked ready to kill somebody."
+"Mr. Summers looked he was about to expel us..."
 
-"Not kill."
+"...It was scary."
 
-Kitty corrected.
-
-"Ground forever."
+Betsy responded.
 
 Everyone laughed.
 
@@ -7311,11 +7293,13 @@ Balance.
 
 Patience.
 
-Betsy hated every second.
+Betsy felt uncomfortable with this punishment.
 
-Illyana...
+But Illyana...
 
 Looked completely unbothered.
+
+---
 
 After PE...
 
@@ -7332,7 +7316,6 @@ Optic blasts flashed.
 Ice spread across the floor.
 
 Storm's winds echoed through the chamber.
-
 
 Betsy and Illyana just watched as part of the punishment.
 
@@ -7426,41 +7409,33 @@ Neither of them acknowledged the tiny smile that followed.
 
 Afternoons became familiar.
 
-Betsy often sat beneath the oak tree sketching.
+Betsy and Warren often sat beneath the old oak tree, sketchbooks resting on their laps.
 
-Warren wandered over more than once.
+Their conversations wandered naturally.
 
-"So..."
+Anime.
 
-"What obscure anime are you recommending today?"
+Movies.
+
+Music.
+
+Whatever happened to come to mind.
 
 Nearby...
 
 Illyana continued her endless calisthenics.
 
-Pull-ups.
+She told herself she was ignoring them.
 
-Muscle-ups.
+She wasn't.
 
-Handstands.
+"...What a nerd."
 
-Push-ups.
-
-Again.
-
-Again.
-
-Again.
-
-Illyana watched them talking about their anime recommendations.
-
-"...what a nerd?"
-
-Without stopping her pull-ups...
-
-Betsy answered,
+She muttered, without breaking her handstand.
 
 "I heard that."
+
+Betsy didn't even look up from her sketch.
 
 "I know."
 
@@ -7490,7 +7465,9 @@ She argued with Kitty.
 
 She teased Piotr.
 
-She even asked Warren a question about one of Betsy's anime recommendations.
+She even asked Warren what is going on with you and Betsy.
+
+Warren didn't expect that question from coming, especially from Illyana, who he hasn't talked much.
 
 Little things.
 
@@ -7514,9 +7491,9 @@ To become friends.
 
 ---
 
-## Chapter 13
+## Chapter 13: Becoming Magik
 
-A month had passed.
+The punishment month finally finished.
 
 The black wristbands that had remained around Betsy's and Illyana's wrists every day were finally coming off.
 
@@ -7614,7 +7591,7 @@ Asking to train was the bravest thing Illyana had done.
 
 ---
 
-The next morning...
+### The Next Morning...
 
 The Danger Room doors slid open.
 
@@ -7648,7 +7625,7 @@ With a smooth motion...
 
 She unsheathed her katana.
 
-Violet psionic energy flowed along the blade, wrapping around the steel like living light.
+Violet psionic energy flowed along the blade, wrapping around the steel like living light, then coated with telekinetic barrier.
 
 Across from her...
 
@@ -7832,7 +7809,7 @@ The magic wasn't simply responding to her.
 
 It was dragging her back.
 
-Testing her.
+Consuming her.
 
 Waiting for her to break.
 
@@ -7858,7 +7835,7 @@ The armor disappeared.
 
 The stepping discs collapsed.
 
-Betsy's katana faded as her psionic energy dispersed.
+Betsy's psionic energy dispersed and only the katana remained.
 
 Silence returned.
 
@@ -7904,11 +7881,7 @@ Her voice cracked.
 
 She wiped at her eyes, but more tears followed.
 
-"I'll never catch up."
-
-Silence.
-
-"Everyone else keeps getting stronger."
+"Everyone else will keep getting stronger."
 
 "You."
 
@@ -7918,7 +7891,7 @@ Silence.
 
 "Everyone."
 
-"And I'm still here."
+“...and I will be fighting the same battle.”
 
 She clenched her fists.
 
@@ -7966,15 +7939,17 @@ Before she could take another step, Betsy raised a hand.
 
 "I can do this."
 
+"... let me help her."
+
 Jean stopped.
 
-She looked toward Scott.
+She looked toward Scott for a brief moment.
 
 Scott remained silent.
 
-Then Jean gave him a small nod.
+Then Jean turned and gave her a small nod.
 
-"Let her."
+"Okay."
 
 Betsy slowly walked toward Illyana.
 
@@ -7984,7 +7959,7 @@ Illyana kept her head lowered, tears still falling onto the metal floor.
 
 Betsy spoke softly.
 
-"Yana..."
+"Illyana..."
 
 "...let me help you."
 
@@ -8024,9 +7999,7 @@ He deactivated the mutant suppression field.
 
 The low mechanical hum faded.
 
-Neither girl's powers erupted.
-
-Betsy gently placed both hands against Illyana's temples.
+Then, once the powers were restored, Betsy gently placed both hands against Illyana's temples.
 
 She closed her eyes.
 
@@ -8132,21 +8105,17 @@ Then...
 
 A memory.
 
+Home.
+
 Piotr.
 
-His smile.
-
 Holding her hand.
-
-Their home.
 
 Snow falling outside the window.
 
 Laughter.
 
-The X-Mansion.
-
-Home.
+Family dinner.
 
 "No."
 
@@ -8254,7 +8223,7 @@ But more importantly...
 
 She remembered why.
 
-It had never been power that saved her.
+It had never been just the powers that saved her.
 
 It had been the one thing Limbo could never take from her.
 
@@ -8318,19 +8287,21 @@ Betsy stepped back.
 
 "You just have to remember who you are."
 
-Silence.
+There was a long silence.
 
-Illyana took a long, steady breath.
+Then Illyana stood up.
+
+She took a long, steady breath.
 
 Then another.
 
 She closed her eyes.
 
-The golden light returned.
+Golden arcane light returned.
 
 Her eyes began to glow.
 
-Arcane armor slowly spread across her arm.
+Dark armor slowly spread across her arm.
 
 The Soulsword emerged once more.
 
@@ -8356,7 +8327,7 @@ Screams.
 
 Limbo reached into her mind once more.
 
-Her knees bent.
+Her knees buckled.
 
 Her breathing became ragged.
 
@@ -8364,7 +8335,7 @@ Dark veins spread across her arm.
 
 Scott's hand tightened around the switch.
 
-"Scott..."
+"Scott wait..."
 
 Jean whispered.
 
@@ -8376,9 +8347,9 @@ Inside her mind...
 
 The nightmare returned.
 
-The monsters.
-
 The endless battlefield.
+
+The monsters.
 
 The loneliness.
 
@@ -8392,9 +8363,9 @@ Just like before.
 
 Illyana gripped the Soulsword tighter.
 
-"No."
+"No..."
 
-Her voice was barely a whisper.
+Her voice barely escaped her lips.
 
 She remembered.
 
@@ -8406,49 +8377,73 @@ Her brother's smile.
 
 The mansion.
 
-Friends.
+Her friends.
 
 "I remember..."
 
-She forced herself upright.
+Slowly...
 
-The dark veins continued climbing across her arm.
+She rose to her feet.
 
-The pressure became worse.
+The dark veins continued creeping across her arm.
 
-Her grip tightened.
+The pressure became unbearable.
 
-She raised the Soulsword.
+Her body trembled.
 
-Every movement felt heavier than the last.
+Then...
 
-Not because of the sword...
+She moved.
 
-Because Limbo fought her every step.
+One careful step.
 
-She remembered the countless monsters she had defeated.
+The Soulsword swept across her body into a guarded stance.
 
-The endless years of training.
+Another step.
 
-The discipline that had kept her alive.
+A controlled upward slash.
 
-She took another step.
+She pivoted.
 
-Then another.
+A downward cut.
 
-She swung.
+A clean recovery.
 
-Once.
+To Scott and Jean...
 
-Twice.
+It looked like Illyana was shadowboxing against an invisible opponent.
 
-Again.
+But inside her mind...
 
-Each movement became steadier.
+Every strike met a monster.
 
-More deliberate.
+Every block turned aside another nightmare.
 
-Scott's thumb rested on the suppression switch.
+Every step carried her across the battlefield she had escaped years ago.
+
+The whispers grew louder.
+
+She answered with another swing.
+
+A demon lunged.
+
+She cut through it.
+
+Another rose behind her.
+
+She spun.
+
+The Soulsword carved through the darkness.
+
+She wasn't improvising.
+
+These were the movements Belasco had forced her to repeat thousands upon thousands of times.
+
+The discipline that had once been used to enslave her...
+
+Now kept her standing.
+
+Scott's thumb hovered over the suppression switch.
 
 Ready.
 
@@ -8460,81 +8455,99 @@ Betsy noticed.
 
 Scott didn't move.
 
-"She's doing it."
+"She's fighting it."
 
-Another wave crashed into Illyana's mind.
+The pressure intensified.
 
-The sky darkened.
+The crimson sky darkened.
 
-The whispers became screams.
+The battlefield vanished beneath endless shadows.
 
 Then...
 
 Belasco appeared.
 
-Towering above her.
+Towering before her.
 
 Exactly as she remembered him.
 
 "You belong to Limbo."
 
-His voice echoed through the darkness.
+His voice shook the world around her.
 
 "You always will."
 
-Illyana looked directly at him.
+Illyana slowly lowered herself into her stance.
 
-This time...
+Her breathing steadied.
 
-She didn't flinch.
+One inhale.
 
-She slowly raised the Soulsword.
+One exhale.
+
+The Soulsword settled in her hands.
+
+"No."
+
+She looked directly into his eyes.
 
 "I already chose."
 
-She brought the blade down.
+Belasco roared.
 
-The impact thundered throughout the Danger Room.
+The darkness rushed toward her.
 
-The floor shook beneath everyone's feet.
+Illyana stepped forward.
 
-The arcane energy exploded outward.
+One decisive slash.
 
-Scott's hand hovered over the switch.
+The Soulsword cleaved through the illusion.
 
-Betsy didn't take her eyes off Illyana.
+Outside...
 
-"Wait."
+Everyone watched as Illyana's blade cut through empty air.
 
-"...Just wait."
+The impact exploded across the Danger Room.
+
+The floor trembled beneath their feet.
+
+Arcane energy erupted in every direction.
+
+Scott's thumb pressed against the switch.
+
+Betsy held out a hand.
+
+"...She's almost there."
 
 The dark veins stopped spreading.
 
-Then...
+Slowly...
 
-They slowly began to fade.
+They began to recede.
 
-The jagged armor reshaped itself.
+The jagged armor shifted.
 
-The spikes withdrew.
+The sharp edges softened.
 
-The metal became smooth.
+The spikes folded inward.
 
-Controlled.
+The armor no longer clung to her like a curse.
 
-No longer forcing itself upon her.
+It settled naturally around her arm.
 
-Instead...
+Responding to her.
 
-It answered her.
+Instead of controlling her.
 
-The whispers disappeared.
+The whispers faded.
 
-The crimson skies faded.
+The battlefield disappeared.
 
-The fear loosened its grip.
+The crimson sky dissolved into silence.
 
-Illyana opened her eyes.
+Illyana lowered the Soulsword.
+
+She opened her eyes.
 
 They were clear.
 
@@ -8548,37 +8561,37 @@ Then Jean.
 
 Finally...
 
-She looked at Betsy.
+Toward Betsy.
 
 Neither of them spoke.
 
-Illyana simply gave the smallest nod.
+Illyana simply nodded.
 
-Betsy smiled and nodded back.
+Betsy smiled.
 
-For the first time since anyone had known her...
+And nodded back.
+
+For the first time since arriving at Xavier's School...
 
 Illyana Rasputina stood in the center of the Danger Room with the Soulsword in her hand...
 
-Completely conscious.
+Not as someone surviving Limbo.
 
-Completely in control.
+But as someone who had mastered herself.
 
-A smile slowly spread across her face.
+A quiet smile spread across her face.
 
-Not one born from victory over an opponent.
+Not because she had defeated an enemy.
 
-But from something she had believed impossible.
+But because, for the first time in years...
 
-She had faced Limbo again.
+She could wield her power...
 
-And this time...
-
-She had not lost herself.
+Without losing herself.
 
 ---
 
-## Chapter 13:
+## Chapter 14: Soul & Mind
 
 The room was unusually quiet.
 
@@ -8594,7 +8607,7 @@ Before she could answer, it swung open.
 
 Betsy stepped inside.
 
-Illyana smiled.
+Illyana smirked.
 
 "You know you're supposed to wait for an answer."
 
@@ -8666,7 +8679,7 @@ Illyana lowered her eyes.
 
 For once...
 
-She didn't know what to say.
+She thought, but she didn't know what to say.
 
 "...I'm sorry."
 
@@ -8714,8 +8727,6 @@ Kitty folded her arms with a grin.
 
 "See?"
 
-"Told you."
-
 "You're stuck with us now."
 
 "Whether you like it or not."
@@ -8729,14 +8740,6 @@ Warren nodded.
 Bobby grinned.
 
 "Lifetime membership."
-
-Illyana looked around the room.
-
-Every face.
-
-Every smile.
-
-Every person.
 
 Illyana looked around the room.
 
@@ -8830,7 +8833,7 @@ Betsy reached for her waist.
 
 Her katana slid free.
 
-Violet psionic energy flowed across its blade.
+Violet psionic energy flowed across its blade with telekinetic barrier.
 
 The familiar glow filled the room.
 
