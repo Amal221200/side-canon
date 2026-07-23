@@ -1,6 +1,6 @@
 ---
 title: "Marvel Specials – Psylocke and Magik"
-description: "This is the story of Psylocke and Magik."
+description: "This special explores the early life of Betsy Braddock and Illyana Rasputin before becoming Psylocke and Magik."
 pubDate: 'Jul 26, 2026'
 heroImage: '@/assets/nmu-specials/marvel-specials-psylocke-and-magik.jpg'
 published: true
